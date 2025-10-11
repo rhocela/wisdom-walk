@@ -1,6 +1,7 @@
 ---
 sidebar_label: "Day 2: The Image Bearer"
 sidebar_position: 2
+description: "Explore humanity's unique design as God's image bearers"
 --- 
 
 # The Image Bearer: Humanity's Design

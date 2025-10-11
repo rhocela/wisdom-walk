@@ -1,6 +1,7 @@
 ---
 sidebar_label: "Day 5: Two Lines"
 sidebar_position: 5
+description: "Examine the diverging paths of Cain and Seth"
 ---
 
 # Two Lines: Cain and Seth

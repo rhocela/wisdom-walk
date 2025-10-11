@@ -1,6 +1,7 @@
 ---
 sidebar_label: "Day 6: Divine Judgment"
 sidebar_position: 6
+description: "Understand the impact of the Flood and God's judgment on sin"
 ---
 
 # Divine Judgment: The Flood

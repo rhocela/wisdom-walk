@@ -1,6 +1,7 @@
 ---
 sidebar_label: "Day 8: Scattered Nations"
 sidebar_position: 8
+description: "Understand humanity's proud rebellion at Babel and its consequences"
 ---
 
 # Scattered Nations: Babel's Pride
@@ -31,3 +32,9 @@ sidebar_position: 8
 1. What was wrong with humanity's plan at Babel?
 2. How does God use the scattering of nations for His redemptive purposes?
 3. What modern "towers of Babel" do you see today?
+
+
+
+----
+
+

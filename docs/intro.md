@@ -1,10 +1,42 @@
 ---
 sidebar_position: 1
+title: "The Bible Study Project"
+subtitle: "Reading the Whole Bible with Purpose"
 ---
 
 # The Bible Study Project
 
-The Whole Bible Thematic Reading Plan: Cover to Cover in the Story of Redemption
+<div className="subtitle">Reading the Whole Bible with Purpose</div>
+
+Welcome to the Bible Study Project!
+
+I've been looking for ways to **read the whole Bible with purpose and meaning**, rather than just checking off chapters on a list. This project is the result.
+
+This study aims to help you read the entire Bible cover to cover while discovering the magnificent interconnections and unity that weave through every page. I pray that as you engage with this material, you'll understand how every verse, chapter, and book connects to reveal God's heart and His redemptive plan through Jesus Christ.
+
+## How to use this study
+
+**Parts → Themes (Days) → Passages**
+
+This plan is divided into 10 **parts** that cover major sections of the biblical narrative. Each part contains themes labeled as **days**, and each day includes 4-5 Bible passages that connect to illustrate the theme.
+
+Each theme or **day** has its own page with the following sections:
+
+- **When This Happened:** Places each theme in its proper time period within the biblical story, helping you see how events unfold chronologically.
+
+- **Historical Context:** Provides the background and circumstances surrounding the biblical events, helping you understand what was happening at that time.
+
+- **God's Bigger Plan:** Shows how each theme fits into God's overall plan of salvation, connecting creation to redemption through Christ.
+
+- **Why These Passages Connect:** Explains how the different Bible passages work together to reveal the same truth from multiple perspectives.
+
+- **Key Truths:** Highlights the main theological themes (doctrinal concepts) that emerge from the study, showing what we learn about God and His ways.
+
+
+:::tip Read at your own pace 🙂
+Go at your own pace and use the **Day #s** as a way to track your progress, rather than a rigid schedule. Quality over speed is the goal. Take your time, meditate on the passages, ask the Holy Spirit for insights, and enjoy the journey!
+:::
+
 
 ## Table of Contents
 
@@ -18,6 +50,12 @@ The Whole Bible Thematic Reading Plan: Cover to Cover in the Story of Redemption
 - [Part VIII: The Word Made Flesh - From Manger to Cross to Crown (Themes 66-85)](#part-viii-the-word-made-flesh---from-manger-to-cross-to-crown-themes-66-85)
 - [Part IX: The Church Age - Spirit-Powered Mission to the World (Themes 86-90)](#part-ix-the-church-age---spirit-powered-mission-to-the-world-themes-86-90)
 - [Part X: The End of All Things - From Patmos to Paradise Restored (Themes 91-100)](#part-x-the-end-of-all-things---from-patmos-to-paradise-restored-themes-91-100)
+
+
+---
+
+
+---
 
 ## Part I: In the Beginning - When God Created Everything (Themes 1-8)
 

@@ -1,6 +1,7 @@
 ---
 sidebar_label: "Day 4: First Promise"
 sidebar_position: 4
+description: "Understand the impact of the Fall and the need for redemption" 
 ---
 
 # First Promise: Hope in Darkness

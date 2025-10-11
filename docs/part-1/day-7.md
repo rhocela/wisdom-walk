@@ -1,6 +1,7 @@
 ---
 sidebar_label: "Day 7: New Covenant"
 sidebar_position: 7
+description: "Explore God's covenant with Noah and all creation"
 ---
 
 # New Covenant: Rainbow Promise

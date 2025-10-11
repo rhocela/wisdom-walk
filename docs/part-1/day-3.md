@@ -1,6 +1,7 @@
 ---
 sidebar_label: "Day 3: Paradise Lost"
 sidebar_position: 3
+description: "Understand the impact of the Fall and the need for redemption"
 ---
 
 # Paradise Lost: The Fall
