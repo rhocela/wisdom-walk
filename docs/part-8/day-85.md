@@ -1,5 +1,5 @@
 ---
-sidebar_label: "Day 85: Romans - The Gospel Explained"
+sidebar_label: "Day 85: The Gospel Explained"
 sidebar_position: 85
 description: "Paul's letter to the Romans: the gospel's meaning and implications"
 ---

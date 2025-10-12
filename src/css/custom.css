@@ -54,6 +54,12 @@
   --docusaurus-highlighted-code-line-bg: rgba(62, 111, 176, 0.1);
 }
 
+/* Make the left sidebar wider for long part labels */
+.theme-doc-sidebar-container {
+  width: 300px !important;
+  min-width: 300px !important;
+}
+
 /* Dark mode: Sky blue with accent colors */
 [data-theme='dark'] {
   /* Primary: Sky Blue (Man) */
