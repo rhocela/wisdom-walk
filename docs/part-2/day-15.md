@@ -3,7 +3,7 @@ sidebar_position: 7
 title: "Day 15: Family Dysfunction"
 ---
 
-# Theme 15 – Family Dysfunction: Joseph's Brothers
+# Family Dysfunction: Joseph's Brothers
 
 **Chronological Setting:** Canaan - Family conflict and jealousy among Jacob's sons
 

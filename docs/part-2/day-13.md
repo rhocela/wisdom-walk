@@ -3,7 +3,7 @@ sidebar_position: 5
 title: "Day 13: Divine Election"
 ---
 
-# Theme 13 – Divine Election: Jacob Chosen
+# Divine Election: Jacob Chosen
 
 **Chronological Setting:** Before birth and early life - God's sovereign choice of Jacob
 

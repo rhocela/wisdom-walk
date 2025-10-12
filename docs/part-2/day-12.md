@@ -3,7 +3,7 @@ sidebar_position: 4
 title: "Day 12: Promise Passed"
 ---
 
-# Theme 12 – Promise Passed: Isaac's Story
+# Promise Passed: Isaac's Story
 
 **Chronological Setting:** Isaac's life - The promised son and his descendants
 

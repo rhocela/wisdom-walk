@@ -3,7 +3,7 @@ sidebar_position: 3
 title: "Day 11: Faith Tested"
 ---
 
-# Theme 11 – Faith Tested: Mount Moriah
+# Faith Tested: Mount Moriah
 
 **Chronological Setting:** Mount Moriah - The ultimate test of Abraham's faith
 

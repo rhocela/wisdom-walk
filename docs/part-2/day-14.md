@@ -3,7 +3,7 @@ sidebar_position: 6
 title: "Day 14: Wrestling with God"
 ---
 
-# Theme 14 – Wrestling with God: Jacob's Transformation
+# Wrestling with God: Jacob's Transformation
 
 **Chronological Setting:** Peniel - Jacob's night of wrestling and transformation
 

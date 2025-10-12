@@ -3,7 +3,7 @@ sidebar_position: 2
 title: "Day 10: Covenant Making"
 ---
 
-# Theme 10 – Covenant Making: Divine Promises
+# Covenant Making: Divine Promises
 
 **Chronological Setting:** Canaan - God establishes His covenant with Abraham
 

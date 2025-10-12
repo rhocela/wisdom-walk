@@ -3,7 +3,7 @@ sidebar_position: 1
 title: "Day 9: The Call"
 ---
 
-# Theme 9 – The Call: Abraham's Journey
+# The Call: Abraham's Journey
 
 **Chronological Setting:** Ur of the Chaldeans - God calls Abraham from paganism
 
