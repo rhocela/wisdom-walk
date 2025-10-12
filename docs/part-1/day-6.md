@@ -11,11 +11,11 @@ description: "Understand the impact of the Flood and God's judgment on sin"
 **Chronological Setting:** Pre-flood world - God's judgment on universal corruption
 
 **Readings:**
-- Genesis 6:1–8:22 (Narrative)
-- 2 Peter 2:4-10 (Epistle)
-- 2 Peter 3:3-7 (Epistle)
-- Matthew 24:37-39 (Gospel)
-- 1 Peter 3:18-22 (Epistle)
+ - [Genesis 6:1–8:22](https://www.biblegateway.com/passage/?search=Genesis+6%3A1-8%3A22&version=ESV) (Narrative)
+ - [2 Peter 2:4-10](https://www.biblegateway.com/passage/?search=2+Peter+2%3A4-10&version=ESV) (Epistle)
+ - [2 Peter 3:3-7](https://www.biblegateway.com/passage/?search=2+Peter+3%3A3-7&version=ESV) (Epistle)
+ - [Matthew 24:37-39](https://www.biblegateway.com/passage/?search=Matthew+24%3A37-39&version=ESV) (Gospel)
+ - [1 Peter 3:18-22](https://www.biblegateway.com/passage/?search=1+Peter+3%3A18-22&version=ESV) (Epistle)
 
 **Historical Context:** The pre-flood world became so corrupt that God determined to destroy it while preserving a righteous remnant through Noah. This represents the first global judgment in biblical history.
 

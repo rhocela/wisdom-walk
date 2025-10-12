@@ -11,10 +11,10 @@ description: "Understand the impact of the Fall and the need for redemption"
 **Chronological Setting:** Eden - the first sin and its consequences
 
 **Readings:**
-- Genesis 3:1-24 (Narrative)
-- Romans 5:12-21 (Epistle)
-- 1 Corinthians 15:21-22 (Epistle)
-- Romans 8:20-22 (Epistle)
+ - [Genesis 3:1-24](https://www.biblegateway.com/passage/?search=Genesis+3%3A1-24&version=ESV) (Narrative)
+ - [Romans 5:12-21](https://www.biblegateway.com/passage/?search=Romans+5%3A12-21&version=ESV) (Epistle)
+ - [1 Corinthians 15:21-22](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A21-22&version=ESV) (Epistle)
+ - [Romans 8:20-22](https://www.biblegateway.com/passage/?search=Romans+8%3A20-22&version=ESV) (Epistle)
 
 **Historical Context:** The Fall represents the catastrophic entry of sin into God's perfect creation. This single act of disobedience affects all of creation and necessitates redemption.
 

@@ -11,10 +11,10 @@ description: "Examine the diverging paths of Cain and Seth"
 **Chronological Setting:** The first generation after Eden - diverging paths
 
 **Readings:**
-- Genesis 4:1-26 (Narrative)
-- Hebrews 11:4 (Epistle)
-- 1 John 3:11-15 (Epistle)
-- Jude 11 (Epistle)
+ - [Genesis 4:1-26](https://www.biblegateway.com/passage/?search=Genesis+4%3A1-26&version=ESV) (Narrative)
+ - [Hebrews 11:4](https://www.biblegateway.com/passage/?search=Hebrews+11%3A4&version=ESV) (Epistle)
+ - [1 John 3:11-15](https://www.biblegateway.com/passage/?search=1+John+3%3A11-15&version=ESV) (Epistle)
+ - [Jude 11](https://www.biblegateway.com/passage/?search=Jude+11&version=ESV) (Epistle)
 
 **Historical Context:** The story of Cain and Abel establishes the pattern of two lines of humanity - those who walk with God and those who rebel against Him. This division continues throughout biblical history.
 

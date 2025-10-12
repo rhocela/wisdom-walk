@@ -8,13 +8,15 @@ subtitle: "Reading the Whole Bible with Purpose"
 
 <div className="subtitle">Reading the Whole Bible with Purpose</div>
 
+Welcome to this Bible Study Project!
+
 I've always wanted to read the Bible from cover to cover in a way that would help me understand the intricate tapestry of connections between passages throughout Scripture—this study is my attempt to create that experience.
 
-I hope you enjoy this journey and that it deepens your understanding of God's heart, the person of the Holy Spirit, and the love of Jesus Christ.
+I hope this study deepens your understanding of God's heart, the person of the Holy Spirit, and the love of Jesus Christ.
 
 ## How to use this study
 
-Parts → Themes → Passages
+**Parts → Themes → Passages**
 
 This Bible reading plan is divided into 10 **parts** that cover major sections of the biblical narrative. Each part contains themes labeled as **days**, and each day includes 4-5 related Bible passages that illustrate the theme.
 
@@ -30,6 +32,21 @@ Each page has a theme and contains the following sections:
 :::tip Read at your own pace 🙂
 Go at your own pace and use the **Day #s** as a way to track your progress, rather than a rigid schedule. Quality over speed is the goal. Take your time, meditate on the passages, ask the Holy Spirit for insights, and enjoy the journey!
 :::
+
+
+## Types of Passages Included
+
+In each passage indicates the literary genre to help you understand how to read it. these are the genres and how to read them (like literally , etc): 
+
+- **Narrative:** Stories that tell what happened. Read them as historical accounts with characters, settings, and plots.
+- **Poetry:** Songs and wisdom literature. Read them for their artistic expression and emotional depth.
+- **Gospel:** Accounts of Jesus' life, death, and resurrection. Read them to understand the person and work of Christ.
+- **Epistle:** Letters addressing early Christian communities. Read them for theological teaching and practical application.
+- **Prophecy:** Messages from God delivered through prophets. Read them with an awareness of their historical context and future fulfillment.
+- **Apocalyptic:** Revelations about the end times and God's ultimate victory. Read them for their symbolic language and hope-filled message.
+- **Wisdom:** Teachings on how to live a godly life. Read them for practical guidance and moral insight.
+
+
 
 
 

@@ -114,7 +114,7 @@
   margin-top: -0.5rem;
   margin-bottom: 2rem;
   line-height: 1.4;
-  border-bottom: 2px solid var(--ifm-color-emphasis-200);
+  /* border-bottom: 2px solid var(--ifm-color-emphasis-200); */  
   padding-bottom: 0.5rem;
 }
 
@@ -146,11 +146,24 @@ h1, h2 {
 /* Red for passion and key emphasis - Scripture highlights */
 .admonition-content strong,
 .markdown strong {
-  color: var(--ifm-color-warning-dark);
+  color: var(--ifm-font-color-base);
 }
 
 [data-theme='dark'] .admonition-content strong,
 [data-theme='dark'] .markdown strong {
+  color: var(--ifm-font-color-base);
+}
+
+/* Make all links use the same red shade as bold text previously */
+a,
+.markdown a,
+.admonition-content a {
+  color: var(--ifm-color-warning-dark);
+}
+
+[data-theme='dark'] a,
+[data-theme='dark'] .markdown a,
+[data-theme='dark'] .admonition-content a {
   color: var(--ifm-color-warning);
 }
 
