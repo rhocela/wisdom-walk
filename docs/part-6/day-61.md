@@ -11,12 +11,12 @@ description: "Rebuilding Jerusalem's walls through prayer and perseverance"
 **When this Happened:** Jerusalem - Rebuilding the city walls
 
 **Readings:**
-- Nehemiah 1:1–13:31 (History)
-- Psalm 127:1 (Poetry)
-- Ephesians 2:14-22 (Epistle)
-- 1 Corinthians 16:13 (Epistle)
 
 **Historical Context:** Nehemiah, serving as cupbearer to the Persian king, receives permission to return and rebuild Jerusalem's walls. Despite fierce opposition, the walls are completed in 52 days through prayer, planning, and persistent work.
+ - [Nehemiah 1:1–13:31 (History)](https://www.biblegateway.com/passage/?search=Nehemiah+1%3A1-13%3A31)
+ - [Psalm 127:1 (Poetry)](https://www.biblegateway.com/passage/?search=Psalm+127%3A1)
+ - [Ephesians 2:14-22 (Epistle)](https://www.biblegateway.com/passage/?search=Ephesians+2%3A14-22)
+ - [1 Corinthians 16:13 (Epistle)](https://www.biblegateway.com/passage/?search=1+Corinthians+16%3A13)
 
 **God's Bigger Plan:** The rebuilt walls represent security and restored dignity for God's people. Nehemiah's leadership style of combining prayer with action provides a model for godly leadership. The physical restoration prepares for spiritual restoration through the coming Messiah.
 

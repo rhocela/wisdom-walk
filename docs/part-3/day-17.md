@@ -11,11 +11,11 @@ description: "Explore Joseph's forgiveness and family restoration"
 **When this Happened:** Egypt - Joseph reveals himself and forgives his brothers
 
 **Readings:**
-- Genesis 42:1–50:26 (Narrative)
-- Matthew 6:14-15 (Gospel)
-- Romans 12:19-21 (Epistle)
-- Ephesians 4:32 (Epistle)
-- Colossians 3:13 (Epistle)
+ - [Genesis 42:1–50:26](https://www.biblegateway.com/passage/?search=Genesis+42%3A1-50%3A26&version=ESV) (Narrative)
+ - [Matthew 6:14-15](https://www.biblegateway.com/passage/?search=Matthew+6%3A14-15&version=ESV) (Gospel)
+ - [Romans 12:19-21](https://www.biblegateway.com/passage/?search=Romans+12%3A19-21&version=ESV) (Epistle)
+ - [Ephesians 4:32](https://www.biblegateway.com/passage/?search=Ephesians+4%3A32&version=ESV) (Epistle)
+ - [Colossians 3:13](https://www.biblegateway.com/passage/?search=Colossians+3%3A13&version=ESV) (Epistle)
 
 **Historical Context:** Famine forces Jacob's sons to come to Egypt for grain, not knowing their brother Joseph is the ruler they must approach. Joseph tests them before revealing his identity and extending forgiveness.
 

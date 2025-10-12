@@ -11,10 +11,10 @@ description: "Forty years of wandering due to unbelief"
 **When this Happened:** Wilderness - Forty years of wandering due to unbelief
 
 **Readings:**
-- Numbers 13:1–14:45, 20:1-13, 27:12-23 (Narrative)
-- Psalm 95:7-11 (Poetry)
-- Hebrews 3:7–4:13 (Epistle)
-- 1 Corinthians 10:5-12 (Epistle)
+ - [Numbers 13:1–14:45, 20:1-13, 27:12-23](https://www.biblegateway.com/passage/?search=Numbers+13%3A1-14%3A45%2C+20%3A1-13%2C+27%3A12-23&version=ESV) (Narrative)
+ - [Psalm 95:7-11](https://www.biblegateway.com/passage/?search=Psalm+95%3A7-11&version=ESV) (Poetry)
+ - [Hebrews 3:7–4:13](https://www.biblegateway.com/passage/?search=Hebrews+3%3A7-4%3A13&version=ESV) (Epistle)
+ - [1 Corinthians 10:5-12](https://www.biblegateway.com/passage/?search=1+Corinthians+10%3A5-12&version=ESV) (Epistle)
 
 **Historical Context:** Israel's refusal to enter the Promised Land due to unbelief results in forty years of wilderness wandering. The generation that left Egypt dies in the wilderness, except for Joshua and Caleb who believed God's promise.
 

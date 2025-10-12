@@ -11,10 +11,10 @@ description: "A story of covenant faithfulness and redemption"
 **When this Happened:** Time of the Judges - A story of loyalty and redemption
 
 **Readings:**
-- Ruth 1:1–4:22 (History)
-- Matthew 1:5 (Gospel)
-- Ephesians 2:11-22 (Epistle)
-- 1 Peter 2:9-10 (Epistle)
+ - [Ruth 1:1–4:22](https://www.biblegateway.com/passage/?search=Ruth+1%3A1-4%3A22&version=ESV) (History)
+ - [Matthew 1:5](https://www.biblegateway.com/passage/?search=Matthew+1%3A5&version=ESV) (Gospel)
+ - [Ephesians 2:11-22](https://www.biblegateway.com/passage/?search=Ephesians+2%3A11-22&version=ESV) (Epistle)
+ - [1 Peter 2:9-10](https://www.biblegateway.com/passage/?search=1+Peter+2%3A9-10&version=ESV) (Epistle)
 
 **Historical Context:** During the dark period of the judges, the story of Ruth provides a bright spot of covenant loyalty. Ruth, a Moabite woman, demonstrates remarkable faithfulness to her Israelite mother-in-law Naomi and to Israel's God.
 

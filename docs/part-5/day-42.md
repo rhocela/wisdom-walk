@@ -11,12 +11,12 @@ description: "David's family struggles and the continuing consequences of sin"
 **When this Happened:** David's later reign - Family dysfunction and rebellion
 
 **Readings:**
-- 2 Samuel 13:1–20:26 (History)
-- Psalm 3, 55, 69 (Poetry)
-- Galatians 6:7-8 (Epistle)
-- 1 Kings 1:5-6 (History)
 
 **Historical Context:** David's sin creates a pattern of violence and rebellion in his family. Amnon's assault on Tamar, Absalom's revenge and rebellion, and ongoing family strife fulfill Nathan's prophecy about the sword never departing from David's house.
+ - [2 Samuel 13:1–20:26 (History)](https://www.biblegateway.com/passage/?search=2+Samuel+13%3A1-20%3A26)
+ - [Psalm 3, 55, 69 (Poetry)](https://www.biblegateway.com/passage/?search=Psalm+3%2C+55%2C+69)
+ - [Galatians 6:7-8 (Epistle)](https://www.biblegateway.com/passage/?search=Galatians+6%3A7-8)
+ - [1 Kings 1:5-6 (History)](https://www.biblegateway.com/passage/?search=1+Kings+1%3A5-6)
 
 **God's Bigger Plan:** The family consequences of David's sin demonstrate that forgiveness doesn't eliminate temporal consequences. Yet God's mercy continues, and His covenant promises remain despite human failure.
 

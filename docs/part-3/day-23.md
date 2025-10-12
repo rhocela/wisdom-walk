@@ -11,10 +11,10 @@ description: "God provides manna and water in the wilderness"
 **When this Happened:** Wilderness of Sin and Rephidim - God provides for physical needs
 
 **Readings:**
-- Exodus 16:1–17:7 (Narrative)
-- Numbers 11:4-9 (Law)
-- John 6:25-58 (Gospel)
-- 1 Corinthians 10:3-4 (Epistle)
+ - [Exodus 16:1–17:7](https://www.biblegateway.com/passage/?search=Exodus+16%3A1-17%3A7&version=ESV) (Narrative)
+ - [Numbers 11:4-9](https://www.biblegateway.com/passage/?search=Numbers+11%3A4-9&version=ESV) (Law)
+ - [John 6:25-58](https://www.biblegateway.com/passage/?search=John+6%3A25-58&version=ESV) (Gospel)
+ - [1 Corinthians 10:3-4](https://www.biblegateway.com/passage/?search=1+Corinthians+10%3A3-4&version=ESV) (Epistle)
 
 **Historical Context:** In the wilderness, Israel faces hunger and thirst. God provides manna from heaven and water from the rock, testing their faith and teaching dependence on Him for daily needs.
 

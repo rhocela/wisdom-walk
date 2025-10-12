@@ -11,12 +11,12 @@ description: "God raises up Cyrus to decree the return from exile"
 **When this Happened:** Persian Empire - Cyrus conquers Babylon
 
 **Readings:**
-- Daniel 7:1–12:13 (Prophecy)
-- Isaiah 44:24–45:25 (Prophecy)
-- Ezra 1:1-11 (History)
-- Romans 13:1-7 (Epistle)
 
 **Historical Context:** God raises up Cyrus the Persian to conquer Babylon and decree the return of Jewish exiles to their homeland. This demonstrates God's control over world empires and His faithfulness to restore His people according to His promised timeline.
+ - [Daniel 7:1–12:13 (Prophecy)](https://www.biblegateway.com/passage/?search=Daniel+7%3A1-12%3A13)
+ - [Isaiah 44:24–45:25 (Prophecy)](https://www.biblegateway.com/passage/?search=Isaiah+44%3A24-45%3A25)
+ - [Ezra 1:1-11 (History)](https://www.biblegateway.com/passage/?search=Ezra+1%3A1-11)
+ - [Romans 13:1-7 (Epistle)](https://www.biblegateway.com/passage/?search=Romans+13%3A1-7)
 
 **God's Bigger Plan:** Cyrus serves as God's "anointed one" (messiah) to accomplish redemption for Israel, prefiguring how God uses various instruments to accomplish His purposes. The return from exile prefigures the ultimate restoration through Christ.
 

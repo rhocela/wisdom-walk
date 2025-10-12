@@ -11,10 +11,10 @@ description: "From welcome guests to enslaved nation in Egypt"
 **When this Happened:** Egypt - From welcome guests to enslaved nation
 
 **Readings:**
-- Exodus 1:1–2:25 (Narrative)
-- Acts 7:17-29 (History)
-- Hebrews 11:23-29 (Epistle)
-- Psalm 105:23-25 (Poetry)
+ - [Exodus 1:1–2:25](https://www.biblegateway.com/passage/?search=Exodus+1%3A1-2%3A25&version=ESV) (Narrative)
+ - [Acts 7:17-29](https://www.biblegateway.com/passage/?search=Acts+7%3A17-29&version=ESV) (History)
+ - [Hebrews 11:23-29](https://www.biblegateway.com/passage/?search=Hebrews+11%3A23-29&version=ESV) (Epistle)
+ - [Psalm 105:23-25](https://www.biblegateway.com/passage/?search=Psalm+105%3A23-25&version=ESV) (Poetry)
 
 **Historical Context:** After Joseph's death, a new Pharaoh who "knew not Joseph" enslaves the Israelites. Their population growth threatens Egyptian security, leading to oppression and infanticide. Moses is born and preserved during this dark period.
 

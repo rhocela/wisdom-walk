@@ -8,10 +8,10 @@ title: "Day 12: Promise Passed"
 **Chronological Setting:** Isaac's life - The promised son and his descendants
 
 **Readings:**
-- Genesis 23:1–28:9 (Narrative)
-- Romans 9:6-13 (Epistle)
-- Hebrews 11:20 (Epistle)
-- Galatians 4:21-31 (Epistle)
+ - [Genesis 23:1–28:9](https://www.biblegateway.com/passage/?search=Genesis+23%3A1-28%3A9&version=ESV) (Narrative)
+ - [Romans 9:6-13](https://www.biblegateway.com/passage/?search=Romans+9%3A6-13&version=ESV) (Epistle)
+ - [Hebrews 11:20](https://www.biblegateway.com/passage/?search=Hebrews+11%3A20&version=ESV) (Epistle)
+ - [Galatians 4:21-31](https://www.biblegateway.com/passage/?search=Galatians+4%3A21-31&version=ESV) (Epistle)
 
 **Historical Context:** Isaac represents the fulfillment of God's promise to Abraham. His life includes finding a wife (Rebekah), the birth of twins (Jacob and Esau), and the passing of the blessing to the next generation.
 

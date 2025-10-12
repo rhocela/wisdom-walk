@@ -11,10 +11,10 @@ description: "Ten plagues demonstrate God's power over Pharaoh"
 **When this Happened:** Egypt - The ten plagues demonstrate God's power
 
 **Readings:**
-- Exodus 5:1–11:10 (Narrative)
-- Psalm 78:42-51 (Poetry)
-- Romans 9:17-18 (Epistle)
-- Revelation 16:1-21 (Prophecy)
+ - [Exodus 5:1–11:10](https://www.biblegateway.com/passage/?search=Exodus+5%3A1-11%3A10&version=ESV) (Narrative)
+ - [Psalm 78:42-51](https://www.biblegateway.com/passage/?search=Psalm+78%3A42-51&version=ESV) (Poetry)
+ - [Romans 9:17-18](https://www.biblegateway.com/passage/?search=Romans+9%3A17-18&version=ESV) (Epistle)
+ - [Revelation 16:1-21](https://www.biblegateway.com/passage/?search=Revelation+16%3A1-21&version=ESV) (Prophecy)
 
 **Historical Context:** Moses and Aaron confront Pharaoh with God's demand to release Israel. Pharaoh's hardened heart leads to ten escalating plagues that demonstrate God's power over Egyptian gods and creation itself.
 

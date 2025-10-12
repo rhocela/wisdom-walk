@@ -11,12 +11,12 @@ description: "Solomon constructs God's house in Jerusalem"
 **When this Happened:** Jerusalem - Construction and dedication of Solomon's Temple
 
 **Readings:**
-- 1 Kings 5:1–8:66 (History)
-- 2 Chronicles 2:1–7:22 (History)
-- Ephesians 2:19-22 (Epistle)
-- 1 Peter 2:4-10 (Epistle)
 
 **Historical Context:** Solomon fulfills David's dream by building the temple in Jerusalem. The magnificent structure becomes the center of Israel's worship and the dwelling place of God's glory among His people.
+ - [1 Kings 5:1–8:66 (History)](https://www.biblegateway.com/passage/?search=1+Kings+5%3A1-8%3A66)
+ - [2 Chronicles 2:1–7:22 (History)](https://www.biblegateway.com/passage/?search=2+Chronicles+2%3A1-7%3A22)
+ - [Ephesians 2:19-22 (Epistle)](https://www.biblegateway.com/passage/?search=Ephesians+2%3A19-22)
+ - [1 Peter 2:4-10 (Epistle)](https://www.biblegateway.com/passage/?search=1+Peter+2%3A4-10)
 
 **God's Bigger Plan:** The temple represents God's desire to dwell with His people and establishes patterns of worship that point to Christ. The New Testament reveals that believers themselves become God's temple, and the ultimate temple is the New Jerusalem.
 

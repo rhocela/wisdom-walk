@@ -11,10 +11,10 @@ description: "God calls Moses to deliver Israel from bondage"
 **When this Happened:** Mount Horeb - God calls Moses to deliver Israel
 
 **Readings:**
-- Exodus 3:1–4:31 (Narrative)
-- Acts 7:30-35 (History)
-- Hebrews 11:24-27 (Epistle)
-- Mark 12:26-27 (Gospel)
+ - [Exodus 3:1–4:31](https://www.biblegateway.com/passage/?search=Exodus+3%3A1-4%3A31&version=ESV) (Narrative)
+ - [Acts 7:30-35](https://www.biblegateway.com/passage/?search=Acts+7%3A30-35&version=ESV) (History)
+ - [Hebrews 11:24-27](https://www.biblegateway.com/passage/?search=Hebrews+11%3A24-27&version=ESV) (Epistle)
+ - [Mark 12:26-27](https://www.biblegateway.com/passage/?search=Mark+12%3A26-27&version=ESV) (Gospel)
 
 **Historical Context:** After forty years in Midian, Moses encounters God in a burning bush. God reveals His covenant name (Yahweh) and commissions Moses to deliver Israel from Egyptian bondage.
 

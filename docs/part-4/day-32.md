@@ -11,10 +11,10 @@ description: "Israel's defeat due to Achan's hidden sin"
 **When this Happened:** Ai - Israel's defeat due to Achan's sin
 
 **Readings:**
-- Joshua 7:1–8:35 (History)
-- 1 Corinthians 5:6-8 (Epistle)
-- Galatians 6:7-8 (Epistle)
-- Hebrews 12:15-17 (Epistle)
+ - [Joshua 7:1–8:35](https://www.biblegateway.com/passage/?search=Joshua+7%3A1-8%3A35&version=ESV) (History)
+ - [1 Corinthians 5:6-8](https://www.biblegateway.com/passage/?search=1+Corinthians+5%3A6-8&version=ESV) (Epistle)
+ - [Galatians 6:7-8](https://www.biblegateway.com/passage/?search=Galatians+6%3A7-8&version=ESV) (Epistle)
+ - [Hebrews 12:15-17](https://www.biblegateway.com/passage/?search=Hebrews+12%3A15-17&version=ESV) (Epistle)
 
 **Historical Context:** After Jericho's miraculous victory, Israel suffers defeat at the small city of Ai. Investigation reveals that Achan has violated God's command by taking forbidden spoils from Jericho, bringing judgment on the entire nation.
 

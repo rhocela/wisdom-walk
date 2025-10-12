@@ -11,12 +11,12 @@ description: "Wisdom abandoned through compromise and idolatry"
 **When this Happened:** Solomon's later reign - Compromise and apostasy
 
 **Readings:**
-- 1 Kings 9:1–11:43 (History)
-- Ecclesiastes 1:1–12:14 (Wisdom)
-- 1 Corinthians 10:12 (Epistle)
-- 2 Peter 2:20-22 (Epistle)
 
 **Historical Context:** Despite his wisdom and God's blessings, Solomon's many foreign wives lead him into idolatry. His oppressive policies and spiritual compromise set the stage for the kingdom's division after his death.
+ - [1 Kings 9:1–11:43 (History)](https://www.biblegateway.com/passage/?search=1+Kings+9%3A1-11%3A43)
+ - [Ecclesiastes 1:1–12:14 (Wisdom)](https://www.biblegateway.com/passage/?search=Ecclesiastes+1%3A1-12%3A14)
+ - [1 Corinthians 10:12 (Epistle)](https://www.biblegateway.com/passage/?search=1+Corinthians+10%3A12)
+ - [2 Peter 2:20-22 (Epistle)](https://www.biblegateway.com/passage/?search=2+Peter+2%3A20-22)
 
 **God's Bigger Plan:** Solomon's fall demonstrates that even the wisest can stumble through compromise and that privilege brings greater responsibility. Ecclesiastes reflects on the vanity of life apart from God, pointing to the need for something greater than earthly wisdom.
 

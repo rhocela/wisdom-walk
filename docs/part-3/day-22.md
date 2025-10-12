@@ -11,10 +11,10 @@ description: "Miraculous victory through water"
 **When this Happened:** Red Sea - Miraculous deliverance from Egyptian pursuit
 
 **Readings:**
-- Exodus 14:1–15:21 (Narrative)
-- 1 Corinthians 10:1-4 (Epistle)
-- Hebrews 11:29 (Epistle)
-- Psalm 106:7-12 (Poetry)
+ - [Exodus 14:1–15:21](https://www.biblegateway.com/passage/?search=Exodus+14%3A1-15%3A21&version=ESV) (Narrative)
+ - [1 Corinthians 10:1-4](https://www.biblegateway.com/passage/?search=1+Corinthians+10%3A1-4&version=ESV) (Epistle)
+ - [Hebrews 11:29](https://www.biblegateway.com/passage/?search=Hebrews+11%3A29&version=ESV) (Epistle)
+ - [Psalm 106:7-12](https://www.biblegateway.com/passage/?search=Psalm+106%3A7-12&version=ESV) (Poetry)
 
 **Historical Context:** Trapped between the Red Sea and Pharaoh's army, Israel experiences God's miraculous deliverance. The sea parts, allowing Israel to cross on dry ground, then returns to destroy the Egyptian forces.
 

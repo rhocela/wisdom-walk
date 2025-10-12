@@ -11,10 +11,10 @@ description: "Moses prepares the new generation for the Promised Land"
 **When this Happened:** Plains of Moab - Moses prepares the new generation for Canaan
 
 **Readings:**
-- Deuteronomy 1:1–4:43, 29:1–30:20 (Law)
-- Joshua 1:1-9 (History)
-- Psalm 78:1-8 (Poetry)
-- 2 Timothy 2:1-2 (Epistle)
+ - [Deuteronomy 1:1–4:43, 29:1–30:20](https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A1-4%3A43%2C+29%3A1-30%3A20&version=ESV) (Law)
+ - [Joshua 1:1-9](https://www.biblegateway.com/passage/?search=Joshua+1%3A1-9&version=ESV) (History)
+ - [Psalm 78:1-8](https://www.biblegateway.com/passage/?search=Psalm+78%3A1-8&version=ESV) (Poetry)
+ - [2 Timothy 2:1-2](https://www.biblegateway.com/passage/?search=2+Timothy+2%3A1-2&version=ESV) (Epistle)
 
 **Historical Context:** As the wilderness wandering ends, Moses addresses the new generation that will enter the Promised Land. He reviews God's law and faithfulness, emphasizing the importance of covenant obedience and teaching children.
 

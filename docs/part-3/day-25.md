@@ -11,10 +11,10 @@ description: "Israel's apostasy breaks the newly established covenant"
 **When this Happened:** Mount Sinai - Israel's apostasy while Moses receives the law
 
 **Readings:**
-- Exodus 32:1–34:35 (Narrative)
-- 1 Corinthians 10:6-14 (Epistle)
-- Acts 7:39-43 (History)
-- Romans 1:21-25 (Epistle)
+ - [Exodus 32:1–34:35](https://www.biblegateway.com/passage/?search=Exodus+32%3A1-34%3A35&version=ESV) (Narrative)
+ - [1 Corinthians 10:6-14](https://www.biblegateway.com/passage/?search=1+Corinthians+10%3A6-14&version=ESV) (Epistle)
+ - [Acts 7:39-43](https://www.biblegateway.com/passage/?search=Acts+7%3A39-43&version=ESV) (History)
+ - [Romans 1:21-25](https://www.biblegateway.com/passage/?search=Romans+1%3A21-25&version=ESV) (Epistle)
 
 **Historical Context:** While Moses is on the mountain receiving God's law, Israel creates and worships a golden calf. This act of idolatry breaks the newly established covenant and results in severe judgment.
 

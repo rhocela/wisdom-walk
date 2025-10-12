@@ -11,12 +11,12 @@ description: "Cycles of faithfulness and failure in the southern kingdom"
 **When this Happened:** Southern Kingdom - The reigns of good and evil kings
 
 **Readings:**
-- 1 Kings 15:1–22:50 (History)
-- 2 Chronicles 13:1–20:37 (History)
-- Psalm 89:19-37 (Poetry)
-- 2 Timothy 2:11-13 (Epistle)
 
 **Historical Context:** While the northern kingdom consistently follows evil kings, Judah experiences both righteous and wicked rulers. Kings like Asa and Jehoshaphat bring revival, while others lead the people into idolatry, showing the crucial role of leadership in spiritual health.
+ - [1 Kings 15:1–22:50 (History)](https://www.biblegateway.com/passage/?search=1+Kings+15%3A1-22%3A50)
+ - [2 Chronicles 13:1–20:37 (History)](https://www.biblegateway.com/passage/?search=2+Chronicles+13%3A1-20%3A37)
+ - [Psalm 89:19-37 (Poetry)](https://www.biblegateway.com/passage/?search=Psalm+89%3A19-37)
+ - [2 Timothy 2:11-13 (Epistle)](https://www.biblegateway.com/passage/?search=2+Timothy+2%3A11-13)
 
 **God's Bigger Plan:** The alternating pattern of faithfulness and apostasy in Judah demonstrates both human weakness and God's faithfulness to His covenant with David. Even when kings fail, God preserves the messianic line according to His promise.
 

@@ -11,12 +11,12 @@ description: "David flees from Saul and learns patience in the wilderness"
 **When this Happened:** Wilderness of Judea - David fleeing from Saul's jealousy
 
 **Readings:**
-- 1 Samuel 18:1–31:13 (History)
-- Psalm 23, 34, 57, 142 (Poetry)
-- Hebrews 11:32-40 (Epistle)
-- 1 Peter 2:19-25 (Epistle)
 
 **Historical Context:** Saul's jealousy leads to years of David fleeing for his life. During this period, David gathers a band of followers and twice has opportunity to kill Saul but refuses to harm "the Lord's anointed."
+ - [1 Samuel 18:1–31:13 (History)](https://www.biblegateway.com/passage/?search=1+Samuel+18%3A1-31%3A13)
+ - [Psalm 23, 34, 57, 142 (Poetry)](https://www.biblegateway.com/passage/?search=Psalm+23%2C+34%2C+57%2C+142)
+ - [Hebrews 11:32-40 (Epistle)](https://www.biblegateway.com/passage/?search=Hebrews+11%3A32-40)
+ - [1 Peter 2:19-25 (Epistle)](https://www.biblegateway.com/passage/?search=1+Peter+2%3A19-25)
 
 **God's Bigger Plan:** David's refusal to take revenge and his patient waiting for God's timing prefigure Christ's patient endurance of suffering. His wilderness experience shapes him into the leader God intends him to be.
 

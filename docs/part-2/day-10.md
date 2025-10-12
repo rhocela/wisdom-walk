@@ -8,10 +8,10 @@ title: "Day 10: Covenant Making"
 **Chronological Setting:** Canaan - God establishes His covenant with Abraham
 
 **Readings:**
-- Genesis 12:10–13:18, 15:1-21 (Narrative)
-- Romans 4:13-25 (Epistle)
-- Galatians 3:6-18 (Epistle)
-- Hebrews 6:13-20 (Epistle)
+ - [Genesis 12:10–13:18, 15:1-21](https://www.biblegateway.com/passage/?search=Genesis+12%3A10-13%3A18%2C+15%3A1-21&version=ESV) (Narrative)
+ - [Romans 4:13-25](https://www.biblegateway.com/passage/?search=Romans+4%3A13-25&version=ESV) (Epistle)
+ - [Galatians 3:6-18](https://www.biblegateway.com/passage/?search=Galatians+3%3A6-18&version=ESV) (Epistle)
+ - [Hebrews 6:13-20](https://www.biblegateway.com/passage/?search=Hebrews+6%3A13-20&version=ESV) (Epistle)
 
 **Historical Context:** Despite Abraham's failures (lying about Sarah in Egypt), God reaffirms His promises and establishes a formal covenant. The promise includes land, descendants, and blessing to all nations.
 

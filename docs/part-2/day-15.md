@@ -8,10 +8,10 @@ title: "Day 15: Family Dysfunction"
 **Chronological Setting:** Canaan - Family conflict and jealousy among Jacob's sons
 
 **Readings:**
-- Genesis 37:1–38:30 (Narrative)
-- 1 Corinthians 1:26-31 (Epistle)
-- Matthew 1:3 (Gospel)
-- Romans 8:28 (Epistle)
+ - [Genesis 37:1–38:30](https://www.biblegateway.com/passage/?search=Genesis+37%3A1-38%3A30&version=ESV) (Narrative)
+ - [1 Corinthians 1:26-31](https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A26-31&version=ESV) (Epistle)
+ - [Matthew 1:3](https://www.biblegateway.com/passage/?search=Matthew+1%3A3&version=ESV) (Gospel)
+ - [Romans 8:28](https://www.biblegateway.com/passage/?search=Romans+8%3A28&version=ESV) (Epistle)
 
 **Historical Context:** Favoritism creates jealousy among Jacob's sons, leading to the betrayal and sale of Joseph. Meanwhile, Judah's moral failure with Tamar shows the depth of family dysfunction.
 

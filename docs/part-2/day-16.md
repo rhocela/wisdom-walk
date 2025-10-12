@@ -8,10 +8,10 @@ title: "Day 16: Divine Providence"
 **Chronological Setting:** Egypt - Joseph's rise from prisoner to second-in-command
 
 **Readings:**
-- Genesis 39:1–41:57 (Narrative)
-- Psalm 105:16-22 (Poetry)
-- Acts 7:9-16 (History)
-- 1 Peter 1:6-7 (Epistle)
+ - [Genesis 39:1–41:57](https://www.biblegateway.com/passage/?search=Genesis+39%3A1-41%3A57&version=ESV) (Narrative)
+ - [Psalm 105:16-22](https://www.biblegateway.com/passage/?search=Psalm+105%3A16-22&version=ESV) (Poetry)
+ - [Acts 7:9-16](https://www.biblegateway.com/passage/?search=Acts+7%3A9-16&version=ESV) (History)
+ - [1 Peter 1:6-7](https://www.biblegateway.com/passage/?search=1+Peter+1%3A6-7&version=ESV) (Epistle)
 
 **Historical Context:** Sold into slavery, falsely accused, and imprisoned, Joseph experiences God's favor and blessing despite circumstances. His God-given ability to interpret dreams elevates him to rule over Egypt.
 

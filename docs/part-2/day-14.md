@@ -8,10 +8,10 @@ title: "Day 14: Wrestling with God"
 **Chronological Setting:** Peniel - Jacob's night of wrestling and transformation
 
 **Readings:**
-- Genesis 28:10–35:29 (Narrative)
-- Hosea 12:3-6 (Prophecy)
-- Romans 9:25-26 (Epistle)
-- 1 Peter 2:9-10 (Epistle)
+ - [Genesis 28:10–35:29](https://www.biblegateway.com/passage/?search=Genesis+28%3A10-35%3A29&version=ESV) (Narrative)
+ - [Hosea 12:3-6](https://www.biblegateway.com/passage/?search=Hosea+12%3A3-6&version=ESV) (Prophecy)
+ - [Romans 9:25-26](https://www.biblegateway.com/passage/?search=Romans+9%3A25-26&version=ESV) (Epistle)
+ - [1 Peter 2:9-10](https://www.biblegateway.com/passage/?search=1+Peter+2%3A9-10&version=ESV) (Epistle)
 
 **Historical Context:** After years of exile and God's discipline, Jacob returns to face Esau. The night before their meeting, he wrestles with God and emerges transformed, receiving the new name Israel.
 

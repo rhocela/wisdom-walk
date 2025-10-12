@@ -11,10 +11,10 @@ description: "Faithful leadership in the transition to monarchy"
 **When this Happened:** End of Judges period - Samuel as last judge and kingmaker
 
 **Readings:**
-- 1 Samuel 1:1–4:22, 7:2–8:22 (History)
-- 1 Peter 2:4-6 (Epistle)
-- Acts 13:20-22 (History)
-- Psalm 99:6-7 (Poetry)
+ - [1 Samuel 1:1–4:22, 7:2–8:22](https://www.biblegateway.com/passage/?search=1+Samuel+1%3A1-4%3A22%2C+7%3A2-8%3A22&version=ESV) (History)
+ - [1 Peter 2:4-6](https://www.biblegateway.com/passage/?search=1+Peter+2%3A4-6&version=ESV) (Epistle)
+ - [Acts 13:20-22](https://www.biblegateway.com/passage/?search=Acts+13%3A20-22&version=ESV) (History)
+ - [Psalm 99:6-7](https://www.biblegateway.com/passage/?search=Psalm+99%3A6-7&version=ESV) (Poetry)
 
 **Historical Context:** Samuel, born in answer to Hannah's prayer, serves as judge, priest, and prophet. His ministry marks the transition from the period of judges to the monarchy as Israel demands a king like other nations.
 

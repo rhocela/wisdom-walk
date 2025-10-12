@@ -11,10 +11,10 @@ description: "The Promised Land distributed among the tribes"
 **When this Happened:** Canaan - The Promised Land divided among the tribes
 
 **Readings:**
-- Joshua 13:1–21:45 (History)
-- Ephesians 1:3-14 (Epistle)
-- 1 Peter 1:3-5 (Epistle)
-- Colossians 1:12-14 (Epistle)
+ - [Joshua 13:1–21:45](https://www.biblegateway.com/passage/?search=Joshua+13%3A1-21%3A45&version=ESV) (History)
+ - [Ephesians 1:3-14](https://www.biblegateway.com/passage/?search=Ephesians+1%3A3-14&version=ESV) (Epistle)
+ - [1 Peter 1:3-5](https://www.biblegateway.com/passage/?search=1+Peter+1%3A3-5&version=ESV) (Epistle)
+ - [Colossians 1:12-14](https://www.biblegateway.com/passage/?search=Colossians+1%3A12-14&version=ESV) (Epistle)
 
 **Historical Context:** After major victories, Joshua divides the Promised Land among the twelve tribes according to God's direction. Each tribe receives its inheritance, fulfilling God's ancient promise to Abraham about the land.
 

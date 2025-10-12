@@ -11,11 +11,11 @@ description: "Deliverance through the blood of the lamb"
 **When this Happened:** Egypt - The night of deliverance through blood sacrifice
 
 **Readings:**
-- Exodus 12:1–13:16 (Narrative)
-- 1 Corinthians 5:7-8 (Epistle)
-- 1 Peter 1:18-19 (Epistle)
-- John 1:29 (Gospel)
-- Revelation 5:6-12 (Prophecy)
+ - [Exodus 12:1–13:16](https://www.biblegateway.com/passage/?search=Exodus+12%3A1-13%3A16&version=ESV) (Narrative)
+ - [1 Corinthians 5:7-8](https://www.biblegateway.com/passage/?search=1+Corinthians+5%3A7-8&version=ESV) (Epistle)
+ - [1 Peter 1:18-19](https://www.biblegateway.com/passage/?search=1+Peter+1%3A18-19&version=ESV) (Epistle)
+ - [John 1:29](https://www.biblegateway.com/passage/?search=John+1%3A29&version=ESV) (Gospel)
+ - [Revelation 5:6-12](https://www.biblegateway.com/passage/?search=Revelation+5%3A6-12&version=ESV) (Prophecy)
 
 **Historical Context:** God institutes the Passover as the final plague strikes Egypt's firstborn. Only houses marked with lamb's blood are spared. This night of deliverance becomes Israel's most significant redemptive event.
 

@@ -11,10 +11,10 @@ description: "God's instructions for His dwelling place among His people"
 **When this Happened:** Mount Sinai - Instructions for and construction of the tabernacle
 
 **Readings:**
-- Exodus 25:1–31:18, 35:1–40:38 (Narrative)
-- Hebrews 8:1-6, 9:1-14 (Epistle)
-- John 1:14 (Gospel)
-- Revelation 21:3 (Prophecy)
+ - [Exodus 25:1–31:18, 35:1–40:38](https://www.biblegateway.com/passage/?search=Exodus+25%3A1-31%3A18%2C+35%3A1-40%3A38&version=ESV) (Narrative)
+ - [Hebrews 8:1-6, 9:1-14](https://www.biblegateway.com/passage/?search=Hebrews+8%3A1-6%2C+9%3A1-14&version=ESV) (Epistle)
+ - [John 1:14](https://www.biblegateway.com/passage/?search=John+1%3A14&version=ESV) (Gospel)
+ - [Revelation 21:3](https://www.biblegateway.com/passage/?search=Revelation+21%3A3&version=ESV) (Prophecy)
 
 **Historical Context:** God provides detailed instructions for constructing the tabernacle, a portable sanctuary where He will dwell among His people. Every detail has symbolic significance pointing to God's holiness and the way of approach to Him.
 

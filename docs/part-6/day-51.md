@@ -11,12 +11,12 @@ description: "The northern kingdom falls to Assyrian conquest"
 **When this Happened:** Samaria - Assyria conquers the northern kingdom
 
 **Readings:**
-- 2 Kings 15:1–17:41 (History)
-- Isaiah 7:1–8:22, 10:5-19 (Prophecy)
-- Hosea 1:1–14:9 (Prophecy)
-- Romans 9:25-29 (Epistle)
 
 **Historical Context:** The Assyrian Empire systematically conquers the northern kingdom of Israel, culminating in the fall of Samaria in 722 BC. The ten tribes are deported and largely disappear from history, fulfilling prophetic warnings about persistent apostasy.
+ - [2 Kings 15:1–17:41 (History)](https://www.biblegateway.com/passage/?search=2+Kings+15%3A1-17%3A41)
+ - [Isaiah 7:1–8:22, 10:5-19 (Prophecy)](https://www.biblegateway.com/passage/?search=Isaiah+7%3A1-8%3A22%2C+10%3A5-19)
+ - [Hosea 1:1–14:9 (Prophecy)](https://www.biblegateway.com/passage/?search=Hosea+1%3A1-14%3A9)
+ - [Romans 9:25-29 (Epistle)](https://www.biblegateway.com/passage/?search=Romans+9%3A25-29)
 
 **God's Bigger Plan:** The northern kingdom's destruction demonstrates God's justice in judgment while showing His mercy in preserving a remnant. The prophets use Israel's unfaithfulness as a metaphor for spiritual adultery, pointing to the need for a new covenant.
 

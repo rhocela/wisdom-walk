@@ -8,10 +8,10 @@ title: "Day 13: Divine Election"
 **Chronological Setting:** Before birth and early life - God's sovereign choice of Jacob
 
 **Readings:**
-- Genesis 25:19-34, 27:1–28:22 (Narrative)
-- Romans 9:10-16 (Epistle)
-- Malachi 1:2-3 (Prophecy)
-- Hebrews 12:16-17 (Epistle)
+ - [Genesis 25:19-34, 27:1–28:22](https://www.biblegateway.com/passage/?search=Genesis+25%3A19-34%2C+27%3A1-28%3A22&version=ESV) (Narrative)
+ - [Romans 9:10-16](https://www.biblegateway.com/passage/?search=Romans+9%3A10-16&version=ESV) (Epistle)
+ - [Malachi 1:2-3](https://www.biblegateway.com/passage/?search=Malachi+1%3A2-3&version=ESV) (Prophecy)
+ - [Hebrews 12:16-17](https://www.biblegateway.com/passage/?search=Hebrews+12%3A16-17&version=ESV) (Epistle)
 
 **Historical Context:** Before the twins are born, God tells Rebekah that the older will serve the younger. Despite Jacob's deceptive methods in obtaining the blessing, God's sovereign choice stands.
 

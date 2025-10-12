@@ -11,10 +11,10 @@ description: "Repeated cycles of apostasy and deliverance"
 **When this Happened:** Period of the Judges - Repeated cycles of sin and deliverance
 
 **Readings:**
-- Judges 2:6–3:31, 6:1–8:35 (History)
-- Romans 1:18-32 (Epistle)
-- 2 Chronicles 7:14 (History)
-- Psalm 106:34-46 (Poetry)
+ - [Judges 2:6–3:31, 6:1–8:35](https://www.biblegateway.com/passage/?search=Judges+2%3A6-3%3A31%2C+6%3A1-8%3A35&version=ESV) (History)
+ - [Romans 1:18-32](https://www.biblegateway.com/passage/?search=Romans+1%3A18-32&version=ESV) (Epistle)
+ - [2 Chronicles 7:14](https://www.biblegateway.com/passage/?search=2+Chronicles+7%3A14&version=ESV) (History)
+ - [Psalm 106:34-46](https://www.biblegateway.com/passage/?search=Psalm+106%3A34-46&version=ESV) (Poetry)
 
 **Historical Context:** After Joshua's death, Israel enters a dark period characterized by cycles of apostasy, oppression, crying out to God, and deliverance through judges. This pattern repeats throughout the period, showing Israel's tendency toward spiritual decline.
 

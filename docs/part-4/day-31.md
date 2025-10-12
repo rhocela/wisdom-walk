@@ -11,10 +11,10 @@ description: "Victory through obedience at the first conquest"
 **When this Happened:** Jericho - The first conquest in the Promised Land
 
 **Readings:**
-- Joshua 5:13–6:27 (History)
-- Hebrews 11:30-31 (Epistle)
-- 2 Corinthians 10:3-5 (Epistle)
-- Ephesians 6:10-18 (Epistle)
+ - [Joshua 5:13–6:27](https://www.biblegateway.com/passage/?search=Joshua+5%3A13-6%3A27&version=ESV) (History)
+ - [Hebrews 11:30-31](https://www.biblegateway.com/passage/?search=Hebrews+11%3A30-31&version=ESV) (Epistle)
+ - [2 Corinthians 10:3-5](https://www.biblegateway.com/passage/?search=2+Corinthians+10%3A3-5&version=ESV) (Epistle)
+ - [Ephesians 6:10-18](https://www.biblegateway.com/passage/?search=Ephesians+6%3A10-18&version=ESV) (Epistle)
 
 **Historical Context:** God gives Israel victory over the fortified city of Jericho through an unusual strategy—marching around the city and shouting at God's command. The walls fall down flat, demonstrating that victory comes through obedience, not military might.
 

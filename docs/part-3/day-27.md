@@ -11,10 +11,10 @@ description: "Priesthood and sacrifice system established"
 **When this Happened:** Mount Sinai - Establishing the priesthood and sacrificial system
 
 **Readings:**
-- Leviticus 1:1–10:20, 16:1-34 (Law)
-- Hebrews 7:1–10:18 (Epistle)
-- 1 Peter 2:4-10 (Epistle)
-- Revelation 1:5-6 (Prophecy)
+ - [Leviticus 1:1–10:20, 16:1-34](https://www.biblegateway.com/passage/?search=Leviticus+1%3A1-10%3A20%2C+16%3A1-34&version=ESV) (Law)
+ - [Hebrews 7:1–10:18](https://www.biblegateway.com/passage/?search=Hebrews+7%3A1-10%3A18&version=ESV) (Epistle)
+ - [1 Peter 2:4-10](https://www.biblegateway.com/passage/?search=1+Peter+2%3A4-10&version=ESV) (Epistle)
+ - [Revelation 1:5-6](https://www.biblegateway.com/passage/?search=Revelation+1%3A5-6&version=ESV) (Prophecy)
 
 **Historical Context:** God establishes the Levitical priesthood and sacrificial system to provide a way for sinful people to approach a holy God. The elaborate system of offerings and the Day of Atonement address different aspects of human sinfulness.
 

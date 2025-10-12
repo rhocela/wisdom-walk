@@ -11,12 +11,12 @@ description: "Israel's first king is rejected due to disobedience"
 **When this Happened:** Early monarchy - Saul's reign and rejection
 
 **Readings:**
-- 1 Samuel 9:1–15:35 (History)
-- Acts 13:21-22 (History)
-- 1 Timothy 1:12-16 (Epistle)
-- Romans 11:29 (Epistle)
 
 **Historical Context:** Saul, chosen as Israel's first king, begins well but gradually reveals character flaws. His disobedience to God's clear commands, particularly regarding the Amalekites, results in God's rejection of him as king.
+ - [1 Samuel 9:1–15:35 (History)](https://www.biblegateway.com/passage/?search=1+Samuel+9%3A1-15%3A35)
+ - [Acts 13:21-22 (History)](https://www.biblegateway.com/passage/?search=Acts+13%3A21-22)
+ - [1 Timothy 1:12-16 (Epistle)](https://www.biblegateway.com/passage/?search=1+Timothy+1%3A12-16)
+ - [Romans 11:29 (Epistle)](https://www.biblegateway.com/passage/?search=Romans+11%3A29)
 
 **God's Bigger Plan:** Saul's failure demonstrates that external qualifications don't guarantee success in God's service. His rejection shows that God's calling requires ongoing obedience and that God's gifts and calling, while irrevocable, can be forfeited through persistent disobedience.
 

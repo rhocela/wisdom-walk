@@ -8,10 +8,10 @@ title: "Day 9: The Call"
 **Chronological Setting:** Ur of the Chaldeans - God calls Abraham from paganism
 
 **Readings:**
-- Genesis 11:27–12:9 (Narrative)
-- Acts 7:2-4 (Narrative)
-- Hebrews 11:8-10 (Epistle)
-- Romans 4:16-17 (Epistle)
+ - [Genesis 11:27–12:9](https://www.biblegateway.com/passage/?search=Genesis+11%3A27-12%3A9&version=ESV) (Narrative)
+ - [Acts 7:2-4](https://www.biblegateway.com/passage/?search=Acts+7%3A2-4&version=ESV) (Narrative)
+ - [Hebrews 11:8-10](https://www.biblegateway.com/passage/?search=Hebrews+11%3A8-10&version=ESV) (Epistle)
+ - [Romans 4:16-17](https://www.biblegateway.com/passage/?search=Romans+4%3A16-17&version=ESV) (Epistle)
 
 **Historical Context:** God calls Abraham to leave his homeland and family to go to a land He will show him. This begins God's plan to create a chosen people through whom all nations will be blessed.
 

@@ -11,10 +11,10 @@ description: "God gives the law to establish covenant relationship"
 **When this Happened:** Mount Sinai - God gives the law to establish covenant relationship
 
 **Readings:**
-- Exodus 19:1–24:18 (Narrative)
-- Deuteronomy 5:1-33 (Law)
-- Galatians 3:19-25 (Epistle)
-- Hebrews 12:18-24 (Epistle)
+ - [Exodus 19:1–24:18](https://www.biblegateway.com/passage/?search=Exodus+19%3A1-24%3A18&version=ESV) (Narrative)
+ - [Deuteronomy 5:1-33](https://www.biblegateway.com/passage/?search=Deuteronomy+5%3A1-33&version=ESV) (Law)
+ - [Galatians 3:19-25](https://www.biblegateway.com/passage/?search=Galatians+3%3A19-25&version=ESV) (Epistle)
+ - [Hebrews 12:18-24](https://www.biblegateway.com/passage/?search=Hebrews+12%3A18-24&version=ESV) (Epistle)
 
 **Historical Context:** Three months after leaving Egypt, Israel arrives at Mount Sinai where God establishes His covenant with the nation. The giving of the law, including the Ten Commandments, defines Israel's relationship with God.
 

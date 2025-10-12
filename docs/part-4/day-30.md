@@ -11,10 +11,10 @@ description: "Israel crosses the Jordan River into the Promised Land"
 **When this Happened:** Jordan River - Israel enters the Promised Land
 
 **Readings:**
-- Joshua 1:1–4:24 (History)
-- Psalm 114:1-8 (Poetry)
-- Hebrews 4:1-11 (Epistle)
-- Colossians 2:11-15 (Epistle)
+ - [Joshua 1:1–4:24](https://www.biblegateway.com/passage/?search=Joshua+1%3A1-4%3A24&version=ESV) (History)
+ - [Psalm 114:1-8](https://www.biblegateway.com/passage/?search=Psalm+114%3A1-8&version=ESV) (Poetry)
+ - [Hebrews 4:1-11](https://www.biblegateway.com/passage/?search=Hebrews+4%3A1-11&version=ESV) (Epistle)
+ - [Colossians 2:11-15](https://www.biblegateway.com/passage/?search=Colossians+2%3A11-15&version=ESV) (Epistle)
 
 **Historical Context:** Under Joshua's leadership, Israel crosses the Jordan River during flood season through another miracle. The crossing marks the end of wilderness wandering and the beginning of conquest of the Promised Land.
 

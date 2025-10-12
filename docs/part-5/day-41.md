@@ -11,12 +11,12 @@ description: "The consequences of moral failure and the path to forgiveness"
 **When this Happened:** Jerusalem - David's adultery with Bathsheba and its aftermath
 
 **Readings:**
-- 2 Samuel 11:1–12:31 (History)
-- Psalm 32, 51 (Poetry)
-- Romans 4:6-8 (Epistle)
-- 1 John 1:8-10 (Epistle)
 
 **Historical Context:** At the height of his power, David commits adultery with Bathsheba and arranges her husband Uriah's death in battle. Nathan the prophet confronts David, leading to repentance but also severe consequences for his family.
+ - [2 Samuel 11:1–12:31 (History)](https://www.biblegateway.com/passage/?search=2+Samuel+11%3A1-12%3A31)
+ - [Psalm 32, 51 (Poetry)](https://www.biblegateway.com/passage/?search=Psalm+32%2C+51)
+ - [Romans 4:6-8 (Epistle)](https://www.biblegateway.com/passage/?search=Romans+4%3A6-8)
+ - [1 John 1:8-10 (Epistle)](https://www.biblegateway.com/passage/?search=1+John+1%3A8-10)
 
 **God's Bigger Plan:** David's fall and restoration demonstrate that even God's chosen leaders are fallible and that forgiveness is available for any sin through genuine repentance. His psalms of confession become models for approaching God after moral failure.
 
