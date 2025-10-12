@@ -11,10 +11,10 @@ description: "Paul reveals the mystery of unity in Christ."
 **When this Happened:** Ephesus - Paul's letter on church unity and identity
 
 **Readings:**
-- Ephesians 2:11-22 (Epistle)
-- Genesis 12:1-3 (Narrative)
-- Isaiah 2:1-4 (Prophecy)
-- John 17:20-23 (Gospel)
+- [Ephesians 2:11-22](https://www.biblegateway.com/passage/?search=Ephesians+2%3A11-22) (Epistle)
+- [Genesis 12:1-3](https://www.biblegateway.com/passage/?search=Genesis+12%3A1-3) (Narrative)
+- [Isaiah 2:1-4](https://www.biblegateway.com/passage/?search=Isaiah+2%3A1-4) (Prophecy)
+- [John 17:20-23](https://www.biblegateway.com/passage/?search=John+17%3A20-23) (Gospel)
 
 **Historical Context:** Paul explains that Christ has broken down the dividing wall between Jew and Gentile, creating one new humanity. The church is now a unified body, reconciled to God and each other through the cross.
 

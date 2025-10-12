@@ -11,11 +11,11 @@ description: "Jesus establishes the new covenant with His disciples"
 **When this Happened:** Upper Room in Jerusalem - Jesus' final meal with disciples
 
 **Readings:**
-- Matthew 26:6-35 (Gospel)
-- Mark 14:3-31 (Gospel)
-- Luke 22:1-38 (Gospel)
-- John 13:1–17:26 (Gospel)
-- 1 Corinthians 11:23-26 (Epistle)
+- [Matthew 26:6-35](https://www.biblegateway.com/passage/?search=Matthew+26%3A6-35) (Gospel)
+- [Mark 14:3-31](https://www.biblegateway.com/passage/?search=Mark+14%3A3-31) (Gospel)
+- [Luke 22:1-38](https://www.biblegateway.com/passage/?search=Luke+22%3A1-38) (Gospel)
+- [John 13:1–17:26](https://www.biblegateway.com/passage/?search=John+13%3A1-17%3A26) (Gospel)
+- [1 Corinthians 11:23-26](https://www.biblegateway.com/passage/?search=1+Corinthians+11%3A23-26) (Epistle)
 
 **Historical Context:** During the Passover meal, Jesus institutes the Lord's Supper, washes the disciples' feet, and delivers His farewell discourse. He prepares them for His departure while establishing memorials and promises that will sustain them through the coming crisis.
 

@@ -11,12 +11,12 @@ description: "The gospel crosses from Asia to Europe"
 **When this Happened:** Macedonia and Greece - Paul's European ministry
 
 **Readings:**
-- Acts 16:6–18:22 (History)
-- Philippians 4:10-20 (Epistle)
-- Isaiah 60:1-3 (Prophecy)
-- Luke 2:29-32 (Gospel)
 
 **Historical Context:** Directed by the Spirit and a vision of a Macedonian man, Paul crosses into Europe. He establishes churches in Philippi, Thessalonica, Berea, Athens, and Corinth, encountering diverse cultures and varied responses to the gospel.
+ - [Acts 16:6–18:22 (History)](https://www.biblegateway.com/passage/?search=Acts+16%3A6-18%3A22)
+ - [Philippians 4:10-20 (Epistle)](https://www.biblegateway.com/passage/?search=Philippians+4%3A10-20)
+ - [Isaiah 60:1-3 (Prophecy)](https://www.biblegateway.com/passage/?search=Isaiah+60%3A1-3)
+ - [Luke 2:29-32 (Gospel)](https://www.biblegateway.com/passage/?search=Luke+2%3A29-32)
 
 **God's Bigger Plan:** The gospel's entry into Europe represents a crucial expansion that will eventually reach the ends of the earth. This westward movement begins the process that will see Christianity become a truly global faith.
 

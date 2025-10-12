@@ -11,10 +11,10 @@ description: "God becomes human to redeem humanity"
 **When this Happened:** Bethlehem and Nazareth - The birth of Jesus Christ
 
 **Readings:**
-- Matthew 1:1–2:23 (Gospel)
-- Luke 1:1–2:52 (Gospel)
-- John 1:1-18 (Gospel)
-- Philippians 2:5-11 (Epistle)
+- [Matthew 1:1–2:23](https://www.biblegateway.com/passage/?search=Matthew+1%3A1-2%3A23) (Gospel)
+- [Luke 1:1–2:52](https://www.biblegateway.com/passage/?search=Luke+1%3A1-2%3A52) (Gospel)
+- [John 1:1-18](https://www.biblegateway.com/passage/?search=John+1%3A1-18) (Gospel)
+- [Philippians 2:5-11](https://www.biblegateway.com/passage/?search=Philippians+2%3A5-11) (Epistle)
 
 **Historical Context:** After centuries of waiting, the promised Messiah is born in Bethlehem during the reign of Caesar Augustus. The incarnation fulfills specific Old Testament prophecies and represents God's ultimate revelation of Himself to humanity through His Son.
 

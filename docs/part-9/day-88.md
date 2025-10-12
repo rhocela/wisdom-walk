@@ -11,10 +11,10 @@ description: "Paul teaches that God's power is made perfect in weakness."
 **When this Happened:** Corinth - Paul's encouragement to a suffering church
 
 **Readings:**
-- 2 Corinthians 12:1-10 (Epistle)
-- Isaiah 40:28-31 (Prophecy)
-- Judges 7:1-22 (Narrative)
-- Matthew 5:3-12 (Gospel)
+- [2 Corinthians 12:1-10](https://www.biblegateway.com/passage/?search=2+Corinthians+12%3A1-10) (Epistle)
+- [Isaiah 40:28-31](https://www.biblegateway.com/passage/?search=Isaiah+40%3A28-31) (Prophecy)
+- [Judges 7:1-22](https://www.biblegateway.com/passage/?search=Judges+7%3A1-22) (Narrative)
+- [Matthew 5:3-12](https://www.biblegateway.com/passage/?search=Matthew+5%3A3-12) (Gospel)
 
 **Historical Context:** Paul shares his own struggles and "thorn in the flesh," teaching that God's grace is sufficient and His power is perfected in human weakness. The church is encouraged to rely on God's strength rather than their own.
 

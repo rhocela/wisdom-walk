@@ -11,10 +11,10 @@ description: "Paul encourages joy and contentment in all circumstances."
 **When this Happened:** Philippi - Paul's letter from prison
 
 **Readings:**
-- Philippians 4:4-13 (Epistle)
-- Psalm 16:8-11 (Poetry)
-- Daniel 6:10-23 (Narrative)
-- John 15:9-11 (Gospel)
+- [Philippians 4:4-13](https://www.biblegateway.com/passage/?search=Philippians+4%3A4-13) (Epistle)
+- [Psalm 16:8-11](https://www.biblegateway.com/passage/?search=Psalm+16%3A8-11) (Poetry)
+- [Daniel 6:10-23](https://www.biblegateway.com/passage/?search=Daniel+6%3A10-23) (Narrative)
+- [John 15:9-11](https://www.biblegateway.com/passage/?search=John+15%3A9-11) (Gospel)
 
 **Historical Context:** Writing from prison, Paul encourages the Philippians to rejoice always, regardless of circumstances. He models contentment and confidence in Christ, showing that joy is rooted in relationship with Jesus, not external situations.
 

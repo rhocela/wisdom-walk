@@ -11,14 +11,12 @@ description: "Jesus makes His final approach to the cross"
 **When this Happened:** On the road to Jerusalem - Jesus' final journey
 
 **Readings:**
-- Matthew 19:1–23:39 (Gospel)
-- Mark 11:1–12:44 (Gospel)
-- Luke 19:1–21:38 (Gospel)
-- John 11:1–12:50 (Gospel)
+- [Matthew 19:1–23:39](https://www.biblegateway.com/passage/?search=Matthew+19%3A1-23%3A39) (Gospel)
+- [Mark 11:1–12:44](https://www.biblegateway.com/passage/?search=Mark+11%3A1-12%3A44) (Gospel)
+- [Luke 19:1–21:38](https://www.biblegateway.com/passage/?search=Luke+19%3A1-21%3A38) (Gospel)
+- [John 11:1–12:50](https://www.biblegateway.com/passage/?search=John+11%3A1-12%3A50) (Gospel)
 
-**Historical Context:** Jesus makes His final journey to Jerusalem, teaching extensively about the kingdom, confronting religious leaders, and preparing His disciples for what's coming. His triumphal entry fulfills messianic prophecy while the religious leaders plot His death.
-
-**God's Bigger Plan:** Jesus' deliberate journey to Jerusalem demonstrates His willing obedience to the Father's plan. His teachings during this period focus on the cost of discipleship and the judgment coming on those who reject Him, while His entry as king fulfills prophecy.
+**Historical Context:** Jesus makes His final journey to Jerusalem, teaching extensively about the kingdom, confronting religious leaders, and preparing His disciples for what's coming. His teachings during this period focus on the cost of discipleship and the judgment coming on those who reject Him, while His entry as king fulfills prophecy.
 
 **Connecting the Dots:** All Gospels emphasize this final journey and its significance. Matthew records extensive teaching about the kingdom and judgment. Mark shows Jesus' authority challenged in the temple. Luke includes unique parables about grace and judgment. John adds the raising of Lazarus and its consequences.
 

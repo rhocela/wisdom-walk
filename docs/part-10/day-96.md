@@ -11,10 +11,10 @@ description: "John witnesses God's judgments and the prayers of the saints."
 **When this Happened:** Heaven and earth - visions of judgment and intercession
 
 **Readings:**
-- Revelation 6:1–8:13 (Apocalypse)
-- Joel 2:1-11 (Prophecy)
-- Exodus 7:14–12:30 (Narrative)
-- Luke 21:25-28 (Gospel)
+- [Revelation 6:1–8:13](https://www.biblegateway.com/passage/?search=Revelation+6%3A1-8%3A13) (Apocalypse)
+- [Joel 2:1-11](https://www.biblegateway.com/passage/?search=Joel+2%3A1-11) (Prophecy)
+- [Exodus 7:14–12:30](https://www.biblegateway.com/passage/?search=Exodus+7%3A14-12%3A30) (Narrative)
+- [Luke 21:25-28](https://www.biblegateway.com/passage/?search=Luke+21%3A25-28) (Gospel)
 
 **Historical Context:** John sees the Lamb open seven seals, unleashing judgments on the earth. The prayers of the saints rise before God, and seven trumpets announce further judgments, echoing the plagues of Egypt and prophetic warnings.
 

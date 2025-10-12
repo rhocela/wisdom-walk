@@ -11,10 +11,10 @@ description: "Paul urges believers to offer themselves as living sacrifices."
 **When this Happened:** Rome - Paul's exhortation to the church
 
 **Readings:**
-- Romans 12:1-21 (Epistle)
-- Psalm 51:16-17 (Poetry)
-- Genesis 22:1-14 (Narrative)
-- Matthew 16:24-27 (Gospel)
+- [Romans 12:1-21](https://www.biblegateway.com/passage/?search=Romans+12%3A1-21) (Epistle)
+- [Psalm 51:16-17](https://www.biblegateway.com/passage/?search=Psalm+51%3A16-17) (Poetry)
+- [Genesis 22:1-14](https://www.biblegateway.com/passage/?search=Genesis+22%3A1-14) (Narrative)
+- [Matthew 16:24-27](https://www.biblegateway.com/passage/?search=Matthew+16%3A24-27) (Gospel)
 
 **Historical Context:** Paul calls the Roman believers to present their bodies as living sacrifices, holy and pleasing to God, marking a shift from ritual offerings to a life of spiritual worship and transformation.
 

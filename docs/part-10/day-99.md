@@ -11,10 +11,10 @@ description: "John sees Christ's triumphant return and the defeat of evil."
 **When this Happened:** Earth - Christ's second coming and final victory
 
 **Readings:**
-- Revelation 19:11–20:15 (Apocalypse)
-- Zechariah 14:1-9 (Prophecy)
-- Exodus 19:16-25 (Narrative)
-- Matthew 25:31-46 (Gospel)
+- [Revelation 19:11–20:15](https://www.biblegateway.com/passage/?search=Revelation+19%3A11-20%3A15) (Apocalypse)
+- [Zechariah 14:1-9](https://www.biblegateway.com/passage/?search=Zechariah+14%3A1-9) (Prophecy)
+- [Exodus 19:16-25](https://www.biblegateway.com/passage/?search=Exodus+19%3A16-25) (Narrative)
+- [Matthew 25:31-46](https://www.biblegateway.com/passage/?search=Matthew+25%3A31-46) (Gospel)
 
 **Historical Context:** John witnesses the return of Christ, the defeat of the beast and false prophet, and the final judgment. Evil is vanquished, and God's kingdom is established in power and glory.
 

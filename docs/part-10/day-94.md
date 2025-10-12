@@ -11,10 +11,10 @@ description: "John's vision of the risen Christ and the letters to the churches.
 **When this Happened:** Patmos - John's vision of Jesus and the churches
 
 **Readings:**
-- Revelation 1:1–3:22 (Apocalypse)
-- Daniel 7:9-14 (Prophecy)
-- Exodus 3:1-6 (Narrative)
-- John 14:1-7 (Gospel)
+- [Revelation 1:1–3:22](https://www.biblegateway.com/passage/?search=Revelation+1%3A1-3%3A22) (Apocalypse)
+- [Daniel 7:9-14](https://www.biblegateway.com/passage/?search=Daniel+7%3A9-14) (Prophecy)
+- [Exodus 3:1-6](https://www.biblegateway.com/passage/?search=Exodus+3%3A1-6) (Narrative)
+- [John 14:1-7](https://www.biblegateway.com/passage/?search=John+14%3A1-7) (Gospel)
 
 **Historical Context:** John, exiled on Patmos, receives a vision of the glorified Christ and messages for seven churches. The vision reveals Jesus' majesty, authority, and care for His people in times of trial.
 

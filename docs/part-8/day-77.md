@@ -11,15 +11,13 @@ description: "Jesus conquers death and validates His claims"
 **When this Happened:** Jerusalem - Jesus' resurrection on the third day
 
 **Readings:**
-- Matthew 28:1-20 (Gospel)
-- Mark 16:1-20 (Gospel)
-- Luke 24:1-53 (Gospel)
-- John 20:1–21:25 (Gospel)
-- 1 Corinthians 15:1-58 (Epistle)
+- [Matthew 28:1-20](https://www.biblegateway.com/passage/?search=Matthew+28%3A1-20) (Gospel)
+- [Mark 16:1-20](https://www.biblegateway.com/passage/?search=Mark+16%3A1-20) (Gospel)
+- [Luke 24:1-53](https://www.biblegateway.com/passage/?search=Luke+24%3A1-53) (Gospel)
+- [John 20:1–21:25](https://www.biblegateway.com/passage/?search=John+20%3A1-21%3A25) (Gospel)
+- [1 Corinthians 15:1-58](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A1-58) (Epistle)
 
-**Historical Context:** On the first day of the week, women discover Jesus' empty tomb and encounter the risen Lord. Over the next forty days, Jesus appears to His disciples multiple times, proving His resurrection and commissioning them for worldwide ministry.
-
-**God's Bigger Plan:** The resurrection validates everything Jesus claimed about Himself and accomplishes our justification. It demonstrates God's acceptance of Christ's sacrifice and guarantees the future resurrection of all believers, making it the cornerstone of Christian faith.
+**Historical Context:** On the first day of the week, women discover Jesus' empty tomb and encounter the risen Lord. It demonstrates God's acceptance of Christ's sacrifice and guarantees the future resurrection of all believers, making it the cornerstone of Christian faith.
 
 **Connecting the Dots:** All Gospels climax with resurrection accounts, each contributing unique details. Paul provides the most theological explanation of the resurrection's significance for Christian faith and future hope.
 

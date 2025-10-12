@@ -11,14 +11,12 @@ description: "Jesus begins His public ministry proclaiming God's kingdom"
 **When this Happened:** Galilee - Jesus begins preaching and calling disciples
 
 **Readings:**
-- Matthew 4:12–5:48 (Gospel)
-- Mark 1:14–2:28 (Gospel)
-- Luke 4:14–6:49 (Gospel)
-- John 2:1–4:54 (Gospel)
+- [Matthew 4:12–5:48](https://www.biblegateway.com/passage/?search=Matthew+4%3A12-5%3A48) (Gospel)
+- [Mark 1:14–2:28](https://www.biblegateway.com/passage/?search=Mark+1%3A14-2%3A28) (Gospel)
+- [Luke 4:14–6:49](https://www.biblegateway.com/passage/?search=Luke+4%3A14-6%3A49) (Gospel)
+- [John 2:1–4:54](https://www.biblegateway.com/passage/?search=John+2%3A1-4%3A54) (Gospel)
 
-**Historical Context:** After John's imprisonment, Jesus begins His public ministry in Galilee, proclaiming the kingdom of heaven and calling disciples. His teachings and miracles demonstrate the power and character of God's kingdom breaking into the world.
-
-**God's Bigger Plan:** Jesus' announcement of the kingdom fulfills Old Testament prophecies about God's reign on earth. His teachings in the Sermon on the Mount reveal the character required for kingdom citizenship, while His miracles demonstrate kingdom power over disease, demons, and death.
+**Historical Context:** After John's imprisonment, Jesus begins His public ministry in Galilee, proclaiming the kingdom of heaven and calling disciples. His teachings in the Sermon on the Mount reveal the character required for kingdom citizenship, while His miracles demonstrate kingdom power over disease, demons, and death.
 
 **Connecting the Dots:** Matthew includes the Sermon on the Mount, outlining kingdom principles. Mark emphasizes Jesus' authority and power. Luke shows Jesus' mission to all people, including outcasts. John records early signs that reveal Jesus' glory and build faith.
 

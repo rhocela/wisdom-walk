@@ -11,10 +11,10 @@ description: "John sees the cosmic battle between good and evil."
 **When this Happened:** Heaven and earth - visions of spiritual warfare
 
 **Readings:**
-- Revelation 12:1–13:18 (Apocalypse)
-- Daniel 7:15-27 (Prophecy)
-- Exodus 14:10-31 (Narrative)
-- Matthew 24:15-28 (Gospel)
+- [Revelation 12:1–13:18](https://www.biblegateway.com/passage/?search=Revelation+12%3A1-13%3A18) (Apocalypse)
+- [Daniel 7:15-27](https://www.biblegateway.com/passage/?search=Daniel+7%3A15-27) (Prophecy)
+- [Exodus 14:10-31](https://www.biblegateway.com/passage/?search=Exodus+14%3A10-31) (Narrative)
+- [Matthew 24:15-28](https://www.biblegateway.com/passage/?search=Matthew+24%3A15-28) (Gospel)
 
 **Historical Context:** John witnesses the cosmic struggle between the dragon (Satan), the beast, and God's people. The vision reveals the reality of spiritual warfare and the perseverance required of believers.
 

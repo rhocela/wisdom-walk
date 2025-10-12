@@ -11,12 +11,12 @@ description: "From Jerusalem to Rome - the gospel reaches the capital"
 **When this Happened:** Jerusalem to Rome - Paul's arrest and journey
 
 **Readings:**
-- Acts 21:17–28:31 (History)
-- 2 Timothy 4:6-18 (Epistle)
-- Psalm 2:8 (Prophecy)
-- Mark 13:10 (Gospel)
 
 **Historical Context:** Paul returns to Jerusalem where he's arrested and begins a two-year legal process. After appealing to Caesar, he's transported to Rome where he spends two years under house arrest, continuing to preach the gospel to all who visit him.
+ - [Acts 21:17–28:31 (History)](https://www.biblegateway.com/passage/?search=Acts+21%3A17-28%3A31)
+ - [2 Timothy 4:6-18 (Epistle)](https://www.biblegateway.com/passage/?search=2+Timothy+4%3A6-18)
+ - [Psalm 2:8 (Prophecy)](https://www.biblegateway.com/passage/?search=Psalm+2%3A8)
+ - [Mark 13:10 (Gospel)](https://www.biblegateway.com/passage/?search=Mark+13%3A10)
 
 **God's Bigger Plan:** Even in chains, Paul fulfills his calling to take the gospel to the Gentiles and kings. His arrival in Rome, the empire's capital, symbolizes the gospel's unstoppable advance to the ends of the earth.
 
