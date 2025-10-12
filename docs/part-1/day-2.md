@@ -21,7 +21,7 @@ description: "Explore humanity's unique design as God's image bearers"
 
 **Redemptive Significance:** Understanding humanity as image bearers explains both our dignity and our fallenness. Redemption involves restoring the image of God in us through Christ.
 
-**Why These Passages Connect:** Genesis provides the foundational account of humanity being created in God's image with dominion over creation. Psalm 8 marvels at humanity's exalted position despite our apparent insignificance. Ephesians and Colossians describe how the image of God is renewed in believers through Christ. James warns against dishonoring those made in God's image.
+**Why These Passages Connect:** Genesis provides the foundational account of humanity being created in God's image with dominion over creation. Psalm 8 marvels at humanity's exalted position despite our apparent insignificance. Ephesians and Colossians describe how the image of God is renewed in believers through Christ. James warns against dishonoring those made in God's image. 
 
 **Theological Threads:**
 - **Imago Dei:** Made in God's image and likeness

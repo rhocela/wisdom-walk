@@ -11,6 +11,7 @@ description: "Explore how Christ spoke the universe into existence"
 **When this Happened:** Before time began - the eternal Word creates
 
 **Readings:**
+ - [Genesis 1:1–2:3](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-2%3A3) (Narrative)
  - [Psalm 33:6-9](https://www.biblegateway.com/passage/?search=Psalm+33%3A6-9&version=ESV) (Poetry)
  - [John 1:1-5](https://www.biblegateway.com/passage/?search=John+1%3A1-5&version=ESV) (Gospel)
  - [Colossians 1:15-17](https://www.biblegateway.com/passage/?search=Colossians+1%3A15-17&version=ESV) (Epistle)
