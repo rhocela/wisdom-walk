@@ -8,7 +8,7 @@ description: "Deliverance through the blood of the lamb"
 
 **Day:** 21
 
-**When This Happened:** Egypt - The night of deliverance through blood sacrifice
+**When this Happened:** Egypt - The night of deliverance through blood sacrifice
 
 **Readings:**
 - Exodus 12:1–13:16 (Narrative)
@@ -23,7 +23,7 @@ description: "Deliverance through the blood of the lamb"
 
 **Connecting the Dots:** Exodus establishes the Passover institution and its meaning. Paul identifies Christ as our Passover lamb. Peter describes redemption through Christ's precious blood. John records the Baptist's declaration of Jesus as "the Lamb of God." Revelation celebrates the Lamb who was slain.
 
-**Key Truths:**
+****Theological Threads:****
 - **Substitutionary Sacrifice:** The lamb dies in place of the firstborn
 - **Blood Redemption:** Deliverance through sacrificial death
 - **Typological Fulfillment:** Passover lamb points to Christ

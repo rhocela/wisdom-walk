@@ -8,7 +8,7 @@ description: "Explore Joseph's forgiveness and family restoration"
 
 **Day:** 17
 
-**When This Happened:** Egypt - Joseph reveals himself and forgives his brothers
+**When this Happened:** Egypt - Joseph reveals himself and forgives his brothers
 
 **Readings:**
 - Genesis 42:1–50:26 (Narrative)
@@ -23,7 +23,7 @@ description: "Explore Joseph's forgiveness and family restoration"
 
 **Connecting the Dots:** Genesis details the full story of reconciliation and forgiveness. Jesus teaches the necessity of forgiveness in the Lord's Prayer. Paul instructs believers not to take revenge but to overcome evil with good. Both Ephesians and Colossians command forgiveness as Christ has forgiven us.
 
-**Key Truths:**
+****Theological Threads:****
 - **Divine Redemption:** God turns evil intentions for good
 - **Gracious Forgiveness:** Extending mercy despite suffering
 - **Family Restoration:** Broken relationships healed

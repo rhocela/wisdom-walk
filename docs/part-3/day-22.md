@@ -8,7 +8,7 @@ description: "Miraculous victory through water"
 
 **Day:** 22
 
-**When This Happened:** Red Sea - Miraculous deliverance from Egyptian pursuit
+**When this Happened:** Red Sea - Miraculous deliverance from Egyptian pursuit
 
 **Readings:**
 - Exodus 14:1–15:21 (Narrative)
@@ -22,7 +22,7 @@ description: "Miraculous victory through water"
 
 **Connecting the Dots:** Exodus records the miracle and Moses' song of victory. Paul interprets the crossing as baptism and warns against presumption. Hebrews highlights the faith required to cross. The Psalm recounts God's wonders but notes Israel's quick forgetfulness.
 
-**Key Truths:**
+****Theological Threads:****
 - **Complete Deliverance:** No partial salvation, full rescue from bondage
 - **Baptismal Symbolism:** Death to old life, resurrection to new
 - **Divine Warrior:** God fights for His people

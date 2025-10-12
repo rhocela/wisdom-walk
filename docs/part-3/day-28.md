@@ -8,7 +8,7 @@ description: "Forty years of wandering due to unbelief"
 
 **Day:** 28
 
-**When This Happened:** Wilderness - Forty years of wandering due to unbelief
+**When this Happened:** Wilderness - Forty years of wandering due to unbelief
 
 **Readings:**
 - Numbers 13:1–14:45, 20:1-13, 27:12-23 (Narrative)
@@ -22,7 +22,7 @@ description: "Forty years of wandering due to unbelief"
 
 **Connecting the Dots:** Numbers records the key events of the wilderness period. Psalm 95 warns against hardening hearts like the wilderness generation. Hebrews uses this as an extended warning about the danger of unbelief. Paul sees these events as examples and warnings for believers.
 
-**Key Truths:**
+****Theological Threads:****
 - **Consequences of Unbelief:** Lack of faith prevents entering God's rest
 - **Divine Patience:** God sustains the people despite their rebellion
 - **Faithful Remnant:** Some like Joshua and Caleb maintain faith

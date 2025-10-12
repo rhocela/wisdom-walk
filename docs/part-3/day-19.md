@@ -8,7 +8,7 @@ description: "God calls Moses to deliver Israel from bondage"
 
 **Day:** 19
 
-**When This Happened:** Mount Horeb - God calls Moses to deliver Israel
+**When this Happened:** Mount Horeb - God calls Moses to deliver Israel
 
 **Readings:**
 - Exodus 3:1–4:31 (Narrative)
@@ -22,7 +22,7 @@ description: "God calls Moses to deliver Israel from bondage"
 
 **Connecting the Dots:** Exodus details God's call and Moses' reluctant acceptance. Acts emphasizes Moses as a type of Christ, rejected by his people but appointed by God as deliverer. Hebrews commends Moses' faith in choosing God's people over Egyptian privilege. Jesus uses God's self-revelation to Moses to prove the resurrection.
 
-**Key Truths:**
+****Theological Threads:****
 - **Divine Self-Revelation:** God reveals His covenant name and nature
 - **Reluctant Calling:** God uses unlikely instruments
 - **Holy Ground:** Divine presence sanctifies ordinary places

@@ -8,7 +8,7 @@ description: "From welcome guests to enslaved nation in Egypt"
 
 **Day:** 18
 
-**When This Happened:** Egypt - From welcome guests to enslaved nation
+**When this Happened:** Egypt - From welcome guests to enslaved nation
 
 **Readings:**
 - Exodus 1:1–2:25 (Narrative)
@@ -22,7 +22,7 @@ description: "From welcome guests to enslaved nation in Egypt"
 
 **Connecting the Dots:** Exodus describes the beginning of oppression and Moses' early life. Acts summarizes this period as part of God's plan. Hebrews celebrates the faith of Moses' parents and Moses himself. Psalm 105 shows how God allowed this situation to develop His people.
 
-**Key Truths:**
+****Theological Threads:****
 - **Divine Sovereignty:** God allows trials to accomplish His purposes
 - **Faithful Preservation:** God protects His people in danger
 - **Preparation for Deliverance:** Bondage creates longing for freedom

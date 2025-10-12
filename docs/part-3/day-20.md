@@ -8,7 +8,7 @@ description: "Ten plagues demonstrate God's power over Pharaoh"
 
 **Day:** 20
 
-**When This Happened:** Egypt - The ten plagues demonstrate God's power
+**When this Happened:** Egypt - The ten plagues demonstrate God's power
 
 **Readings:**
 - Exodus 5:1–11:10 (Narrative)
@@ -22,7 +22,7 @@ description: "Ten plagues demonstrate God's power over Pharaoh"
 
 **Connecting the Dots:** Exodus narrates the confrontation and plagues. Psalm 78 recounts God's wonders in Egypt as part of Israel's history. Romans uses Pharaoh to illustrate God's sovereignty in judgment. Revelation shows similar plagues in the final judgment.
 
-**Key Truths:**
+****Theological Threads:****
 - **Divine Supremacy:** God's power over false gods and human authority
 - **Hardened Hearts:** Resistance to God leads to judgment
 - **Progressive Judgment:** Escalating consequences for rebellion

@@ -8,7 +8,7 @@ description: "God's instructions for His dwelling place among His people"
 
 **Day:** 26
 
-**When This Happened:** Mount Sinai - Instructions for and construction of the tabernacle
+**When this Happened:** Mount Sinai - Instructions for and construction of the tabernacle
 
 **Readings:**
 - Exodus 25:1–31:18, 35:1–40:38 (Narrative)
@@ -22,7 +22,7 @@ description: "God's instructions for His dwelling place among His people"
 
 **Connecting the Dots:** Exodus gives the detailed instructions and construction account. Hebrews explains that the earthly tabernacle was a copy of heavenly realities, fulfilled in Christ's ministry. John declares that the Word became flesh and "tabernacled" among us. Revelation promises God will dwell with His people forever.
 
-**Key Truths:**
+****Theological Threads:****
 - **Divine Presence:** God desires to dwell with His people
 - **Sacred Space:** Holiness requires proper approach to God
 - **Typological Fulfillment:** Tabernacle points to Christ and heaven

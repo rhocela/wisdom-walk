@@ -8,7 +8,7 @@ description: "God provides manna and water in the wilderness"
 
 **Day:** 23
 
-**When This Happened:** Wilderness of Sin and Rephidim - God provides for physical needs
+**When this Happened:** Wilderness of Sin and Rephidim - God provides for physical needs
 
 **Readings:**
 - Exodus 16:1–17:7 (Narrative)
@@ -22,7 +22,7 @@ description: "God provides manna and water in the wilderness"
 
 **Connecting the Dots:** Exodus describes God's provision and Israel's complaints. Numbers gives details about the manna. Jesus uses the manna to teach about Himself as the true bread from heaven. Paul identifies Christ as the spiritual rock that provided water.
 
-**Key Truths:**
+****Theological Threads:****
 - **Divine Provision:** God supplies all physical and spiritual needs
 - **Daily Dependence:** Learning to trust God one day at a time
 - **Christ Prefigured:** Manna and water point to Jesus

@@ -8,7 +8,7 @@ description: "Israel's apostasy breaks the newly established covenant"
 
 **Day:** 25
 
-**When This Happened:** Mount Sinai - Israel's apostasy while Moses receives the law
+**When this Happened:** Mount Sinai - Israel's apostasy while Moses receives the law
 
 **Readings:**
 - Exodus 32:1–34:35 (Narrative)
@@ -22,7 +22,7 @@ description: "Israel's apostasy breaks the newly established covenant"
 
 **Connecting the Dots:** Exodus tells the complete story of apostasy and restoration. Paul uses this as a warning against idolatry and presumption. Stephen includes it in his indictment of Israel's rebellious history. Romans describes the general human tendency to exchange God's glory for images.
 
-**Key Truths:**
+****Theological Threads:****
 - **Human Depravity:** Quick turn to idolatry despite experiencing God's power
 - **Covenant Breaking:** Violation brings serious consequences
 - **Divine Mercy:** God provides opportunity for renewal

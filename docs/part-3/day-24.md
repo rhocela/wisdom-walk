@@ -8,7 +8,7 @@ description: "God gives the law to establish covenant relationship"
 
 **Day:** 24
 
-**When This Happened:** Mount Sinai - God gives the law to establish covenant relationship
+**When this Happened:** Mount Sinai - God gives the law to establish covenant relationship
 
 **Readings:**
 - Exodus 19:1–24:18 (Narrative)
@@ -22,7 +22,7 @@ description: "God gives the law to establish covenant relationship"
 
 **Connecting the Dots:** Exodus narrates the giving of the law with thunder and lightning. Deuteronomy retells the commandments for the new generation. Galatians explains the law's purpose as a guardian until Christ came. Hebrews contrasts Mount Sinai's terror with Mount Zion's grace.
 
-**Key Truths:**
+****Theological Threads:****
 - **Divine Holiness:** God's moral perfection revealed in law
 - **Covenant Relationship:** Law defines terms of relationship with God
 - **Human Sinfulness:** Law reveals inability to meet God's standards

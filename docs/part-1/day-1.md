@@ -8,7 +8,7 @@ description: "Explore how Christ spoke the universe into existence"
 
 **Day:** 1
 
-**When This Happened:** Before time began - the eternal Word creates
+**When this Happened:** Before time began - the eternal Word creates
 
 **Readings:**
 - Genesis 1:1–2:3 (Narrative)
@@ -23,7 +23,7 @@ description: "Explore how Christ spoke the universe into existence"
 
 **Connecting the Dots:** Genesis reveals the historical fact of creation by God's word. Psalm 33 celebrates the power of God's creative word. John identifies Jesus as the eternal Word through whom all things were made. Colossians shows Christ as the image of the invisible God and agent of creation. Hebrews describes the Son as the radiance of God's glory who sustains all things.
 
-**Key Truths:**
+****Theological Threads:****
 - **Creation by Word:** God speaks reality into existence
 - **Divine Order:** Everything has its proper place and purpose  
 - **Christological Focus:** Christ as agent of creation
@@ -35,15 +35,3 @@ description: "Explore how Christ spoke the universe into existence"
 3. How should knowing you're created by God affect your daily life?
 
 ---
-
-## Understanding This Study Format
-
-**When This Happened:** Places each theme in its proper time period within the biblical story, helping you see how events unfold chronologically.
-
-**Historical Context:** Provides the background and circumstances surrounding the biblical events, helping you understand what was happening at that time.
-
-**God's Bigger Plan:** Shows how each theme fits into God's overall plan of salvation, connecting creation to redemption through Christ.
-
-**Why These Passages Connect:** Explains how the different Bible passages work together to reveal the same truth from multiple perspectives.
-
-**Key Truths:** Highlights the main theological themes (doctrinal concepts) that emerge from the study, showing what we learn about God and His ways.

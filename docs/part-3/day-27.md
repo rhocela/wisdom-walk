@@ -8,7 +8,7 @@ description: "Priesthood and sacrifice system established"
 
 **Day:** 27
 
-**When This Happened:** Mount Sinai - Establishing the priesthood and sacrificial system
+**When this Happened:** Mount Sinai - Establishing the priesthood and sacrificial system
 
 **Readings:**
 - Leviticus 1:1–10:20, 16:1-34 (Law)
@@ -22,7 +22,7 @@ description: "Priesthood and sacrifice system established"
 
 **Connecting the Dots:** Leviticus establishes the sacrificial system and priesthood. Hebrews extensively explains how Christ fulfills and supersedes the Levitical system. Peter describes believers as a royal priesthood. Revelation celebrates Christ making believers priests to God.
 
-**Key Truths:**
+****Theological Threads:****
 - **Substitutionary Atonement:** Life for life, blood for blood
 - **Priestly Mediation:** Need for mediator between God and humanity
 - **Perfect Sacrifice:** Christ as the ultimate offering
