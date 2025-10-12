@@ -4,41 +4,159 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
+/* Blue Primary (Man: Truth + Divinity) - Wisdom Walk Color Theme */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  /* Primary: Deep Blue (Man) */
+  --ifm-color-primary: #3E6FB0;
+  --ifm-color-primary-dark: #355f9d;
+  --ifm-color-primary-darker: #2e508a;
+  --ifm-color-primary-darkest: #274177;
+  --ifm-color-primary-light: #477ec3;
+  --ifm-color-primary-lighter: #508dd6;
+  --ifm-color-primary-lightest: #599ce9;
+  
+  /* Secondary: Muted Gold (Ox) */
+  --ifm-color-secondary: #C8A951;
+  --ifm-color-secondary-dark: #b59947;
+  --ifm-color-secondary-darker: #a2893d;
+  --ifm-color-secondary-darkest: #8f7933;
+  --ifm-color-secondary-light: #d1b25b;
+  --ifm-color-secondary-lighter: #dabb65;
+  --ifm-color-secondary-lightest: #e3c46f;
+  
+  /* Accent 1: Royal Purple (King) */
+  --ifm-color-info: #6C4AB6;
+  --ifm-color-info-dark: #5d3fa3;
+  --ifm-color-info-darker: #4e3590;
+  --ifm-color-info-darkest: #3f2a7d;
+  
+  /* Accent 2: Warm Crimson (Lion) */
+  --ifm-color-warning: #B64848;
+  --ifm-color-warning-dark: #a33e3e;
+  --ifm-color-warning-darker: #903434;
+  --ifm-color-warning-darkest: #7d2a2a;
+  
+  /* Background colors */
+  --ifm-background-color: #F9FAFB;
+  --ifm-background-surface-color: #ffffff;
+  
+  /* Text colors */
+  --ifm-font-color-base: #1E1E1E;
+  --ifm-font-color-base-inverse: #ffffff;
+  
+  /* Emphasis colors */
+  --ifm-color-emphasis-0: #E6E6E6;
+  --ifm-color-emphasis-100: #dddddd;
+  --ifm-color-emphasis-200: #cccccc;
+  --ifm-color-emphasis-300: #505050;
+  
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --docusaurus-highlighted-code-line-bg: rgba(62, 111, 176, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Dark mode: Sky blue with accent colors */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  /* Primary: Sky Blue (Man) */
+  --ifm-color-primary: #6EA7E0;
+  --ifm-color-primary-dark: #5b9bd9;
+  --ifm-color-primary-darker: #488fd2;
+  --ifm-color-primary-darkest: #3583cb;
+  --ifm-color-primary-light: #81b3e7;
+  --ifm-color-primary-lighter: #94bfee;
+  --ifm-color-primary-lightest: #a7cbf5;
+  
+  /* Secondary: Pale Gold (Ox) */
+  --ifm-color-secondary: #E5C97A;
+  --ifm-color-secondary-dark: #e0c26b;
+  --ifm-color-secondary-darker: #dbbb5c;
+  --ifm-color-secondary-darkest: #d6b44d;
+  --ifm-color-secondary-light: #e9cd83;
+  --ifm-color-secondary-lighter: #edd18c;
+  --ifm-color-secondary-lightest: #f1d595;
+  
+  /* Accent 1: Lavender Purple (King) */
+  --ifm-color-info: #A78BEA;
+  --ifm-color-info-dark: #9b7de6;
+  --ifm-color-info-darker: #8f6fe2;
+  --ifm-color-info-darkest: #8361de;
+  
+  /* Accent 2: Soft Red (Lion) */
+  --ifm-color-warning: #E06464;
+  --ifm-color-warning-dark: #dc5555;
+  --ifm-color-warning-darker: #d84646;
+  --ifm-color-warning-darkest: #d43737;
+  
+  /* Dark backgrounds */
+  --ifm-background-color: #101010;
+  --ifm-background-surface-color: #1B1B1B;
+  
+  /* Text colors for dark mode */
+  --ifm-font-color-base: #EEEEEE;
+  --ifm-font-color-base-inverse: #101010;
+  
+  /* Muted text */
+  --ifm-color-emphasis-300: #AAAAAA;
+  
+  --docusaurus-highlighted-code-line-bg: rgba(110, 167, 224, 0.2);
 }
 
-/* Custom subtitle styling */
+/* Custom subtitle styling - muted gold accent from Ox symbol */
 .subtitle {
-  font-size: 1.9rem;
+  font-size: 1.6rem;
   font-weight: 400;
-  color: var(--ifm-color-emphasis-700);
+  color: var(--ifm-color-secondary-dark);
   margin-top: -0.5rem;
   margin-bottom: 2rem;
   line-height: 1.4;
+  border-bottom: 2px solid var(--ifm-color-emphasis-200);
+  padding-bottom: 0.5rem;
 }
 
 [data-theme='dark'] .subtitle {
-  color: var(--ifm-color-emphasis-600);
+  color: var(--ifm-color-secondary-light);
+  border-bottom-color: var(--ifm-color-primary-darker);
+}
+
+/* Blue as the calm, dominant color for headers and call-to-actions */
+.hero__title {
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+}
+
+[data-theme='dark'] .hero__title {
+  color: var(--ifm-color-primary-light);
+}
+
+/* Purple for richness - headers and secondary buttons */
+h1, h2 {
+  color: var(--ifm-color-info-dark);
+}
+
+[data-theme='dark'] h1, 
+[data-theme='dark'] h2 {
+  color: var(--ifm-color-info);
+}
+
+/* Red for passion and key emphasis - Scripture highlights */
+.admonition-content strong,
+.markdown strong {
+  color: var(--ifm-color-warning-dark);
+}
+
+[data-theme='dark'] .admonition-content strong,
+[data-theme='dark'] .markdown strong {
+  color: var(--ifm-color-warning);
+}
+
+/* Quote styling using Royal Purple (King) for theological content */
+blockquote {
+  border-left: 4px solid var(--ifm-color-info);
+  background-color: rgba(108, 74, 182, 0.05);
+  color: var(--ifm-color-info-darkest);
+}
+
+[data-theme='dark'] blockquote {
+  border-left-color: var(--ifm-color-info);
+  background-color: rgba(167, 139, 234, 0.1);
+  color: var(--ifm-color-info-light);
 }
