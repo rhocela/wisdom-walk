@@ -1,18 +1,18 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  padding: 4rem 0 2rem 0;
   width: 100%;
 }
 
 .featureSvg {
   /* Set container size */
-  width: 150px;
-  height: 150px;
-  max-width: 150px;
-  max-height: 150px;
+  width: 200px; 
+  height: 200px;
+  max-width: 200px;
+  max-height: 200px;
   /* Scale the SVG to a good size */
-  transform: scale(.7);
+  transform: scale(.8);
   transform-origin: center center;
   /* Center the SVG */
   margin: 0 auto 1rem auto;
