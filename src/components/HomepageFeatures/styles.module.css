@@ -6,6 +6,17 @@
 }
 
 .featureSvg {
-  height: 200px;
-  width: 200px;
+  /* Set container size */
+  width: 150px;
+  height: 150px;
+  max-width: 150px;
+  max-height: 150px;
+  /* Scale the SVG to a smaller size that won't overlap text */
+  transform: scale(0.25);
+  transform-origin: center center;
+  /* Center the SVG */
+  margin: 0 auto 1rem auto;
+  display: block;
+  /* Ensure overflow is visible */
+  overflow: visible;
 }
