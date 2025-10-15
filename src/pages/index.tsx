@@ -21,7 +21,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Start Bible Study Journey ✨
+            Let's go!
           </Link>
         </div>
       </div>

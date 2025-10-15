@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Wisdom Walk',
-  tagline: 'Reading the Whole Bible with Purpose',
+  tagline: 'Reading the Word ✨ with purpose',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -97,44 +97,44 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Study',
-          items: [
-            {
-              label: 'Bible Study Guide',
-              to: '/docs/intro',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'GitHub Discussions',
-              href: 'https://github.com/rhocela/wisdom-walk/discussions',
-            },
-            {
-              label: 'Issues',
-              href: 'https://github.com/rhocela/wisdom-walk/issues',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/rhocela/wisdom-walk',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} Wisdom Walk Bible Study. Built with Docusaurus.`,
+      // links: [
+      //   {
+      //     title: 'Study',
+      //     items: [
+      //       {
+      //         label: 'Bible Study Guide',
+      //         to: '/docs/intro',
+      //       },
+      //     ],
+      //   },
+      //   {
+      //     title: 'Community',
+      //     items: [
+      //       {
+      //         label: 'GitHub Discussions',
+      //         href: 'https://github.com/rhocela/wisdom-walk/discussions',
+      //       },
+      //       {
+      //         label: 'Issues',
+      //         href: 'https://github.com/rhocela/wisdom-walk/issues',
+      //       },
+      //     ],
+      //   },
+      //   {
+      //     title: 'More',
+      //     items: [
+      //       {
+      //         label: 'Blog',
+      //         to: '/blog',
+      //       },
+      //       {
+      //         label: 'GitHub',
+      //         href: 'https://github.com/rhocela/wisdom-walk',
+      //       },
+      //     ],
+      //   },
+      // ],
+      copyright: `Copyright © ${new Date().getFullYear()} Wisdom Walk.`,
     },
     prism: {
       theme: prismThemes.github,

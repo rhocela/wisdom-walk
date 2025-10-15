@@ -31,7 +31,6 @@ Each theme (day) has its own page with following details:
 While this plan is designed to be a 100-day journey, read it at your own pace. Quality over speed is the goal. Take your time, meditate on the passages and their connections, ask the Holy Spirit for insights, and enjoy the journey!
 :::
 
- I hope this study deepens your understanding of **God**'s heart, the person of the **Holy Spirit**, and our salvation through **Jesus Christ**.
 
 
 ## Literary Genres Explained
@@ -48,54 +47,10 @@ Each Bible reading includes its literary genre to help you understand how to rea
 
 👉🏻 Read more about the [literary genres in the Bible](https://en.wikipedia.org/wiki/Biblical_genre).
 
+## Let's Go!
 
-## Conclusion: The Whole Bible Story
+All 1,189 chapters are distributed across 100 chronologically-arranged themes, ensuring every verse from Genesis 1:1 to Revelation 22:21 is included exactly once while maintaining both historical sequence and thematic unity.
 
-This chronological-thematic reading plan has taken us from "In the beginning, God created" to "Come, Lord Jesus"—the complete story of God's redemptive plan for humanity and all creation. Every theme has shown how all Scripture points to Christ and His work of salvation.
+I hope this study deepens your understanding of **God**'s heart, the person of the **Holy Spirit**, and our salvation through **Jesus Christ**.
 
-**Key Themes Traced Throughout:**
-- **Creation and Fall:** God's original purpose and humanity's rebellion
-- **Promise and Fulfillment:** God's covenant faithfulness through history
-- **Law and Grace:** The preparation for and revelation of salvation
-- **Kingdom and Church:** God's people in the Old and New Covenants
-- **Cross and Resurrection:** The heart of God's redemptive work
-- **Consummation and Restoration:** The completion of God's eternal plan
-
-**Complete Biblical Coverage Achieved:**
-All 1,189 chapters of the Bible have been systematically covered across these 100 chronologically-arranged themes, ensuring that every verse from Genesis 1:1 to Revelation 22:21 is included exactly once while maintaining both historical sequence and thematic unity.
-
-The story is complete, but for each believer, participation in this grand narrative continues until Jesus returns to make all things new. Until then, we live in the light of the whole Bible story, knowing how it ends and finding our place in God's eternal purpose.
-
-## Coverage Summary
-
-This chronological-thematic reading plan covers all 66 books of the Bible across 100 themes, following the timeline of redemptive history while maintaining thematic depth. Each theme is anchored in its historical context while showing its place in God's unfolding plan of redemption.
-
-### Unique Features of This Plan:
-
-**Chronological Framework:**
-- Follows the actual timeline of biblical events
-- Shows God's progressive revelation through history
-- Connects events across different time periods
-
-**Thematic Depth:**
-- Each theme has theological coherence
-- Traces redemptive threads through Scripture
-- Shows how events point forward to Christ
-
-**Historical Context:**
-- Provides chronological setting for each theme
-- Explains the historical background
-- Shows how events connect to the broader story
-
-**Redemptive Focus:**
-- Every theme shows its place in God's salvation plan
-- Demonstrates how all Scripture points to Christ
-- Traces the unfolding of redemptive history
-
-**Study Features:**
-- Theological threads highlighted in each theme
-- Study questions for deeper reflection
-- Clear connections between passages explained
-
-**Complete Biblical Coverage:**
-All 1,189 chapters distributed across 100 chronologically-arranged themes, ensuring every verse from Genesis 1:1 to Revelation 22:21 is included exactly once while maintaining both historical sequence and thematic unity.
+[Let's go!](category/part-1-in-the-beginning)
