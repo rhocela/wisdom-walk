@@ -13,10 +13,10 @@ description: "The depths of apostasy and the limits of divine patience"
 **Readings:**
 
 **Historical Context:** Manasseh, Hezekiah's son, reigns for 55 years and leads Judah into the worst apostasy in its history. He rebuilds the idols his father destroyed, practices child sacrifice, and fills Jerusalem with innocent blood. Though he later repents, the damage is irreversible.
- - [2 Kings 21:1-18 (History)](https://www.biblegateway.com/passage/?search=2+Kings+21%3A1-18)
- - [2 Chronicles 33:1-20 (History)](https://www.biblegateway.com/passage/?search=2+Chronicles+33%3A1-20)
- - [Jeremiah 15:1-4 (Prophecy)](https://www.biblegateway.com/passage/?search=Jeremiah+15%3A1-4)
- - [2 Peter 3:8-9 (Epistle)](https://www.biblegateway.com/passage/?search=2+Peter+3%3A8-9)
+ - [2 Kings 21:1-18](https://www.biblegateway.com/passage/?search=2+Kings+21%3A1-18) (History)
+ - [2 Chronicles 33:1-20](https://www.biblegateway.com/passage/?search=2+Chronicles+33%3A1-20) (History)
+ - [Jeremiah 15:1-4](https://www.biblegateway.com/passage/?search=Jeremiah+15%3A1-4) (Prophecy)
+ - [2 Peter 3:8-9](https://www.biblegateway.com/passage/?search=2+Peter+3%3A8-9) (Epistle)
 
 **God's Bigger Plan:** Manasseh's reign shows how quickly spiritual gains can be lost and demonstrates that even the worst sinner can find forgiveness through repentance. However, it also teaches that forgiveness doesn't always eliminate temporal consequences of sin.
 

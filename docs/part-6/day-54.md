@@ -13,10 +13,10 @@ description: "The last great revival sparked by rediscovering God's Word"
 **Readings:**
 
 **Historical Context:** Young King Josiah leads Judah's final great revival after the Book of the Law is discovered during temple repairs. His reforms include destroying idols, celebrating Passover, and renewing the covenant, but come too late to prevent God's predetermined judgment.
- - [2 Kings 22:1–23:30 (History)](https://www.biblegateway.com/passage/?search=2+Kings+22%3A1-23%3A30)
- - [2 Chronicles 34:1–35:27 (History)](https://www.biblegateway.com/passage/?search=2+Chronicles+34%3A1-35%3A27)
- - [Zephaniah 1:1–3:20 (Prophecy)](https://www.biblegateway.com/passage/?search=Zephaniah+1%3A1-3%3A20)
- - [2 Timothy 3:16-17 (Epistle)](https://www.biblegateway.com/passage/?search=2+Timothy+3%3A16-17)
+ - [2 Kings 22:1–23:30](https://www.biblegateway.com/passage/?search=2+Kings+22%3A1-23%3A30) (History)
+ - [2 Chronicles 34:1–35:27](https://www.biblegateway.com/passage/?search=2+Chronicles+34%3A1-35%3A27) (History)
+ - [Zephaniah 1:1–3:20](https://www.biblegateway.com/passage/?search=Zephaniah+1%3A1-3%3A20) (Prophecy)
+ - [2 Timothy 3:16-17](https://www.biblegateway.com/passage/?search=2+Timothy+3%3A16-17) (Epistle)
 
 **God's Bigger Plan:** Josiah's revival demonstrates the power of God's Word to transform individuals and societies. His passionate response to Scripture shows the proper attitude toward divine revelation, while his tragic death reveals that even sincere reform cannot always reverse judgment.
 

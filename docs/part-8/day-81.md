@@ -13,10 +13,10 @@ description: "The gospel spreads through Asia Minor"
 **Readings:**
 
 **Historical Context:** The church at Antioch sends out Barnabas and Saul (now called Paul) on the first organized missionary journey. They travel through Cyprus and Asia Minor, establishing churches in Pisidian Antioch, Iconium, Lystra, and Derbe, facing both success and persecution.
- - [Acts 13:1–14:28 (History)](https://www.biblegateway.com/passage/?search=Acts+13%3A1-14%3A28)
- - [1 Thessalonians 2:1-12 (Epistle)](https://www.biblegateway.com/passage/?search=1+Thessalonians+2%3A1-12)
- - [Isaiah 49:6 (Prophecy)](https://www.biblegateway.com/passage/?search=Isaiah+49%3A6)
- - [Matthew 28:19-20 (Gospel)](https://www.biblegateway.com/passage/?search=Matthew+28%3A19-20)
+ - [Acts 13:1–14:28](https://www.biblegateway.com/passage/?search=Acts+13%3A1-14%3A28) (History)
+ - [1 Thessalonians 2:1-12](https://www.biblegateway.com/passage/?search=1+Thessalonians+2%3A1-12) (Epistle)
+ - [Isaiah 49:6](https://www.biblegateway.com/passage/?search=Isaiah+49%3A6) (Prophecy)
+ - [Matthew 28:19-20](https://www.biblegateway.com/passage/?search=Matthew+28%3A19-20) (Gospel)
 
 **God's Bigger Plan:** This journey establishes the pattern for systematic gospel expansion and demonstrates how the church will fulfill the Great Commission. It shows God's heart for reaching every people group with the good news of salvation.
 
