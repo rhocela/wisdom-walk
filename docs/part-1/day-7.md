@@ -1,6 +1,7 @@
 ---
 sidebar_label: "Day 7: New Covenant"
 sidebar_position: 7
+description: "Explore God's covenant with Noah and all creation"
 ---
 
 # New Covenant: Rainbow Promise
@@ -10,10 +11,10 @@ sidebar_position: 7
 **Chronological Setting:** Post-flood world - God's covenant with all creation
 
 **Readings:**
-- Genesis 8:20–9:17 (Narrative)
-- Isaiah 54:9-10 (Prophecy)
-- Ezekiel 1:28 (Prophecy)
-- Revelation 4:3, 10:1 (Apocalyptic)
+ - [Genesis 8:20–9:17](https://www.biblegateway.com/passage/?search=Genesis+8%3A20-9%3A17&version=ESV) (Narrative)
+ - [Isaiah 54:9-10](https://www.biblegateway.com/passage/?search=Isaiah+54%3A9-10&version=ESV) (Prophecy)
+ - [Ezekiel 1:28](https://www.biblegateway.com/passage/?search=Ezekiel+1%3A28&version=ESV) (Prophecy)
+ - [Revelation 4:3, 10:1](https://www.biblegateway.com/passage/?search=Revelation+4%3A3%2C+10%3A1&version=ESV) (Apocalyptic)
 
 **Historical Context:** After the flood, God makes an unconditional covenant with Noah and all creation, promising never again to destroy the earth by flood. The rainbow becomes the eternal sign of this covenant.
 

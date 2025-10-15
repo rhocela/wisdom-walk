@@ -11,32 +11,35 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Connected Scripture Reading',
+    Svg: require('@site/static/img/bible.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Experience the Bible like never before with <a href="/docs/intro">The Bible Bridge</a>—a reading plan 
+        that reveals the intricate connections between passages, themes, and God's 
+        redemptive story from Genesis to Revelation.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Biblical Insights & Revelations',
+    Svg: require('@site/static/img/insights.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Discover fresh perspectives on God's Word through careful study and 
+        Spirit-led insights. Explore the deeper meanings and timeless truths 
+        that illuminate our walk with Christ.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Nuggets of Truth',
+    Svg: require('@site/static/img/plant.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Uncover precious gems hidden within Scripture—practical wisdom, 
+        theological insights, and life-changing revelations that strengthen 
+        faith and deepen understanding of God's heart.
       </>
     ),
   },
