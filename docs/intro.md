@@ -1,42 +1,42 @@
 ---
 sidebar_position: 1
-title: "The Bible Study Project"
-subtitle: "Reading the Whole Bible with Purpose"
+title: "The Bible Briddge"
 ---
 
-# The Bible Study Project
+# The Bible Bridge
 
-<div className="subtitle">Reading the Whole Bible with Purpose</div>
+<div className="subtitle">So, you want to read the whole Bible. Where do you start?</div>
 
-Welcome to this Bible Study Project!
+**Welcome to The Bible Bridge!** I've always wanted to read the whole Bible in a way that would help me understand the intricate connections between passages throughout Scripture. Rather than reading isolated verses, I wanted to *see* the full picture of the passages I read, and know what other parts of Scriptures connect with what I'm reading.
 
-I've always wanted to read the Bible from cover to cover in a way that would help me understand the intricate tapestry of connections between passages throughout Scripture—this study is my attempt to create that experience.
+This project is my attempt to achieve that experience—by bridging related passages throughout Scripture.
 
-I hope this study deepens your understanding of God's heart, the person of the Holy Spirit, and the love of Jesus Christ.
+With this reading plan, you will not only read the Bible chronologically—you will also discover how passages connect thematically and theologically. This means that as you read through the **historical sequence** of events, you will also be guided to **related passages** to deepen your understanding of what you're reading.
 
-## How to use this study
+## How to Use this Study
 
-**Parts → Themes → Passages**
+This plan organizes the Bible into **100 thematic studies** (labeled as days). These themes are grouped into 10 larger parts that trace the overall story of redemption from Genesis to Revelation.
 
-This Bible reading plan is divided into 10 **parts** that cover major sections of the biblical narrative. Each part contains themes labeled as **days**, and each day includes 4-5 related Bible passages that illustrate the theme.
+Each theme (day) has its own page with following details:
 
-Each page has a theme and contains the following sections:
+- **When this happened:** Shows you where these events fit in Bible history.
+- **Historical context:** Provides the background and circumstances surrounding the biblical events.
+- **Readings:** Lists the specific Bible passages to read, along with their  [literary genres](#literary-genres-explained).
+- **Redemptive focus:** Shows how each theme fits into God's overall plan of salvation.
+- **Connecting the dots:** Explains how the different Bible passages work together to reveal the same truth.
+- **Theological Threads:** Identifies key truths about God that emerge from these passages.
 
-- **When this Happened:** Places each theme in its proper time period within the biblical story, helping you see how events unfold chronologically.
-- **Historical Context:** Provides the background and circumstances surrounding the biblical events, helping you understand what was happening at that time.
-- **God's Bigger Plan:** Shows how each theme fits into God's overall plan of salvation, connecting creation to redemption through Christ.
-- **Why These Passages Connect:** Explains how the different Bible passages work together to reveal the same truth from multiple perspectives.
-- ****Theological Threads:**** Highlights the main theological themes (doctrinal concepts) that emerge from the study, showing what we learn about God and His ways.
 
-
-:::tip Read at your own pace 🙂
-Go at your own pace and use the **Day #s** as a way to track your progress, rather than a rigid schedule. Quality over speed is the goal. Take your time, meditate on the passages, ask the Holy Spirit for insights, and enjoy the journey!
+ :::tip Read at your own pace 🙂
+While this plan is designed to be a 100-day journey, read it at your own pace. Quality over speed is the goal. Take your time, meditate on the passages and their connections, ask the Holy Spirit for insights, and enjoy the journey!
 :::
 
+ I hope this study deepens your understanding of **God**'s heart, the person of the **Holy Spirit**, and our salvation through **Jesus Christ**.
 
-## Types of Passages Included
 
-In each passage indicates the literary genre to help you understand how to read it. these are the genres and how to read them (like literally , etc): 
+## Literary Genres Explained
+
+Each Bible reading includes its literary genre to help you understand how to read it. These are the genres and how to read them:
 
 - **Narrative:** Stories that tell what happened. Read them as historical accounts with characters, settings, and plots.
 - **Poetry:** Songs and wisdom literature. Read them for their artistic expression and emotional depth.
@@ -46,8 +46,7 @@ In each passage indicates the literary genre to help you understand how to read 
 - **Apocalyptic:** Revelations about the end times and God's ultimate victory. Read them for their symbolic language and hope-filled message.
 - **Wisdom:** Teachings on how to live a godly life. Read them for practical guidance and moral insight.
 
-
-
+👉🏻 Read more about the [literary genres in the Bible](https://en.wikipedia.org/wiki/Biblical_genre).
 
 
 ## Conclusion: The Whole Bible Story

@@ -161,10 +161,125 @@ a,
   color: var(--ifm-color-warning-dark);
 }
 
+/* BUT NOT for card content or navigation */
+a:not(.card a):not(.theme-doc-sidebar-container a):not(.navbar__link):not(.menu__link):not(.table-of-contents__link):not(.pagination-nav__link):not(.breadcrumbs__link),
+.markdown a,
+.admonition-content a {
+  color: var(--ifm-color-warning-dark);
+}
+
 [data-theme='dark'] a,
 [data-theme='dark'] .markdown a,
 [data-theme='dark'] .admonition-content a {
   color: var(--ifm-color-warning);
+}
+
+/* BUT NOT for card content or navigation in dark mode */
+[data-theme='dark'] a:not(.card a):not(.theme-doc-sidebar-container a):not(.navbar__link):not(.menu__link):not(.table-of-contents__link):not(.pagination-nav__link):not(.breadcrumbs__link),
+[data-theme='dark'] .markdown a,
+[data-theme='dark'] .admonition-content a {
+  color: var(--ifm-color-warning);
+}
+
+/* Override navigation links to use normal text color instead of red */
+.theme-doc-sidebar-container a,
+.navbar__link,
+.navbar__brand,
+.menu__link,
+.table-of-contents__link,
+.pagination-nav__link,
+.breadcrumbs__link {
+  color: var(--ifm-font-color-base) !important;
+}
+
+[data-theme='dark'] .theme-doc-sidebar-container a,
+[data-theme='dark'] .navbar__link,
+[data-theme='dark'] .navbar__brand,
+[data-theme='dark'] .menu__link,
+[data-theme='dark'] .table-of-contents__link,
+[data-theme='dark'] .pagination-nav__link,
+[data-theme='dark'] .breadcrumbs__link {
+  color: var(--ifm-font-color-base) !important;
+}
+
+/* Override card descriptions to use normal text color instead of red */
+.card__body,
+.card__body p,
+.card__footer,
+.card__footer p,
+.theme-doc-card-container .card__body,
+.theme-doc-card-container .card__body p,
+.card .card__body,
+.card .card__body p,
+.card .card__body *,
+.theme-doc-card-container .card__body *,
+.theme-doc-card-container p,
+.theme-doc-card-container div,
+.docusaurus-highlight-code-line {
+  color: var(--ifm-font-color-base) !important;
+}
+
+[data-theme='dark'] .card__body,
+[data-theme='dark'] .card__body p,
+[data-theme='dark'] .card__footer,
+[data-theme='dark'] .card__footer p,
+[data-theme='dark'] .theme-doc-card-container .card__body,
+[data-theme='dark'] .theme-doc-card-container .card__body p,
+[data-theme='dark'] .card .card__body,
+[data-theme='dark'] .card .card__body p,
+[data-theme='dark'] .card .card__body *,
+[data-theme='dark'] .theme-doc-card-container .card__body *,
+[data-theme='dark'] .theme-doc-card-container p,
+[data-theme='dark'] .theme-doc-card-container div,
+[data-theme='dark'] .docusaurus-highlight-code-line {
+  color: var(--ifm-font-color-base) !important;
+}
+
+/* More specific override for any text inside cards that might be affected by link styling */
+.card *:not(a):not(.card__header *) {
+  color: var(--ifm-font-color-base) !important;
+}
+
+[data-theme='dark'] .card *:not(a):not(.card__header *) {
+  color: var(--ifm-font-color-base) !important;
+}
+
+/* Force override for card descriptions - even if they're inside link elements */
+.card a .card__body,
+.card a .card__body *,
+.card a p,
+a .card__body,
+a .card__body *,
+a .card__body p {
+  color: var(--ifm-font-color-base) !important;
+}
+
+[data-theme='dark'] .card a .card__body,
+[data-theme='dark'] .card a .card__body *,
+[data-theme='dark'] .card a p,
+[data-theme='dark'] a .card__body,
+[data-theme='dark'] a .card__body *,
+[data-theme='dark'] a .card__body p {
+  color: var(--ifm-font-color-base) !important;
+}
+
+/* Ensure navigation links have proper hover states */
+.theme-doc-sidebar-container a:hover,
+.navbar__link:hover,
+.menu__link:hover,
+.table-of-contents__link:hover,
+.pagination-nav__link:hover,
+.breadcrumbs__link:hover {
+  color: var(--ifm-color-primary) !important;
+}
+
+[data-theme='dark'] .theme-doc-sidebar-container a:hover,
+[data-theme='dark'] .navbar__link:hover,
+[data-theme='dark'] .menu__link:hover,
+[data-theme='dark'] .table-of-contents__link:hover,
+[data-theme='dark'] .pagination-nav__link:hover,
+[data-theme='dark'] .breadcrumbs__link:hover {
+  color: var(--ifm-color-primary-light) !important;
 }
 
 /* Quote styling using Royal Purple (King) for theological content */

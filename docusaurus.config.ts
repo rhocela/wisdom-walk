@@ -85,7 +85,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Bible Study',
+          label: 'The Bible Project',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
