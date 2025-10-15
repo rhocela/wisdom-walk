@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Biblical Insights & Revelations',
-    Svg: require('@site/static/img/search.svg').default,
+    Svg: require('@site/static/img/insights.svg').default,
     description: (
       <>
         Discover fresh perspectives on God's Word through careful study and 
@@ -34,7 +34,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Nuggets of Truth',
-    Svg: require('@site/static/img/plant-pot.svg').default,
+    Svg: require('@site/static/img/plant.svg').default,
     description: (
       <>
         Uncover precious gems hidden within Scripture—practical wisdom, 
