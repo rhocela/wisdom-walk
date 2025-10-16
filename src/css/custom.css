@@ -123,18 +123,18 @@
   border-bottom-color: var(--ifm-color-primary-darker);
 }
 
-/* Hero banner with purple gradient background */
+/* Hero banner with turquoise-teal to purple gradient background */
 .hero,
 .hero--primary,
 .hero__container {
-  background: linear-gradient(135deg, var(--ifm-color-info) 0%, var(--ifm-color-info-dark) 100%) !important;
+  background: linear-gradient(135deg, #0d7489 0%, #1fb3d3 50%, #6C4AB6 100%) !important;
   color: white !important;
 }
 
 [data-theme='dark'] .hero,
 [data-theme='dark'] .hero--primary,
 [data-theme='dark'] .hero__container {
-  background: linear-gradient(135deg, var(--ifm-color-info-dark) 0%, var(--ifm-color-info-darkest) 100%) !important;
+  background: linear-gradient(135deg, #1a9bb8 0%, #1fb3d3 50%, #8B5DD8 100%) !important;
 }
 
 /* Hero title styling */
@@ -147,14 +147,14 @@
   color: white !important;
 }
 
-/* Darker purple for headers - more authoritative */
+/* Darker turquoise-teal for headers - aligns with hero banner theme */
 h1, h2 {
-  color: var(--ifm-color-info-darker);
+  color: #0d7489;
 }
 
 [data-theme='dark'] h1, 
 [data-theme='dark'] h2 {
-  color: var(--ifm-color-info);
+  color: #1a9bb8;
 }
 
 /* Red for passion and key emphasis - Scripture highlights */
