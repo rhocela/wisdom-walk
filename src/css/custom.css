@@ -320,31 +320,86 @@ blockquote {
 
 /* Improve hero button styling - make it more enticing */
 .hero .button--secondary {
-  background: linear-gradient(135deg, var(--ifm-color-secondary) 0%, var(--ifm-color-secondary-light) 100%);
-  border: 2px solid var(--ifm-color-secondary-dark);
+  background: linear-gradient(135deg, var(--ifm-color-secondary-light) 0%, var(--ifm-color-secondary-lighter) 100%);
+  border: 2px solid var(--ifm-color-secondary);
   color: var(--ifm-color-secondary-darkest);
   font-weight: 700;
   font-size: 1.1rem;
-  box-shadow: 0 4px 12px rgba(200, 169, 81, 0.3);
+  box-shadow: 0 4px 12px rgba(200, 169, 81, 0.4);
   transition: all 0.3s ease;
 }
 
 .hero .button--secondary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(200, 169, 81, 0.4);
-  background: linear-gradient(135deg, var(--ifm-color-secondary-light) 0%, var(--ifm-color-secondary-lighter) 100%);
-  border-color: var(--ifm-color-secondary);
+  box-shadow: 0 6px 20px rgba(200, 169, 81, 0.5);
+  background: linear-gradient(135deg, var(--ifm-color-secondary-lighter) 0%, var(--ifm-color-secondary-lightest) 100%);
+  border-color: var(--ifm-color-secondary-light);
 }
 
 [data-theme='dark'] .hero .button--secondary {
-  background: linear-gradient(135deg, var(--ifm-color-secondary-light) 0%, var(--ifm-color-secondary-lighter) 100%);
-  border: 2px solid var(--ifm-color-secondary);
+  background: linear-gradient(135deg, var(--ifm-color-secondary-lighter) 0%, var(--ifm-color-secondary-lightest) 100%);
+  border: 2px solid var(--ifm-color-secondary-light);
   color: var(--ifm-color-secondary-darkest);
-  box-shadow: 0 4px 12px rgba(229, 201, 122, 0.3);
+  box-shadow: 0 4px 12px rgba(229, 201, 122, 0.4);
 }
 
 [data-theme='dark'] .hero .button--secondary:hover {
-  background: linear-gradient(135deg, var(--ifm-color-secondary-lighter) 0%, var(--ifm-color-secondary-lightest) 100%);
-  box-shadow: 0 6px 20px rgba(229, 201, 122, 0.4);
-  border-color: var(--ifm-color-secondary-light);
+  background: linear-gradient(135deg, #f5e6b3 0%, #fef7e3 100%);
+  box-shadow: 0 6px 20px rgba(229, 201, 122, 0.5);
+  border-color: var(--ifm-color-secondary-lighter);
+}
+/* Search bar styling - lighter background for better readability */
+.navbar__search-input {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  color: var(--ifm-font-color-base) !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+}
+
+.navbar__search-input::placeholder {
+  color: rgba(30, 30, 30, 0.6) !important;
+}
+
+[data-theme='dark'] .navbar__search-input {
+  background-color: rgba(255, 255, 255, 0.15) !important;
+  color: var(--ifm-font-color-base) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+}
+
+[data-theme='dark'] .navbar__search-input::placeholder {
+  color: rgba(238, 238, 238, 0.6) !important;
+}
+
+/* Focus state for search bar */
+.navbar__search-input:focus {
+  background-color: rgba(255, 255, 255, 1) !important;
+  border-color: var(--ifm-color-primary) !important;
+}
+
+[data-theme='dark'] .navbar__search-input:focus {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+  border-color: var(--ifm-color-primary-light) !important;
+}
+
+/* Keyboard shortcut hint (Ctrl+K) styling - match search bar background */
+.DocSearch-Button-Keys,
+.DocSearch-Button-Key,
+.navbar__search kbd,
+kbd.aa-DetachedSearchButtonQuery,
+.aa-DetachedSearchButtonPlaceholder kbd {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  color: rgba(30, 30, 30, 0.7) !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  box-shadow: none !important;
+  padding: 2px 6px !important;
+}
+
+[data-theme='dark'] .DocSearch-Button-Keys,
+[data-theme='dark'] .DocSearch-Button-Key,
+[data-theme='dark'] .navbar__search kbd,
+[data-theme='dark'] kbd.aa-DetachedSearchButtonQuery,
+[data-theme='dark'] .aa-DetachedSearchButtonPlaceholder kbd {
+  background-color: rgba(255, 255, 255, 0.15) !important;
+  color: rgba(238, 238, 238, 0.8) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  box-shadow: none !important;
 }

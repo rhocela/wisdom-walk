@@ -34,7 +34,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Nuggets of Truth',
-    Svg: require('@site/static/img/plant.svg').default,
+    Svg: require('@site/static/img/deer.svg').default,
     description: (
       <>
         Uncover precious gems hidden within Scripture—practical wisdom, 
