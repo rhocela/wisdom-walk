@@ -352,6 +352,7 @@ blockquote {
 .navbar__search-input {
   background-color: rgba(255, 255, 255, 0.9) !important;
   color: var(--ifm-font-color-base) !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
 }
 
 .navbar__search-input::placeholder {
@@ -361,6 +362,7 @@ blockquote {
 [data-theme='dark'] .navbar__search-input {
   background-color: rgba(255, 255, 255, 0.15) !important;
   color: var(--ifm-font-color-base) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
 }
 
 [data-theme='dark'] .navbar__search-input::placeholder {
@@ -376,4 +378,28 @@ blockquote {
 [data-theme='dark'] .navbar__search-input:focus {
   background-color: rgba(255, 255, 255, 0.2) !important;
   border-color: var(--ifm-color-primary-light) !important;
+}
+
+/* Keyboard shortcut hint (Ctrl+K) styling - match search bar background */
+.DocSearch-Button-Keys,
+.DocSearch-Button-Key,
+.navbar__search kbd,
+kbd.aa-DetachedSearchButtonQuery,
+.aa-DetachedSearchButtonPlaceholder kbd {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  color: rgba(30, 30, 30, 0.7) !important;
+  border: 1px solid rgba(0, 0, 0, 0.1) !important;
+  box-shadow: none !important;
+  padding: 2px 6px !important;
+}
+
+[data-theme='dark'] .DocSearch-Button-Keys,
+[data-theme='dark'] .DocSearch-Button-Key,
+[data-theme='dark'] .navbar__search kbd,
+[data-theme='dark'] kbd.aa-DetachedSearchButtonQuery,
+[data-theme='dark'] .aa-DetachedSearchButtonPlaceholder kbd {
+  background-color: rgba(255, 255, 255, 0.15) !important;
+  color: rgba(238, 238, 238, 0.8) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  box-shadow: none !important;
 }
