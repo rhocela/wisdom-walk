@@ -11,10 +11,10 @@ description: "The universal question of suffering and divine sovereignty"
 **When this Happened:** Ancient times - The universal question of suffering
 
 **Readings:**
- - [Job 1:1–42:17 (Wisdom)](https://www.biblegateway.com/passage/?search=Job+1%3A1-42%3A17)
- - [1 Peter 1:6-7 (Epistle)](https://www.biblegateway.com/passage/?search=1+Peter+1%3A6-7)
- - [James 1:2-4 (Epistle)](https://www.biblegateway.com/passage/?search=James+1%3A2-4)
- - [Romans 8:18-25 (Epistle)](https://www.biblegateway.com/passage/?search=Romans+8%3A18-25)
+ - [Job 1:1–42:17](https://www.biblegateway.com/passage/?search=Job+1%3A1-42%3A17) (Wisdom)
+ - [1 Peter 1:6-7](https://www.biblegateway.com/passage/?search=1+Peter+1%3A6-7) (Epistle)
+ - [James 1:2-4](https://www.biblegateway.com/passage/?search=James+1%3A2-4) (Epistle)
+ - [Romans 8:18-25](https://www.biblegateway.com/passage/?search=Romans+8%3A18-25) (Epistle)
 
 **Historical Context:** Job, a righteous man, experiences devastating loss as Satan tests whether his faith is genuine or merely self-serving. Through lengthy dialogues with friends and finally God's direct response, Job learns about divine sovereignty and the limits of human understanding.
 

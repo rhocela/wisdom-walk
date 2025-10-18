@@ -13,10 +13,10 @@ description: "Jeroboam establishes alternative worship with golden calves"
 **Readings:**
 
 **Historical Context:** Fearing his people will return to Jerusalem for worship, Jeroboam establishes alternative worship centers at Dan and Bethel with golden calves. This "sin of Jeroboam" becomes the pattern for all subsequent northern kings.
- - [1 Kings 12:25–13:34 (History)](https://www.biblegateway.com/passage/?search=1+Kings+12%3A25-13%3A34)
- - [2 Kings 17:7-23 (History)](https://www.biblegateway.com/passage/?search=2+Kings+17%3A7-23)
- - [Amos 4:4-5, 5:4-6 (Prophecy)](https://www.biblegateway.com/passage/?search=Amos+4%3A4-5%2C+5%3A4-6)
- - [1 Corinthians 1:18-25 (Epistle)](https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A18-25)
+ - [1 Kings 12:25–13:34 (History)](https://www.biblegateway.com/passage/?search=1+Kings+12%3A25-13%3A34) (History)
+ - [2 Kings 17:7-23 (History)](https://www.biblegateway.com/passage/?search=2+Kings+17%3A7-23) (History)
+ - [Amos 4:4-5, 5:4-6 (Prophecy)](https://www.biblegateway.com/passage/?search=Amos+4%3A4-5%2C+5%3A4-6) (Prophecy)
+ - [1 Corinthians 1:18-25 (Epistle)](https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A18-25) (Epistle)
 
 **God's Bigger Plan:** Jeroboam's political religion demonstrates how human wisdom contradicts God's ways. His attempt to create convenient worship leads to spiritual disaster, showing that we cannot improve on God's design for approaching Him.
 

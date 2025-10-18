@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: "The Bible Briddge"
+title: "The Bible Bridge"
 ---
 
 # The Bible Bridge
