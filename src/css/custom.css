@@ -348,3 +348,32 @@ blockquote {
   box-shadow: 0 6px 20px rgba(229, 201, 122, 0.5);
   border-color: var(--ifm-color-secondary-lighter);
 }
+/* Search bar styling - lighter background for better readability */
+.navbar__search-input {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  color: var(--ifm-font-color-base) !important;
+}
+
+.navbar__search-input::placeholder {
+  color: rgba(30, 30, 30, 0.6) !important;
+}
+
+[data-theme='dark'] .navbar__search-input {
+  background-color: rgba(255, 255, 255, 0.15) !important;
+  color: var(--ifm-font-color-base) !important;
+}
+
+[data-theme='dark'] .navbar__search-input::placeholder {
+  color: rgba(238, 238, 238, 0.6) !important;
+}
+
+/* Focus state for search bar */
+.navbar__search-input:focus {
+  background-color: rgba(255, 255, 255, 1) !important;
+  border-color: var(--ifm-color-primary) !important;
+}
+
+[data-theme='dark'] .navbar__search-input:focus {
+  background-color: rgba(255, 255, 255, 0.2) !important;
+  border-color: var(--ifm-color-primary-light) !important;
+}
