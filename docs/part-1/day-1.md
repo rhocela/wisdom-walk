@@ -77,7 +77,7 @@ description: "Explore how Christ spoke the universe into existence"
 
     I've noticed some churches avoid calling God "He" or "Father" to not offend people. But could it be that this does more harm than good? Could it be that we're denying how God chose to reveal himself in Scripture? 
 
-    Maybe the real danger is shaping God in our image. We've had bad experiences with patriarchy, so we assume God's version must be bad too. But what if this keeps us preoccupied with ourselves instead of with God? 
+    Maybe the real danger is shaping God in our image. We've had bad experiences with patriarchy—do we assume God's version of patriarchy must be bad too? But what if this keeps us preoccupied with ourselves instead of with God?
 
     Just a thought: He is not made in our image. We are made in HIS.
 
