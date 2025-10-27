@@ -1,35 +1,40 @@
 ---
-sidebar_label: "Day 6: Divine Judgment"
+sidebar_label: "Day 6: Walking with God"
 sidebar_position: 6
-description: "Understand the impact of the Flood and God's judgment on sin"
+description: "Explore the godly lineage from Adam to Noah and Enoch's unique fellowship with God"
 ---
 
-# Divine Judgment: The Flood
+# Walking with God: The Godly Line
 
 **Day:** 6
 
-**Chronological Setting:** Pre-flood world - God's judgment on universal corruption
+**Chronological Setting:** From Adam to Noah - the preservation of the godly line
 
 **Readings:**
- - [Genesis 6:1–8:22](https://www.biblegateway.com/passage/?search=Genesis+6%3A1-8%3A22&version=ESV) (Narrative)
- - [2 Peter 2:4-10](https://www.biblegateway.com/passage/?search=2+Peter+2%3A4-10&version=ESV) (Epistle)
- - [2 Peter 3:3-7](https://www.biblegateway.com/passage/?search=2+Peter+3%3A3-7&version=ESV) (Epistle)
- - [Matthew 24:37-39](https://www.biblegateway.com/passage/?search=Matthew+24%3A37-39&version=ESV) (Gospel)
- - [1 Peter 3:18-22](https://www.biblegateway.com/passage/?search=1+Peter+3%3A18-22&version=ESV) (Epistle)
+ - [Genesis 5:1-32](https://www.biblegateway.com/passage/?search=Genesis+5%3A1-32&version=ESV) (Narrative)
+ - [Hebrews 11:5-6](https://www.biblegateway.com/passage/?search=Hebrews+11%3A5-6&version=ESV) (Epistle)
+ - [Jude 14-15](https://www.biblegateway.com/passage/?search=Jude+14-15&version=ESV) (Epistle)
+ - [2 Kings 2:11](https://www.biblegateway.com/passage/?search=2+Kings+2%3A11&version=ESV) (Narrative)
+ - [1 Thessalonians 4:16-17](https://www.biblegateway.com/passage/?search=1+Thessalonians+4%3A16-17&version=ESV) (Epistle)
+ - [Micah 6:8](https://www.biblegateway.com/passage/?search=Micah+6%3A8&version=ESV) (Prophecy)
 
-**Historical Context:** The pre-flood world became so corrupt that God determined to destroy it while preserving a righteous remnant through Noah. This represents the first global judgment in biblical history.
+**Historical Context:** Genesis 5 traces the genealogy from Adam through Seth to Noah, showing how the godly line was preserved through ten generations. The repeated phrase "and he died" reminds us of sin's consequence, while Enoch's unique translation shows God's power over death. The increasing ages demonstrate the longevity of the pre-flood era.
 
-**Redemptive Significance:** The flood demonstrates both God's holy judgment against sin and His gracious provision for salvation. It establishes the pattern of salvation through judgment that culminates in the cross.
+**Redemptive Significance:** This genealogy preserves the line through which the Messiah would eventually come. Enoch's walk with God and translation provides hope that death is not the final word. The faithful transmission of God's truth through generations shows His covenant faithfulness despite human failure.
 
-**Why These Passages Connect:** Genesis provides the detailed account of the flood judgment and salvation through the ark. 2 Peter uses the flood as proof of God's ability to judge the wicked while rescuing the righteous, and as a pattern for future judgment. Matthew records Jesus using the flood as a warning about His second coming. 1 Peter connects Noah's salvation through water to baptism.
+**Why These Passages Connect:** Genesis 5 records the genealogy of the godly line with the unique account of Enoch walking with God and being taken up. Hebrews explains that Enoch's translation was because of his faith and that he pleased God. Jude references Enoch's prophecy about God's coming judgment. 2 Kings shows Elijah also being taken up without dying. 1 Thessalonians describes the future rapture of believers. Micah summarizes what it means to walk humbly with God.
 
 **Theological Threads:**
-- **Divine Judgment:** God's holy response to sin
-- **Righteous Remnant:** God preserves the faithful few
-- **Salvation Through Judgment:** Mercy within wrath
-- **Covenant Faithfulness:** God remembers His promises
+- **Genealogical Faithfulness:** God preserves the godly line through generations
+- **Walking with God:** Intimate fellowship and communion with the Creator
+- **Victory over Death:** Enoch's translation anticipates resurrection hope
+- **Prophetic Witness:** Even in corrupt times, faithful voices proclaim God's truth
+- **Divine Patience:** God's longsuffering with humanity before judgment
+- **Covenant Continuity:** The promise line continues despite setbacks
 
 **Study Questions:**
-1. What does the flood teach us about God's holiness and justice?
-2. How does God's salvation of Noah encourage you in difficult times?
-3. What parallels do you see between the flood and Christ's salvation?
+1. What does it mean to "walk with God" like Enoch did?
+2. How does Enoch's translation encourage believers facing death?
+3. What can we learn from the faithful transmission of truth through generations?
+4. How do you see God's patience and grace in preserving the godly line?
+5. What does Enoch's prophetic ministry teach us about speaking God's truth?

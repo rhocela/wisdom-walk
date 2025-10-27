@@ -1,19 +1,59 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+welcome:
+  label: Welcome
+  permalink: /welcome
+  description: Welcome posts for new Bible study participants
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+bible-study:
+  label: Bible Study
+  permalink: /bible-study
+  description: Posts related to Bible study methods and insights
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+faith:
+  label: Faith
+  permalink: /faith
+  description: Posts about faith, trust, and spiritual growth
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+journey:
+  label: Journey
+  permalink: /journey
+  description: Posts about the spiritual journey and walk with God
+
+wisdom-walk:
+  label: Wisdom Walk
+  permalink: /wisdom-walk
+  description: Posts specific to the Wisdom Walk 100-day study program
+
+interactive:
+  label: Interactive
+  permalink: /interactive
+  description: Posts featuring interactive study elements and tools
+
+introduction:
+  label: Introduction
+  permalink: /introduction
+  description: Introductory posts to various biblical concepts
+
+adam:
+  label: Adam
+  permalink: /adam
+  description: Posts about Adam and biblical parallels
+
+jesus:
+  label: Jesus
+  permalink: /jesus
+  description: Posts about Jesus Christ and His ministry
+
+typology:
+  label: Typology
+  permalink: /typology
+  description: Posts about biblical types and patterns
+
+redemption:
+  label: Redemption
+  permalink: /redemption
+  description: Posts about redemption and salvation
+
+temptation:
+  label: Temptation
+  permalink: /temptation
+  description: Posts about temptation and spiritual warfare

@@ -1,29 +1,30 @@
 ---
 slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+title: Welcome to Wisdom Walk
+authors: [wisdom-walk]
+tags: [welcome, bible-study, wisdom-walk]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Welcome to the Wisdom Walk blog! This blog complements our comprehensive 100-day Bible study program.
 
-Here are a few tips you might find useful.
+Here are a few features you'll discover as you journey through our study.
 
 <!-- truncate -->
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Simply browse through our daily study materials organized by parts and days.
 
-Regular blog authors can be added to `authors.yml`.
+Our study authors and contributors are listed in `authors.yml`.
 
-The blog post date can be extracted from filenames, such as:
+The study content is organized chronologically, taking you through:
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+- 100 days of guided Bible study
+- 10 parts covering different themes and books
+- Daily reflections and insights
 
-A blog post folder can be convenient to co-locate blog post images:
+You can easily navigate through the study materials using our organized structure:
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+![Wisdom Walk Structure](./docusaurus-plushie-banner.jpeg)
 
-The blog supports tags as well!
+Our study supports tags and categories for easy navigation!
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+**Ready to begin your journey?** Start with Day 1 and walk with us through God's Word for the next 100 days.

@@ -30,7 +30,23 @@ description: "The universal question of suffering and divine sovereignty"
 
 **Study Questions:**
 1. What does Job's story teach about the reasons for suffering?
+
+Job's story teaches that suffering is not always a result of personal sin; it can be a test of faith and character. It highlights that God's purposes are often beyond human understanding, and that faith can endure through trials, leading to growth and deeper trust in God.
+
+God is not the author of evil - but he has the right to allow or  it for his purposes.
+It also teaches who causes suffering. Satan is the one who brings suffering to Job, but only with God's permission. This shows that while God allows suffering for His purposes, He is not the author of evil.
+
+(Question: what about  Isaiah 45:7 where it says God creates both light and darkness, peace and calamity?) Answer: In Isaiah 45:7, the terms "darkness" and "calamity" can be understood as God's sovereign control over all aspects of creation, including judgment and discipline. God allows calamity as a means to accomplish His purposes, but He is not the author of evil. In Job's case, God permits Satan to test Job, demonstrating His sovereignty while allowing for the existence of evil actions by Satan. The proof of this is the original word used in the Hebrew text for "calamity" is "ra'ah," which can mean evil or disaster, but it does not imply that God directly causes evil actions. Instead, it emphasizes His authority over all events, using them to fulfill His divine plan. in this verse the hebrew word used for "create" is "bara," which often implies bringing something into existence from nothing, highlighting God's unique role as the Creator of all things, including both positive and negative aspects of life.
+
 2. How does God's response to Job change his perspective?
+
+God's response to Job emphasizes His sovereignty and the limitations of human understanding. Job realizes that he cannot fully comprehend God's ways, leading him to a place of humility and trust.
+
 3. How does Job's experience point forward to Christ's suffering?
+
+Job's innocent suffering prefigures Christ's ultimate sacrifice. Both Job and Christ endure unjust suffering, leading to greater understanding of God's redemptive plan. Job's restoration mirrors the hope of resurrection and restoration found in Christ. 
+
+4. Is the story story of Job true?
+The story of Job is often understood as a poetic and theological exploration of suffering rather than a strict historical account. While some scholars view it as a parable or allegory, others believe it may be based on a historical figure. Regardless of its historicity, the story conveys profound truths about faith, suffering, and God's sovereignty that are applicable to believers' lives.
 
 ---

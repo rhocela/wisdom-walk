@@ -47,6 +47,10 @@ const config: Config = {
             'https://github.com/rhocela/wisdom-walk/tree/main/',
         },
         blog: {
+          blogTitle: 'Parallels',
+          blogDescription: 'Discovering patterns and connections throughout Scripture',
+          blogSidebarTitle: 'All Parallels',
+          blogSidebarCount: 'ALL',
           showReadingTime: true,
           feedOptions: {
             type: ['rss', 'atom'],
@@ -102,7 +106,7 @@ const config: Config = {
           position: 'left',
           label: 'The Bible Bridge',
         },
-        // {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Parallels', position: 'left'},
         {
           href: 'https://github.com/rhocela/wisdom-walk',
           label: 'GitHub',

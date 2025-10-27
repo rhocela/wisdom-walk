@@ -1,34 +1,37 @@
 ---
-sidebar_label: "Day 7: New Covenant"
+sidebar_label: "Day 7: Corruption and Judgment"
 sidebar_position: 7
-description: "Explore God's covenant with Noah and all creation"
+description: "Understand God's judgment on the corrupt pre-flood world"
 ---
 
-# New Covenant: Rainbow Promise
+# Corruption and Judgment: The Flood Begins
 
 **Day:** 7
 
-**Chronological Setting:** Post-flood world - God's covenant with all creation
+**Chronological Setting:** Pre-flood world - God's judgment on universal corruption
 
 **Readings:**
- - [Genesis 8:20–9:17](https://www.biblegateway.com/passage/?search=Genesis+8%3A20-9%3A17&version=ESV) (Narrative)
- - [Isaiah 54:9-10](https://www.biblegateway.com/passage/?search=Isaiah+54%3A9-10&version=ESV) (Prophecy)
- - [Ezekiel 1:28](https://www.biblegateway.com/passage/?search=Ezekiel+1%3A28&version=ESV) (Prophecy)
- - [Revelation 4:3, 10:1](https://www.biblegateway.com/passage/?search=Revelation+4%3A3%2C+10%3A1&version=ESV) (Apocalyptic)
+ - [Genesis 6:1–7:24](https://www.biblegateway.com/passage/?search=Genesis+6%3A1-7%3A24&version=ESV) (Narrative)
+ - [2 Peter 2:4-5](https://www.biblegateway.com/passage/?search=2+Peter+2%3A4-5&version=ESV) (Epistle)
+ - [Matthew 24:37-39](https://www.biblegateway.com/passage/?search=Matthew+24%3A37-39&version=ESV) (Gospel)
+ - [Romans 1:18-20](https://www.biblegateway.com/passage/?search=Romans+1%3A18-20&version=ESV) (Epistle)
 
-**Historical Context:** After the flood, God makes an unconditional covenant with Noah and all creation, promising never again to destroy the earth by flood. The rainbow becomes the eternal sign of this covenant.
+**Historical Context:** The pre-flood world became increasingly corrupt as the sons of God intermarried with the daughters of men, producing giants. Violence and wickedness filled the earth. God determined to destroy the world while preserving Noah and his family, who found grace in His eyes. The construction of the ark demonstrates both God's judgment and mercy.
 
-**Redemptive Significance:** This covenant shows God's grace in restraining judgment and His commitment to continue working through creation toward redemption. It guarantees the stability needed for the redemptive plan to unfold.
+**Redemptive Significance:** The flood demonstrates both God's holy judgment against sin and His gracious provision for salvation. Noah's righteousness and obedience in building the ark point forward to salvation by faith and obedience. The preservation of humanity and animals shows God's commitment to His creation.
 
-**Why These Passages Connect:** Genesis records God's covenant with Noah and the rainbow sign. Isaiah connects God's oath to Noah with His promise of unfailing love. Ezekiel sees the rainbow around God's throne as a sign of His glory. Revelation shows the rainbow around God's throne and the mighty angel, symbolizing covenant faithfulness.
+**Why These Passages Connect:** Genesis 6-7 provides the detailed account of the growing corruption and the beginning of the flood judgment. 2 Peter confirms that God judged the ancient world while saving Noah. Matthew records Jesus using the flood as a warning about His second coming and the need for readiness. Romans explains how God's wrath is revealed against human unrighteousness.
 
 **Theological Threads:**
-- **Unconditional Covenant:** Based on God's grace, not human performance
-- **Universal Scope:** Includes all creation
-- **Divine Restraint:** God limits His judgment
-- **Covenant Signs:** Visible reminders of God's promises
+- **Divine Judgment:** God's holy response to persistent sin
+- **Righteous Remnant:** God preserves the faithful few
+- **Grace in Judgment:** Mercy provided even in wrath
+- **Obedient Faith:** Noah's response to God's commands
+- **Universal Corruption:** Sin affects all humanity
+- **Divine Patience:** God's longsuffering before judgment
 
 **Study Questions:**
-1. What does God's covenant with Noah reveal about His character?
-2. How does the rainbow remind you of God's faithfulness?
-3. What comfort does this covenant provide for believers today?
+1. What does the flood teach us about God's holiness and justice?
+2. How does Noah's obedience challenge your response to God's commands?
+3. What parallels do you see between the pre-flood world and today?
+4. How does God's preservation of Noah encourage you in difficult times?

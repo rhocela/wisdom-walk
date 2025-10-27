@@ -1,12 +1,12 @@
 ---
 slug: first-blog-post
-title: First Blog Post
-authors: [slorber, yangshun]
-tags: [hola, docusaurus]
+title: Welcome to Wisdom Walk
+authors: [wisdom-walk]
+tags: [welcome, bible-study]
 ---
 
-Lorem ipsum dolor sit amet...
+Welcome to the Wisdom Walk Bible Study! This blog will accompany your journey through our 100-day Bible study program.
 
 <!-- truncate -->
 
-...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Here you'll find additional insights, reflections, and encouragement as you walk through Scripture daily. Each day brings new discoveries and deeper understanding of God's Word.
