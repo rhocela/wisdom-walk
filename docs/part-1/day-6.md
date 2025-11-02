@@ -38,3 +38,21 @@ description: "Explore the godly lineage from Adam to Noah and Enoch's unique fel
 3. What can we learn from the faithful transmission of truth through generations?
 4. How do you see God's patience and grace in preserving the godly line?
 5. What does Enoch's prophetic ministry teach us about speaking God's truth?
+
+
+<details>
+<summary>Side thoughts</summary>
+
+- God rewards those who seek him (Hebrews 11:6)
+- There is judgement for the *ungodly sinners* who speak insults against God (Jude 15)
+
+Emphasis on *ungodly sinners* would be those who sin and reject God. *Godly sinners* would be those who sin but still seek God. Or those of us who still fall short but strive to walk with God. The mercy of God.
+
+How profound that God distinguishes not merely between sinners and saints, but between hearts that turn toward Him and hearts that turn away. We are all broken, all falling short—yet in His tender mercy, He sees the difference between a soul that stumbles while reaching for His hand and one that defiantly shakes its fist at heaven. This is grace beyond measure: that our imperfect seeking is met with His perfect finding.
+
+God's mercy shines brightest not in our perfection, but in our seeking. Even when we fail, our hearts' direction matters more than our stumbling steps.
+
+What grace that God sees not just our failures, but the posture of our hearts. He distinguishes between those who stumble toward Him and those who turn away—finding mercy for every broken soul that still reaches upward, however imperfectly.
+
+
+</details>

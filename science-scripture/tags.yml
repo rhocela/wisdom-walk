@@ -1,0 +1,49 @@
+introduction:
+  label: Introduction
+  permalink: /introduction
+  description: Welcome and introductory posts
+
+science:
+  label: Science
+  permalink: /science
+  description: Scientific discoveries and principles
+
+faith:
+  label: Faith
+  permalink: /faith
+  description: Faith and biblical perspectives
+
+physics:
+  label: Physics
+  permalink: /physics
+  description: Physics and quantum mechanics
+
+cosmology:
+  label: Cosmology
+  permalink: /cosmology
+  description: Space, time, and the universe
+
+biology:
+  label: Biology
+  permalink: /biology
+  description: Life sciences and genetics
+
+neuroscience:
+  label: Neuroscience
+  permalink: /neuroscience
+  description: Brain, mind, and consciousness
+
+creation:
+  label: Creation
+  permalink: /creation
+  description: Creation and design in nature
+
+mystery:
+  label: Mystery
+  permalink: /mystery
+  description: Divine mysteries and unexplained phenomena
+
+quantum:
+  label: Quantum
+  permalink: /quantum
+  description: Quantum mechanics and physics

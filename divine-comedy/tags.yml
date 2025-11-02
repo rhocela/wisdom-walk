@@ -1,0 +1,49 @@
+introduction:
+  label: Introduction
+  permalink: /introduction
+  description: Welcome and introductory posts
+
+joy:
+  label: Joy
+  permalink: /joy
+  description: Joyful moments and celebrations
+
+humor:
+  label: Humor
+  permalink: /humor
+  description: Gentle humor and funny observations
+
+stories:
+  label: Stories
+  permalink: /stories
+  description: Personal stories and anecdotes
+
+church-life:
+  label: Church Life
+  permalink: /church-life
+  description: Observations about church and Christian community
+
+everyday-faith:
+  label: Everyday Faith
+  permalink: /everyday-faith
+  description: Faith in daily life
+
+encouragement:
+  label: Encouragement
+  permalink: /encouragement
+  description: Uplifting and encouraging content
+
+family:
+  label: Family
+  permalink: /family
+  description: Family moments and parenting insights
+
+technology:
+  label: Technology
+  permalink: /technology
+  description: Technology mishaps and modern life
+
+community:
+  label: Community
+  permalink: /community
+  description: Church and community experiences
