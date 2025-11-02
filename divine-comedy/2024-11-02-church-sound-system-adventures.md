@@ -1,7 +1,7 @@
 ---
 slug: church-sound-system-adventures
 title: Church Sound System Adventures
-authors: rhocela
+authors: rose
 tags: [humor, church-life, technology, community]
 ---
 

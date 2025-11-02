@@ -1,15 +1,19 @@
 ---
 slug: welcome-to-divine-comedy
 title: Welcome to Divine Comedy
-authors: rhocela
+authors: rose
 tags: [introduction, joy, humor, stories]
 ---
 
 # Welcome to Divine Comedy
 
+:::info Under Construction
+This section is currently being developed. Content will be added regularly as we share joyful stories and celebrate the lighter side of faith.
+:::
+
 "A joyful heart is good medicine, but a crushed spirit dries up the bones." - Proverbs 17:22
 
-Life with God isn't just profound—it's also wonderfully, surprisingly, *joyfully* funny. Welcome to Divine Comedy, where we celebrate the lighter side of faith.
+Life with God isn't just profound—it's also wonderfully, surprisingly, joyfully funny. Welcome to Divine Comedy, where we celebrate the lighter side of faith.
 
 <!--truncate-->
 

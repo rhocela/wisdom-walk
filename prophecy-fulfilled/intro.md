@@ -5,6 +5,10 @@ title: "Prophecy Fulfilled"
 
 # Prophecy Fulfilled
 
+:::info Under Construction
+This section is currently being developed. Studies on fulfilled prophecies and God's sovereignty through history will be added regularly.
+:::
+
 <div className="subtitle">God's sovereignty demonstrated through time</div>
 
 **Welcome to Prophecy Fulfilled!**

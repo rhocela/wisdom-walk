@@ -1,7 +1,7 @@
 ---
 slug: quantum-mechanics-and-divine-mystery
 title: Quantum Mechanics and Divine Mystery
-authors: rhocela
+authors: rose
 tags: [physics, mystery, quantum, creation]
 ---
 

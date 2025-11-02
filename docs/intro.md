@@ -27,7 +27,7 @@ Each theme (day) has its own page with the following details:
 - **Theological Threads:** Key truths about God that emerge from these passages.
 
 
- :::tip Read at your own pace 🙂
+ :::tip Read at your own pace
 While this plan is designed to be a 100-day journey, read it at your own pace. Quality over speed is the goal. Take your time, meditate on the passages and their connections, ask the Holy Spirit for insights, and enjoy the journey!
 :::
 
@@ -43,7 +43,7 @@ Each Bible reading includes its literary genre to help you understand how to rea
 - **Apocalyptic:** Revelations about the end times and God's ultimate victory. Read them for their symbolic language and hope-filled message.
 - **Wisdom:** Teachings on how to live a godly life. Read them for practical guidance and moral insight.
 
-👉🏻 Read more about the [literary genres in the Bible](https://en.wikipedia.org/wiki/Biblical_genre).
+Read more about the [literary genres in the Bible](https://en.wikipedia.org/wiki/Biblical_genre).
 
 ## Bible Translation to Use
 
