@@ -77,13 +77,20 @@ const config: Config = {
       },
     ],
     [
-      '@docusaurus/plugin-content-docs',
+      '@docusaurus/plugin-content-blog',
       {
         id: 'science-scripture',
         path: 'science-scripture',
         routeBasePath: 'science-scripture',
-        sidebarPath: './sidebars-science-scripture.ts',
         editUrl: 'https://github.com/rhocela/wisdom-walk/tree/main/',
+        blogSidebarTitle: 'Recent Articles',
+        blogSidebarCount: 'ALL',
+        showReadingTime: true,
+        feedOptions: {
+          type: ['rss', 'atom'],
+          title: 'Science & Scripture',
+          description: 'Exploring the beautiful alignment between scientific discovery and biblical truth',
+        },
       },
     ],
     [
@@ -97,13 +104,20 @@ const config: Config = {
       },
     ],
     [
-      '@docusaurus/plugin-content-docs',
+      '@docusaurus/plugin-content-blog',
       {
         id: 'divine-comedy',
         path: 'divine-comedy',
         routeBasePath: 'divine-comedy',
-        sidebarPath: './sidebars-divine-comedy.ts',
         editUrl: 'https://github.com/rhocela/wisdom-walk/tree/main/',
+        blogSidebarTitle: 'Recent Stories',
+        blogSidebarCount: 'ALL',
+        showReadingTime: true,
+        feedOptions: {
+          type: ['rss', 'atom'],
+          title: 'Divine Comedy',
+          description: 'Joyful stories and insights that celebrate faith and life',
+        },
       },
     ],
   ],
