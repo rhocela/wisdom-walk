@@ -6,6 +6,10 @@ tags: [introduction]
 
 # Welcome to Parallels
 
+:::info Under Construction
+This section is currently being developed. Articles exploring biblical patterns and connections will be added regularly as we discover fascinating parallels throughout Scripture.
+:::
+
 As I've been reading through Scripture, I keep seeing these amazing patterns. Stories that echo each other. Events that mirror one another. Characters whose lives seem to follow the same divine script.
 
 These aren't coincidences.

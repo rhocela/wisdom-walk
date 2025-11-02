@@ -5,6 +5,10 @@ title: "The Bible Bridge"
 
 # The Bible Bridge
 
+:::info Under Construction
+This 100-day Bible study is currently being developed. Part 1 (Days 1-10) is complete and ready to use. Additional parts will be added regularly as we work through the complete chronological journey.
+:::
+
 <div className="subtitle">So, you want to read the whole Bible. Where do you start?</div>
 
 **Welcome to The Bible Bridge!** 

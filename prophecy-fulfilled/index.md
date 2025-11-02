@@ -6,11 +6,15 @@ slug: /
 
 # Welcome to Prophecy Fulfilled
 
-<div className="subtitle">📜 God's sovereignty demonstrated through time</div>
+:::info Under Construction
+This section is currently being developed. Studies on fulfilled prophecies and God's sovereignty through history will be added regularly.
+:::
+
+<div className="subtitle">God's sovereignty demonstrated through time</div>
 
 Welcome to one of the most powerful evidences for God's existence and the reliability of His Word. Here we explore the remarkable fulfillment of biblical prophecies throughout history—a testament to God's perfect knowledge, timing, and faithfulness.
 
-## 🎯 What We'll Explore
+## What We'll Explore
 
 ### **Messianic Prophecies**
 - Old Testament predictions fulfilled in Jesus Christ
@@ -36,7 +40,7 @@ Welcome to one of the most powerful evidences for God's existence and the reliab
 - Extra-biblical sources supporting Scripture
 - The convergence of history and prophecy
 
-## 💡 Why This Matters
+## Why This Matters
 
 Fulfilled prophecy provides:
 - **Proof of divine inspiration** - Only God knows the future
@@ -44,7 +48,7 @@ Fulfilled prophecy provides:
 - **Evidence for Christ** - He fulfilled hundreds of specific predictions
 - **Comfort in uncertainty** - God's plan unfolds perfectly
 
-## 🔮 Coming Soon
+## Coming Soon
 
 - The incredible odds against chance fulfillment
 - Prophecies about the destruction of Tyre

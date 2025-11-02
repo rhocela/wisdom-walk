@@ -2,7 +2,7 @@
 slug: welcome-to-divine-comedy
 title: Welcome to Divine Comedy
 authors: rose
-tags: [introduction, joy, humor, stories]
+tags: [introduction, joy, humor]
 ---
 
 # Welcome to Divine Comedy
