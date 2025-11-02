@@ -41,10 +41,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/rhocela/wisdom-walk/tree/main/',
+          editUrl: 'https://github.com/rhocela/wisdom-walk/tree/main/',
         },
         blog: {
           blogTitle: 'Parallels',
@@ -56,11 +53,7 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/rhocela/wisdom-walk/tree/main/',
-          // Useful options to enforce blogging best practices
+          editUrl: 'https://github.com/rhocela/wisdom-walk/tree/main/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -69,6 +62,49 @@ const config: Config = {
           customCss: './src/css/custom.css',
         },
       } satisfies Preset.Options,
+    ],
+  ],
+
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'gods-heart',
+        path: 'gods-heart',
+        routeBasePath: 'gods-heart',
+        sidebarPath: './sidebars-gods-heart.ts',
+        editUrl: 'https://github.com/rhocela/wisdom-walk/tree/main/',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'science-scripture',
+        path: 'science-scripture',
+        routeBasePath: 'science-scripture',
+        sidebarPath: './sidebars-science-scripture.ts',
+        editUrl: 'https://github.com/rhocela/wisdom-walk/tree/main/',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'prophecy-fulfilled',
+        path: 'prophecy-fulfilled',
+        routeBasePath: 'prophecy-fulfilled',
+        sidebarPath: './sidebars-prophecy-fulfilled.ts',
+        editUrl: 'https://github.com/rhocela/wisdom-walk/tree/main/',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'divine-comedy',
+        path: 'divine-comedy',
+        routeBasePath: 'divine-comedy',
+        sidebarPath: './sidebars-divine-comedy.ts',
+        editUrl: 'https://github.com/rhocela/wisdom-walk/tree/main/',
+      },
     ],
   ],
 
@@ -107,6 +143,30 @@ const config: Config = {
           label: 'The Bible Bridge',
         },
         {to: '/blog', label: 'Parallels', position: 'left'},
+        {
+          to: '/gods-heart',
+          label: "God's Heart",
+          position: 'left',
+          activeBaseRegex: `/gods-heart/`,
+        },
+        {
+          to: '/science-scripture',
+          label: 'Science & Scripture',
+          position: 'left',
+          activeBaseRegex: `/science-scripture/`,
+        },
+        {
+          to: '/prophecy-fulfilled',
+          label: 'Prophecy Fulfilled',
+          position: 'left',
+          activeBaseRegex: `/prophecy-fulfilled/`,
+        },
+        {
+          to: '/divine-comedy',
+          label: 'Divine Comedy',
+          position: 'left',
+          activeBaseRegex: `/divine-comedy/`,
+        },
         {
           href: 'https://github.com/rhocela/wisdom-walk',
           label: 'GitHub',
