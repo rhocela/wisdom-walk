@@ -10,6 +10,7 @@ slug: /
 This section is currently being developed. Studies on fulfilled prophecies and God's sovereignty through history will be added regularly.
 :::
 
+{/*
 <div className="subtitle">God's sovereignty demonstrated through time</div>
 
 Welcome to one of the most powerful evidences for God's existence and the reliability of His Word. Here we explore the remarkable fulfillment of biblical prophecies throughout history—a testament to God's perfect knowledge, timing, and faithfulness.
@@ -61,3 +62,4 @@ Fulfilled prophecy provides:
 **- Isaiah 46:9-10**
 
 *Coming soon: Diving into the incredible accuracy of biblical prophecy!*
+*/}

@@ -10,6 +10,7 @@ slug: /
 This section is currently being developed. Deep dive studies and life connection articles will be added regularly as we explore God's character through Scripture and daily experiences.
 :::
 
+{/*
 <div className="subtitle">Seeking His voice through Scripture and life</div>
 
 Welcome to a space where we explore the tender, powerful, and mysterious heart of our God. This isn't just theology—it's relationship. It's discovery. It's wrestling with Scripture and life to better understand who God really is.
@@ -55,3 +56,4 @@ This section is **bidirectional**:
 **- Jeremiah 29:13**
 
 Ready to explore? Start with our first study: [When Depression Strikes: Elijah's Story](elijah-depression)
+*/}
