@@ -13,48 +13,50 @@ This section is currently being developed. Content will be added regularly as we
 
 "A joyful heart is good medicine, but a crushed spirit dries up the bones." - Proverbs 17:22
 
-Life with God isn't just profound—it's also wonderfully, surprisingly, joyfully funny. Welcome to Divine Comedy, where we celebrate the lighter side of faith.
+Life with God isn't just profound—it's also wonderfully, surprisingly, joyfully funny. Welcome to Divine Comedy, where we share Bible jokes, dad jokes, and clean humor that points us toward joy.
 
 <!--truncate-->
 
 ## Sacred Joy
 
-Laughter is a gift from God. Think about it: humans are pretty much the only creatures that laugh at stories, find humor in unexpected connections, and can be tickled by wordplay. We were designed for delight.
+Laughter is a gift from God. Think about it: humans are pretty much the only creatures that laugh at wordplay, puns, and silly jokes. We were designed for delight.
 
-And our faith? It's full of moments that would make us smile if we noticed them:
+And faith? It provides some of the best material for wholesome humor:
 
-- Abraham laughing at God's promise of a baby (Genesis 17:17)
-- Elijah's sarcastic commentary during the Baal showdown (1 Kings 18:27)
-- Jesus using humor to make points (imagine a camel trying to squeeze through a needle's eye!)
-- Paul's wordplay that gets lost in translation
+- Abraham having a baby at 100 (talk about late-life surprises!)
+- David taking down Goliath with a slingshot (the ultimate underdog story)
+- Jonah getting a ride from a big fish (worst Uber experience ever)
+- Jesus using everyday situations to make divine points (imagine the disciples' faces!)
 
 ## What You'll Find Here
 
 This isn't about making fun *of* faith—it's about finding the joy *in* faith. We'll share:
 
-- **Gentle humor** found in Scripture itself
-- **Funny observations** about church life and Christian culture
-- **Joyful stories** from everyday faith experiences
-- **Uplifting moments** that make us smile and point us toward God
-- **Wholesome entertainment** that celebrates rather than tears down
+- **Bible jokes** and puns that make you groan and smile
+- **Dad jokes** with a faith twist
+- **Clean humor** that's family-friendly
+- **Wordplay** that celebrates the richness of Scripture
+- **Lighthearted observations** about faith and life
 
 ## Why Laughter Matters
 
-Joy is one of the fruits of the Spirit (Galatians 5:22). When we laugh together—especially about the quirks and surprises of following Jesus—we're participating in something sacred.
+Joy is one of the fruits of the Spirit (Galatians 5:22). When we laugh together—especially at clever wordplay and innocent humor—we're participating in something sacred.
 
 Laughter:
 - Builds community and connection
-- Provides relief from life's pressures
+- Provides relief from life's pressures  
 - Reminds us not to take ourselves too seriously
 - Points to the ultimate joy awaiting us in heaven
+- Shows appreciation for the cleverness God built into language and life
 
 ## Our Heart
 
 Everything here will be:
 - **Clean and wholesome** - humor that builds up rather than tears down
-- **Loving** - we laugh *with* each other, not *at* each other
-- **Faith-affirming** - finding joy in the journey, not mocking the destination
+- **Family-friendly** - safe for all ages
+- **Faith-affirming** - finding joy in our shared faith journey
+- **Groan-worthy** - because the best dad jokes make you groan *and* laugh
 
-Come find some joy. God loves to see His children smile.
+Come find some joy. After all, if God gave us the ability to laugh at puns, He must have a sense of humor too!
 
 *"He will yet fill your mouth with laughter and your lips with shouts of joy."* - Job 8:21
