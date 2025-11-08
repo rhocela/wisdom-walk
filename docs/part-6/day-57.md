@@ -8,7 +8,7 @@ description: "Learning to live faithfully in a foreign land"
 
 **Day:** 57
 
-**When this Happened:** Babylon - Life among the exiles
+**Chronological Setting:** Babylon - Life among the exiles
 
 **Readings:**
 

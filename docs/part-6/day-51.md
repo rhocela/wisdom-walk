@@ -8,7 +8,7 @@ description: "The northern kingdom falls to Assyrian conquest"
 
 **Day:** 51
 
-**When this Happened:** Samaria - Assyria conquers the northern kingdom
+**Chronological Setting:** Samaria - Assyria conquers the northern kingdom
 
 **Readings:**
 

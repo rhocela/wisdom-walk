@@ -8,7 +8,7 @@ description: "Jesus conquers death and validates His claims"
 
 **Day:** 77
 
-**When this Happened:** Jerusalem - Jesus' resurrection on the third day
+**Chronological Setting:** Jerusalem - Jesus' resurrection on the third day
 
 **Readings:**
 - [Matthew 28:1-20](https://www.biblegateway.com/passage/?search=Matthew+28%3A1-20) (Gospel)

@@ -8,7 +8,7 @@ description: "The holy city destroyed and the people exiled to Babylon"
 
 **Day:** 56
 
-**When this Happened:** Jerusalem - Babylonian siege and destruction
+**Chronological Setting:** Jerusalem - Babylonian siege and destruction
 
 **Readings:**
 

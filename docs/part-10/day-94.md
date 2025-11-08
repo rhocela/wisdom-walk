@@ -8,7 +8,7 @@ description: "John's vision of the risen Christ and the letters to the churches.
 
 **Day:** 94
 
-**When this Happened:** Patmos - John's vision of Jesus and the churches
+**Chronological Setting:** Patmos - John's vision of Jesus and the churches
 
 **Readings:**
 - [Revelation 1:1–3:22](https://www.biblegateway.com/passage/?search=Revelation+1%3A1-3%3A22) (Apocalypse)

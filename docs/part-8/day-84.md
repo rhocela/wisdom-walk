@@ -8,7 +8,7 @@ description: "From Jerusalem to Rome - the gospel reaches the capital"
 
 **Day:** 84
 
-**When this Happened:** Jerusalem to Rome - Paul's arrest and journey
+**Chronological Setting:** Jerusalem to Rome - Paul's arrest and journey
 
 **Readings:**
 

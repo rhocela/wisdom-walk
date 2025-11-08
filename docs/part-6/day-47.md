@@ -8,7 +8,7 @@ description: "Jeroboam establishes alternative worship with golden calves"
 
 **Day:** 47
 
-**When this Happened:** Northern Israel - Establishing alternative worship
+**Chronological Setting:** Northern Israel - Establishing alternative worship
 
 **Readings:**
 

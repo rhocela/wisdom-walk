@@ -8,7 +8,7 @@ description: "Solomon requests wisdom and ushers in Israel's golden age"
 
 **Day:** 43
 
-**When this Happened:** Early reign of Solomon - Wisdom requested and granted
+**Chronological Setting:** Early reign of Solomon - Wisdom requested and granted
 
 **Readings:**
 

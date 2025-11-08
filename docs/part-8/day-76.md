@@ -8,7 +8,7 @@ description: "Jesus accomplishes atonement through His sacrificial death"
 
 **Day:** 76
 
-**When this Happened:** Golgotha - Jesus' crucifixion and death
+**Chronological Setting:** Golgotha - Jesus' crucifixion and death
 
 **Readings:**
 - [Matthew 27:1-56](https://www.biblegateway.com/passage/?search=Matthew+27%3A1-56) (Gospel)

@@ -8,7 +8,7 @@ description: "God calls Moses to deliver Israel from bondage"
 
 **Day:** 19
 
-**When this Happened:** Mount Horeb - God calls Moses to deliver Israel
+**Chronological Setting:** Mount Horeb - God calls Moses to deliver Israel
 
 **Readings:**
  - [Exodus 3:1–4:31](https://www.biblegateway.com/passage/?search=Exodus+3%3A1-4%3A31&version=ESV) (Narrative)

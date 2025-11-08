@@ -8,7 +8,7 @@ description: "Paul reveals the mystery of unity in Christ."
 
 **Day:** 90
 
-**When this Happened:** Ephesus - Paul's letter on church unity and identity
+**Chronological Setting:** Ephesus - Paul's letter on church unity and identity
 
 **Readings:**
 - [Ephesians 2:11-22](https://www.biblegateway.com/passage/?search=Ephesians+2%3A11-22) (Epistle)

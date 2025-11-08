@@ -8,7 +8,7 @@ description: "Israel crosses the Jordan River into the Promised Land"
 
 **Day:** 30
 
-**When this Happened:** Jordan River - Israel enters the Promised Land
+**Chronological Setting:** Jordan River - Israel enters the Promised Land
 
 **Readings:**
  - [Joshua 1:1–4:24](https://www.biblegateway.com/passage/?search=Joshua+1%3A1-4%3A24&version=ESV) (History)

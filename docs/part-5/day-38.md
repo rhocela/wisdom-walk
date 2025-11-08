@@ -8,7 +8,7 @@ description: "God chooses the shepherd boy as the man after His heart"
 
 **Day:** 38
 
-**When this Happened:** Bethlehem - God chooses David while Saul still reigns
+**Chronological Setting:** Bethlehem - God chooses David while Saul still reigns
 
  - [1 Samuel 16:1–17:58](https://www.biblegateway.com/passage/?search=1+Samuel+16%3A1-17%3A58) (History)
  - [Acts 13:22-23](https://www.biblegateway.com/passage/?search=Acts+13%3A22-23) (History)

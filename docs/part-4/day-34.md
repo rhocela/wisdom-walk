@@ -8,7 +8,7 @@ description: "Repeated cycles of apostasy and deliverance"
 
 **Day:** 34
 
-**When this Happened:** Period of the Judges - Repeated cycles of sin and deliverance
+**Chronological Setting:** Period of the Judges - Repeated cycles of sin and deliverance
 
 **Readings:**
  - [Judges 2:6–3:31, 6:1–8:35](https://www.biblegateway.com/passage/?search=Judges+2%3A6-3%3A31%2C+6%3A1-8%3A35&version=ESV) (History)

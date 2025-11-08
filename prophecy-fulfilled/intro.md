@@ -5,6 +5,11 @@ title: "Prophecy Fulfilled"
 
 # Prophecy Fulfilled
 
+:::info Under Construction
+This section is currently being developed. Studies on fulfilled prophecies and God's sovereignty through history will be added regularly.
+:::
+
+{/*
 <div className="subtitle">God's sovereignty demonstrated through time</div>
 
 **Welcome to Prophecy Fulfilled!**
@@ -38,3 +43,4 @@ Fulfilled prophecy is one of the strongest evidences for:
 ---
 
 *"Remember the former things, those of long ago; I am God, and there is no other; I am God, and there is none like me. I make known the end from the beginning, from ancient times, what is still to come." - Isaiah 46:9-10*
+*/}

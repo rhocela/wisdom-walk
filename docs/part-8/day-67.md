@@ -8,7 +8,7 @@ description: "John the Baptist prepares hearts for Jesus' ministry"
 
 **Day:** 67
 
-**When this Happened:** Jordan River - John the Baptist's preparatory ministry
+**Chronological Setting:** Jordan River - John the Baptist's preparatory ministry
 
 **Readings:**
 - [Matthew 3:1-17](https://www.biblegateway.com/passage/?search=Matthew+3%3A1-17) (Gospel)

@@ -8,7 +8,7 @@ description: "Israel's apostasy breaks the newly established covenant"
 
 **Day:** 25
 
-**When this Happened:** Mount Sinai - Israel's apostasy while Moses receives the law
+**Chronological Setting:** Mount Sinai - Israel's apostasy while Moses receives the law
 
 **Readings:**
  - [Exodus 32:1–34:35](https://www.biblegateway.com/passage/?search=Exodus+32%3A1-34%3A35&version=ESV) (Narrative)

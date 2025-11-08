@@ -8,7 +8,7 @@ description: "From welcome guests to enslaved nation in Egypt"
 
 **Day:** 18
 
-**When this Happened:** Egypt - From welcome guests to enslaved nation
+**Chronological Setting:** Egypt - From welcome guests to enslaved nation
 
 **Readings:**
  - [Exodus 1:1–2:25](https://www.biblegateway.com/passage/?search=Exodus+1%3A1-2%3A25&version=ESV) (Narrative)

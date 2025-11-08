@@ -8,7 +8,7 @@ description: "Paul urges believers to offer themselves as living sacrifices."
 
 **Day:** 86
 
-**When this Happened:** Rome - Paul's exhortation to the church
+**Chronological Setting:** Rome - Paul's exhortation to the church
 
 **Readings:**
 - [Romans 12:1-21](https://www.biblegateway.com/passage/?search=Romans+12%3A1-21) (Epistle)

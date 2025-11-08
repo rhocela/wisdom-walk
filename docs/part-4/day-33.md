@@ -8,7 +8,7 @@ description: "The Promised Land distributed among the tribes"
 
 **Day:** 33
 
-**When this Happened:** Canaan - The Promised Land divided among the tribes
+**Chronological Setting:** Canaan - The Promised Land divided among the tribes
 
 **Readings:**
  - [Joshua 13:1–21:45](https://www.biblegateway.com/passage/?search=Joshua+13%3A1-21%3A45&version=ESV) (History)

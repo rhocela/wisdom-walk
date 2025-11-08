@@ -8,7 +8,7 @@ description: "Jesus makes His final approach to the cross"
 
 **Day:** 73
 
-**When this Happened:** On the road to Jerusalem - Jesus' final journey
+**Chronological Setting:** On the road to Jerusalem - Jesus' final journey
 
 **Readings:**
 - [Matthew 19:1–23:39](https://www.biblegateway.com/passage/?search=Matthew+19%3A1-23%3A39) (Gospel)

@@ -8,7 +8,7 @@ description: "The first martyr and the future apostle's conversion"
 
 **Day:** 79
 
-**When this Happened:** Jerusalem and Damascus road - Stephen's martyrdom and Saul's conversion
+**Chronological Setting:** Jerusalem and Damascus road - Stephen's martyrdom and Saul's conversion
 
 **Readings:**
 - [Acts 6:8–9:31](https://www.biblegateway.com/passage/?search=Acts+6%3A8-9%3A31) (History)

@@ -8,7 +8,7 @@ description: "Paul proclaims the supremacy of Christ over all creation."
 
 **Day:** 92
 
-**When this Happened:** Colossae - Paul's letter on Christ's supremacy
+**Chronological Setting:** Colossae - Paul's letter on Christ's supremacy
 
 **Readings:**
 - [Colossians 1:15-23](https://www.biblegateway.com/passage/?search=Colossians+1%3A15-23) (Epistle)

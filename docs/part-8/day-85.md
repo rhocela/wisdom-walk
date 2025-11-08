@@ -8,7 +8,7 @@ description: "Paul's letter to the Romans: the gospel's meaning and implications
 
 **Day:** 85
 
-**When this Happened:** Rome - Paul's theological masterpiece
+**Chronological Setting:** Rome - Paul's theological masterpiece
 
 **Readings:**
 

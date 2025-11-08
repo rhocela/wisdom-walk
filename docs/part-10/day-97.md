@@ -8,7 +8,7 @@ description: "John sees the cosmic battle between good and evil."
 
 **Day:** 97
 
-**When this Happened:** Heaven and earth - visions of spiritual warfare
+**Chronological Setting:** Heaven and earth - visions of spiritual warfare
 
 **Readings:**
 - [Revelation 12:1–13:18](https://www.biblegateway.com/passage/?search=Revelation+12%3A1-13%3A18) (Apocalypse)

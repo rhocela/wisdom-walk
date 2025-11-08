@@ -8,7 +8,7 @@ description: "God's hidden providence protects His people in Persia"
 
 **Day:** 62
 
-**When this Happened:** Persian Empire - God's hidden providence protecting His people
+**Chronological Setting:** Persian Empire - God's hidden providence protecting His people
 
 **Readings:**
 

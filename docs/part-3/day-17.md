@@ -8,7 +8,7 @@ description: "Explore Joseph's forgiveness and family restoration"
 
 **Day:** 17
 
-**When this Happened:** Egypt - Joseph reveals himself and forgives his brothers
+**Chronological Setting:** Egypt - Joseph reveals himself and forgives his brothers
 
 **Readings:**
  - [Genesis 42:1–50:26](https://www.biblegateway.com/passage/?search=Genesis+42%3A1-50%3A26&version=ESV) (Narrative)

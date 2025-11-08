@@ -5,6 +5,11 @@ title: "God's Heart"
 
 # God's Heart
 
+:::info Under Construction
+This section is currently being developed. Deep dive studies and life connection articles will be added regularly as we explore God's character through Scripture and daily experiences.
+:::
+
+{/*
 <div className="subtitle">Seeking His voice through Scripture and life</div>
 
 **Welcome to God's Heart!**
@@ -29,3 +34,4 @@ This is a place of authentic seeking - wrestling with Scripture, life, and faith
 ---
 
 *"You will seek me and find me when you seek me with all your heart." - Jeremiah 29:13*
+*/}

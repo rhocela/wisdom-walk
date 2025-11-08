@@ -8,7 +8,7 @@ description: "A story of covenant faithfulness and redemption"
 
 **Day:** 35
 
-**When this Happened:** Time of the Judges - A story of loyalty and redemption
+**Chronological Setting:** Time of the Judges - A story of loyalty and redemption
 
 **Readings:**
  - [Ruth 1:1–4:22](https://www.biblegateway.com/passage/?search=Ruth+1%3A1-4%3A22&version=ESV) (History)

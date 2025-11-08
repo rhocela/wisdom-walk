@@ -8,7 +8,7 @@ description: "Israel splits into northern and southern kingdoms"
 
 **Day:** 46
 
-**When this Happened:** Shechem - The kingdom splits into Israel and Judah
+**Chronological Setting:** Shechem - The kingdom splits into Israel and Judah
 
 **Readings:**
 

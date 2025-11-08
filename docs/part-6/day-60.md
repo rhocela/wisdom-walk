@@ -8,7 +8,7 @@ description: "The scribe teaches God's law and leads spiritual renewal"
 
 **Day:** 60
 
-**When this Happened:** Jerusalem - Ezra's mission to teach the Law
+**Chronological Setting:** Jerusalem - Ezra's mission to teach the Law
 
 **Readings:**
 

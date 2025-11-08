@@ -8,7 +8,7 @@ description: "God gives the law to establish covenant relationship"
 
 **Day:** 24
 
-**When this Happened:** Mount Sinai - God gives the law to establish covenant relationship
+**Chronological Setting:** Mount Sinai - God gives the law to establish covenant relationship
 
 **Readings:**
  - [Exodus 19:1–24:18](https://www.biblegateway.com/passage/?search=Exodus+19%3A1-24%3A18&version=ESV) (Narrative)

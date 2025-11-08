@@ -8,7 +8,7 @@ description: "First wave of exiles return and rebuild the temple"
 
 **Day:** 59
 
-**When this Happened:** Jerusalem - The first return from exile
+**Chronological Setting:** Jerusalem - The first return from exile
 
 **Readings:**
 

@@ -5,7 +5,11 @@ title: "The Bible Bridge"
 
 # The Bible Bridge
 
-<div className="subtitle">So, you want to read the whole Bible. Where do you start?</div>
+<div className="subtitle">Reading the whole Bible with purpose and meaning</div>
+
+:::info More Coming Soon
+You can start the journey now! The reading plan is complete, but we're continuously adding deeper discussions, insights, and connections as we go.
+:::
 
 **Welcome to The Bible Bridge!** 
 
@@ -19,7 +23,7 @@ This plan organizes the Bible into **100 thematic studies** (labeled as days). T
 
 Each theme (day) has its own page with the following details:
 
-- **When this happened:** Where these events fit in Bible history.
+- **Chronological Setting:** Where these events fit in Bible history.
 - **Historical context:** The background and circumstances surrounding the biblical events.
 - **Readings:** Specific Bible passages to read, along with their  [literary genres](#literary-genres-explained).
 - **Redemptive focus:** How each theme fits into God's overall plan of salvation.
@@ -27,7 +31,7 @@ Each theme (day) has its own page with the following details:
 - **Theological Threads:** Key truths about God that emerge from these passages.
 
 
- :::tip Read at your own pace 🙂
+ :::tip Read at your own pace
 While this plan is designed to be a 100-day journey, read it at your own pace. Quality over speed is the goal. Take your time, meditate on the passages and their connections, ask the Holy Spirit for insights, and enjoy the journey!
 :::
 
@@ -43,7 +47,7 @@ Each Bible reading includes its literary genre to help you understand how to rea
 - **Apocalyptic:** Revelations about the end times and God's ultimate victory. Read them for their symbolic language and hope-filled message.
 - **Wisdom:** Teachings on how to live a godly life. Read them for practical guidance and moral insight.
 
-👉🏻 Read more about the [literary genres in the Bible](https://en.wikipedia.org/wiki/Biblical_genre).
+Read more about the [literary genres in the Bible](https://en.wikipedia.org/wiki/Biblical_genre).
 
 ## Bible Translation to Use
 

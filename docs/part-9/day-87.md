@@ -8,7 +8,7 @@ description: "Paul addresses divisions and calls for unity in the church."
 
 **Day:** 87
 
-**When this Happened:** Corinth - Paul's letter to a divided church
+**Chronological Setting:** Corinth - Paul's letter to a divided church
 
 **Readings:**
 - [1 Corinthians 1:10–3:23](https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A10-3%3A23) (Epistle)

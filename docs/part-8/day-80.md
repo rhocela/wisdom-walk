@@ -8,7 +8,7 @@ description: "The gospel breaks through to the Gentiles"
 
 **Day:** 80
 
-**When this Happened:** Caesarea - The gospel reaches the Gentiles
+**Chronological Setting:** Caesarea - The gospel reaches the Gentiles
 
 **Readings:**
 

@@ -8,7 +8,7 @@ description: "The new Adam succeeds where the first Adam failed"
 
 **Day:** 68
 
-**When this Happened:** Judean wilderness - Jesus' temptation by Satan
+**Chronological Setting:** Judean wilderness - Jesus' temptation by Satan
 
 **Readings:**
 - [Matthew 4:1-11](https://www.biblegateway.com/passage/?search=Matthew+4%3A1-11) (Gospel)

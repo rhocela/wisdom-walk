@@ -8,7 +8,7 @@ description: "Paul encourages believers to live in hope and readiness for Christ
 
 **Day:** 93
 
-**When this Happened:** Thessalonica - Paul's letters on the second coming
+**Chronological Setting:** Thessalonica - Paul's letters on the second coming
 
 **Readings:**
 - [1 Thessalonians 4:13–5:11; 2 Thessalonians 1:3–2:17](https://www.biblegateway.com/passage/?search=1+Thessalonians+4%3A13-5%3A11%3B+2+Thessalonians+1%3A3-2%3A17) (Epistle)

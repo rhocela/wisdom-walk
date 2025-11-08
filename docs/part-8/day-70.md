@@ -8,7 +8,7 @@ description: "Jesus reveals kingdom truths through miracles and stories"
 
 **Day:** 70
 
-**When this Happened:** Throughout Galilee - Jesus' teaching and miracle ministry
+**Chronological Setting:** Throughout Galilee - Jesus' teaching and miracle ministry
 
 **Readings:**
 - [Matthew 8:1–13:58](https://www.biblegateway.com/passage/?search=Matthew+8%3A1-13%3A58) (Gospel)

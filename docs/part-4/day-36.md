@@ -8,7 +8,7 @@ description: "Faithful leadership in the transition to monarchy"
 
 **Day:** 36
 
-**When this Happened:** End of Judges period - Samuel as last judge and kingmaker
+**Chronological Setting:** End of Judges period - Samuel as last judge and kingmaker
 
 **Readings:**
  - [1 Samuel 1:1–4:22, 7:2–8:22](https://www.biblegateway.com/passage/?search=1+Samuel+1%3A1-4%3A22%2C+7%3A2-8%3A22&version=ESV) (History)

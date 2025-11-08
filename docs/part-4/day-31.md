@@ -8,7 +8,7 @@ description: "Victory through obedience at the first conquest"
 
 **Day:** 31
 
-**When this Happened:** Jericho - The first conquest in the Promised Land
+**Chronological Setting:** Jericho - The first conquest in the Promised Land
 
 **Readings:**
  - [Joshua 5:13–6:27](https://www.biblegateway.com/passage/?search=Joshua+5%3A13-6%3A27&version=ESV) (History)

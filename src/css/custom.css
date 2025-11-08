@@ -209,7 +209,13 @@ a:not(.card a):not(.theme-doc-sidebar-container a):not(.navbar__link):not(.menu_
 
 /* Only make navigation links bold when they are active */
 .navbar__link--active,
-.navbar__item--active .navbar__link {
+.navbar__item--active .navbar__link,
+.navbar__link[href*="/science-scripture"].navbar__link--active,
+.navbar__link[href*="/divine-comedy"].navbar__link--active,
+.navbar__link[href*="/gods-heart"].navbar__link--active,
+.navbar__link[href*="/prophecy-fulfilled"].navbar__link--active,
+/* Also check for actual active routes */
+.navbar__link[aria-current="page"] {
   font-weight: bold !important;
   color: var(--ifm-color-primary) !important;
 }
@@ -227,7 +233,12 @@ a:not(.card a):not(.theme-doc-sidebar-container a):not(.navbar__link):not(.menu_
 
 /* Dark mode active states */
 [data-theme='dark'] .navbar__link--active,
-[data-theme='dark'] .navbar__item--active .navbar__link {
+[data-theme='dark'] .navbar__item--active .navbar__link,
+[data-theme='dark'] .navbar__link[href*="/science-scripture"].navbar__link--active,
+[data-theme='dark'] .navbar__link[href*="/divine-comedy"].navbar__link--active,
+[data-theme='dark'] .navbar__link[href*="/gods-heart"].navbar__link--active,
+[data-theme='dark'] .navbar__link[href*="/prophecy-fulfilled"].navbar__link--active,
+[data-theme='dark'] .navbar__link[aria-current="page"] {
   font-weight: bold !important;
   color: var(--ifm-color-primary-light) !important;
 }

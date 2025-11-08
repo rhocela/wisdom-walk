@@ -8,7 +8,7 @@ description: "Miracles of mercy demonstrate God's compassion"
 
 **Day:** 49
 
-**When this Happened:** Northern Israel - Elisha's ministry following Elijah
+**Chronological Setting:** Northern Israel - Elisha's ministry following Elijah
 
 **Readings:**
 

@@ -8,7 +8,7 @@ description: "Rebuilding Jerusalem's walls through prayer and perseverance"
 
 **Day:** 61
 
-**When this Happened:** Jerusalem - Rebuilding the city walls
+**Chronological Setting:** Jerusalem - Rebuilding the city walls
 
 **Readings:**
 

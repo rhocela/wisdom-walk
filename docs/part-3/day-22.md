@@ -8,7 +8,7 @@ description: "Miraculous victory through water"
 
 **Day:** 22
 
-**When this Happened:** Red Sea - Miraculous deliverance from Egyptian pursuit
+**Chronological Setting:** Red Sea - Miraculous deliverance from Egyptian pursuit
 
 **Readings:**
  - [Exodus 14:1–15:21](https://www.biblegateway.com/passage/?search=Exodus+14%3A1-15%3A21&version=ESV) (Narrative)

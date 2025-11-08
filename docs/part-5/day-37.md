@@ -8,7 +8,7 @@ description: "Israel's first king is rejected due to disobedience"
 
 **Day:** 37
 
-**When this Happened:** Early monarchy - Saul's reign and rejection
+**Chronological Setting:** Early monarchy - Saul's reign and rejection
 
 **Readings:**
 

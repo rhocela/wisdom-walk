@@ -8,7 +8,7 @@ description: "The universal question of suffering and divine sovereignty"
 
 **Day:** 63
 
-**When this Happened:** Ancient times - The universal question of suffering
+**Chronological Setting:** Ancient times - The universal question of suffering
 
 **Readings:**
  - [Job 1:1–42:17](https://www.biblegateway.com/passage/?search=Job+1%3A1-42%3A17) (Wisdom)

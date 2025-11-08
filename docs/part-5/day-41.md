@@ -8,7 +8,7 @@ description: "The consequences of moral failure and the path to forgiveness"
 
 **Day:** 41
 
-**When this Happened:** Jerusalem - David's adultery with Bathsheba and its aftermath
+**Chronological Setting:** Jerusalem - David's adultery with Bathsheba and its aftermath
 
 **Readings:**
 
