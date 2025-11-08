@@ -6,17 +6,9 @@
   margin-left: 1rem;
 }
 
-/* Mobile navbar styling - when inside hamburger menu */
-.navbar__item--mobile .authNavbar {
-  margin-left: 0;
-  justify-content: center;
-  width: 100%;
-}
-
 .signInButton {
   display: flex;
   align-items: center;
-  justify-content: center;
   gap: 0.5rem;
   padding: 0.5rem 1rem;
   background: #3b82f6;
@@ -27,14 +19,6 @@
   font-size: 0.9rem;
   cursor: pointer;
   transition: all 0.2s ease;
-  width: auto;
-}
-
-/* Mobile sign-in button - full width inside hamburger menu */
-.navbar__item--mobile .signInButton {
-  width: 100%;
-  padding: 0.75rem 1rem;
-  font-size: 1rem;
 }
 
 .signInButton:hover {
@@ -58,7 +42,7 @@
   }
 }
 
-/* Mobile responsive - general mobile screens */
+/* Mobile responsive */
 @media (max-width: 768px) {
   .authNavbar {
     margin-left: 0.5rem;
@@ -67,15 +51,5 @@
   .signInButton {
     padding: 0.4rem 0.8rem;
     font-size: 0.85rem;
-  }
-  
-  /* Override for mobile menu context */
-  .navbar__item--mobile .authNavbar {
-    margin-left: 0;
-  }
-  
-  .navbar__item--mobile .signInButton {
-    padding: 0.75rem 1rem;
-    font-size: 0.9rem;
   }
 }
