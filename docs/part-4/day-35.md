@@ -1,36 +1,36 @@
 ---
-sidebar_label: "Day 35: Ruth's Loyalty"
-sidebar_position: 35
-description: "A story of covenant faithfulness and redemption"
+sidebar_label: "Day 33: Land Divided"
+sidebar_position: 33
+description: "The Promised Land distributed among the tribes"
 ---
 
-# Ruth's Loyalty: Covenant Faithfulness
+# Land Divided: Inheritance Received
 
-**Day:** 35
+**Day:** 33
 
-**Chronological Setting:** Time of the Judges - A story of loyalty and redemption
+**Chronological Setting:** Canaan - The Promised Land divided among the tribes
 
 **Readings:**
- - [Ruth 1:1–4:22](https://www.biblegateway.com/passage/?search=Ruth+1%3A1-4%3A22&version=ESV) (History)
- - [Matthew 1:5](https://www.biblegateway.com/passage/?search=Matthew+1%3A5&version=ESV) (Gospel)
- - [Ephesians 2:11-22](https://www.biblegateway.com/passage/?search=Ephesians+2%3A11-22&version=ESV) (Epistle)
- - [1 Peter 2:9-10](https://www.biblegateway.com/passage/?search=1+Peter+2%3A9-10&version=ESV) (Epistle)
+ - [Joshua 13:1–21:45](https://www.bible.com/bible/59/JOS.13.1-21.45.ESV) (History)
+ - [Ephesians 1:3-14](https://www.bible.com/bible/59/EPH.1.3-14.ESV) (Epistle)
+ - [1 Peter 1:3-5](https://www.bible.com/bible/59/1PE.1.3-5.ESV) (Epistle)
+ - [Colossians 1:12-14](https://www.bible.com/bible/59/COL.1.12-14.ESV) (Epistle)
 
-**Historical Context:** During the dark period of the judges, the story of Ruth provides a bright spot of covenant loyalty. Ruth, a Moabite woman, demonstrates remarkable faithfulness to her Israelite mother-in-law Naomi and to Israel's God.
+**Historical Context:** After major victories, Joshua divides the Promised Land among the twelve tribes according to God's direction. Each tribe receives its inheritance, fulfilling God's ancient promise to Abraham about the land.
 
-**God's Bigger Plan:** Ruth's inclusion in the genealogy of Christ demonstrates God's grace to Gentiles and His plan to include all nations in His redemptive purpose. Her story prefigures the church as the Gentile bride grafted into God's people.
+**God's Bigger Plan:** The inheritance of the land prefigures the spiritual inheritance believers receive in Christ. Just as each tribe had a specific portion, each believer has unique blessings and calling in God's kingdom.
 
-**Connecting the Dots:** Ruth tells the complete story of loyalty, redemption, and restoration. Matthew includes Ruth in Jesus' genealogy. Ephesians explains how Gentiles are brought near through Christ. Peter describes the church as strangers who become God's people.
+**Connecting the Dots:** Joshua details the division of the land and establishment of cities of refuge. Ephesians describes the spiritual blessings and inheritance believers have in Christ. Peter speaks of the imperishable inheritance reserved in heaven. Colossians celebrates qualification for sharing in the saints' inheritance.
 
 ****Theological Threads:****
-- **Covenant Loyalty:** Faithful love that endures despite circumstances
-- **Gentile Inclusion:** God's plan always included all nations
-- **Kinsman Redeemer:** Boaz prefigures Christ as our redeemer
-- **Divine Providence:** God works through ordinary circumstances
+- **Divine Inheritance:** God gives His people a portion and place
+- **Individual Calling:** Each person/tribe has unique role and blessing
+- **Secure Possession:** What God gives cannot be taken away
+- **Present and Future:** Inheritance begun now, completed in eternity
 
 **Study Questions:**
-1. What does Ruth's loyalty teach about commitment in relationships?
-2. How does Ruth's story give hope to outsiders seeking inclusion?
-3. How does Boaz as kinsman-redeemer point to Christ?
+1. What does your inheritance in Christ include?
+2. How is your calling unique within God's people?
+3. What gives you confidence about your eternal inheritance?
 
 ---
