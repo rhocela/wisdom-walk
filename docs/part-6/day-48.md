@@ -13,10 +13,10 @@ description: "The fiery prophet confronts Baal worship and calls for repentance"
 **Readings:**
 
 **Historical Context:** Under Ahab and Jezebel's influence, Baal worship becomes official in northern Israel. God raises up Elijah to confront this apostasy through dramatic miracles, including the contest on Mount Carmel and the drought/rain cycle.
- - [1 Kings 16:29–19:21](https://www.biblegateway.com/passage/?search=1+Kings+16%3A29-19%3A21) (History) 
- - [2 Kings 1:1–2:11](https://www.biblegateway.com/passage/?search=2+Kings+1%3A1-2%3A11) (History)
- - [James 5:17-18](https://www.biblegateway.com/passage/?search=James+5%3A17-18) (Epistle)
- - [Romans 11:2-4](https://www.biblegateway.com/passage/?search=Romans+11%3A2-4) (Epistle)
+ - [1 Kings 16:29–19:21](https://www.bible.com/bible/59/1KI.16.29-19.21.ESV) (History) 
+ - [2 Kings 1:1–2:11](https://www.bible.com/bible/59/2KI.1.ESV) (History)
+ - [James 5:17-18](https://www.bible.com/bible/59/JAS.5.17-18.ESV) (Epistle)
+ - [Romans 11:2-4](https://www.bible.com/bible/59/ROM.11.2-4.ESV) (Epistle)
 
 **God's Bigger Plan:** Elijah's ministry demonstrates God's supremacy over false gods and His commitment to preserving a faithful remnant. Elijah's translation to heaven without death prefigures the believer's hope of eternal life.
 

@@ -11,12 +11,12 @@ description: "Jesus accomplishes atonement through His sacrificial death"
 **Chronological Setting:** Golgotha - Jesus' crucifixion and death
 
 **Readings:**
-- [Matthew 27:1-56](https://www.biblegateway.com/passage/?search=Matthew+27%3A1-56) (Gospel)
-- [Mark 15:1-41](https://www.biblegateway.com/passage/?search=Mark+15%3A1-41) (Gospel)
-- [Luke 23:1-49](https://www.biblegateway.com/passage/?search=Luke+23%3A1-49) (Gospel)
-- [John 18:28–19:37](https://www.biblegateway.com/passage/?search=John+18%3A28-19%3A37) (Gospel)
-- [2 Corinthians 5:21](https://www.biblegateway.com/passage/?search=2+Corinthians+5%3A21) (Epistle)
-- [1 Peter 2:24](https://www.biblegateway.com/passage/?search=1+Peter+2%3A24) (Epistle)
+- [Matthew 27:1-56](https://www.bible.com/bible/59/MAT.27.1-56.ESV) (Gospel)
+- [Mark 15:1-41](https://www.bible.com/bible/59/MRK.15.1-41.ESV) (Gospel)
+- [Luke 23:1-49](https://www.bible.com/bible/59/LUK.23.1-49.ESV) (Gospel)
+- [John 18:28–19:37](https://www.bible.com/bible/59/JHN.18.28-19.37.ESV) (Gospel)
+- [2 Corinthians 5:21](https://www.bible.com/bible/59/2CO.5.21.ESV) (Epistle)
+- [1 Peter 2:24](https://www.bible.com/bible/59/1PE.2.24.ESV) (Epistle)
 
 **Historical Context:** After trials before Jewish and Roman authorities, Jesus is crucified between two criminals. His death occurs with supernatural signs including darkness over the land and the temple veil being torn, demonstrating the cosmic significance of His sacrifice.
 

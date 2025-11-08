@@ -11,10 +11,10 @@ description: "Paul proclaims freedom from the law through faith in Christ."
 **Chronological Setting:** Galatia - Paul's defense of the gospel of grace
 
 **Readings:**
-- [Galatians 5:1-26](https://www.biblegateway.com/passage/?search=Galatians+5%3A1-26) (Epistle)
-- [Exodus 12:1-14](https://www.biblegateway.com/passage/?search=Exodus+12%3A1-14) (Narrative)
-- [Isaiah 61:1-3](https://www.biblegateway.com/passage/?search=Isaiah+61%3A1-3) (Prophecy)
-- [John 8:31-36](https://www.biblegateway.com/passage/?search=John+8%3A31-36) (Gospel)
+- [Galatians 5:1-26](https://www.bible.com/bible/59/GAL.5.1-26.ESV) (Epistle)
+- [Exodus 12:1-14](https://www.bible.com/bible/59/EXO.12.1-14.ESV) (Narrative)
+- [Isaiah 61:1-3](https://www.bible.com/bible/59/ISA.61.1-3.ESV) (Prophecy)
+- [John 8:31-36](https://www.bible.com/bible/59/JHN.8.31-36.ESV) (Gospel)
 
 **Historical Context:** The Galatian believers were tempted to return to legalism. Paul passionately defends the gospel of grace, declaring that Christ has set believers free from the law's bondage and calls them to live by the Spirit.
 

@@ -11,10 +11,10 @@ description: "Jesus revealed in heavenly glory with Moses and Elijah"
 **Chronological Setting:** Mount of Transfiguration - Jesus revealed in glory
 
 **Readings:**
-- [Matthew 17:1–18:35](https://www.biblegateway.com/passage/?search=Matthew+17%3A1-18%3A35) (Gospel)
-- [Mark 9:1–10:52](https://www.biblegateway.com/passage/?search=Mark+9%3A1-10%3A52) (Gospel)
-- [Luke 9:1–18:43](https://www.biblegateway.com/passage/?search=Luke+9%3A1-18%3A43) (Gospel)
-- [2 Peter 1:16-21](https://www.biblegateway.com/passage/?search=2+Peter+1%3A16-21) (Epistle)
+- [Matthew 17:1–18:35](https://www.bible.com/bible/59/MAT.17.1-18.35.ESV) (Gospel)
+- [Mark 9:1–10:52](https://www.bible.com/bible/59/MRK.9.1-10.52.ESV) (Gospel)
+- [Luke 9:1–18:43](https://www.bible.com/bible/59/LUK.9.1-18.43.ESV) (Gospel)
+- [2 Peter 1:16-21](https://www.bible.com/bible/59/2PE.1.16-21.ESV) (Epistle)
 
 **Historical Context:** Jesus takes Peter, James, and John up a mountain where He is transfigured before them, appearing in heavenly glory and speaking with Moses and Elijah. The presence of Moses and Elijah shows that Jesus fulfills both the Law and the Prophets, while God's command to "listen to him" establishes Jesus' supreme authority.
 

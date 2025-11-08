@@ -13,10 +13,10 @@ description: "First wave of exiles return and rebuild the temple"
 **Readings:**
 
 **Historical Context:** Under Zerubbabel's leadership, nearly 50,000 exiles return to Jerusalem and begin rebuilding the temple. Opposition from local inhabitants slows the work, requiring prophetic encouragement from Haggai and Zechariah to complete the project.
- - [Ezra 2:1–6:22](https://www.biblegateway.com/passage/?search=Ezra+2%3A1-6%3A22) (History)
- - [Haggai 1:1–2:23](https://www.biblegateway.com/passage/?search=Haggai+1%3A1-2%3A23) (Prophecy)
- - [Zechariah 1:1–8:23](https://www.biblegateway.com/passage/?search=Zechariah+1%3A1-8%3A23) (Prophecy)
- - [1 Corinthians 3:10-15](https://www.biblegateway.com/passage/?search=1+Corinthians+3%3A10-15) (Epistle)
+ - [Ezra 2:1–6:22](https://www.bible.com/bible/59/EZR.2.ESV) (History)
+ - [Haggai 1:1–2:23](https://www.bible.com/bible/59/HAG.1.ESV) (Prophecy)
+ - [Zechariah 1:1–8:23](https://www.bible.com/bible/59/ZEC.1.ESV) (Prophecy)
+ - [1 Corinthians 3:10-15](https://www.bible.com/bible/59/1CO.3.10-15.ESV) (Epistle)
 
 **God's Bigger Plan:** The temple rebuilding represents renewed relationship with God and restoration of proper worship. Though smaller than Solomon's temple, it represents hope for God's continued presence with His people and points toward the ultimate temple not made with hands.
 

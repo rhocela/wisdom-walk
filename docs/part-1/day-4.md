@@ -11,11 +11,11 @@ description: "Understand the impact of the Fall and the need for redemption"
 **Chronological Setting:** Immediately after the Fall - God's first promise of redemption
 
 **Readings:**
- - [Genesis 3:15, 21](https://www.biblegateway.com/passage/?search=Genesis+3%3A15%2C+21&version=ESV) (Narrative)
- - [Isaiah 7:14, 9:6-7](https://www.biblegateway.com/passage/?search=Isaiah+7%3A14%2C+9%3A6-7&version=ESV) (Prophecy)
- - [Galatians 4:4-7](https://www.biblegateway.com/passage/?search=Galatians+4%3A4-7&version=ESV) (Epistle)
- - [1 John 3:8](https://www.biblegateway.com/passage/?search=1+John+3%3A8&version=ESV) (Epistle)
- - [Revelation 12:1-9](https://www.biblegateway.com/passage/?search=Revelation+12%3A1-9&version=ESV) (Apocalyptic)
+ - [Genesis 3:15, 21](https://www.bible.com/bible/59/GEN.3.15,21.ESV) (Narrative)
+ - [Isaiah 7:14, 9:6-7](https://www.bible.com/bible/59/ISA.7.14,9.6-7.ESV) (Prophecy)
+ - [Galatians 4:4-7](https://www.bible.com/bible/59/GAL.4.4-7.ESV) (Epistle)
+ - [1 John 3:8](https://www.bible.com/bible/59/1JN.3.8.ESV) (Epistle)
+ - [Revelation 12:1-9](https://www.bible.com/bible/59/REV.12.1-9.ESV) (Apocalyptic)
 
 **Historical Context:** Even in pronouncing judgment for sin, God immediately provides hope through the first messianic promise. This protoevangelium becomes the foundation for all subsequent redemptive revelation.
 

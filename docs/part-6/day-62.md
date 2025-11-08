@@ -13,10 +13,10 @@ description: "God's hidden providence protects His people in Persia"
 **Readings:**
 
 **Historical Context:** When Haman plots to exterminate all Jews in the Persian Empire, Queen Esther risks her life to save her people. Though God's name isn't mentioned in the book, His providence is evident throughout as He orchestrates events to preserve His covenant people.
- - [Esther 1:1–10:3](https://www.biblegateway.com/passage/?search=Esther+1%3A1-10%3A3) (History)
- - [Romans 8:28](https://www.biblegateway.com/passage/?search=Romans+8%3A28) (Epistle)
- - [Genesis 50:20](https://www.biblegateway.com/passage/?search=Genesis+50%3A20) (Narrative)
- - [Proverbs 21:1](https://www.biblegateway.com/passage/?search=Proverbs+21%3A1) (Wisdom)
+ - [Esther 1:1–10:3](https://www.bible.com/bible/59/EST.1.ESV) (History)
+ - [Romans 8:28](https://www.bible.com/bible/59/ROM.8.28.ESV) (Epistle)
+ - [Genesis 50:20](https://www.bible.com/bible/59/GEN.50.20.ESV) (Narrative)
+ - [Proverbs 21:1](https://www.bible.com/bible/59/PRO.21.1.ESV) (Wisdom)
 
 **God's Bigger Plan:** Esther's story demonstrates God's hidden providence working to preserve His people even when He seems absent. It shows how God can use individuals in positions of influence to accomplish His purposes and protect the line through which Messiah will come.
 

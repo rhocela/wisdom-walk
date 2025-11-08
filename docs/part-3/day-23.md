@@ -1,36 +1,37 @@
 ---
-sidebar_label: "Day 23: Wilderness Testing"
+sidebar_label: "Day 23: Passover Night"
 sidebar_position: 23
-description: "God provides manna and water in the wilderness"
+description: "Deliverance through the blood of the lamb"
 ---
 
-# Wilderness Testing: Manna and Water
+# Passover Night: The Blood of the Lamb
 
 **Day:** 23
 
-**Chronological Setting:** Wilderness of Sin and Rephidim - God provides for physical needs
+**Chronological Setting:** Egypt - The night of deliverance through blood sacrifice
 
 **Readings:**
- - [Exodus 16:1–17:7](https://www.biblegateway.com/passage/?search=Exodus+16%3A1-17%3A7&version=ESV) (Narrative)
- - [Numbers 11:4-9](https://www.biblegateway.com/passage/?search=Numbers+11%3A4-9&version=ESV) (Law)
- - [John 6:25-58](https://www.biblegateway.com/passage/?search=John+6%3A25-58&version=ESV) (Gospel)
- - [1 Corinthians 10:3-4](https://www.biblegateway.com/passage/?search=1+Corinthians+10%3A3-4&version=ESV) (Epistle)
+ - [Exodus 12:1–13:16](https://www.bible.com/bible/59/EXO.12.1-13.16.ESV) (Narrative)
+ - [1 Corinthians 5:7-8](https://www.bible.com/bible/59/1CO.5.7-8.ESV) (Epistle)
+ - [1 Peter 1:18-19](https://www.bible.com/bible/59/1PE.1.18-19.ESV) (Epistle)
+ - [John 1:29](https://www.bible.com/bible/59/JHN.1.29.ESV) (Gospel)
+ - [Revelation 5:6-12](https://www.bible.com/bible/59/REV.5.6-12.ESV) (Prophecy)
 
-**Historical Context:** In the wilderness, Israel faces hunger and thirst. God provides manna from heaven and water from the rock, testing their faith and teaching dependence on Him for daily needs.
+**Historical Context:** God institutes the Passover as the final plague strikes Egypt's firstborn. Only houses marked with lamb's blood are spared. This night of deliverance becomes Israel's most significant redemptive event.
 
-**God's Bigger Plan:** The manna prefigures Christ as the bread of life who came down from heaven. The water from the rock represents Christ as the source of living water for spiritual thirst.
+**God's Bigger Plan:** The Passover lamb prefigures Christ as the ultimate sacrifice. Just as the lamb's blood protected from death, Christ's blood delivers from eternal judgment. The Passover becomes the foundation for understanding Christ's work.
 
-**Connecting the Dots:** Exodus describes God's provision and Israel's complaints. Numbers gives details about the manna. Jesus uses the manna to teach about Himself as the true bread from heaven. Paul identifies Christ as the spiritual rock that provided water.
+**Connecting the Dots:** Exodus establishes the Passover institution and its meaning. Paul identifies Christ as our Passover lamb. Peter describes redemption through Christ's precious blood. John records the Baptist's declaration of Jesus as "the Lamb of God." Revelation celebrates the Lamb who was slain.
 
 ****Theological Threads:****
-- **Divine Provision:** God supplies all physical and spiritual needs
-- **Daily Dependence:** Learning to trust God one day at a time
-- **Christ Prefigured:** Manna and water point to Jesus
-- **Testing Faith:** Trials reveal the heart's true condition
+- **Substitutionary Sacrifice:** The lamb dies in place of the firstborn
+- **Blood Redemption:** Deliverance through sacrificial death
+- **Typological Fulfillment:** Passover lamb points to Christ
+- **Eternal Salvation:** Temporal deliverance pictures eternal redemption
 
 **Study Questions:**
-1. How do the manna and water point to your need for Christ?
-2. What does daily gathering of manna teach about trusting God?
-3. How do you respond when God's provision doesn't match your preferences?
+1. How does the Passover lamb point to Jesus Christ?
+2. What does it mean that Christ is your Passover lamb?
+3. How should the Passover shape your understanding of salvation?
 
 ---

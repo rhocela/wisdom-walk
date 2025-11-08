@@ -11,10 +11,10 @@ description: "Paul addresses divisions and calls for unity in the church."
 **Chronological Setting:** Corinth - Paul's letter to a divided church
 
 **Readings:**
-- [1 Corinthians 1:10–3:23](https://www.biblegateway.com/passage/?search=1+Corinthians+1%3A10-3%3A23) (Epistle)
-- [Psalm 133:1-3](https://www.biblegateway.com/passage/?search=Psalm+133%3A1-3) (Poetry)
-- [Numbers 16:1-35](https://www.biblegateway.com/passage/?search=Numbers+16%3A1-35) (Narrative)
-- [John 17:20-23](https://www.biblegateway.com/passage/?search=John+17%3A20-23) (Gospel)
+- [1 Corinthians 1:10–3:23](https://www.bible.com/bible/59/1CO.1.10-3.23.ESV) (Epistle)
+- [Psalm 133:1-3](https://www.bible.com/bible/59/PSA.133.1-3.ESV) (Poetry)
+- [Numbers 16:1-35](https://www.bible.com/bible/59/NUM.16.1-35.ESV) (Narrative)
+- [John 17:20-23](https://www.bible.com/bible/59/JHN.17.20-23.ESV) (Gospel)
 
 **Historical Context:** The Corinthian church struggled with factions and pride. Paul urges believers to be united in Christ, reminding them that all are part of one body and that divisions undermine the gospel's witness.
 

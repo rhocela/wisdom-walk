@@ -11,10 +11,10 @@ description: "400 years of waiting for the promised Messiah"
 **Chronological Setting:** Intertestamental period - Preparation for Christ's coming
 
 **Readings:**
- - [Malachi 3:1–4:6](https://www.biblegateway.com/passage/?search=Malachi+3%3A1-4%3A6) (Prophecy)
- - [Isaiah 9:1-7, 53:1-12](https://www.biblegateway.com/passage/?search=Isaiah+9%3A1-7%2C+53%3A1-12) (Prophecy)
- - [Luke 1:5-25](https://www.biblegateway.com/passage/?search=Luke+1%3A5-25) (Gospel)
- - [Galatians 4:4-5](https://www.biblegateway.com/passage/?search=Galatians+4%3A4-5) (Epistle)
+ - [Malachi 3:1–4:6](https://www.bible.com/bible/59/MAL.3.ESV) (Prophecy)
+ - [Isaiah 9:1-7, 53:1-12](https://www.bible.com/bible/59/ISA.9.1-7.ESV) (Prophecy)
+ - [Luke 1:5-25](https://www.bible.com/bible/59/LUK.1.5-25.ESV) (Gospel)
+ - [Galatians 4:4-5](https://www.bible.com/bible/59/GAL.4.4-5.ESV) (Epistle)
 
 **Historical Context:** After Malachi, prophetic revelation ceases for 400 years as God's people wait for the promised Messiah. During this time, various empires rule over the Jews while they maintain their faith and study the Scriptures, preparing for the fulfillment of messianic prophecies.
 

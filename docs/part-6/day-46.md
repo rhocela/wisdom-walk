@@ -13,10 +13,10 @@ description: "Israel splits into northern and southern kingdoms"
 **Readings:**
 
 **Historical Context:** Rehoboam's harsh response to the people's request for lighter taxation leads to the kingdom's permanent division. Ten tribes follow Jeroboam to form the northern kingdom of Israel, while Judah and Benjamin remain loyal to David's house.
- - [1 Kings 12:1–14:31 (History)](https://www.biblegateway.com/passage/?search=1+Kings+12%3A1-14%3A31) (History)
- - [2 Chronicles 10:1–12:16 (History)](https://www.biblegateway.com/passage/?search=2+Chronicles+10%3A1-12%3A16) (History)
- - [Hosea 8:4-7 (Prophecy)](https://www.biblegateway.com/passage/?search=Hosea+8%3A4-7) (Prophecy)
- - [Romans 1:28-32 (Epistle)](https://www.biblegateway.com/passage/?search=Romans+1%3A28-32) (Epistle)
+ - [1 Kings 12:1–14:31](https://www.bible.com/bible/59/1KI.12.ESV) (History)
+ - [2 Chronicles 10:1–12:16](https://www.bible.com/bible/59/2CH.10.ESV) (History)
+ - [Hosea 8:4-7](https://www.bible.com/bible/59/HOS.8.4-7.ESV) (Prophecy)
+ - [Romans 1:28-32](https://www.bible.com/bible/59/ROM.1.28-32.ESV) (Epistle)
 
 **God's Bigger Plan:** The division fulfills God's judgment on Solomon's idolatry while preserving the messianic line through Judah. It demonstrates that human rebellion cannot ultimately thwart God's purposes, though it brings painful consequences.
 

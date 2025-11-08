@@ -1,31 +1,33 @@
 ---
-sidebar_position: 8
-title: "Day 16: Divine Providence"
+sidebar_position: 7
+title: "Day 16: Wrestling with God"
 ---
 
-# Divine Providence: Joseph in Egypt
+# Wrestling with God: Jacob's Transformation
 
-**Chronological Setting:** Egypt - Joseph's rise from prisoner to second-in-command
+**Day:** 16
+
+**Chronological Setting:** Peniel - Jacob's night of wrestling and transformation
 
 **Readings:**
- - [Genesis 39:1–41:57](https://www.biblegateway.com/passage/?search=Genesis+39%3A1-41%3A57&version=ESV) (Narrative)
- - [Psalm 105:16-22](https://www.biblegateway.com/passage/?search=Psalm+105%3A16-22&version=ESV) (Poetry)
- - [Acts 7:9-16](https://www.biblegateway.com/passage/?search=Acts+7%3A9-16&version=ESV) (History)
- - [1 Peter 1:6-7](https://www.biblegateway.com/passage/?search=1+Peter+1%3A6-7&version=ESV) (Epistle)
+ - [Genesis 28:10–35:29](https://www.bible.com/bible/59/GEN.28.10-35.29.ESV) (Narrative)
+ - [Hosea 12:3-6](https://www.bible.com/bible/59/HOS.12.3-6.ESV) (Prophecy)
+ - [Romans 9:25-26](https://www.bible.com/bible/59/ROM.9.25-26.ESV) (Epistle)
+ - [1 Peter 2:9-10](https://www.bible.com/bible/59/1PE.2.9-10.ESV) (Epistle)
 
-**Historical Context:** Sold into slavery, falsely accused, and imprisoned, Joseph experiences God's favor and blessing despite circumstances. His God-given ability to interpret dreams elevates him to rule over Egypt.
+**Historical Context:** After years of exile and God's discipline, Jacob returns to face Esau. The night before their meeting, he wrestles with God and emerges transformed, receiving the new name Israel.
 
-**Redemptive Significance:** Joseph's story demonstrates God's providence in preparing for future needs. His position saves not only Egypt but also preserves the covenant family during famine.
+**Redemptive Significance:** Jacob's transformation from deceiver to Israel (prince with God) illustrates the spiritual transformation God works in His people. His new name becomes the name of God's chosen nation.
 
-**Why These Passages Connect:** Genesis narrates Joseph's trials and triumphs in Egypt. Psalm 105 celebrates how God sent Joseph ahead to preserve life. Stephen's speech in Acts summarizes Joseph's story as part of God's plan. Peter encourages believers that trials test and refine faith like gold.
+**Why These Passages Connect:** Genesis details Jacob's entire journey from his dream at Bethel through his transformation at Peniel. Hosea reflects on Jacob's wrestling with God and his spiritual victory. Romans uses Hosea's language about calling those "not my people" to be "my people." Peter applies this to the church as God's chosen people.
 
 **Theological Threads:**
-- **Divine Providence:** God orchestrates circumstances for His purposes
-- **Faithful Suffering:** Maintaining integrity in trials
-- **Preparation and Preservation:** God provides for future needs
-- **Tested Faith:** Trials prove and purify faith
+- **Divine Discipline:** God shapes character through trials
+- **Spiritual Wrestling:** Persistent prayer and surrender
+- **Identity Transformation:** From Jacob (deceiver) to Israel (prince)
+- **Covenant Community:** Individual becomes nation
 
 **Study Questions:**
-1. How do you see God's hand in Joseph's seemingly unfortunate circumstances?
-2. What does Joseph's faithfulness in trials teach about character?
-3. How might your current trials be preparing you for future service?
+1. What does Jacob's wrestling teach about persevering in prayer?
+2. How has God transformed your identity through trials?
+3. What does it mean to be part of God's chosen people?

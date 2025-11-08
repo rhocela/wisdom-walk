@@ -11,11 +11,11 @@ description: "Jesus accepts the cup of God's wrath for sin"
 **Chronological Setting:** Garden of Gethsemane - Jesus' final prayer before arrest
 
 **Readings:**
-- [Matthew 26:36-56](https://www.biblegateway.com/passage/?search=Matthew+26%3A36-56) (Gospel)
-- [Mark 14:32-52](https://www.biblegateway.com/passage/?search=Mark+14%3A32-52) (Gospel)
-- [Luke 22:39-53](https://www.biblegateway.com/passage/?search=Luke+22%3A39-53) (Gospel)
-- [John 18:1-12](https://www.biblegateway.com/passage/?search=John+18%3A1-12) (Gospel)
-- [Hebrews 5:7-10](https://www.biblegateway.com/passage/?search=Hebrews+5%3A7-10) (Epistle)
+- [Matthew 26:36-56](https://www.bible.com/bible/59/MAT.26.36-56.ESV) (Gospel)
+- [Mark 14:32-52](https://www.bible.com/bible/59/MRK.14.32-52.ESV) (Gospel)
+- [Luke 22:39-53](https://www.bible.com/bible/59/LUK.22.39-53.ESV) (Gospel)
+- [John 18:1-12](https://www.bible.com/bible/59/JHN.18.1-12.ESV) (Gospel)
+- [Hebrews 5:7-10](https://www.bible.com/bible/59/HEB.5.7-10.ESV) (Epistle)
 
 **Historical Context:** In Gethsemane, Jesus experiences intense anguish as He contemplates drinking the cup of God's wrath for sin. His willing submission to arrest shows that His death is voluntary sacrifice, not tragic accident.
 

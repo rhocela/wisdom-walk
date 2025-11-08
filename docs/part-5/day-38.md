@@ -10,10 +10,12 @@ description: "God chooses the shepherd boy as the man after His heart"
 
 **Chronological Setting:** Bethlehem - God chooses David while Saul still reigns
 
- - [1 Samuel 16:1–17:58](https://www.biblegateway.com/passage/?search=1+Samuel+16%3A1-17%3A58) (History)
- - [Acts 13:22-23](https://www.biblegateway.com/passage/?search=Acts+13%3A22-23) (History)
- - [Psalm 78:70-72](https://www.biblegateway.com/passage/?search=Psalm+78%3A70-72) (Poetry)
- - [1 Chronicles 17:7-14](https://www.biblegateway.com/passage/?search=1+Chronicles+17%3A7-14) (History)
+**Readings:**
+ - [1 Samuel 16:1–17:58](https://www.bible.com/bible/59/1SA.16.1-17.58.ESV) (History)
+ - [Acts 13:22-23](https://www.bible.com/bible/59/ACT.13.22-23.ESV) (History)
+ - [Psalm 78:70-72](https://www.bible.com/bible/59/PSA.78.70-72.ESV) (Poetry)
+ - [1 Chronicles 17:7-14](https://www.bible.com/bible/59/1CH.17.7-14.ESV) (History)
+
 **Historical Context:** While Saul still occupies the throne, God directs Samuel to anoint young David as the next king. David's victory over Goliath demonstrates that God's power works through faith, not human strength or conventional weapons.
 
 **God's Bigger Plan:** David represents God's choice of the humble and faithful rather than the impressive and proud. His lineage becomes the royal line through which Christ will come, making him a crucial figure in the messianic promise.

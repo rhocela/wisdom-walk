@@ -11,11 +11,11 @@ description: "Explore God's salvation through the flood and His covenant with No
 **Chronological Setting:** End of the flood - God's salvation and covenant with Noah
 
 **Readings:**
- - [Genesis 8:1–9:17](https://www.biblegateway.com/passage/?search=Genesis+8%3A1-9%3A17&version=ESV) (Narrative)
- - [2 Peter 3:3-7](https://www.biblegateway.com/passage/?search=2+Peter+3%3A3-7&version=ESV) (Epistle)
- - [1 Peter 3:18-22](https://www.biblegateway.com/passage/?search=1+Peter+3%3A18-22&version=ESV) (Epistle)
- - [Isaiah 54:9-10](https://www.biblegateway.com/passage/?search=Isaiah+54%3A9-10&version=ESV) (Prophecy)
- - [Revelation 4:3](https://www.biblegateway.com/passage/?search=Revelation+4%3A3&version=ESV) (Apocalyptic)
+ - [Genesis 8:1–9:17](https://www.bible.com/bible/59/GEN.8.1-9.17.ESV) (Narrative)
+ - [2 Peter 3:3-7](https://www.bible.com/bible/59/2PE.3.3-7.ESV) (Epistle)
+ - [1 Peter 3:18-22](https://www.bible.com/bible/59/1PE.3.18-22.ESV) (Epistle)
+ - [Isaiah 54:9-10](https://www.bible.com/bible/59/ISA.54.9-10.ESV) (Prophecy)
+ - [Revelation 4:3](https://www.bible.com/bible/59/REV.4.3.ESV) (Apocalyptic)
 
 **Historical Context:** God remembered Noah and caused the flood waters to recede. After Noah's sacrifice, God made an unconditional covenant never again to destroy the earth by flood, establishing the rainbow as the eternal sign. This represents a new beginning for humanity with divine promises of stability.
 

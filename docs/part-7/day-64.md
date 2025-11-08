@@ -13,10 +13,10 @@ description: "Timeless principles for living under the sun"
 **Readings:**
 
 **Historical Context:** Israel's wisdom literature provides practical guidance for living righteously in a fallen world. Proverbs offers principles for daily decisions, Ecclesiastes explores life's meaning, and Song of Solomon celebrates the beauty of human love within marriage.
- - [Proverbs 1:1–31:31](https://www.biblegateway.com/passage/?search=Proverbs+1%3A1-31%3A31) (Wisdom)
- - [Ecclesiastes 1:1–12:14](https://www.biblegateway.com/passage/?search=Ecclesiastes+1%3A1-12%3A14) (Wisdom)
- - [Song of Solomon 1:1–8:14](https://www.biblegateway.com/passage/?search=Song+of+Solomon+1%3A1-8%3A14) (Poetry)
- - [Colossians 2:3](https://www.biblegateway.com/passage/?search=Colossians+2%3A3) (Epistle)
+ - [Proverbs 1:1–31:31](https://www.bible.com/bible/59/PRO.1.ESV) (Wisdom)
+ - [Ecclesiastes 1:1–12:14](https://www.bible.com/bible/59/ECC.1.ESV) (Wisdom)
+ - [Song of Solomon 1:1–8:14](https://www.bible.com/bible/59/SNG.1.ESV) (Poetry)
+ - [Colossians 2:3](https://www.bible.com/bible/59/COL.2.3.ESV) (Epistle)
 
 **God's Bigger Plan:** The wisdom books demonstrate that God cares about all aspects of human life and provides guidance for flourishing. They point toward Christ as the ultimate embodiment of divine wisdom and the source of true meaning and fulfillment.
 

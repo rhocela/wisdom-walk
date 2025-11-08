@@ -11,10 +11,10 @@ description: "Paul encourages believers to live in hope and readiness for Christ
 **Chronological Setting:** Thessalonica - Paul's letters on the second coming
 
 **Readings:**
-- [1 Thessalonians 4:13–5:11; 2 Thessalonians 1:3–2:17](https://www.biblegateway.com/passage/?search=1+Thessalonians+4%3A13-5%3A11%3B+2+Thessalonians+1%3A3-2%3A17) (Epistle)
-- [Daniel 12:1-3](https://www.biblegateway.com/passage/?search=Daniel+12%3A1-3) (Prophecy)
-- [Exodus 12:11-14](https://www.biblegateway.com/passage/?search=Exodus+12%3A11-14) (Narrative)
-- [Matthew 24:29-44](https://www.biblegateway.com/passage/?search=Matthew+24%3A29-44) (Gospel)
+- [1 Thessalonians 4:13–5:11; 2 Thessalonians 1:3–2:17](https://www.bible.com/bible/59/1TH.4.13-5.11.ESV) (Epistle)
+- [Daniel 12:1-3](https://www.bible.com/bible/59/DAN.12.1-3.ESV) (Prophecy)
+- [Exodus 12:11-14](https://www.bible.com/bible/59/EXO.12.11-14.ESV) (Narrative)
+- [Matthew 24:29-44](https://www.bible.com/bible/59/MAT.24.29-44.ESV) (Gospel)
 
 **Historical Context:** Paul writes to encourage the Thessalonian believers to remain steadfast and hopeful, living in readiness for Christ's return. He clarifies misunderstandings about the end times and exhorts them to holy living.
 

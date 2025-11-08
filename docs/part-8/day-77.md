@@ -11,11 +11,11 @@ description: "Jesus conquers death and validates His claims"
 **Chronological Setting:** Jerusalem - Jesus' resurrection on the third day
 
 **Readings:**
-- [Matthew 28:1-20](https://www.biblegateway.com/passage/?search=Matthew+28%3A1-20) (Gospel)
-- [Mark 16:1-20](https://www.biblegateway.com/passage/?search=Mark+16%3A1-20) (Gospel)
-- [Luke 24:1-53](https://www.biblegateway.com/passage/?search=Luke+24%3A1-53) (Gospel)
-- [John 20:1–21:25](https://www.biblegateway.com/passage/?search=John+20%3A1-21%3A25) (Gospel)
-- [1 Corinthians 15:1-58](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A1-58) (Epistle)
+- [Matthew 28:1-20](https://www.bible.com/bible/59/MAT.28.1-20.ESV) (Gospel)
+- [Mark 16:1-20](https://www.bible.com/bible/59/MRK.16.1-20.ESV) (Gospel)
+- [Luke 24:1-53](https://www.bible.com/bible/59/LUK.24.1-53.ESV) (Gospel)
+- [John 20:1–21:25](https://www.bible.com/bible/59/JHN.20.1-21.25.ESV) (Gospel)
+- [1 Corinthians 15:1-58](https://www.bible.com/bible/59/1CO.15.1-58.ESV) (Epistle)
 
 **Historical Context:** On the first day of the week, women discover Jesus' empty tomb and encounter the risen Lord. It demonstrates God's acceptance of Christ's sacrifice and guarantees the future resurrection of all believers, making it the cornerstone of Christian faith.
 

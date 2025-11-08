@@ -1,36 +1,36 @@
 ---
-sidebar_label: "Day 36: Samuel's Ministry"
+sidebar_label: "Day 36: Judges Raised"
 sidebar_position: 36
-description: "Faithful leadership in the transition to monarchy"
+description: "Repeated cycles of apostasy and deliverance"
 ---
 
-# Samuel's Ministry: Transition to Monarchy
+# Judges Raised: Cycles of Apostasy
 
 **Day:** 36
 
-**Chronological Setting:** End of Judges period - Samuel as last judge and kingmaker
+**Chronological Setting:** Period of the Judges - Repeated cycles of sin and deliverance
 
 **Readings:**
- - [1 Samuel 1:1–4:22, 7:2–8:22](https://www.biblegateway.com/passage/?search=1+Samuel+1%3A1-4%3A22%2C+7%3A2-8%3A22&version=ESV) (History)
- - [1 Peter 2:4-6](https://www.biblegateway.com/passage/?search=1+Peter+2%3A4-6&version=ESV) (Epistle)
- - [Acts 13:20-22](https://www.biblegateway.com/passage/?search=Acts+13%3A20-22&version=ESV) (History)
- - [Psalm 99:6-7](https://www.biblegateway.com/passage/?search=Psalm+99%3A6-7&version=ESV) (Poetry)
+ - [Judges 2:6–3:31, 6:1–8:35](https://www.bible.com/bible/59/JDG.2.6-3.31,6.1-8.35.ESV) (History)
+ - [Romans 1:18-32](https://www.bible.com/bible/59/ROM.1.18-32.ESV) (Epistle)
+ - [2 Chronicles 7:14](https://www.bible.com/bible/59/2CH.7.14.ESV) (History)
+ - [Psalm 106:34-46](https://www.bible.com/bible/59/PSA.106.34-46.ESV) (Poetry)
 
-**Historical Context:** Samuel, born in answer to Hannah's prayer, serves as judge, priest, and prophet. His ministry marks the transition from the period of judges to the monarchy as Israel demands a king like other nations.
+**Historical Context:** After Joshua's death, Israel enters a dark period characterized by cycles of apostasy, oppression, crying out to God, and deliverance through judges. This pattern repeats throughout the period, showing Israel's tendency toward spiritual decline.
 
-**God's Bigger Plan:** Samuel represents faithful leadership and the importance of listening to God's voice. His role in anointing kings points to Christ as the ultimate Prophet, Priest, and King. Israel's demand for a human king reflects rejection of God's kingship.
+**God's Bigger Plan:** The judges period reveals human nature's bent toward sin and the need for righteous leadership. It demonstrates God's patience and mercy in providing deliverers, prefiguring the ultimate Judge and Deliverer, Jesus Christ.
 
-**Connecting the Dots:** 1 Samuel tells of Samuel's birth, calling, and ministry through Israel's demand for a king. Peter describes Christ as the chosen cornerstone that people often reject. Acts summarizes this transition period in Israel's history. The Psalm celebrates Samuel as one who called on God's name.
+**Connecting the Dots:** Judges describes the cycles and some key deliverers like Gideon. Romans explains the pattern of human rebellion and its consequences. Chronicles offers God's promise of healing for repentant people. The Psalm recounts Israel's pattern of rebellion and God's mercy.
 
 ****Theological Threads:****
-- **Faithful Leadership:** Samuel's example of integrity in ministry
-- **Divine Calling:** God calls people from childhood for His service
-- **Rejection of God's Rule:** Human tendency to prefer visible authority
-- **Transition Periods:** God uses faithful servants in times of change
+- **Human Depravity:** Tendency to turn from God without strong leadership
+- **Divine Mercy:** God repeatedly provides deliverance despite rebellion
+- **Cyclical History:** Patterns of sin, judgment, repentance, and restoration
+- **Need for Perfect Leader:** Human judges fail; only Christ succeeds perfectly
 
 **Study Questions:**
-1. What made Samuel an effective leader for God?
-2. How do you hear and respond to God's voice like Samuel?
-3. What are the dangers of preferring human authority over God's rule?
+1. What patterns do you see in your own spiritual life that mirror Israel's cycles?
+2. How does God's mercy in the judges period encourage you?
+3. What makes Jesus different from the human judges?
 
 ---

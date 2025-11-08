@@ -11,10 +11,10 @@ description: "Jesus makes His final approach to the cross"
 **Chronological Setting:** On the road to Jerusalem - Jesus' final journey
 
 **Readings:**
-- [Matthew 19:1–23:39](https://www.biblegateway.com/passage/?search=Matthew+19%3A1-23%3A39) (Gospel)
-- [Mark 11:1–12:44](https://www.biblegateway.com/passage/?search=Mark+11%3A1-12%3A44) (Gospel)
-- [Luke 19:1–21:38](https://www.biblegateway.com/passage/?search=Luke+19%3A1-21%3A38) (Gospel)
-- [John 11:1–12:50](https://www.biblegateway.com/passage/?search=John+11%3A1-12%3A50) (Gospel)
+- [Matthew 19:1–23:39](https://www.bible.com/bible/59/MAT.19.1-23.39.ESV) (Gospel)
+- [Mark 11:1–12:44](https://www.bible.com/bible/59/MRK.11.1-12.44.ESV) (Gospel)
+- [Luke 19:1–21:38](https://www.bible.com/bible/59/LUK.19.1-21.38.ESV) (Gospel)
+- [John 11:1–12:50](https://www.bible.com/bible/59/JHN.11.1-12.50.ESV) (Gospel)
 
 **Historical Context:** Jesus makes His final journey to Jerusalem, teaching extensively about the kingdom, confronting religious leaders, and preparing His disciples for what's coming. His teachings during this period focus on the cost of discipleship and the judgment coming on those who reject Him, while His entry as king fulfills prophecy.
 

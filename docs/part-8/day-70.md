@@ -11,10 +11,10 @@ description: "Jesus reveals kingdom truths through miracles and stories"
 **Chronological Setting:** Throughout Galilee - Jesus' teaching and miracle ministry
 
 **Readings:**
-- [Matthew 8:1–13:58](https://www.biblegateway.com/passage/?search=Matthew+8%3A1-13%3A58) (Gospel)
-- [Mark 3:1–6:56](https://www.biblegateway.com/passage/?search=Mark+3%3A1-6%3A56) (Gospel)
-- [Luke 7:1–9:62](https://www.biblegateway.com/passage/?search=Luke+7%3A1-9%3A62) (Gospel)
-- [John 5:1–6:71](https://www.biblegateway.com/passage/?search=John+5%3A1-6%3A71) (Gospel)
+- [Matthew 8:1–13:58](https://www.bible.com/bible/59/MAT.8.1-13.58.ESV) (Gospel)
+- [Mark 3:1–6:56](https://www.bible.com/bible/59/MRK.3.1-6.56.ESV) (Gospel)
+- [Luke 7:1–9:62](https://www.bible.com/bible/59/LUK.7.1-9.62.ESV) (Gospel)
+- [John 5:1–6:71](https://www.bible.com/bible/59/JHN.5.1-6.71.ESV) (Gospel)
 
 **Historical Context:** Jesus' ministry intensifies with miraculous healings, nature miracles, and parabolic teaching about the kingdom. His parables reveal that the kingdom comes not through political revolution but through spiritual transformation, often in unexpected ways.
 

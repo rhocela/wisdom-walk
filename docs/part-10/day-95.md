@@ -11,10 +11,10 @@ description: "John sees the throne of God & the Lamb who is worthy."
 **Chronological Setting:** Heaven - John's vision of worship and redemption
 
 **Readings:**
-- [Revelation 4:1–5:14](https://www.biblegateway.com/passage/?search=Revelation+4%3A1-5%3A14) (Apocalypse)
-- [Isaiah 6:1-8](https://www.biblegateway.com/passage/?search=Isaiah+6%3A1-8) (Prophecy)
-- [Exodus 25:10-22](https://www.biblegateway.com/passage/?search=Exodus+25%3A10-22) (Narrative)
-- [John 1:29-34](https://www.biblegateway.com/passage/?search=John+1%3A29-34) (Gospel)
+- [Revelation 4:1–5:14](https://www.bible.com/bible/59/REV.4.ESV) (Apocalypse)
+- [Isaiah 6:1-8](https://www.bible.com/bible/59/ISA.6.1-8.ESV) (Prophecy)
+- [Exodus 25:10-22](https://www.bible.com/bible/59/EXO.25.10-22.ESV) (Narrative)
+- [John 1:29-34](https://www.bible.com/bible/59/JHN.1.29-34.ESV) (Gospel)
 
 **Historical Context:** John is taken up to heaven and sees God's throne surrounded by worship. The Lamb, who was slain, is declared worthy to open the scroll and receive honor, glory, and power.
 
