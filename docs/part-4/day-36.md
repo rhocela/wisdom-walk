@@ -1,12 +1,12 @@
 ---
-sidebar_label: "Day 34: Judges Raised"
-sidebar_position: 34
+sidebar_label: "Day 36: Judges Raised"
+sidebar_position: 36
 description: "Repeated cycles of apostasy and deliverance"
 ---
 
 # Judges Raised: Cycles of Apostasy
 
-**Day:** 34
+**Day:** 36
 
 **Chronological Setting:** Period of the Judges - Repeated cycles of sin and deliverance
 

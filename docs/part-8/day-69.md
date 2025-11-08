@@ -11,10 +11,10 @@ description: "Jesus begins His public ministry proclaiming God's kingdom"
 **Chronological Setting:** Galilee - Jesus begins preaching and calling disciples
 
 **Readings:**
-- [Matthew 4:12–5:48](https://www.biblegateway.com/passage/?search=Matthew+4%3A12-5%3A48) (Gospel)
-- [Mark 1:14–2:28](https://www.biblegateway.com/passage/?search=Mark+1%3A14-2%3A28) (Gospel)
-- [Luke 4:14–6:49](https://www.biblegateway.com/passage/?search=Luke+4%3A14-6%3A49) (Gospel)
-- [John 2:1–4:54](https://www.biblegateway.com/passage/?search=John+2%3A1-4%3A54) (Gospel)
+- [Matthew 4:12–5:48](https://www.bible.com/bible/59/MAT.4.12-5.48.ESV) (Gospel)
+- [Mark 1:14–2:28](https://www.bible.com/bible/59/MRK.1.14-2.28.ESV) (Gospel)
+- [Luke 4:14–6:49](https://www.bible.com/bible/59/LUK.4.14-6.49.ESV) (Gospel)
+- [John 2:1–4:54](https://www.bible.com/bible/59/JHN.2.1-4.54.ESV) (Gospel)
 
 **Historical Context:** After John's imprisonment, Jesus begins His public ministry in Galilee, proclaiming the kingdom of heaven and calling disciples. His teachings in the Sermon on the Mount reveal the character required for kingdom citizenship, while His miracles demonstrate kingdom power over disease, demons, and death.
 

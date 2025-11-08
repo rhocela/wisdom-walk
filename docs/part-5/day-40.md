@@ -11,12 +11,12 @@ description: "Israel united under God's chosen king in Jerusalem"
 **Chronological Setting:** Jerusalem - David establishes his kingdom and capital
 
 **Readings:**
+ - [2 Samuel 1:1–10:19](https://www.bible.com/bible/59/2SA.1.1-10.19.ESV) (History)
+ - [1 Chronicles 11:1–19:19](https://www.bible.com/bible/59/1CH.11.1-19.19.ESV) (History)
+ - [Psalm 2, 110](https://www.bible.com/bible/59/PSA.2,110.ESV) (Poetry)
+ - [Ephesians 1:20-23](https://www.bible.com/bible/59/EPH.1.20-23.ESV) (Epistle)
 
 **Historical Context:** David becomes king over all Israel, conquers Jerusalem to make it his capital, brings the ark there, and receives God's covenant promise of an eternal dynasty. His military victories establish Israel as a regional power.
- - [2 Samuel 1:1–10:19](https://www.biblegateway.com/passage/?search=2+Samuel+1%3A1-10%3A19) (History)
- - [1 Chronicles 11:1–19:19](https://www.biblegateway.com/passage/?search=1+Chronicles+11%3A1-19%3A19) (History)
- - [Psalm 2, 110](https://www.biblegateway.com/passage/?search=Psalm+2%2C+110) (Poetry)
- - [Ephesians 1:20-23](https://www.biblegateway.com/passage/?search=Ephesians+1%3A20-23) (Epistle)
 
 **God's Bigger Plan:** David's kingdom represents the ideal of God's rule on earth and prefigures Christ's eternal kingdom. The establishment of Jerusalem as the holy city and the promise of an eternal dynasty point forward to the New Jerusalem and Christ's eternal reign.
 

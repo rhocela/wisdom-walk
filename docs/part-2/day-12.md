@@ -1,31 +1,31 @@
 ---
-sidebar_position: 4
-title: "Day 12: Promise Passed"
+sidebar_position: 2
+title: "Day 12: Covenant Making"
 ---
 
-# Promise Passed: Isaac's Story
+# Covenant Making: Divine Promises
 
-**Chronological Setting:** Isaac's life - The promised son and his descendants
+**Day:** 12
 
 **Readings:**
- - [Genesis 23:1–28:9](https://www.biblegateway.com/passage/?search=Genesis+23%3A1-28%3A9&version=ESV) (Narrative)
- - [Romans 9:6-13](https://www.biblegateway.com/passage/?search=Romans+9%3A6-13&version=ESV) (Epistle)
- - [Hebrews 11:20](https://www.biblegateway.com/passage/?search=Hebrews+11%3A20&version=ESV) (Epistle)
- - [Galatians 4:21-31](https://www.biblegateway.com/passage/?search=Galatians+4%3A21-31&version=ESV) (Epistle)
+ - [Genesis 12:10–13:18, 15:1-21](https://www.bible.com/bible/59/GEN.12.10-13.18,15.1-21.ESV) (Narrative)
+ - [Romans 4:13-25](https://www.bible.com/bible/59/ROM.4.13-25.ESV) (Epistle)
+ - [Galatians 3:6-18](https://www.bible.com/bible/59/GAL.3.6-18.ESV) (Epistle)
+ - [Hebrews 6:13-20](https://www.bible.com/bible/59/HEB.6.13-20.ESV) (Epistle)
 
-**Historical Context:** Isaac represents the fulfillment of God's promise to Abraham. His life includes finding a wife (Rebekah), the birth of twins (Jacob and Esau), and the passing of the blessing to the next generation.
+**Historical Context:** Despite Abraham's failures (lying about Sarah in Egypt), God reaffirms His promises and establishes a formal covenant. The promise includes land, descendants, and blessing to all nations.
 
-**Redemptive Significance:** Isaac embodies the principle of promise versus works. He is the child of promise, not of natural ability. His life demonstrates God's sovereign choice in continuing the line of redemption.
+**Redemptive Significance:** This covenant becomes the foundation of all God's redemptive work. It's based on faith, not works, making it the prototype of the gospel and establishing the principle of justification by faith.
 
-**Why These Passages Connect:** Genesis tells Isaac's complete story from Sarah's death through Jacob's departure. Romans uses Isaac to illustrate God's sovereign election and the principle that not all physical descendants are children of promise. Hebrews notes Isaac's faith in blessing his sons. Galatians uses Isaac as a symbol of freedom versus bondage.
+**Why These Passages Connect:** Genesis shows God's covenant promises to Abraham despite his failures. Romans explains that the promise came through faith, not law, making Abraham father of all who believe. Galatians argues that the law cannot nullify the covenant of promise. Hebrews emphasizes God's oath as our anchor of hope.
 
 **Theological Threads:**
-- **Promise Fulfilled:** God keeps His word to Abraham
-- **Divine Election:** God's sovereign choice continues the line
-- **Child of Promise:** Born through God's power, not human ability
-- **Covenant Continuity:** Blessing passes to the next generation
+- **Unconditional Promise:** Based on God's grace, not human performance
+- **Justification by Faith:** Righteousness credited through belief
+- **Covenant Continuity:** Promise extends to spiritual descendants
+- **Divine Oath:** God swears by Himself to guarantee the promise
 
 **Study Questions:**
-1. How does Isaac's birth demonstrate God's faithfulness?
-2. What does Isaac's story teach about God's sovereign choice?
-3. How are believers today "children of promise" like Isaac?
+1. How do Abraham's failures reveal the nature of God's grace?
+2. What does it mean that you are Abraham's spiritual descendant?
+3. How does God's covenant with Abraham give you assurance?

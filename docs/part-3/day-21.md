@@ -1,37 +1,36 @@
 ---
-sidebar_label: "Day 21: Passover Night"
+sidebar_label: "Day 21: The Burning Bush"
 sidebar_position: 21
-description: "Deliverance through the blood of the lamb"
+description: "God calls Moses to deliver Israel from bondage"
 ---
 
-# Passover Night: The Blood of the Lamb
+# The Burning Bush: Divine Calling
 
 **Day:** 21
 
-**Chronological Setting:** Egypt - The night of deliverance through blood sacrifice
+**Chronological Setting:** Mount Horeb - God calls Moses to deliver Israel
 
 **Readings:**
- - [Exodus 12:1–13:16](https://www.biblegateway.com/passage/?search=Exodus+12%3A1-13%3A16&version=ESV) (Narrative)
- - [1 Corinthians 5:7-8](https://www.biblegateway.com/passage/?search=1+Corinthians+5%3A7-8&version=ESV) (Epistle)
- - [1 Peter 1:18-19](https://www.biblegateway.com/passage/?search=1+Peter+1%3A18-19&version=ESV) (Epistle)
- - [John 1:29](https://www.biblegateway.com/passage/?search=John+1%3A29&version=ESV) (Gospel)
- - [Revelation 5:6-12](https://www.biblegateway.com/passage/?search=Revelation+5%3A6-12&version=ESV) (Prophecy)
+ - [Exodus 3:1–4:31](https://www.bible.com/bible/59/EXO.3.1-4.31.ESV) (Narrative)
+ - [Acts 7:30-35](https://www.bible.com/bible/59/ACT.7.30-35.ESV) (History)
+ - [Hebrews 11:24-27](https://www.bible.com/bible/59/HEB.11.24-27.ESV) (Epistle)
+ - [Mark 12:26-27](https://www.bible.com/bible/59/MRK.12.26-27.ESV) (Gospel)
 
-**Historical Context:** God institutes the Passover as the final plague strikes Egypt's firstborn. Only houses marked with lamb's blood are spared. This night of deliverance becomes Israel's most significant redemptive event.
+**Historical Context:** After forty years in Midian, Moses encounters God in a burning bush. God reveals His covenant name (Yahweh) and commissions Moses to deliver Israel from Egyptian bondage.
 
-**God's Bigger Plan:** The Passover lamb prefigures Christ as the ultimate sacrifice. Just as the lamb's blood protected from death, Christ's blood delivers from eternal judgment. The Passover becomes the foundation for understanding Christ's work.
+**God's Bigger Plan:** The burning bush revelation establishes God's covenant name and demonstrates His nature as the eternal, unchanging God who acts in history to save His people. This calling parallels God's call to all believers for His service.
 
-**Connecting the Dots:** Exodus establishes the Passover institution and its meaning. Paul identifies Christ as our Passover lamb. Peter describes redemption through Christ's precious blood. John records the Baptist's declaration of Jesus as "the Lamb of God." Revelation celebrates the Lamb who was slain.
+**Connecting the Dots:** Exodus details God's call and Moses' reluctant acceptance. Acts emphasizes Moses as a type of Christ, rejected by his people but appointed by God as deliverer. Hebrews commends Moses' faith in choosing God's people over Egyptian privilege. Jesus uses God's self-revelation to Moses to prove the resurrection.
 
 ****Theological Threads:****
-- **Substitutionary Sacrifice:** The lamb dies in place of the firstborn
-- **Blood Redemption:** Deliverance through sacrificial death
-- **Typological Fulfillment:** Passover lamb points to Christ
-- **Eternal Salvation:** Temporal deliverance pictures eternal redemption
+- **Divine Self-Revelation:** God reveals His covenant name and nature
+- **Reluctant Calling:** God uses unlikely instruments
+- **Holy Ground:** Divine presence sanctifies ordinary places
+- **Covenant Faithfulness:** God remembers His promises
 
 **Study Questions:**
-1. How does the Passover lamb point to Jesus Christ?
-2. What does it mean that Christ is your Passover lamb?
-3. How should the Passover shape your understanding of salvation?
+1. What does God's self-revelation as "I AM" mean for your relationship with Him?
+2. How do Moses' excuses reflect your own reluctance to serve God?
+3. Where has God met you on "holy ground"?
 
 ---

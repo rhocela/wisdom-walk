@@ -1,36 +1,36 @@
 ---
-sidebar_label: "Day 20: Signs and Wonders"
+sidebar_label: "Day 20: Bondage Begins"
 sidebar_position: 20
-description: "Ten plagues demonstrate God's power over Pharaoh"
+description: "From welcome guests to enslaved nation in Egypt"
 ---
 
-# Signs and Wonders: Confronting Pharaoh
+# Bondage Begins: Israel in Egypt
 
 **Day:** 20
 
-**Chronological Setting:** Egypt - The ten plagues demonstrate God's power
+**Chronological Setting:** Egypt - From welcome guests to enslaved nation
 
 **Readings:**
- - [Exodus 5:1–11:10](https://www.biblegateway.com/passage/?search=Exodus+5%3A1-11%3A10&version=ESV) (Narrative)
- - [Psalm 78:42-51](https://www.biblegateway.com/passage/?search=Psalm+78%3A42-51&version=ESV) (Poetry)
- - [Romans 9:17-18](https://www.biblegateway.com/passage/?search=Romans+9%3A17-18&version=ESV) (Epistle)
- - [Revelation 16:1-21](https://www.biblegateway.com/passage/?search=Revelation+16%3A1-21&version=ESV) (Prophecy)
+ - [Exodus 1:1–2:25](https://www.bible.com/bible/59/EXO.1.1-2.25.ESV) (Narrative)
+ - [Acts 7:17-29](https://www.bible.com/bible/59/ACT.7.17-29.ESV) (History)
+ - [Hebrews 11:23-29](https://www.bible.com/bible/59/HEB.11.23-29.ESV) (Epistle)
+ - [Psalm 105:23-25](https://www.bible.com/bible/59/PSA.105.23-25.ESV) (Poetry)
 
-**Historical Context:** Moses and Aaron confront Pharaoh with God's demand to release Israel. Pharaoh's hardened heart leads to ten escalating plagues that demonstrate God's power over Egyptian gods and creation itself.
+**Historical Context:** After Joseph's death, a new Pharaoh who "knew not Joseph" enslaves the Israelites. Their population growth threatens Egyptian security, leading to oppression and infanticide. Moses is born and preserved during this dark period.
 
-**God's Bigger Plan:** The plagues reveal God's supreme power over all false gods and human authority. They prefigure the final judgments described in Revelation and demonstrate God's commitment to deliver His people.
+**God's Bigger Plan:** This bondage sets the stage for God's greatest Old Testament redemptive act. The oppression in Egypt becomes a type of humanity's bondage to sin, from which God will provide deliverance.
 
-**Connecting the Dots:** Exodus narrates the confrontation and plagues. Psalm 78 recounts God's wonders in Egypt as part of Israel's history. Romans uses Pharaoh to illustrate God's sovereignty in judgment. Revelation shows similar plagues in the final judgment.
+**Connecting the Dots:** Exodus describes the beginning of oppression and Moses' early life. Acts summarizes this period as part of God's plan. Hebrews celebrates the faith of Moses' parents and Moses himself. Psalm 105 shows how God allowed this situation to develop His people.
 
 ****Theological Threads:****
-- **Divine Supremacy:** God's power over false gods and human authority
-- **Hardened Hearts:** Resistance to God leads to judgment
-- **Progressive Judgment:** Escalating consequences for rebellion
-- **Covenant Protection:** God's people preserved in judgment
+- **Divine Sovereignty:** God allows trials to accomplish His purposes
+- **Faithful Preservation:** God protects His people in danger
+- **Preparation for Deliverance:** Bondage creates longing for freedom
+- **Covenant Remembrance:** God remembers His promises to Abraham
 
 **Study Questions:**
-1. What do the plagues teach about God's power over false gods?
-2. How does Pharaoh's hardened heart warn about resisting God?
-3. How do you see God's protection of His people during judgment?
+1. Why did God allow His people to become enslaved in Egypt?
+2. How does this bondage parallel humanity's slavery to sin?
+3. What does Moses' preservation teach about God's protection?
 
 ---

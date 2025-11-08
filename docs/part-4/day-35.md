@@ -1,12 +1,12 @@
 ---
-sidebar_label: "Day 33: Land Divided"
-sidebar_position: 33
+sidebar_label: "Day 35: Land Divided"
+sidebar_position: 35
 description: "The Promised Land distributed among the tribes"
 ---
 
 # Land Divided: Inheritance Received
 
-**Day:** 33
+**Day:** 35
 
 **Chronological Setting:** Canaan - The Promised Land divided among the tribes
 

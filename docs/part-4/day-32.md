@@ -1,12 +1,12 @@
 ---
-sidebar_label: "Day 30: Conquest Begins"
-sidebar_position: 30
+sidebar_label: "Day 32: Conquest Begins"
+sidebar_position: 32
 description: "Israel crosses the Jordan River into the Promised Land"
 ---
 
 # Conquest Begins: Crossing Jordan
 
-**Day:** 30
+**Day:** 32
 
 **Chronological Setting:** Jordan River - Israel enters the Promised Land
 

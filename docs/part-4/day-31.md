@@ -1,12 +1,12 @@
 ---
-sidebar_label: "Day 29: New Generation"
-sidebar_position: 29
+sidebar_label: "Day 31: New Generation"
+sidebar_position: 31
 description: "Moses prepares the new generation for the Promised Land"
 ---
 
 # New Generation: Preparing for Promise
 
-**Day:** 29
+**Day:** 31
 
 **Chronological Setting:** Plains of Moab - Moses prepares the new generation for Canaan
 

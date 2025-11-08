@@ -13,10 +13,10 @@ description: "Learning to live faithfully in a foreign land"
 **Readings:**
 
 **Historical Context:** The Jewish exiles in Babylon must learn to live faithfully in a pagan culture while maintaining their identity as God's people. Some, like Daniel and his friends, rise to positions of influence while refusing to compromise their faith.
- - [Daniel 1:1–6:28](https://www.biblegateway.com/passage/?search=Daniel+1%3A1-6%3A28) (Narrative)
- - [Ezekiel 33:1–48:35](https://www.biblegateway.com/passage/?search=Ezekiel+33%3A1-48%3A35) (Prophecy)
- - [Psalm 137:1-9](https://www.biblegateway.com/passage/?search=Psalm+137%3A1-9) (Poetry)
- - [1 Peter 2:11-12](https://www.biblegateway.com/passage/?search=1+Peter+2%3A11-12) (Epistle)
+ - [Daniel 1:1–6:28](https://www.bible.com/bible/59/DAN.1.ESV) (Narrative)
+ - [Ezekiel 33:1–48:35](https://www.bible.com/bible/59/EZK.33.ESV) (Prophecy)
+ - [Psalm 137:1-9](https://www.bible.com/bible/59/PSA.137.1-9.ESV) (Poetry)
+ - [1 Peter 2:11-12](https://www.bible.com/bible/59/1PE.2.11-12.ESV) (Epistle)
 
 **God's Bigger Plan:** The exile experience teaches that God's people can remain faithful anywhere and that God's sovereignty extends over all nations. It prepares them for the later reality of living as aliens and strangers in the world while awaiting their true homeland.
 

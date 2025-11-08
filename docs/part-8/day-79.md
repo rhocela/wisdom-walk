@@ -11,10 +11,10 @@ description: "The first martyr and the future apostle's conversion"
 **Chronological Setting:** Jerusalem and Damascus road - Stephen's martyrdom and Saul's conversion
 
 **Readings:**
-- [Acts 6:8–9:31](https://www.biblegateway.com/passage/?search=Acts+6%3A8-9%3A31) (History)
-- [Galatians 1:11-24](https://www.biblegateway.com/passage/?search=Galatians+1%3A11-24) (Epistle)
-- [Daniel 7:13-14](https://www.biblegateway.com/passage/?search=Daniel+7%3A13-14) (Prophecy)
-- [Luke 23:34, 46](https://www.biblegateway.com/passage/?search=Luke+23%3A34%2C+46) (Gospel)
+- [Acts 6:8–9:31](https://www.bible.com/bible/59/ACT.6.8-9.31.ESV) (History)
+- [Galatians 1:11-24](https://www.bible.com/bible/59/GAL.1.11-24.ESV) (Epistle)
+- [Daniel 7:13-14](https://www.bible.com/bible/59/DAN.7.13-14.ESV) (Prophecy)
+- [Luke 23:34, 46](https://www.bible.com/bible/59/LUK.23.34.ESV) (Gospel)
 
 **Historical Context:** Stephen becomes the first Christian martyr, dying for his bold testimony before the Sanhedrin. Saul's conversion demonstrates God's sovereign grace and provides the church with its most effective apostle to the Gentiles.
 

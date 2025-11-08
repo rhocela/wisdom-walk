@@ -11,10 +11,10 @@ description: "Paul proclaims the supremacy of Christ over all creation."
 **Chronological Setting:** Colossae - Paul's letter on Christ's supremacy
 
 **Readings:**
-- [Colossians 1:15-23](https://www.biblegateway.com/passage/?search=Colossians+1%3A15-23) (Epistle)
-- [Psalm 8:1-9](https://www.biblegateway.com/passage/?search=Psalm+8%3A1-9) (Poetry)
-- [Genesis 1:26-31](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-31) (Narrative)
-- [John 1:1-5](https://www.biblegateway.com/passage/?search=John+1%3A1-5) (Gospel)
+- [Colossians 1:15-23](https://www.bible.com/bible/59/COL.1.15-23.ESV) (Epistle)
+- [Psalm 8:1-9](https://www.bible.com/bible/59/PSA.8.1-9.ESV) (Poetry)
+- [Genesis 1:26-31](https://www.bible.com/bible/59/GEN.1.26-31.ESV) (Narrative)
+- [John 1:1-5](https://www.bible.com/bible/59/JHN.1.1-5.ESV) (Gospel)
 
 **Historical Context:** Paul writes to affirm Christ's supremacy over all creation, emphasizing His role as Creator, Sustainer, and Redeemer. The church is called to hold fast to Christ and reject false teachings.
 

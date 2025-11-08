@@ -1,31 +1,33 @@
 ---
-sidebar_position: 6
-title: "Day 14: Wrestling with God"
+sidebar_position: 4
+title: "Day 14: Promise Passed"
 ---
 
-# Wrestling with God: Jacob's Transformation
+# Promise Passed: Isaac's Story
 
-**Chronological Setting:** Peniel - Jacob's night of wrestling and transformation
+**Day:** 14
+
+**Chronological Setting:** Isaac's life - The promised son and his descendants
 
 **Readings:**
- - [Genesis 28:10–35:29](https://www.biblegateway.com/passage/?search=Genesis+28%3A10-35%3A29&version=ESV) (Narrative)
- - [Hosea 12:3-6](https://www.biblegateway.com/passage/?search=Hosea+12%3A3-6&version=ESV) (Prophecy)
- - [Romans 9:25-26](https://www.biblegateway.com/passage/?search=Romans+9%3A25-26&version=ESV) (Epistle)
- - [1 Peter 2:9-10](https://www.biblegateway.com/passage/?search=1+Peter+2%3A9-10&version=ESV) (Epistle)
+ - [Genesis 23:1–28:9](https://www.bible.com/bible/59/GEN.23.1-28.9.ESV) (Narrative)
+ - [Romans 9:6-13](https://www.bible.com/bible/59/ROM.9.6-13.ESV) (Epistle)
+ - [Hebrews 11:20](https://www.bible.com/bible/59/HEB.11.20.ESV) (Epistle)
+ - [Galatians 4:21-31](https://www.bible.com/bible/59/GAL.4.21-31.ESV) (Epistle)
 
-**Historical Context:** After years of exile and God's discipline, Jacob returns to face Esau. The night before their meeting, he wrestles with God and emerges transformed, receiving the new name Israel.
+**Historical Context:** Isaac represents the fulfillment of God's promise to Abraham. His life includes finding a wife (Rebekah), the birth of twins (Jacob and Esau), and the passing of the blessing to the next generation.
 
-**Redemptive Significance:** Jacob's transformation from deceiver to Israel (prince with God) illustrates the spiritual transformation God works in His people. His new name becomes the name of God's chosen nation.
+**Redemptive Significance:** Isaac embodies the principle of promise versus works. He is the child of promise, not of natural ability. His life demonstrates God's sovereign choice in continuing the line of redemption.
 
-**Why These Passages Connect:** Genesis details Jacob's entire journey from his dream at Bethel through his transformation at Peniel. Hosea reflects on Jacob's wrestling with God and his spiritual victory. Romans uses Hosea's language about calling those "not my people" to be "my people." Peter applies this to the church as God's chosen people.
+**Why These Passages Connect:** Genesis tells Isaac's complete story from Sarah's death through Jacob's departure. Romans uses Isaac to illustrate God's sovereign election and the principle that not all physical descendants are children of promise. Hebrews notes Isaac's faith in blessing his sons. Galatians uses Isaac as a symbol of freedom versus bondage.
 
 **Theological Threads:**
-- **Divine Discipline:** God shapes character through trials
-- **Spiritual Wrestling:** Persistent prayer and surrender
-- **Identity Transformation:** From Jacob (deceiver) to Israel (prince)
-- **Covenant Community:** Individual becomes nation
+- **Promise Fulfilled:** God keeps His word to Abraham
+- **Divine Election:** God's sovereign choice continues the line
+- **Child of Promise:** Born through God's power, not human ability
+- **Covenant Continuity:** Blessing passes to the next generation
 
 **Study Questions:**
-1. What does Jacob's wrestling teach about persevering in prayer?
-2. How has God transformed your identity through trials?
-3. What does it mean to be part of God's chosen people?
+1. How does Isaac's birth demonstrate God's faithfulness?
+2. What does Isaac's story teach about God's sovereign choice?
+3. How are believers today "children of promise" like Isaac?

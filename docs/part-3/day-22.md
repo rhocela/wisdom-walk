@@ -1,36 +1,36 @@
 ---
-sidebar_label: "Day 22: Red Sea Crossing"
+sidebar_label: "Day 22: Signs and Wonders"
 sidebar_position: 22
-description: "Miraculous victory through water"
+description: "Ten plagues demonstrate God's power over Pharaoh"
 ---
 
-# Red Sea Crossing: Victory Through Water
+# Signs and Wonders: Confronting Pharaoh
 
 **Day:** 22
 
-**Chronological Setting:** Red Sea - Miraculous deliverance from Egyptian pursuit
+**Chronological Setting:** Egypt - The ten plagues demonstrate God's power
 
 **Readings:**
- - [Exodus 14:1–15:21](https://www.biblegateway.com/passage/?search=Exodus+14%3A1-15%3A21&version=ESV) (Narrative)
- - [1 Corinthians 10:1-4](https://www.biblegateway.com/passage/?search=1+Corinthians+10%3A1-4&version=ESV) (Epistle)
- - [Hebrews 11:29](https://www.biblegateway.com/passage/?search=Hebrews+11%3A29&version=ESV) (Epistle)
- - [Psalm 106:7-12](https://www.biblegateway.com/passage/?search=Psalm+106%3A7-12&version=ESV) (Poetry)
+ - [Exodus 5:1–11:10](https://www.bible.com/bible/59/EXO.5.1-11.10.ESV) (Narrative)
+ - [Psalm 78:42-51](https://www.bible.com/bible/59/PSA.78.42-51.ESV) (Poetry)
+ - [Romans 9:17-18](https://www.bible.com/bible/59/ROM.9.17-18.ESV) (Epistle)
+ - [Revelation 16:1-21](https://www.bible.com/bible/59/REV.16.1-21.ESV) (Prophecy)
 
-**Historical Context:** Trapped between the Red Sea and Pharaoh's army, Israel experiences God's miraculous deliverance. The sea parts, allowing Israel to cross on dry ground, then returns to destroy the Egyptian forces.
+**Historical Context:** Moses and Aaron confront Pharaoh with God's demand to release Israel. Pharaoh's hardened heart leads to ten escalating plagues that demonstrate God's power over Egyptian gods and creation itself.
 
-**God's Bigger Plan:** The Red Sea crossing represents complete deliverance from bondage. Paul sees it as a type of baptism, symbolizing death to the old life and resurrection to new life in Christ.
+**God's Bigger Plan:** The plagues reveal God's supreme power over all false gods and human authority. They prefigure the final judgments described in Revelation and demonstrate God's commitment to deliver His people.
 
-**Connecting the Dots:** Exodus records the miracle and Moses' song of victory. Paul interprets the crossing as baptism and warns against presumption. Hebrews highlights the faith required to cross. The Psalm recounts God's wonders but notes Israel's quick forgetfulness.
+**Connecting the Dots:** Exodus narrates the confrontation and plagues. Psalm 78 recounts God's wonders in Egypt as part of Israel's history. Romans uses Pharaoh to illustrate God's sovereignty in judgment. Revelation shows similar plagues in the final judgment.
 
 ****Theological Threads:****
-- **Complete Deliverance:** No partial salvation, full rescue from bondage
-- **Baptismal Symbolism:** Death to old life, resurrection to new
-- **Divine Warrior:** God fights for His people
-- **Victory Celebration:** Appropriate response to God's salvation
+- **Divine Supremacy:** God's power over false gods and human authority
+- **Hardened Hearts:** Resistance to God leads to judgment
+- **Progressive Judgment:** Escalating consequences for rebellion
+- **Covenant Protection:** God's people preserved in judgment
 
 **Study Questions:**
-1. How does the Red Sea crossing picture your salvation experience?
-2. What does it mean that God "fights for you"?
-3. How should deliverance lead to worship and celebration?
+1. What do the plagues teach about God's power over false gods?
+2. How does Pharaoh's hardened heart warn about resisting God?
+3. How do you see God's protection of His people during judgment?
 
 ---

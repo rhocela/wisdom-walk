@@ -11,12 +11,12 @@ description: "Explore the godly lineage from Adam to Noah and Enoch's unique fel
 **Chronological Setting:** From Adam to Noah - the preservation of the godly line
 
 **Readings:**
- - [Genesis 5:1-32](https://www.biblegateway.com/passage/?search=Genesis+5%3A1-32&version=ESV) (Narrative)
- - [Hebrews 11:5-6](https://www.biblegateway.com/passage/?search=Hebrews+11%3A5-6&version=ESV) (Epistle)
- - [Jude 14-15](https://www.biblegateway.com/passage/?search=Jude+14-15&version=ESV) (Epistle)
- - [2 Kings 2:11](https://www.biblegateway.com/passage/?search=2+Kings+2%3A11&version=ESV) (Narrative)
- - [1 Thessalonians 4:16-17](https://www.biblegateway.com/passage/?search=1+Thessalonians+4%3A16-17&version=ESV) (Epistle)
- - [Micah 6:8](https://www.biblegateway.com/passage/?search=Micah+6%3A8&version=ESV) (Prophecy)
+ - [Genesis 5:1-32](https://www.bible.com/bible/59/GEN.5.1-32.ESV) (Narrative)
+ - [Hebrews 11:5-6](https://www.bible.com/bible/59/HEB.11.5-6.ESV) (Epistle)
+ - [Jude 14-15](https://www.bible.com/bible/59/JUD.14-15.ESV) (Epistle)
+ - [2 Kings 2:11](https://www.bible.com/bible/59/2KI.2.11.ESV) (Narrative)
+ - [1 Thessalonians 4:16-17](https://www.bible.com/bible/59/1TH.4.16-17.ESV) (Epistle)
+ - [Micah 6:8](https://www.bible.com/bible/59/MIC.6.8.ESV) (Prophecy)
 
 **Historical Context:** Genesis 5 traces the genealogy from Adam through Seth to Noah, showing how the godly line was preserved through ten generations. The repeated phrase "and he died" reminds us of sin's consequence, while Enoch's unique translation shows God's power over death. The increasing ages demonstrate the longevity of the pre-flood era.
 

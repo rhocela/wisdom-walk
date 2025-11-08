@@ -11,11 +11,11 @@ description: "Examine the diverging paths of Cain and Abel"
 **Chronological Setting:** The first generation after Eden - diverging paths of worship
 
 **Readings:**
- - [Genesis 4:1-26](https://www.biblegateway.com/passage/?search=Genesis+4%3A1-26&version=ESV) (Narrative)
- - [Hebrews 11:4](https://www.biblegateway.com/passage/?search=Hebrews+11%3A4&version=ESV) (Epistle)
- - [1 John 3:11-15](https://www.biblegateway.com/passage/?search=1+John+3%3A11-15&version=ESV) (Epistle)
- - [Jude 11](https://www.biblegateway.com/passage/?search=Jude+11&version=ESV) (Epistle)
- - [Romans 12:1](https://www.biblegateway.com/passage/?search=Romans+12%3A1&version=ESV) (Epistle)
+ - [Genesis 4:1-26](https://www.bible.com/bible/59/GEN.4.1-26.ESV) (Narrative)
+ - [Hebrews 11:4](https://www.bible.com/bible/59/HEB.11.4.ESV) (Epistle)
+ - [1 John 3:11-15](https://www.bible.com/bible/59/1JN.3.11-15.ESV) (Epistle)
+ - [Jude 11](https://www.bible.com/bible/59/JUD.11.ESV) (Epistle)
+ - [Romans 12:1](https://www.bible.com/bible/59/ROM.12.1.ESV) (Epistle)
 
 **Historical Context:** The story of Cain and Abel establishes the pattern of two approaches to worship - one accepted by God, one rejected. This first instance of murder reveals how quickly sin escalates and how jealousy destroys relationships. The introduction of Seth shows God's faithfulness in preserving the godly line despite tragedy.
 

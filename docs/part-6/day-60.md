@@ -13,10 +13,10 @@ description: "The scribe teaches God's law and leads spiritual renewal"
 **Readings:**
 
 **Historical Context:** Nearly 80 years after the first return, Ezra the scribe leads another group back to Jerusalem with authority to teach God's law. His ministry focuses on spiritual renewal through Scripture study and dealing with the problem of intermarriage with pagans.
- - [Ezra 7:1–10:44](https://www.biblegateway.com/passage/?search=Ezra+7%3A1-10%3A44) (History) 
- - [Nehemiah 8:1-18](https://www.biblegateway.com/passage/?search=Nehemiah+8%3A1-18) (History)
- - [Malachi 1:1–4:6](https://www.biblegateway.com/passage/?search=Malachi+1%3A1-4%3A6) (Prophecy)
- - [2 Timothy 4:2](https://www.biblegateway.com/passage/?search=2+Timothy+4%3A2) (Epistle)
+ - [Ezra 7:1–10:44](https://www.bible.com/bible/59/EZR.7.ESV) (History) 
+ - [Nehemiah 8:1-18](https://www.bible.com/bible/59/NEH.8.1-18.ESV) (History)
+ - [Malachi 1:1–4:6](https://www.bible.com/bible/59/MAL.1.ESV) (Prophecy)
+ - [2 Timothy 4:2](https://www.bible.com/bible/59/2TI.4.2.ESV) (Epistle)
 
 **God's Bigger Plan:** Ezra's emphasis on God's Word demonstrates the centrality of Scripture in spiritual renewal. His reforms prepare the people for the coming of the Messiah by establishing proper understanding of God's law and covenant requirements.
 

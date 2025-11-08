@@ -11,10 +11,10 @@ description: "Jesus ascends and sends the Holy Spirit to empower the church"
 **Chronological Setting:** Jerusalem - Jesus' ascension and the Spirit's arrival
 
 **Readings:**
-- [Acts 1:1–2:47](https://www.biblegateway.com/passage/?search=Acts+1%3A1-2%3A47) (History)
-- [Ephesians 4:7-16](https://www.biblegateway.com/passage/?search=Ephesians+4%3A7-16) (Epistle)
-- [Joel 2:28-32](https://www.biblegateway.com/passage/?search=Joel+2%3A28-32) (Prophecy)
-- [John 14:16-26](https://www.biblegateway.com/passage/?search=John+14%3A16-26) (Gospel)
+- [Acts 1:1–2:47](https://www.bible.com/bible/59/ACT.1.1-2.47.ESV) (History)
+- [Ephesians 4:7-16](https://www.bible.com/bible/59/EPH.4.7-16.ESV) (Epistle)
+- [Joel 2:28-32](https://www.bible.com/bible/59/JOL.2.28-32.ESV) (Prophecy)
+- [John 14:16-26](https://www.bible.com/bible/59/JHN.14.16-26.ESV) (Gospel)
 
 **Historical Context:** After forty days of post-resurrection appearances, Jesus ascends to heaven and promises the Holy Spirit's coming. The Spirit's arrival fulfills Old Testament prophecy and empowers believers to be witnesses to the ends of the earth.
 

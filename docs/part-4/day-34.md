@@ -1,12 +1,12 @@
 ---
-sidebar_label: "Day 32: Ai's Defeat"
-sidebar_position: 32
+sidebar_label: "Day 34: Ai's Defeat"
+sidebar_position: 34
 description: "Israel's defeat due to Achan's hidden sin"
 ---
 
 # Ai's Defeat: The Cost of Disobedience
 
-**Day:** 32
+**Day:** 34
 
 **Chronological Setting:** Ai - Israel's defeat due to Achan's sin
 

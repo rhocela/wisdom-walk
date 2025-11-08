@@ -13,10 +13,10 @@ description: "Miracles of mercy demonstrate God's compassion"
 **Readings:**
 
 **Historical Context:** Elisha receives a double portion of Elijah's spirit and performs twice as many recorded miracles. His ministry focuses more on acts of mercy and healing than judgment, demonstrating God's compassion even in a time of apostasy.
- - [2 Kings 2:1–8:15](https://www.biblegateway.com/passage/?search=2+Kings+2%3A1-8%3A15) (History)
- - [2 Kings 13:14-21](https://www.biblegateway.com/passage/?search=2+Kings+13%3A14-21) (History)
- - [Luke 4:24-27](https://www.biblegateway.com/passage/?search=Luke+4%3A24-27) (Gospel)
- - [John 14:12](https://www.biblegateway.com/passage/?search=John+14%3A12) (Gospel)
+ - [2 Kings 2:1–8:15](https://www.bible.com/bible/59/2KI.2.ESV) (History)
+ - [2 Kings 13:14-21](https://www.bible.com/bible/59/2KI.13.14-21.ESV) (History)
+ - [Luke 4:24-27](https://www.bible.com/bible/59/LUK.4.24-27.ESV) (Gospel)
+ - [John 14:12](https://www.bible.com/bible/59/JHN.14.12.ESV) (Gospel)
 
 **God's Bigger Plan:** Elisha's miracles of provision, healing, and resurrection prefigure Christ's ministry and demonstrate God's power over death, disease, and material need. His ministry shows God's heart of mercy toward suffering people.
 

@@ -11,10 +11,10 @@ description: "Religious leaders increasingly reject Jesus' authority"
 **Chronological Setting:** Jerusalem and Galilee - Growing hostility toward Jesus
 
 **Readings:**
-- [Matthew 14:1–16:28](https://www.biblegateway.com/passage/?search=Matthew+14%3A1-16%3A28) (Gospel)
-- [Mark 7:1–8:38](https://www.biblegateway.com/passage/?search=Mark+7%3A1-8%3A38) (Gospel)
-- [Luke 10:1–11:54](https://www.biblegateway.com/passage/?search=Luke+10%3A1-11%3A54) (Gospel)
-- [John 7:1–10:42](https://www.biblegateway.com/passage/?search=John+7%3A1-10%3A42) (Gospel)
+- [Matthew 14:1–16:28](https://www.bible.com/bible/59/MAT.14.1-16.28.ESV) (Gospel)
+- [Mark 7:1–8:38](https://www.bible.com/bible/59/MRK.7.1-8.38.ESV) (Gospel)
+- [Luke 10:1–11:54](https://www.bible.com/bible/59/LUK.10.1-11.54.ESV) (Gospel)
+- [John 7:1–10:42](https://www.bible.com/bible/59/JHN.7.1-10.42.ESV) (Gospel)
 
 **Historical Context:** As Jesus' popularity grows, opposition from religious leaders intensifies. Their opposition ironically confirms Jesus' identity as the one who threatens human religious systems with divine truth.
 

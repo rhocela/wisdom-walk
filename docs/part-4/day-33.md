@@ -1,12 +1,12 @@
 ---
-sidebar_label: "Day 31: Jericho Falls"
-sidebar_position: 31
+sidebar_label: "Day 33: Jericho Falls"
+sidebar_position: 33
 description: "Victory through obedience at the first conquest"
 ---
 
 # Jericho Falls: Victory Through Obedience
 
-**Day:** 31
+**Day:** 33
 
 **Chronological Setting:** Jericho - The first conquest in the Promised Land
 

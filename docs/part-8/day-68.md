@@ -11,11 +11,11 @@ description: "The new Adam succeeds where the first Adam failed"
 **Chronological Setting:** Judean wilderness - Jesus' temptation by Satan
 
 **Readings:**
-- [Matthew 4:1-11](https://www.biblegateway.com/passage/?search=Matthew+4%3A1-11) (Gospel)
-- [Mark 1:12-13](https://www.biblegateway.com/passage/?search=Mark+1%3A12-13) (Gospel)
-- [Luke 4:1-13](https://www.biblegateway.com/passage/?search=Luke+4%3A1-13) (Gospel)
-- [Romans 5:12-21](https://www.biblegateway.com/passage/?search=Romans+5%3A12-21) (Epistle)
-- [Hebrews 4:14-16](https://www.biblegateway.com/passage/?search=Hebrews+4%3A14-16) (Epistle)
+- [Matthew 4:1-11](https://www.bible.com/bible/59/MAT.4.1-11.ESV) (Gospel)
+- [Mark 1:12-13](https://www.bible.com/bible/59/MRK.1.12-13.ESV) (Gospel)
+- [Luke 4:1-13](https://www.bible.com/bible/59/LUK.4.1-13.ESV) (Gospel)
+- [Romans 5:12-21](https://www.bible.com/bible/59/ROM.5.12-21.ESV) (Epistle)
+- [Hebrews 4:14-16](https://www.bible.com/bible/59/HEB.4.14-16.ESV) (Epistle)
 
 **Historical Context:** Immediately after His baptism, Jesus is led by the Spirit into the wilderness where He fasts for forty days and faces temptation by Satan. Unlike Adam and Israel, Jesus successfully resists every temptation, qualifying Him as the sinless Savior.
 

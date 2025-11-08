@@ -11,10 +11,10 @@ description: "Understand God's judgment on the corrupt pre-flood world"
 **Chronological Setting:** Pre-flood world - God's judgment on universal corruption
 
 **Readings:**
- - [Genesis 6:1–7:24](https://www.biblegateway.com/passage/?search=Genesis+6%3A1-7%3A24&version=ESV) (Narrative)
- - [2 Peter 2:4-5](https://www.biblegateway.com/passage/?search=2+Peter+2%3A4-5&version=ESV) (Epistle)
- - [Matthew 24:37-39](https://www.biblegateway.com/passage/?search=Matthew+24%3A37-39&version=ESV) (Gospel)
- - [Romans 1:18-20](https://www.biblegateway.com/passage/?search=Romans+1%3A18-20&version=ESV) (Epistle)
+ - [Genesis 6:1–7:24](https://www.bible.com/bible/59/GEN.6.1-7.24.ESV) (Narrative)
+ - [2 Peter 2:4-5](https://www.bible.com/bible/59/2PE.2.4-5.ESV) (Epistle)
+ - [Matthew 24:37-39](https://www.bible.com/bible/59/MAT.24.37-39.ESV) (Gospel)
+ - [Romans 1:18-20](https://www.bible.com/bible/59/ROM.1.18-20.ESV) (Epistle)
 
 **Historical Context:** The pre-flood world became increasingly corrupt as the sons of God intermarried with the daughters of men, producing giants. Violence and wickedness filled the earth. God determined to destroy the world while preserving Noah and his family, who found grace in His eyes. The construction of the ark demonstrates both God's judgment and mercy.
 
