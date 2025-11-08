@@ -8,7 +8,7 @@ description: "God becomes human to redeem humanity"
 
 **Day:** 66
 
-**When this Happened:** Bethlehem and Nazareth - The birth of Jesus Christ
+**Chronological Setting:** Bethlehem and Nazareth - The birth of Jesus Christ
 
 **Readings:**
 - [Matthew 1:1–2:23](https://www.biblegateway.com/passage/?search=Matthew+1%3A1-2%3A23) (Gospel)

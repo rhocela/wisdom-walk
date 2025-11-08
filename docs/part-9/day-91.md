@@ -8,7 +8,7 @@ description: "Paul encourages joy and contentment in all circumstances."
 
 **Day:** 91
 
-**When this Happened:** Philippi - Paul's letter from prison
+**Chronological Setting:** Philippi - Paul's letter from prison
 
 **Readings:**
 - [Philippians 4:4-13](https://www.biblegateway.com/passage/?search=Philippians+4%3A4-13) (Epistle)

@@ -8,7 +8,7 @@ description: "Jesus establishes the new covenant with His disciples"
 
 **Day:** 74
 
-**When this Happened:** Upper Room in Jerusalem - Jesus' final meal with disciples
+**Chronological Setting:** Upper Room in Jerusalem - Jesus' final meal with disciples
 
 **Readings:**
 - [Matthew 26:6-35](https://www.biblegateway.com/passage/?search=Matthew+26%3A6-35) (Gospel)

@@ -8,7 +8,7 @@ description: "Timeless principles for living under the sun"
 
 **Day:** 64
 
-**When this Happened:** Various periods - Timeless principles for living
+**Chronological Setting:** Various periods - Timeless principles for living
 
 **Readings:**
 

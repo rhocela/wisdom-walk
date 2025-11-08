@@ -8,7 +8,7 @@ description: "God raises up Cyrus to decree the return from exile"
 
 **Day:** 58
 
-**When this Happened:** Persian Empire - Cyrus conquers Babylon
+**Chronological Setting:** Persian Empire - Cyrus conquers Babylon
 
 **Readings:**
 

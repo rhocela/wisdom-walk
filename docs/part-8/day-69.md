@@ -8,7 +8,7 @@ description: "Jesus begins His public ministry proclaiming God's kingdom"
 
 **Day:** 69
 
-**When this Happened:** Galilee - Jesus begins preaching and calling disciples
+**Chronological Setting:** Galilee - Jesus begins preaching and calling disciples
 
 **Readings:**
 - [Matthew 4:12–5:48](https://www.biblegateway.com/passage/?search=Matthew+4%3A12-5%3A48) (Gospel)

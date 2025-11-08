@@ -8,7 +8,7 @@ description: "Wisdom abandoned through compromise and idolatry"
 
 **Day:** 45
 
-**When this Happened:** Solomon's later reign - Compromise and apostasy
+**Chronological Setting:** Solomon's later reign - Compromise and apostasy
 
 **Readings:**
 

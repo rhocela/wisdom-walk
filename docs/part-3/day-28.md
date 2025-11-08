@@ -8,7 +8,7 @@ description: "Forty years of wandering due to unbelief"
 
 **Day:** 28
 
-**When this Happened:** Wilderness - Forty years of wandering due to unbelief
+**Chronological Setting:** Wilderness - Forty years of wandering due to unbelief
 
 **Readings:**
  - [Numbers 13:1–14:45, 20:1-13, 27:12-23](https://www.biblegateway.com/passage/?search=Numbers+13%3A1-14%3A45%2C+20%3A1-13%2C+27%3A12-23&version=ESV) (Narrative)

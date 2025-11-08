@@ -8,7 +8,7 @@ description: "Solomon constructs God's house in Jerusalem"
 
 **Day:** 44
 
-**When this Happened:** Jerusalem - Construction and dedication of Solomon's Temple
+**Chronological Setting:** Jerusalem - Construction and dedication of Solomon's Temple
 
 **Readings:**
 

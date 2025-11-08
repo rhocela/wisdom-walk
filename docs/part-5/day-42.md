@@ -8,7 +8,7 @@ description: "David's family struggles and the continuing consequences of sin"
 
 **Day:** 42
 
-**When this Happened:** David's later reign - Family dysfunction and rebellion
+**Chronological Setting:** David's later reign - Family dysfunction and rebellion
 
 **Readings:**
 

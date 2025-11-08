@@ -8,7 +8,7 @@ description: "Israel united under God's chosen king in Jerusalem"
 
 **Day:** 40
 
-**When this Happened:** Jerusalem - David establishes his kingdom and capital
+**Chronological Setting:** Jerusalem - David establishes his kingdom and capital
 
 **Readings:**
 

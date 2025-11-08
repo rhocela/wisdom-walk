@@ -8,7 +8,7 @@ description: "The last great revival sparked by rediscovering God's Word"
 
 **Day:** 54
 
-**When this Happened:** Jerusalem - Josiah's reign and discovery of the Law
+**Chronological Setting:** Jerusalem - Josiah's reign and discovery of the Law
 
 **Readings:**
 

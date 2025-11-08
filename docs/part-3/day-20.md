@@ -8,7 +8,7 @@ description: "Ten plagues demonstrate God's power over Pharaoh"
 
 **Day:** 20
 
-**When this Happened:** Egypt - The ten plagues demonstrate God's power
+**Chronological Setting:** Egypt - The ten plagues demonstrate God's power
 
 **Readings:**
  - [Exodus 5:1–11:10](https://www.biblegateway.com/passage/?search=Exodus+5%3A1-11%3A10&version=ESV) (Narrative)

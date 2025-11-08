@@ -8,7 +8,7 @@ description: "Jesus ascends and sends the Holy Spirit to empower the church"
 
 **Day:** 78
 
-**When this Happened:** Jerusalem - Jesus' ascension and the Spirit's arrival
+**Chronological Setting:** Jerusalem - Jesus' ascension and the Spirit's arrival
 
 **Readings:**
 - [Acts 1:1–2:47](https://www.biblegateway.com/passage/?search=Acts+1%3A1-2%3A47) (History)

@@ -8,7 +8,7 @@ description: "The church decides: faith alone, not works plus faith"
 
 **Day:** 82
 
-**When this Happened:** Jerusalem - The apostolic council
+**Chronological Setting:** Jerusalem - The apostolic council
 
 **Readings:**
 

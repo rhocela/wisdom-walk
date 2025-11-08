@@ -8,7 +8,7 @@ description: "Religious leaders increasingly reject Jesus' authority"
 
 **Day:** 71
 
-**When this Happened:** Jerusalem and Galilee - Growing hostility toward Jesus
+**Chronological Setting:** Jerusalem and Galilee - Growing hostility toward Jesus
 
 **Readings:**
 - [Matthew 14:1–16:28](https://www.biblegateway.com/passage/?search=Matthew+14%3A1-16%3A28) (Gospel)

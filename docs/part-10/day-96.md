@@ -8,7 +8,7 @@ description: "John witnesses God's judgments and the prayers of the saints."
 
 **Day:** 96
 
-**When this Happened:** Heaven and earth - visions of judgment and intercession
+**Chronological Setting:** Heaven and earth - visions of judgment and intercession
 
 **Readings:**
 - [Revelation 6:1–8:13](https://www.biblegateway.com/passage/?search=Revelation+6%3A1-8%3A13) (Apocalypse)

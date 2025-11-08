@@ -8,7 +8,7 @@ description: "Priesthood and sacrifice system established"
 
 **Day:** 27
 
-**When this Happened:** Mount Sinai - Establishing the priesthood and sacrificial system
+**Chronological Setting:** Mount Sinai - Establishing the priesthood and sacrificial system
 
 **Readings:**
  - [Leviticus 1:1–10:20, 16:1-34](https://www.biblegateway.com/passage/?search=Leviticus+1%3A1-10%3A20%2C+16%3A1-34&version=ESV) (Law)

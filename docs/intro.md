@@ -5,11 +5,11 @@ title: "The Bible Bridge"
 
 # The Bible Bridge
 
-:::info Under Construction
-This 100-day Bible study is currently being developed. Part 1 (Days 1-10) is complete and ready to use. Additional parts will be added regularly as we work through the complete chronological journey.
-:::
+<div className="subtitle">Reading the whole Bible with purpose and meaning</div>
 
-<div className="subtitle">So, you want to read the whole Bible. Where do you start?</div>
+:::info More Coming Soon
+You can start the journey now! The reading plan is complete, but we're continuously adding deeper discussions, insights, and connections as we go.
+:::
 
 **Welcome to The Bible Bridge!** 
 
@@ -23,7 +23,7 @@ This plan organizes the Bible into **100 thematic studies** (labeled as days). T
 
 Each theme (day) has its own page with the following details:
 
-- **When this happened:** Where these events fit in Bible history.
+- **Chronological Setting:** Where these events fit in Bible history.
 - **Historical context:** The background and circumstances surrounding the biblical events.
 - **Readings:** Specific Bible passages to read, along with their  [literary genres](#literary-genres-explained).
 - **Redemptive focus:** How each theme fits into God's overall plan of salvation.

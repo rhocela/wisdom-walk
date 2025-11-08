@@ -8,7 +8,7 @@ description: "God provides manna and water in the wilderness"
 
 **Day:** 23
 
-**When this Happened:** Wilderness of Sin and Rephidim - God provides for physical needs
+**Chronological Setting:** Wilderness of Sin and Rephidim - God provides for physical needs
 
 **Readings:**
  - [Exodus 16:1–17:7](https://www.biblegateway.com/passage/?search=Exodus+16%3A1-17%3A7&version=ESV) (Narrative)

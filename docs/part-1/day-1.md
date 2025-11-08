@@ -8,14 +8,14 @@ description: "Explore how Christ spoke the universe into existence"
 
 **Day:** 1
 
-**When this Happened:** Before time began - the eternal Word creates
+**Chronological Setting:** Before time began - the eternal Word creates
 
 **Readings:**
- - [Genesis 1:1–2:3](https://www.biblegateway.com/passage/?search=Genesis+1%3A1-2%3A3) (Narrative)
- - [Psalm 33:6-9](https://www.biblegateway.com/passage/?search=Psalm+33%3A6-9&version=ESV) (Poetry)
- - [John 1:1-5](https://www.biblegateway.com/passage/?search=John+1%3A1-5&version=ESV) (Gospel)
- - [Colossians 1:15-17](https://www.biblegateway.com/passage/?search=Colossians+1%3A15-17&version=ESV) (Epistle)
- - [Hebrews 1:1-3](https://www.biblegateway.com/passage/?search=Hebrews+1%3A1-3&version=ESV) (Epistle)
+ - [Genesis 1:1–2:3](https://www.bible.com/bible/59/GEN.1.1-2.3.ESV) (Narrative)
+ - [Psalm 33:6-9](https://www.bible.com/bible/59/PSA.33.6-9.ESV) (Poetry)
+ - [John 1:1-5](https://www.bible.com/bible/59/JHN.1.1-5.ESV) (Gospel)
+ - [Colossians 1:15-17](https://www.bible.com/bible/59/COL.1.15-17.ESV) (Epistle)
+ - [Hebrews 1:1-3](https://www.bible.com/bible/59/HEB.1.1-3.ESV) (Epistle)
 
 **Historical Context:** This theme establishes the foundation of all reality - God as Creator and sustainer of everything that exists. The creation account reveals God's power, order, and purpose in bringing forth the universe.
 

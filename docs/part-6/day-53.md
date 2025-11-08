@@ -8,7 +8,7 @@ description: "The depths of apostasy and the limits of divine patience"
 
 **Day:** 53
 
-**When this Happened:** Jerusalem - Manasseh's long reign of wickedness
+**Chronological Setting:** Jerusalem - Manasseh's long reign of wickedness
 
 **Readings:**
 

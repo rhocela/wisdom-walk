@@ -8,7 +8,7 @@ description: "John sees the throne of God & the Lamb who is worthy."
 
 **Day:** 95
 
-**When this Happened:** Heaven - John's vision of worship and redemption
+**Chronological Setting:** Heaven - John's vision of worship and redemption
 
 **Readings:**
 - [Revelation 4:1–5:14](https://www.biblegateway.com/passage/?search=Revelation+4%3A1-5%3A14) (Apocalypse)

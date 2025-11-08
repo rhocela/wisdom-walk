@@ -8,7 +8,7 @@ description: "God's instructions for His dwelling place among His people"
 
 **Day:** 26
 
-**When this Happened:** Mount Sinai - Instructions for and construction of the tabernacle
+**Chronological Setting:** Mount Sinai - Instructions for and construction of the tabernacle
 
 **Readings:**
  - [Exodus 25:1–31:18, 35:1–40:38](https://www.biblegateway.com/passage/?search=Exodus+25%3A1-31%3A18%2C+35%3A1-40%3A38&version=ESV) (Narrative)

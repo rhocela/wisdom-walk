@@ -8,7 +8,7 @@ description: "Paul teaches that God's power is made perfect in weakness."
 
 **Day:** 88
 
-**When this Happened:** Corinth - Paul's encouragement to a suffering church
+**Chronological Setting:** Corinth - Paul's encouragement to a suffering church
 
 **Readings:**
 - [2 Corinthians 12:1-10](https://www.biblegateway.com/passage/?search=2+Corinthians+12%3A1-10) (Epistle)

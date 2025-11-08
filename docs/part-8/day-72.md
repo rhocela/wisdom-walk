@@ -8,7 +8,7 @@ description: "Jesus revealed in heavenly glory with Moses and Elijah"
 
 **Day:** 72
 
-**When this Happened:** Mount of Transfiguration - Jesus revealed in glory
+**Chronological Setting:** Mount of Transfiguration - Jesus revealed in glory
 
 **Readings:**
 - [Matthew 17:1–18:35](https://www.biblegateway.com/passage/?search=Matthew+17%3A1-18%3A35) (Gospel)

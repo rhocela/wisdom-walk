@@ -8,7 +8,7 @@ description: "Moses prepares the new generation for the Promised Land"
 
 **Day:** 29
 
-**When this Happened:** Plains of Moab - Moses prepares the new generation for Canaan
+**Chronological Setting:** Plains of Moab - Moses prepares the new generation for Canaan
 
 **Readings:**
  - [Deuteronomy 1:1–4:43, 29:1–30:20](https://www.biblegateway.com/passage/?search=Deuteronomy+1%3A1-4%3A43%2C+29%3A1-30%3A20&version=ESV) (Law)

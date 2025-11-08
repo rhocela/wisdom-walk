@@ -8,7 +8,7 @@ description: "400 years of waiting for the promised Messiah"
 
 **Day:** 65
 
-**When this Happened:** Intertestamental period - Preparation for Christ's coming
+**Chronological Setting:** Intertestamental period - Preparation for Christ's coming
 
 **Readings:**
  - [Malachi 3:1–4:6](https://www.biblegateway.com/passage/?search=Malachi+3%3A1-4%3A6) (Prophecy)

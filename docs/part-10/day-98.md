@@ -8,7 +8,7 @@ description: "John sees the judgment and fall of the world system opposed to God
 
 **Day:** 98
 
-**When this Happened:** Earth - visions of judgment and deliverance
+**Chronological Setting:** Earth - visions of judgment and deliverance
 
 **Readings:**
 - [Revelation 17:1–19:10](https://www.biblegateway.com/passage/?search=Revelation+17%3A1-19%3A10) (Apocalypse)

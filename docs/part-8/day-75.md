@@ -8,7 +8,7 @@ description: "Jesus accepts the cup of God's wrath for sin"
 
 **Day:** 75
 
-**When this Happened:** Garden of Gethsemane - Jesus' final prayer before arrest
+**Chronological Setting:** Garden of Gethsemane - Jesus' final prayer before arrest
 
 **Readings:**
 - [Matthew 26:36-56](https://www.biblegateway.com/passage/?search=Matthew+26%3A36-56) (Gospel)

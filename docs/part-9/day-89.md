@@ -8,7 +8,7 @@ description: "Paul proclaims freedom from the law through faith in Christ."
 
 **Day:** 89
 
-**When this Happened:** Galatia - Paul's defense of the gospel of grace
+**Chronological Setting:** Galatia - Paul's defense of the gospel of grace
 
 **Readings:**
 - [Galatians 5:1-26](https://www.biblegateway.com/passage/?search=Galatians+5%3A1-26) (Epistle)

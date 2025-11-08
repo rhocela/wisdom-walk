@@ -8,7 +8,7 @@ description: "Spiritual renewal and miraculous deliverance from Assyria"
 
 **Day:** 52
 
-**When this Happened:** Jerusalem - Hezekiah's reign and Assyrian siege
+**Chronological Setting:** Jerusalem - Hezekiah's reign and Assyrian siege
 
 **Readings:**
 

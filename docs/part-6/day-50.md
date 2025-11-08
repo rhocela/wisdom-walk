@@ -8,7 +8,7 @@ description: "Cycles of faithfulness and failure in the southern kingdom"
 
 **Day:** 50
 
-**When this Happened:** Southern Kingdom - The reigns of good and evil kings
+**Chronological Setting:** Southern Kingdom - The reigns of good and evil kings
 
 **Readings:**
 

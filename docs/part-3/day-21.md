@@ -8,7 +8,7 @@ description: "Deliverance through the blood of the lamb"
 
 **Day:** 21
 
-**When this Happened:** Egypt - The night of deliverance through blood sacrifice
+**Chronological Setting:** Egypt - The night of deliverance through blood sacrifice
 
 **Readings:**
  - [Exodus 12:1–13:16](https://www.biblegateway.com/passage/?search=Exodus+12%3A1-13%3A16&version=ESV) (Narrative)

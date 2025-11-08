@@ -8,7 +8,7 @@ description: "John sees Christ's triumphant return and the defeat of evil."
 
 **Day:** 99
 
-**When this Happened:** Earth - Christ's second coming and final victory
+**Chronological Setting:** Earth - Christ's second coming and final victory
 
 **Readings:**
 - [Revelation 19:11–20:15](https://www.biblegateway.com/passage/?search=Revelation+19%3A11-20%3A15) (Apocalypse)

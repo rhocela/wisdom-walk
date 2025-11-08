@@ -8,7 +8,7 @@ description: "Israel's defeat due to Achan's hidden sin"
 
 **Day:** 32
 
-**When this Happened:** Ai - Israel's defeat due to Achan's sin
+**Chronological Setting:** Ai - Israel's defeat due to Achan's sin
 
 **Readings:**
  - [Joshua 7:1–8:35](https://www.biblegateway.com/passage/?search=Joshua+7%3A1-8%3A35&version=ESV) (History)

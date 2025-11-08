@@ -8,7 +8,7 @@ description: "The gospel spreads through Asia Minor"
 
 **Day:** 81
 
-**When this Happened:** Asia Minor - Paul's first missionary journey
+**Chronological Setting:** Asia Minor - Paul's first missionary journey
 
 **Readings:**
 

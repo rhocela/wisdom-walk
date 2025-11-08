@@ -8,7 +8,7 @@ description: "The gospel crosses from Asia to Europe"
 
 **Day:** 83
 
-**When this Happened:** Macedonia and Greece - Paul's European ministry
+**Chronological Setting:** Macedonia and Greece - Paul's European ministry
 
 **Readings:**
 

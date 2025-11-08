@@ -8,7 +8,7 @@ description: "David flees from Saul and learns patience in the wilderness"
 
 **Day:** 39
 
-**When this Happened:** Wilderness of Judea - David fleeing from Saul's jealousy
+**Chronological Setting:** Wilderness of Judea - David fleeing from Saul's jealousy
 
 **Readings:**
 

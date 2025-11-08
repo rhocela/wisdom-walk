@@ -8,7 +8,7 @@ description: "The weeping prophet warns of coming judgment"
 
 **Day:** 55
 
-**When this Happened:** Jerusalem - Jeremiah's ministry during Judah's final days
+**Chronological Setting:** Jerusalem - Jeremiah's ministry during Judah's final days
 
 **Readings:**
 

@@ -8,7 +8,7 @@ description: "The fiery prophet confronts Baal worship and calls for repentance"
 
 **Day:** 48
 
-**When this Happened:** Northern Israel - Ahab and Jezebel's reign
+**Chronological Setting:** Northern Israel - Ahab and Jezebel's reign
 
 **Readings:**
 
