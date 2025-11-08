@@ -4,7 +4,11 @@ sidebar_position: 1
 description: "Explore how Christ spoke the universe into existence"
 ---
 
+import { ProgressTracker } from '@site/src/components/progress/ProgressTracker';
+
 # In the Beginning: God Creates
+
+<ProgressTracker dayNumber={1} />
 
 **Day:** 1
 

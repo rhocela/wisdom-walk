@@ -1,0 +1,55 @@
+/* AuthNavbar.module.css */
+
+.authNavbar {
+  display: flex;
+  align-items: center;
+  margin-left: 1rem;
+}
+
+.signInButton {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.signInButton:hover {
+  background: #2563eb;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(59, 130, 246, 0.3);
+}
+
+.signInIcon {
+  font-size: 1rem;
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .signInButton {
+    background: #1e40af;
+  }
+
+  .signInButton:hover {
+    background: #1d4ed8;
+  }
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .authNavbar {
+    margin-left: 0.5rem;
+  }
+
+  .signInButton {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.85rem;
+  }
+}
