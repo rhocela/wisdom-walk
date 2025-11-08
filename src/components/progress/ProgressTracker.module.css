@@ -1,0 +1,318 @@
+/* ProgressTracker.module.css */
+
+.progressTracker {
+  background: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%);
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.guestPrompt {
+  text-align: center;
+  padding: 2rem;
+  background: #fef3c7;
+  border: 1px solid #f59e0b;
+  border-radius: 8px;
+  color: #92400e;
+  font-weight: 500;
+}
+
+.actions {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.actionButton {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  flex: 1;
+  min-width: 140px;
+  justify-content: center;
+}
+
+.incomplete {
+  background: #3b82f6;
+  color: white;
+}
+
+.incomplete:hover {
+  background: #2563eb;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(59, 130, 246, 0.3);
+}
+
+.completed {
+  background: #10b981;
+  color: white;
+  cursor: not-allowed;
+}
+
+.bookmark {
+  background: white;
+  color: #374151;
+  border: 1px solid #d1d5db;
+}
+
+.bookmark:hover {
+  background: #f9fafb;
+  border-color: #9ca3af;
+  transform: translateY(-1px);
+}
+
+.bookmark.active {
+  background: #fbbf24;
+  color: #92400e;
+  border-color: #f59e0b;
+}
+
+.checkmark {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.circle {
+  width: 16px;
+  height: 16px;
+  border: 2px solid currentColor;
+  border-radius: 50%;
+}
+
+.bookmarkIcon {
+  font-size: 1rem;
+}
+
+.bookmarkForm {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+.bookmarkTextarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  resize: vertical;
+  font-family: inherit;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin-bottom: 1rem;
+}
+
+.bookmarkTextarea:focus {
+  outline: none;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+.bookmarkFormActions {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: flex-end;
+}
+
+.formButton {
+  padding: 0.5rem 1rem;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  font-weight: 500;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.save {
+  background: #3b82f6;
+  color: white;
+}
+
+.save:hover {
+  background: #2563eb;
+}
+
+.cancel {
+  background: white;
+  color: #6b7280;
+  border-color: #d1d5db;
+}
+
+.cancel:hover {
+  background: #f9fafb;
+  border-color: #9ca3af;
+}
+
+.bookmarkNote {
+  background: #fffbeb;
+  border: 1px solid #fbbf24;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+
+.bookmarkNote h4 {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.9rem;
+  color: #92400e;
+  font-weight: 600;
+}
+
+.bookmarkNote p {
+  margin: 0 0 0.5rem 0;
+  color: #78350f;
+  line-height: 1.5;
+}
+
+.bookmarkNote small {
+  color: #a16207;
+  font-size: 0.8rem;
+}
+
+.completionBadge {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #dcfce7;
+  border: 1px solid #22c55e;
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  margin-top: 1rem;
+  color: #166534;
+  font-weight: 500;
+  animation: celebrationBounce 0.6s ease-out;
+}
+
+.badgeIcon {
+  font-size: 1.1rem;
+}
+
+@keyframes celebrationBounce {
+  0%, 20%, 53%, 80%, 100% {
+    transform: translate3d(0, 0, 0);
+  }
+  40%, 43% {
+    transform: translate3d(0, -8px, 0);
+  }
+  70% {
+    transform: translate3d(0, -4px, 0);
+  }
+  90% {
+    transform: translate3d(0, -2px, 0);
+  }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  .progressTracker {
+    background: linear-gradient(135deg, #374151 0%, #4b5563 100%);
+    border-color: #6b7280;
+  }
+
+  .guestPrompt {
+    background: #451a03;
+    border-color: #ea580c;
+    color: #fdba74;
+  }
+
+  .bookmark {
+    background: #374151;
+    color: #f9fafb;
+    border-color: #6b7280;
+  }
+
+  .bookmark:hover {
+    background: #4b5563;
+    border-color: #9ca3af;
+  }
+
+  .bookmark.active {
+    background: #f59e0b;
+    color: #451a03;
+  }
+
+  .bookmarkForm {
+    background: #1f2937;
+    border-color: #4b5563;
+  }
+
+  .bookmarkTextarea {
+    background: #374151;
+    border-color: #6b7280;
+    color: #f9fafb;
+  }
+
+  .bookmarkTextarea:focus {
+    border-color: #3b82f6;
+  }
+
+  .cancel {
+    background: #374151;
+    color: #d1d5db;
+    border-color: #6b7280;
+  }
+
+  .cancel:hover {
+    background: #4b5563;
+  }
+
+  .bookmarkNote {
+    background: #451a03;
+    border-color: #ea580c;
+  }
+
+  .bookmarkNote h4 {
+    color: #fdba74;
+  }
+
+  .bookmarkNote p {
+    color: #fbbf24;
+  }
+
+  .bookmarkNote small {
+    color: #f59e0b;
+  }
+
+  .completionBadge {
+    background: #064e3b;
+    border-color: #059669;
+    color: #6ee7b7;
+  }
+}
+
+/* Mobile responsive */
+@media (max-width: 640px) {
+  .progressTracker {
+    padding: 1rem;
+    margin: 1.5rem 0;
+  }
+
+  .actions {
+    flex-direction: column;
+  }
+
+  .actionButton {
+    flex: none;
+    min-width: auto;
+  }
+
+  .bookmarkFormActions {
+    justify-content: stretch;
+  }
+
+  .formButton {
+    flex: 1;
+  }
+}

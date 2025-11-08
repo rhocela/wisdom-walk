@@ -186,6 +186,10 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+          type: 'auth',
+          position: 'right',
+        },
       ],
     },
     footer: {
