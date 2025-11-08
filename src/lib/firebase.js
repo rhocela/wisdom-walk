@@ -4,14 +4,13 @@ import { getAuth, GoogleAuthProvider, FacebookAuthProvider } from 'firebase/auth
 import { getFirestore } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
-// TODO: Replace these with your actual Firebase config values
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyBONgcG-YQX-5-t5TMac84uNDa_gg0ReU",
+  authDomain: "wisdom-walk.firebaseapp.com",
+  projectId: "wisdom-walk",
+  storageBucket: "wisdom-walk.firebasestorage.app",
+  messagingSenderId: "971618650541",
+  appId: "1:971618650541:web:af3f247363d530cd343924"
 };
 
 // Initialize Firebase

@@ -10,15 +10,17 @@ interface LoginModalProps {
 export const LoginModal: React.FC<LoginModalProps> = ({ isOpen, onClose }) => {
   const { signInWithGoogle, signInWithFacebook } = useAuth();
   const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string>('');
 
   const handleGoogleSignIn = async () => {
     setLoading(true);
+    setError('');
     try {
       await signInWithGoogle();
       onClose();
-    } catch (error) {
+    } catch (error: any) {
       console.error('Google sign in failed:', error);
-      // You could add error handling here (toast notification, etc.)
+      setError(error.message || 'Google sign-in failed. Please try again.');
     } finally {
       setLoading(false);
     }
@@ -26,12 +28,13 @@ export const LoginModal: React.FC<LoginModalProps> = ({ isOpen, onClose }) => {
 
   const handleFacebookSignIn = async () => {
     setLoading(true);
+    setError('');
     try {
       await signInWithFacebook();
       onClose();
-    } catch (error) {
+    } catch (error: any) {
       console.error('Facebook sign in failed:', error);
-      // You could add error handling here
+      setError(error.message || 'Facebook sign-in failed. Please try again.');
     } finally {
       setLoading(false);
     }
@@ -67,6 +70,12 @@ export const LoginModal: React.FC<LoginModalProps> = ({ isOpen, onClose }) => {
         </div>
 
         <div className={styles.loginButtons}>
+          {error && (
+            <div className={styles.errorMessage}>
+              {error}
+            </div>
+          )}
+          
           <button 
             className={`${styles.socialButton} ${styles.google}`}
             onClick={handleGoogleSignIn}
