@@ -11,22 +11,24 @@ description: "From Jerusalem to Rome - the gospel reaches the capital"
 **Chronological Setting:** Jerusalem to Rome - Paul's arrest and journey
 
 **Readings:**
-
-**Historical Context:** Paul returns to Jerusalem where he's arrested and begins a two-year legal process. After appealing to Caesar, he's transported to Rome where he spends two years under house arrest, continuing to preach the gospel to all who visit him.
  - [Acts 21:17–28:31](https://www.bible.com/bible/59/ACT.21.17-28.31.ESV) (History)
  - [2 Timothy 4:6-18](https://www.bible.com/bible/59/2TI.4.6-18.ESV) (Epistle)
+ - [Titus 1:1–3:15](https://www.bible.com/bible/59/TIT.1.ESV) (Epistle)
  - [Psalm 2:8](https://www.bible.com/bible/59/PSA.2.8.ESV) (Prophecy)
  - [Mark 13:10](https://www.bible.com/bible/59/MRK.13.10.ESV) (Gospel)
 
+**Historical Context:** Paul returns to Jerusalem where he's arrested and begins a two-year legal process. After appealing to Caesar, he's transported to Rome where he spends two years under house arrest, continuing to preach the gospel to all who visit him. During this period, Paul's pastoral letters (2 Timothy and Titus) provide final instructions for church leadership and faithful ministry.
+
 **God's Bigger Plan:** Even in chains, Paul fulfills his calling to take the gospel to the Gentiles and kings. His arrival in Rome, the empire's capital, symbolizes the gospel's unstoppable advance to the ends of the earth.
 
-**Connecting the Dots:** Acts concludes with Paul in Rome. 2 Timothy reflects Paul's final thoughts from prison. Psalm 2 speaks of the nations as God's inheritance. Mark records Jesus' prophecy that the gospel must be preached to all nations.
+**Connecting the Dots:** Acts concludes with Paul in Rome. 2 Timothy reflects Paul's final thoughts from prison, while Titus provides guidance for faithful ministry and sound doctrine. Psalm 2 speaks of the nations as God's inheritance. Mark records Jesus' prophecy that the gospel must be preached to all nations.
 
 ****Theological Threads:****
 - **Unstoppable Gospel:** Even imprisonment cannot stop God's word
 - **Divine Sovereignty:** God uses human opposition to advance His purposes
 - **Faithful Witness:** Continuing ministry despite difficult circumstances
 - **Global Reach:** The gospel reaches the center of the known world
+- **Pastoral Care:** Faithful leaders equipped for sound teaching and ministry
 
 **Study Questions:**
 1. How does God use Paul's imprisonment to advance the gospel?

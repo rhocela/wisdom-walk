@@ -1,6 +1,6 @@
 ---
 sidebar_label: "Day 10: Shem's Line"
-sidebar_position: 10
+sidebar_position: 1
 description: "The genealogy from Shem to Abraham - preserving the covenant line"
 ---
 

@@ -1,6 +1,6 @@
 ---
 sidebar_label: "Day 18: Testing Brothers"
-sidebar_position: 18
+sidebar_position: 9
 description: "Joseph tests his brothers' character before revealing himself"
 ---
 

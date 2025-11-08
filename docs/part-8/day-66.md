@@ -14,13 +14,14 @@ description: "God becomes human to redeem humanity"
 - [Matthew 1:1–2:23](https://www.bible.com/bible/59/MAT.1.ESV) (Gospel)
 - [Luke 1:1–2:52](https://www.bible.com/bible/59/LUK.1.ESV) (Gospel)
 - [John 1:1-18](https://www.bible.com/bible/59/JHN.1.1-18.ESV) (Gospel)
+- [Micah 5:2-4](https://www.bible.com/bible/59/MIC.5.2-4.ESV) (Prophecy)
 - [Philippians 2:5-11](https://www.bible.com/bible/59/PHP.2.5-11.ESV) (Epistle)
 
-**Historical Context:** After centuries of waiting, the promised Messiah is born in Bethlehem during the reign of Caesar Augustus. The incarnation fulfills specific Old Testament prophecies and represents God's ultimate revelation of Himself to humanity through His Son.
+**Historical Context:** After centuries of waiting, the promised Messiah is born in Bethlehem during the reign of Caesar Augustus, fulfilling Micah's precise prophecy that the Messiah would come from Bethlehem though His origins are "from of old, from everlasting." The incarnation fulfills specific Old Testament prophecies and represents God's ultimate revelation of Himself to humanity through His Son.
 
 **God's Bigger Plan:** The incarnation accomplishes what no other religion claims—God becoming human to redeem humanity. Christ's virgin birth, perfect life, and divine nature qualify Him as the perfect mediator between God and man, fulfilling all messianic prophecies.
 
-**Connecting the Dots:** Matthew traces Jesus' genealogy and emphasizes fulfillment of prophecy. Luke provides detailed birth narratives with emphasis on God's grace to the humble. John presents the theological significance of the Word becoming flesh. Philippians celebrates Christ's voluntary humiliation and exaltation.
+**Connecting the Dots:** Matthew traces Jesus' genealogy and emphasizes fulfillment of prophecy, specifically noting Bethlehem as fulfilling Micah's prophecy. Luke provides detailed birth narratives with emphasis on God's grace to the humble. John presents the theological significance of the Word becoming flesh. Micah prophesies the exact birthplace and eternal nature of the coming ruler. Philippians celebrates Christ's voluntary humiliation and exaltation.
 
 ****Theological Threads:****
 - **Prophetic Fulfillment:** Every detail confirms Jesus as the promised Messiah
@@ -30,7 +31,9 @@ description: "God becomes human to redeem humanity"
 
 **Study Questions:**
 1. How do the genealogies in Matthew and Luke demonstrate Jesus' qualifications as Messiah?
-2. What does the incarnation reveal about God's character and love?
-3. Why was the virgin birth necessary for salvation?
+2. How does Micah's prophecy about Bethlehem show God's detailed planning?
+3. What does the incarnation reveal about God's character and love?
+4. Why was the virgin birth necessary for salvation?
+5. What does it mean that the Messiah's origins are "from everlasting"?
 
 ---

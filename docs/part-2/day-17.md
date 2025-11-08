@@ -1,6 +1,6 @@
 ---
 sidebar_label: "Day 17: Joseph's Trials"
-sidebar_position: 17
+sidebar_position: 8
 description: "From favored son to Egyptian slave - God's sovereignty in suffering"
 ---
 
