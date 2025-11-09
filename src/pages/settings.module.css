@@ -1,0 +1,231 @@
+/* Settings Page Styles */
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.header h1 {
+  color: var(--ifm-color-primary);
+  margin-bottom: 0.5rem;
+}
+
+.header p {
+  color: var(--ifm-color-secondary-darker);
+  font-size: 1.1rem;
+}
+
+.settingsGrid {
+  display: grid;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.settingsSection {
+  background: var(--ifm-background-surface-color);
+  border-radius: 12px;
+  padding: 2rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.settingsSection h2 {
+  color: var(--ifm-color-primary);
+  margin-bottom: 1.5rem;
+  font-size: 1.3rem;
+  border-bottom: 2px solid var(--ifm-color-emphasis-200);
+  padding-bottom: 0.5rem;
+}
+
+.setting {
+  margin-bottom: 1.5rem;
+}
+
+.setting:last-child {
+  margin-bottom: 0;
+}
+
+.settingLabel {
+  display: block;
+  font-weight: 500;
+  color: var(--ifm-font-color-base);
+  margin-bottom: 0.5rem;
+}
+
+.settingSelect {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 6px;
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  transition: border-color 0.2s ease;
+}
+
+.settingSelect:focus {
+  outline: none;
+  border-color: var(--ifm-color-primary);
+}
+
+.settingCheckbox {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  cursor: pointer;
+}
+
+.settingCheckbox input {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--ifm-color-primary);
+}
+
+.checkboxLabel {
+  font-weight: 500;
+  color: var(--ifm-font-color-base);
+  cursor: pointer;
+}
+
+.settingDescription {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: var(--ifm-color-secondary-darker);
+  line-height: 1.4;
+}
+
+.actionButton {
+  padding: 0.75rem 1.5rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 6px;
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-color-primary);
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 0.9rem;
+  margin-right: 1rem;
+}
+
+.actionButton:hover {
+  background: var(--ifm-color-primary-lighter);
+  border-color: var(--ifm-color-primary);
+}
+
+.dangerButton {
+  color: var(--ifm-color-danger);
+  border-color: var(--ifm-color-danger);
+}
+
+.dangerButton:hover {
+  background: var(--ifm-color-danger-contrast-background);
+  border-color: var(--ifm-color-danger-dark);
+}
+
+.saveSection {
+  text-align: center;
+  padding: 2rem;
+  background: var(--ifm-color-primary-contrast-background);
+  border-radius: 8px;
+  border: 1px solid var(--ifm-color-primary);
+  margin-bottom: 2rem;
+}
+
+.saveButton {
+  padding: 1rem 2rem;
+  background: var(--ifm-color-primary);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-width: 150px;
+}
+
+.saveButton:hover:not(:disabled) {
+  background: var(--ifm-color-primary-dark);
+  transform: translateY(-1px);
+}
+
+.saveButton:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.appInfo {
+  text-align: center;
+  padding: 2rem;
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 8px;
+  border-top: 3px solid var(--ifm-color-secondary);
+}
+
+.appInfo h3 {
+  color: var(--ifm-color-primary);
+  margin-bottom: 1rem;
+}
+
+.appInfo p {
+  color: var(--ifm-color-secondary-darker);
+  margin-bottom: 0.5rem;
+}
+
+.signInPrompt {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: var(--ifm-background-surface-color);
+  border-radius: 12px;
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.signInPrompt h1 {
+  margin-bottom: 1rem;
+}
+
+.signInPrompt p {
+  font-size: 1.1rem;
+  color: var(--ifm-color-secondary-darker);
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+  
+  .settingsSection {
+    padding: 1.5rem;
+  }
+  
+  .actionButton {
+    margin-right: 0;
+    margin-bottom: 0.5rem;
+    width: 100%;
+  }
+  
+  .saveButton {
+    width: 100%;
+  }
+}
+
+/* Dark mode adjustments */
+@media (prefers-color-scheme: dark) {
+  .settingsSection,
+  .signInPrompt {
+    background: var(--ifm-color-emphasis-100);
+  }
+  
+  .appInfo {
+    background: var(--ifm-color-emphasis-200);
+  }
+}

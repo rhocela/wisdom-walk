@@ -11,6 +11,7 @@ export const AuthMobileMenu: React.FC = () => {
   const history = useHistory();
   const progressUrl = useBaseUrl('/progress');
   const bookmarksUrl = useBaseUrl('/bookmarks');
+  const settingsUrl = useBaseUrl('/settings');
 
   const handleLogout = async () => {
     try {
@@ -26,6 +27,10 @@ export const AuthMobileMenu: React.FC = () => {
 
   const handleViewBookmarks = () => {
     history.push(bookmarksUrl);
+  };
+
+  const handleSettings = () => {
+    history.push(settingsUrl);
   };
 
   if (user) {
@@ -51,6 +56,12 @@ export const AuthMobileMenu: React.FC = () => {
             onClick={handleViewBookmarks}
           >
             🔖 My Bookmarks
+          </button>
+          <button 
+            className={styles.menuItem}
+            onClick={handleSettings}
+          >
+            ⚙️ Settings
           </button>
           <button 
             className={styles.logoutButton}

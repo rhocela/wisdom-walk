@@ -10,6 +10,7 @@ export const UserProfile: React.FC = () => {
   const history = useHistory();
   const progressUrl = useBaseUrl('/progress');
   const bookmarksUrl = useBaseUrl('/bookmarks');
+  const settingsUrl = useBaseUrl('/settings');
 
   if (!user || !userProgress) return null;
 
@@ -34,8 +35,7 @@ export const UserProfile: React.FC = () => {
 
   const handleSettings = () => {
     setShowDropdown(false);
-    // TODO: Implement settings page
-    console.log('Settings clicked - not implemented yet');
+    history.push(settingsUrl);
   };
 
   const completionPercentage = Math.round((userProgress.completedDays.length / 100) * 100);
