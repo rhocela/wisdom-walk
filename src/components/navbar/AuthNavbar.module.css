@@ -29,6 +29,11 @@
 
 .signInIcon {
   font-size: 1rem;
+  flex-shrink: 0;
+}
+
+.signInText {
+  flex-shrink: 0;
 }
 
 /* Dark mode support */
@@ -45,11 +50,21 @@
 /* Mobile responsive */
 @media (max-width: 768px) {
   .authNavbar {
-    margin-left: 0.5rem;
+    margin-left: 0.25rem;
   }
 
   .signInButton {
-    padding: 0.4rem 0.8rem;
-    font-size: 0.85rem;
+    padding: 0.5rem;
+    min-width: 40px;
+    justify-content: center;
+    gap: 0;
+  }
+  
+  .signInText {
+    display: none;
+  }
+  
+  .signInIcon {
+    font-size: 1.1rem;
   }
 }

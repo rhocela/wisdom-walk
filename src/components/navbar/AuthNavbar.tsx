@@ -16,9 +16,10 @@ export const AuthNavbar: React.FC = () => {
         <button 
           className={styles.signInButton}
           onClick={() => setShowLoginModal(true)}
+          title="Sign In"
         >
           <span className={styles.signInIcon}>👤</span>
-          Sign In
+          <span className={styles.signInText}>Sign In</span>
         </button>
       )}
       

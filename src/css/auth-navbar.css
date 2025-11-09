@@ -1,0 +1,74 @@
+/* Ensure auth navbar is always visible on mobile */
+.navbar__item--auth {
+  display: flex !important;
+  align-items: center !important;
+  margin-left: auto !important;
+  order: 999 !important; /* Ensure it appears last/right */
+  z-index: 1000 !important;
+}
+
+/* Make sure the auth component appears on mobile */
+@media (max-width: 996px) {
+  .navbar__item--auth {
+    display: flex !important;
+    position: absolute !important;
+    right: 56px !important; /* Move left to avoid search icon */
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    z-index: 1000 !important;
+  }
+  
+  /* Make the auth button smaller on mobile */
+  .navbar__item--auth .signInButton {
+    padding: 6px !important;
+    min-width: 36px !important;
+    height: 36px !important;
+    border-radius: 8px !important;
+  }
+  
+  /* Make the auth icon smaller */
+  .navbar__item--auth .signInIcon {
+    font-size: 16px !important;
+  }
+  
+  /* Ensure the navbar has relative positioning for absolute child */
+  .navbar,
+  .navbar__inner {
+    position: relative !important;
+  }
+  
+  /* Ensure it doesn't get hidden by mobile menu toggle */
+  .navbar__toggle ~ .navbar__item--auth,
+  .navbar__items--right .navbar__item--auth {
+    display: flex !important;
+  }
+}
+
+/* Specific mobile adjustments for very small screens */
+@media (max-width: 768px) {
+  .navbar__item--auth {
+    right: 52px !important; /* Adjust for smaller screens */
+  }
+  
+  /* Even smaller on very small screens */
+  .navbar__item--auth .signInButton {
+    padding: 5px !important;
+    min-width: 32px !important;
+    height: 32px !important;
+  }
+  
+  .navbar__item--auth .signInIcon {
+    font-size: 14px !important;
+  }
+}
+
+/* Override any Docusaurus hiding of right navbar items on mobile */
+@media (max-width: 996px) {
+  .navbar__items--right {
+    display: flex !important;
+  }
+  
+  .navbar__items--right .navbar__item--auth {
+    display: flex !important;
+  }
+}
