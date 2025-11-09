@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useAuth } from '../auth/AuthContext';
 import { useHistory } from '@docusaurus/router';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import { LoginModal } from '../auth/LoginModal';
 import styles from './AuthMobileMenu.module.css';
 
@@ -8,6 +9,8 @@ export const AuthMobileMenu: React.FC = () => {
   const { user, logout } = useAuth();
   const [showLoginModal, setShowLoginModal] = useState(false);
   const history = useHistory();
+  const progressUrl = useBaseUrl('/progress');
+  const bookmarksUrl = useBaseUrl('/bookmarks');
 
   const handleLogout = async () => {
     try {
@@ -18,11 +21,11 @@ export const AuthMobileMenu: React.FC = () => {
   };
 
   const handleViewProgress = () => {
-    history.push('/progress');
+    history.push(progressUrl);
   };
 
   const handleViewBookmarks = () => {
-    history.push('/bookmarks');
+    history.push(bookmarksUrl);
   };
 
   if (user) {

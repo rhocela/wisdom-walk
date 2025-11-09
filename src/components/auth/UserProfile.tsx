@@ -1,12 +1,15 @@
 import React, { useState } from 'react';
 import { useAuth } from './AuthContext';
 import { useHistory } from '@docusaurus/router';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './UserProfile.module.css';
 
 export const UserProfile: React.FC = () => {
   const { user, userProgress, logout } = useAuth();
   const [showDropdown, setShowDropdown] = useState(false);
   const history = useHistory();
+  const progressUrl = useBaseUrl('/progress');
+  const bookmarksUrl = useBaseUrl('/bookmarks');
 
   if (!user || !userProgress) return null;
 
@@ -21,12 +24,12 @@ export const UserProfile: React.FC = () => {
 
   const handleViewProgress = () => {
     setShowDropdown(false);
-    history.push('/progress');
+    history.push(progressUrl);
   };
 
   const handleViewBookmarks = () => {
     setShowDropdown(false);
-    history.push('/bookmarks');
+    history.push(bookmarksUrl);
   };
 
   const handleSettings = () => {
