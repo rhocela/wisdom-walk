@@ -4,6 +4,8 @@
  * work well for content-centric websites.
  */
 
+@import './auth-navbar.css';
+
 /* Blue Primary (Man: Truth + Divinity) - Wisdom Walk Color Theme */
 :root {
   /* Primary: Deep Blue (Man) */

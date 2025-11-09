@@ -41,6 +41,7 @@
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .chevron {
@@ -48,6 +49,7 @@
   height: 16px;
   transition: transform 0.2s ease;
   color: #6b7280;
+  flex-shrink: 0;
 }
 
 .profileButton[aria-expanded="true"] .chevron {
@@ -229,13 +231,36 @@
 }
 
 /* Mobile responsive */
+@media (max-width: 768px) {
+  .profileButton {
+    padding: 6px !important;
+    min-width: 36px !important;
+    height: 36px !important;
+    justify-content: center;
+    gap: 0;
+    border-radius: 8px !important;
+  }
+  
+  .userName,
+  .chevron {
+    display: none;
+  }
+  
+  .avatar {
+    width: 24px !important;
+    height: 24px !important;
+  }
+  
+  .dropdown {
+    min-width: 280px;
+    right: -8px;
+  }
+}
+
 @media (max-width: 640px) {
   .dropdown {
     min-width: 260px;
-  }
-
-  .userName {
-    max-width: 100px;
+    right: -16px;
   }
 
   .progressStats {
