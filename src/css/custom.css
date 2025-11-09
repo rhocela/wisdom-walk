@@ -257,27 +257,17 @@ a:not(.card a):not(.theme-doc-sidebar-container a):not(.navbar__link):not(.menu_
   color: #1a9bb8 !important;
 }
 
-/* ACTIVE NAVBAR STATES - Higher specificity to override defaults */
-.navbar__item--dropdown.navbar__item--dropdown .navbar__link,
+/* ACTIVE NAVBAR STATES - Only use standard Docusaurus classes and force-active */
 .navbar__link.navbar__link--active,
-.navbar__item.navbar__item--active .navbar__link,
-.navbar__link[href*="/science-scripture"].navbar__link--active,
-.navbar__link[href*="/divine-comedy"].navbar__link--active,
-.navbar__link[href*="/gods-heart"].navbar__link--active,
-.navbar__link[href*="/prophecy-fulfilled"].navbar__link--active,
-.navbar__link[href*="/docs"]:not([href*="blog"]),
-/* Target The Bible Bridge specifically when on docs pages */
-.navbar__item--dropdown .navbar__link[href*="/docs"],
-/* Also check for actual active routes */
-.navbar__link[aria-current="page"],
-/* Target specific active states for The Bible Bridge */
-.navbar__link[href="/wisdom-walk/docs/intro"]:focus,
-.navbar__link[href="/wisdom-walk/docs/intro"]:active,
-.navbar__item:has(.navbar__link[href="/wisdom-walk/docs/intro"]) .navbar__link,
-/* General active state detection */
-.navbar__item--show-dropdown .navbar__link {
+.navbar__item.navbar__item--active .navbar__link {
   font-weight: bold !important;
-  color: #0d7489 !important; /* Same as h1, h2 headers */
+  color: #0d7489 !important;
+}
+
+[data-theme='dark'] .navbar__link.navbar__link--active,
+[data-theme='dark'] .navbar__item.navbar__item--active .navbar__link {
+  font-weight: bold !important;
+  color: #1a9bb8 !important;
 }
 
 [data-theme='dark'] .theme-doc-sidebar-container a,
@@ -313,23 +303,11 @@ a:not(.card a):not(.theme-doc-sidebar-container a):not(.navbar__link):not(.menu_
   color: #1a9bb8 !important;
 }
 
-/* DARK MODE ACTIVE NAVBAR STATES - Higher specificity */
-[data-theme='dark'] .navbar__item--dropdown.navbar__item--dropdown .navbar__link,
+/* DARK MODE ACTIVE NAVBAR STATES - Only standard classes and force-active */
 [data-theme='dark'] .navbar__link.navbar__link--active,
-[data-theme='dark'] .navbar__item.navbar__item--active .navbar__link,
-[data-theme='dark'] .navbar__link[href*="/science-scripture"].navbar__link--active,
-[data-theme='dark'] .navbar__link[href*="/divine-comedy"].navbar__link--active,
-[data-theme='dark'] .navbar__link[href*="/gods-heart"].navbar__link--active,
-[data-theme='dark'] .navbar__link[href*="/prophecy-fulfilled"].navbar__link--active,
-[data-theme='dark'] .navbar__link[href*="/docs"]:not([href*="blog"]),
-[data-theme='dark'] .navbar__item--dropdown .navbar__link[href*="/docs"],
-[data-theme='dark'] .navbar__link[aria-current="page"],
-[data-theme='dark'] .navbar__link[href="/wisdom-walk/docs/intro"]:focus,
-[data-theme='dark'] .navbar__link[href="/wisdom-walk/docs/intro"]:active,
-[data-theme='dark'] .navbar__item:has(.navbar__link[href="/wisdom-walk/docs/intro"]) .navbar__link,
-[data-theme='dark'] .navbar__item--show-dropdown .navbar__link {
+[data-theme='dark'] .navbar__item.navbar__item--active .navbar__link {
   font-weight: bold !important;
-  color: #1a9bb8 !important; /* Same as dark mode h1, h2 headers */
+  color: #1a9bb8 !important;
 }
 [data-theme='dark'] .navbar__link[href*="/gods-heart"].navbar__link--active,
 [data-theme='dark'] .navbar__link[href*="/prophecy-fulfilled"].navbar__link--active,

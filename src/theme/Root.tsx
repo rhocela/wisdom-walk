@@ -15,31 +15,52 @@ function useNavbarActiveState() {
     if (!ExecutionEnvironment.canUseDOM) return;
     
     const updateActiveStates = () => {
-      // Remove any existing force-active classes
-      const existingForceActive = document.querySelectorAll('.navbar__link--force-active, .menu__link--force-active');
-      existingForceActive.forEach(item => {
-        item.classList.remove('navbar__link--force-active', 'menu__link--force-active');
+      // AGGRESSIVE cleanup - remove ALL force-active classes and any manual active classes
+      const allNavbarLinks = document.querySelectorAll('.navbar__link');
+      allNavbarLinks.forEach(item => {
+        item.classList.remove('navbar__link--force-active', 'navbar__link--active');
       });
       
-      // Add force-active class to the appropriate navbar item based on current path
+      const allMenuLinks = document.querySelectorAll('.menu__link');
+      allMenuLinks.forEach(item => {
+        item.classList.remove('menu__link--force-active', 'menu__link--active');
+      });
+      
+      // Determine which navbar section should be active based on current path
+      let targetNavbarSelector = null;
+      
+      console.log('Current pathname:', location.pathname);
+      
       if (location.pathname.includes('/docs')) {
-        const bibleBridgeLinks = document.querySelectorAll('.navbar__link[href*="/docs"]');
-        bibleBridgeLinks.forEach(item => item.classList.add('navbar__link--force-active'));
-      } else if (location.pathname.includes('/blog')) {
-        const blogLinks = document.querySelectorAll('.navbar__link[href*="/blog"]');
-        blogLinks.forEach(item => item.classList.add('navbar__link--force-active'));
+        targetNavbarSelector = '.navbar__link[href*="/docs"]';
+        console.log('Should activate: The Bible Bridge');
+      } else if (location.pathname.includes('/blog') && !location.pathname.includes('/science-scripture') && !location.pathname.includes('/divine-comedy')) {
+        // Only for main blog (Parallels), not science-scripture or divine-comedy blogs
+        targetNavbarSelector = '.navbar__link[href="/wisdom-walk/blog"], .navbar__link[href*="/blog"]:not([href*="/science-scripture"]):not([href*="/divine-comedy"])';
+        console.log('Should activate: Parallels');
       } else if (location.pathname.includes('/gods-heart')) {
-        const godsHeartLinks = document.querySelectorAll('.navbar__link[href*="/gods-heart"]');
-        godsHeartLinks.forEach(item => item.classList.add('navbar__link--force-active'));
+        targetNavbarSelector = '.navbar__link[href*="/gods-heart"]';
+        console.log('Should activate: Gods Heart');
       } else if (location.pathname.includes('/science-scripture')) {
-        const scienceLinks = document.querySelectorAll('.navbar__link[href*="/science-scripture"]');
-        scienceLinks.forEach(item => item.classList.add('navbar__link--force-active'));
+        targetNavbarSelector = '.navbar__link[href*="/science-scripture"]';
+        console.log('Should activate: Science & Scripture');
       } else if (location.pathname.includes('/prophecy-fulfilled')) {
-        const prophecyLinks = document.querySelectorAll('.navbar__link[href*="/prophecy-fulfilled"]');
-        prophecyLinks.forEach(item => item.classList.add('navbar__link--force-active'));
+        targetNavbarSelector = '.navbar__link[href*="/prophecy-fulfilled"]';
+        console.log('Should activate: Prophecy Fulfilled');
       } else if (location.pathname.includes('/divine-comedy')) {
-        const comedyLinks = document.querySelectorAll('.navbar__link[href*="/divine-comedy"]');
-        comedyLinks.forEach(item => item.classList.add('navbar__link--force-active'));
+        targetNavbarSelector = '.navbar__link[href*="/divine-comedy"]';
+        console.log('Should activate: Divine Comedy');
+      }
+      
+      // Apply force-active class to the correct navbar item only
+      if (targetNavbarSelector) {
+        const targetNavbarLinks = document.querySelectorAll(targetNavbarSelector);
+        targetNavbarLinks.forEach(item => {
+          item.classList.add('navbar__link--force-active');
+          console.log('Made active:', item.textContent?.trim(), 'for path:', location.pathname);
+        });
+      } else {
+        console.log('No navbar item should be active for path:', location.pathname);
       }
       
       // For sidebar, add force-active to the current page only
