@@ -1,6 +1,6 @@
 // Firebase configuration
 import { initializeApp } from 'firebase/app';
-import { getAuth, GoogleAuthProvider, FacebookAuthProvider } from 'firebase/auth';
+import { getAuth, GoogleAuthProvider } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
@@ -25,9 +25,8 @@ export const db = getFirestore(app);
 
 // Set up authentication providers
 export const googleProvider = new GoogleAuthProvider();
-export const facebookProvider = new FacebookAuthProvider();
 
-// Optional: Configure providers
+// Configure Google provider
 googleProvider.setCustomParameters({
   prompt: 'select_account'
 });

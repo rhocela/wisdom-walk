@@ -12,7 +12,7 @@ import {
   updateDoc,
   serverTimestamp 
 } from 'firebase/firestore';
-import { auth, db, googleProvider, facebookProvider } from '../../lib/firebase';
+import { auth, db, googleProvider } from '../../lib/firebase';
 
 interface UserProgress {
   currentDay: number;
@@ -32,7 +32,6 @@ interface AuthContextType {
   userProgress: UserProgress | null;
   loading: boolean;
   signInWithGoogle: () => Promise<void>;
-  signInWithFacebook: () => Promise<void>;
   logout: () => Promise<void>;
   updateProgress: (dayNumber: number) => Promise<void>;
   addBookmark: (dayNumber: number, note?: string) => Promise<void>;
@@ -118,25 +117,6 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({
       
     } catch (error) {
       console.error('Error signing in with Google:', error);
-      throw error;
-    }
-  };
-
-  const signInWithFacebook = async () => {
-    try {
-      const result = await signInWithPopup(auth, facebookProvider);
-      
-      // Create or update user profile
-      await setDoc(doc(db, 'users', result.user.uid), {
-        displayName: result.user.displayName,
-        email: result.user.email,
-        photoURL: result.user.photoURL,
-        provider: 'facebook',
-        lastSignIn: serverTimestamp()
-      }, { merge: true });
-      
-    } catch (error) {
-      console.error('Error signing in with Facebook:', error);
       throw error;
     }
   };
@@ -259,7 +239,6 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({
     userProgress,
     loading,
     signInWithGoogle,
-    signInWithFacebook,
     logout,
     updateProgress,
     addBookmark,
