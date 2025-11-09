@@ -13,10 +13,11 @@ function AuthNavbarPortal() {
   useEffect(() => {
     if (ExecutionEnvironment.canUseDOM) {
       const tryMountAuth = () => {
-        // Only target desktop navbar - mobile will use burger menu
+        // Try multiple selectors for different navbar states
         const possibleTargets = [
           '.navbar__items.navbar__items--right', // Desktop
           '.navbar__items--right', // Alternative
+          '.navbar__inner', // Mobile fallback - inject directly into navbar inner
         ];
 
         let navbarItems = null;
@@ -35,7 +36,17 @@ function AuthNavbarPortal() {
           // Create a container for our auth component
           const authContainer = document.createElement('div');
           authContainer.className = 'navbar__item navbar__item--auth';
-          authContainer.style.marginLeft = 'auto';
+          
+          // If we're injecting into navbar__inner (mobile), ensure proper positioning
+          if (navbarItems.classList.contains('navbar__inner')) {
+            authContainer.style.position = 'absolute';
+            authContainer.style.right = '56px'; // Leave space for search icon
+            authContainer.style.top = '50%';
+            authContainer.style.transform = 'translateY(-50%)';
+            authContainer.style.zIndex = '1000';
+          } else {
+            authContainer.style.marginLeft = 'auto';
+          }
           
           navbarItems.appendChild(authContainer);
           setMountPoint(authContainer);
