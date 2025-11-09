@@ -1,10 +1,15 @@
 import React, { useState } from 'react';
 import { useAuth } from './AuthContext';
+import { useHistory } from '@docusaurus/router';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './UserProfile.module.css';
 
 export const UserProfile: React.FC = () => {
   const { user, userProgress, logout } = useAuth();
   const [showDropdown, setShowDropdown] = useState(false);
+  const history = useHistory();
+  const progressUrl = useBaseUrl('/progress');
+  const bookmarksUrl = useBaseUrl('/bookmarks');
 
   if (!user || !userProgress) return null;
 
@@ -15,6 +20,22 @@ export const UserProfile: React.FC = () => {
     } catch (error) {
       console.error('Logout failed:', error);
     }
+  };
+
+  const handleViewProgress = () => {
+    setShowDropdown(false);
+    history.push(progressUrl);
+  };
+
+  const handleViewBookmarks = () => {
+    setShowDropdown(false);
+    history.push(bookmarksUrl);
+  };
+
+  const handleSettings = () => {
+    setShowDropdown(false);
+    // TODO: Implement settings page
+    console.log('Settings clicked - not implemented yet');
   };
 
   const completionPercentage = Math.round((userProgress.completedDays.length / 100) * 100);
@@ -62,13 +83,13 @@ export const UserProfile: React.FC = () => {
           </div>
 
           <div className={styles.dropdownActions}>
-            <button className={styles.dropdownItem}>
+            <button className={styles.dropdownItem} onClick={handleViewProgress}>
               📊 View Progress
             </button>
-            <button className={styles.dropdownItem}>
+            <button className={styles.dropdownItem} onClick={handleViewBookmarks}>
               🔖 My Bookmarks
             </button>
-            <button className={styles.dropdownItem}>
+            <button className={styles.dropdownItem} onClick={handleSettings}>
               ⚙️ Settings
             </button>
             <hr className={styles.divider} />

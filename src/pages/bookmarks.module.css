@@ -1,0 +1,326 @@
+/* Bookmarks Page Styles */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.header h1 {
+  color: var(--ifm-color-primary);
+  margin-bottom: 0.5rem;
+}
+
+.header p {
+  color: var(--ifm-color-secondary-darker);
+  font-size: 1.1rem;
+}
+
+.searchSection {
+  position: relative;
+  max-width: 500px;
+  margin: 0 auto 2rem auto;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 0.75rem 1rem 0.75rem 3rem;
+  border: 2px solid var(--ifm-color-emphasis-200);
+  border-radius: 8px;
+  font-size: 1rem;
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  transition: border-color 0.2s ease;
+}
+
+.searchInput:focus {
+  outline: none;
+  border-color: var(--ifm-color-primary);
+}
+
+.searchIcon {
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--ifm-color-secondary-darker);
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.stat {
+  text-align: center;
+  padding: 1rem;
+  background: var(--ifm-background-surface-color);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.statNumber {
+  display: block;
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+  margin-bottom: 0.25rem;
+}
+
+.statLabel {
+  font-size: 0.85rem;
+  color: var(--ifm-color-secondary-darker);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.emptyState,
+.noResults {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: var(--ifm-background-surface-color);
+  border-radius: 12px;
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.emptyIcon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.emptyState h2,
+.noResults h2 {
+  color: var(--ifm-font-color-base);
+  margin-bottom: 1rem;
+}
+
+.emptyState p,
+.noResults p {
+  color: var(--ifm-color-secondary-darker);
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.startReading,
+.clearSearch {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: var(--ifm-color-primary);
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.startReading:hover,
+.clearSearch:hover {
+  background: var(--ifm-color-primary-dark);
+  text-decoration: none;
+  color: white;
+}
+
+.bookmarksList {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.bookmarkCard {
+  background: var(--ifm-background-surface-color);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.bookmarkCard:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.bookmarkHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.bookmarkTitle h3 {
+  margin: 0 0 0.5rem 0;
+  color: var(--ifm-font-color-base);
+}
+
+.bookmarkTitle h3 a {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.bookmarkTitle h3 a:hover {
+  color: var(--ifm-color-primary-dark);
+}
+
+.bookmarkDate {
+  font-size: 0.85rem;
+  color: var(--ifm-color-secondary-darker);
+}
+
+.removeButton {
+  background: none;
+  border: none;
+  color: var(--ifm-color-danger);
+  cursor: pointer;
+  font-size: 1.5rem;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+  line-height: 1;
+}
+
+.removeButton:hover {
+  background-color: var(--ifm-color-danger-contrast-background);
+}
+
+.bookmarkNote {
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background: var(--ifm-color-secondary-contrast-background);
+  border-radius: 8px;
+  border-left: 4px solid var(--ifm-color-secondary);
+}
+
+.bookmarkNote h4 {
+  margin: 0 0 0.5rem 0;
+  font-size: 0.9rem;
+  color: var(--ifm-color-secondary-dark);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.bookmarkNote p {
+  margin: 0;
+  color: var(--ifm-font-color-base);
+  line-height: 1.6;
+  font-style: italic;
+}
+
+.bookmarkFooter {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.readAgain {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: var(--ifm-color-primary-lighter);
+  color: var(--ifm-color-primary-dark);
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  font-size: 0.9rem;
+  transition: all 0.2s ease;
+}
+
+.readAgain:hover {
+  background: var(--ifm-color-primary);
+  color: white;
+  text-decoration: none;
+}
+
+.bookmarkIcon {
+  font-size: 1.2rem;
+  color: var(--ifm-color-secondary);
+}
+
+.encouragement {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  background: var(--ifm-color-info-contrast-background);
+  border-radius: 8px;
+  border: 1px solid var(--ifm-color-info);
+  text-align: center;
+}
+
+.encouragement p {
+  margin: 0;
+  color: var(--ifm-color-info-dark);
+  font-size: 1rem;
+}
+
+.loading {
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.signInPrompt {
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.signInPrompt h1,
+.loading h1 {
+  margin-bottom: 1rem;
+}
+
+.signInPrompt p,
+.loading p {
+  font-size: 1.1rem;
+  color: var(--ifm-color-secondary-darker);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+  
+  .bookmarkCard {
+    padding: 1rem;
+  }
+  
+  .bookmarkHeader {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .removeButton {
+    align-self: flex-end;
+    margin-top: -2rem;
+  }
+  
+  .stats {
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  }
+}
+
+/* Dark mode adjustments */
+@media (prefers-color-scheme: dark) {
+  .stat,
+  .bookmarkCard,
+  .emptyState,
+  .noResults {
+    background: var(--ifm-color-emphasis-100);
+  }
+  
+  .searchInput {
+    background: var(--ifm-color-emphasis-100);
+  }
+}

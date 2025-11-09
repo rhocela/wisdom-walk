@@ -1,0 +1,232 @@
+/* Progress Page Styles */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.header h1 {
+  color: var(--ifm-color-primary);
+  margin-bottom: 0.5rem;
+}
+
+.header p {
+  color: var(--ifm-color-secondary-darker);
+  font-size: 1.1rem;
+}
+
+.overview {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.stat {
+  text-align: center;
+  padding: 1.5rem;
+  background: var(--ifm-background-surface-color);
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.statNumber {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+  margin-bottom: 0.5rem;
+}
+
+.statLabel {
+  font-size: 0.9rem;
+  color: var(--ifm-color-secondary-darker);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-weight: 500;
+}
+
+.progressBar {
+  margin-bottom: 2rem;
+}
+
+.progressLabel {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: var(--ifm-font-color-base);
+}
+
+.progressTrack {
+  width: 100%;
+  height: 12px;
+  background-color: var(--ifm-color-emphasis-200);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.progressFill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--ifm-color-primary), var(--ifm-color-primary-light));
+  transition: width 0.3s ease;
+  border-radius: 6px;
+}
+
+.partsGrid {
+  margin-bottom: 2rem;
+}
+
+.partsGrid h2 {
+  color: var(--ifm-color-primary);
+  margin-bottom: 1rem;
+}
+
+.partsGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.partCard {
+  background: var(--ifm-background-surface-color);
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.partHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.partHeader h3 {
+  margin: 0;
+  color: var(--ifm-font-color-base);
+  font-size: 1.1rem;
+}
+
+.partProgress {
+  font-weight: 600;
+  color: var(--ifm-color-primary);
+}
+
+.partProgressBar {
+  width: 100%;
+  height: 8px;
+  background-color: var(--ifm-color-emphasis-200);
+  border-radius: 4px;
+  overflow: hidden;
+  margin-bottom: 0.5rem;
+}
+
+.partProgressFill {
+  height: 100%;
+  background: var(--ifm-color-primary);
+  transition: width 0.3s ease;
+  border-radius: 4px;
+}
+
+.partStats {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  color: var(--ifm-color-secondary-darker);
+}
+
+.recentProgress {
+  margin-bottom: 2rem;
+}
+
+.recentProgress h2 {
+  color: var(--ifm-color-primary);
+  margin-bottom: 1rem;
+}
+
+.recentDays {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 0.75rem;
+}
+
+.recentDay {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  background: var(--ifm-color-success-contrast-background);
+  border-radius: 6px;
+  border: 1px solid var(--ifm-color-success);
+}
+
+.dayNumber {
+  font-weight: 500;
+  color: var(--ifm-color-success-dark);
+}
+
+.checkmark {
+  color: var(--ifm-color-success);
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.encouragement {
+  text-align: center;
+  padding: 1.5rem;
+  background: var(--ifm-color-primary-contrast-background);
+  border-radius: 8px;
+  border: 1px solid var(--ifm-color-primary);
+}
+
+.encouragement p {
+  margin: 0;
+  color: var(--ifm-color-primary-dark);
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.celebration {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--ifm-color-success-dark);
+  margin: 0;
+}
+
+.signInPrompt,
+.loading {
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+.signInPrompt h1,
+.loading h1 {
+  margin-bottom: 1rem;
+}
+
+.signInPrompt p,
+.loading p {
+  font-size: 1.1rem;
+  color: var(--ifm-color-secondary-darker);
+}
+
+/* Dark mode adjustments */
+@media (prefers-color-scheme: dark) {
+  .stat {
+    background: var(--ifm-color-emphasis-100);
+  }
+  
+  .partCard {
+    background: var(--ifm-color-emphasis-100);
+  }
+  
+  .recentDay {
+    background: var(--ifm-color-success-contrast-background);
+  }
+}

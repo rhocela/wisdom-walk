@@ -13,11 +13,10 @@ function AuthNavbarPortal() {
   useEffect(() => {
     if (ExecutionEnvironment.canUseDOM) {
       const tryMountAuth = () => {
-        // Try multiple selectors for different navbar states
+        // Only target desktop navbar - mobile will use burger menu
         const possibleTargets = [
           '.navbar__items.navbar__items--right', // Desktop
           '.navbar__items--right', // Alternative
-          '.navbar__inner', // Mobile fallback - inject directly into navbar inner
         ];
 
         let navbarItems = null;
@@ -36,17 +35,7 @@ function AuthNavbarPortal() {
           // Create a container for our auth component
           const authContainer = document.createElement('div');
           authContainer.className = 'navbar__item navbar__item--auth';
-          
-          // If we're injecting into navbar__inner (mobile), ensure proper positioning
-          if (navbarItems.classList.contains('navbar__inner')) {
-            authContainer.style.position = 'absolute';
-            authContainer.style.right = '56px'; // Leave space for search icon
-            authContainer.style.top = '50%';
-            authContainer.style.transform = 'translateY(-50%)';
-            authContainer.style.zIndex = '1000';
-          } else {
-            authContainer.style.marginLeft = 'auto';
-          }
+          authContainer.style.marginLeft = 'auto';
           
           navbarItems.appendChild(authContainer);
           setMountPoint(authContainer);
@@ -59,21 +48,41 @@ function AuthNavbarPortal() {
         }
       };
 
+      // Set up continuous monitoring for navbar changes
+      const observer = new MutationObserver(() => {
+        // Check if auth component exists and navbar exists
+        const existingAuth = document.querySelector('.navbar__item--auth');
+        const navbar = document.querySelector('.navbar__items--right');
+        
+        if (navbar && !existingAuth) {
+          tryMountAuth();
+        }
+      });
+
+      // Start observing the entire document for changes
+      observer.observe(document.body, {
+        childList: true,
+        subtree: true
+      });
+
       // Try immediately
       const cleanup = tryMountAuth();
       
-      // If not found, try after short delays for dynamic content
-      if (!mountPoint) {
-        const timer1 = setTimeout(tryMountAuth, 100);
-        const timer2 = setTimeout(tryMountAuth, 500);
-        return () => {
-          clearTimeout(timer1);
-          clearTimeout(timer2);
-          if (cleanup) cleanup();
-        };
-      }
+      // Set up interval to ensure auth component stays mounted
+      const interval = setInterval(() => {
+        const existingAuth = document.querySelector('.navbar__item--auth');
+        const navbar = document.querySelector('.navbar__items--right');
+        
+        if (navbar && !existingAuth) {
+          tryMountAuth();
+        }
+      }, 1000);
       
-      return cleanup;
+      return () => {
+        observer.disconnect();
+        clearInterval(interval);
+        if (cleanup) cleanup();
+      };
     }
   }, []);
 
