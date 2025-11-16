@@ -35,17 +35,13 @@ This connection is crucial: the same **divine power** that spoke worlds into exi
 
 ## Theological Threads
 
-### God's Sovereignty
-Creation reveals God as the absolute sovereign who needs nothing, controls everything, and accomplishes His will by His word alone. No other gods compete; no materials limit Him; no opposition threatens His purposes.
+- **God's Sovereignty**: Creation reveals God as the absolute sovereign who needs nothing, controls everything, and accomplishes His will by His word alone. No other gods compete; no materials limit Him; no opposition threatens His purposes.
 
-### God's Intentionality  
-Every aspect of creation shows purposeful design. God doesn't create randomly but with wisdom, beauty, and purpose. This intentionality extends to His plans for redemption and our individual lives.
+- **God's Intentionality**: Every aspect of creation shows purposeful design. God doesn't create randomly but with wisdom, beauty, and purpose. This intentionality extends to His plans for redemption and our individual lives.
 
-### Humanity's Dignity
-Humans alone are created "in God's image"—bearing His likeness in ways that distinguish us from all other creatures. This dignity forms the foundation for human worth, responsibility, and our capacity for relationship with God.
+- **Humanity's Dignity**: Humans alone are created "in God's image"—bearing His likeness in ways that distinguish us from all other creatures. This dignity forms the foundation for human worth, responsibility, and our capacity for relationship with God.
 
-### Rest and Worship
-God's "rest" on the seventh day establishes the pattern of worship and sabbath, showing that true fulfillment comes not from endless activity but from celebrating God's finished work.
+- **Rest and Worship**: God's "rest" on the seventh day establishes the pattern of worship and sabbath, showing that true fulfillment comes not from endless activity but from celebrating God's finished work.
 
 ## Study Questions
 
@@ -59,6 +55,6 @@ God's "rest" on the seventh day establishes the pattern of worship and sabbath, 
 
 5. **New Creation**: How does creation's movement from darkness to light, emptiness to fullness, give you hope for God's ongoing work in your life and in the world?
 
-:::info Verse to Memorize 💭
-*"In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through him, and without him was not any thing made that was made."* ***John 1:1-3***
+:::tip Verse to Memorize
+*"In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through him, and without him was not any thing made that was made."* ***John 1:1-3*** 💭 
 :::
