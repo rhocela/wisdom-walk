@@ -4,7 +4,7 @@ title: "Day 1: In the Beginning Was God"
 ---
 
 # Day 1: In the Beginning Was God
-*Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 18-22 minutes*
 
 ## Chronological Setting
 
@@ -59,6 +59,6 @@ God's "rest" on the seventh day establishes the pattern of worship and sabbath, 
 
 5. **New Creation**: How does creation's movement from darkness to light, emptiness to fullness, give you hope for God's ongoing work in your life and in the world?
 
-## Commit to Memory
-
-*"In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through him, and without him was not any thing made that was made."* - John 1:1-3
+:::info Verse to Memorize 💭
+*"In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through him, and without him was not any thing made that was made."* ***John 1:1-3***
+:::
