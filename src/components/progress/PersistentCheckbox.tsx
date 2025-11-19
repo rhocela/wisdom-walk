@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { useAuth } from '../auth/AuthContext';
-import { doc, updateDoc, getDoc } from 'firebase/firestore';
+import { doc, setDoc, getDoc } from 'firebase/firestore';
 import { db } from '../../lib/firebase';
-import './PersistentCheckbox.module.css';
+import styles from './PersistentCheckbox.module.css';
 
 interface PersistentCheckboxProps {
   id: string;
@@ -29,11 +29,17 @@ const PersistentCheckbox: React.FC<PersistentCheckboxProps> = ({
   }, [user, id]);
 
   const loadCheckboxState = async () => {
+    console.log(`Loading checkbox ${id} for user:`, user?.uid || 'anonymous');
+    
     if (!user) {
       // Fallback to localStorage for non-authenticated users
       const saved = localStorage.getItem(`checkbox-${id}`);
       if (saved !== null) {
-        setChecked(JSON.parse(saved));
+        const savedValue = JSON.parse(saved);
+        setChecked(savedValue);
+        console.log(`Checkbox ${id} loaded from localStorage:`, savedValue);
+      } else {
+        console.log(`No saved state found in localStorage for checkbox ${id}`);
       }
       return;
     }
@@ -42,14 +48,31 @@ const PersistentCheckbox: React.FC<PersistentCheckboxProps> = ({
       const checkboxDoc = await getDoc(doc(db, 'userCheckboxes', user.uid));
       if (checkboxDoc.exists()) {
         const checkboxStates = checkboxDoc.data() as CheckboxState;
-        setChecked(checkboxStates[id] || false);
+        const savedValue = checkboxStates[id] || false;
+        setChecked(savedValue);
+        console.log(`✅ Checkbox ${id} loaded from Firestore:`, savedValue);
+      } else {
+        // Check if there's a localStorage value to migrate
+        const localSaved = localStorage.getItem(`checkbox-${id}`);
+        if (localSaved !== null) {
+          const localValue = JSON.parse(localSaved);
+          setChecked(localValue);
+          // Migrate to Firestore
+          await saveCheckboxState(localValue);
+          console.log(`Checkbox ${id} migrated from localStorage to Firestore:`, localValue);
+        } else {
+          console.log(`No Firestore document found for user ${user.uid}, starting fresh`);
+          setChecked(false);
+        }
       }
     } catch (error) {
-      console.error('Error loading checkbox state:', error);
+      console.error(`❌ Error loading checkbox ${id} from Firestore:`, error);
       // Fallback to localStorage
       const saved = localStorage.getItem(`checkbox-${id}`);
       if (saved !== null) {
-        setChecked(JSON.parse(saved));
+        const savedValue = JSON.parse(saved);
+        setChecked(savedValue);
+        console.log(`Checkbox ${id} loaded from localStorage (fallback):`, savedValue);
       }
     }
   };
@@ -58,11 +81,14 @@ const PersistentCheckbox: React.FC<PersistentCheckboxProps> = ({
     if (!user) {
       // Fallback to localStorage for non-authenticated users
       localStorage.setItem(`checkbox-${id}`, JSON.stringify(newChecked));
+      console.log(`Checkbox ${id} saved to localStorage:`, newChecked);
       return;
     }
 
     try {
       setLoading(true);
+      console.log(`Attempting to save checkbox ${id}:`, newChecked, 'for user:', user.uid);
+      
       const checkboxDocRef = doc(db, 'userCheckboxes', user.uid);
       
       // Get current checkbox states
@@ -72,16 +98,21 @@ const PersistentCheckbox: React.FC<PersistentCheckboxProps> = ({
       // Update the specific checkbox
       const updatedStates = {
         ...currentStates,
-        [id]: newChecked
+        [id]: newChecked,
+        lastUpdated: new Date().toISOString()
       };
 
-      // Save to Firestore
-      await updateDoc(checkboxDocRef, updatedStates);
+      // Save to Firestore using setDoc with merge option
+      await setDoc(checkboxDocRef, updatedStates, { merge: true });
+      
+      console.log(`✅ Checkbox ${id} successfully saved to Firestore:`, newChecked);
       
     } catch (error) {
-      console.error('Error saving checkbox state:', error);
+      console.error(`❌ Error saving checkbox ${id} to Firestore:`, error);
+      console.log('Falling back to localStorage...');
       // Fallback to localStorage
       localStorage.setItem(`checkbox-${id}`, JSON.stringify(newChecked));
+      console.log(`Checkbox ${id} saved to localStorage as fallback:`, newChecked);
     } finally {
       setLoading(false);
     }
@@ -94,17 +125,17 @@ const PersistentCheckbox: React.FC<PersistentCheckboxProps> = ({
   };
 
   return (
-    <label className="persistent-checkbox">
+    <label className={styles.persistentCheckbox}>
       <input 
         type="checkbox" 
         checked={checked} 
         onChange={handleChange}
         disabled={loading}
       />
-      <span className="checkbox-content">
+      <span className={styles.checkboxContent}>
         {children}
       </span>
-      {loading && <span className="checkbox-loading">💾</span>}
+      {loading && <span className={styles.checkboxLoading}>💾</span>}
     </label>
   );
 };
