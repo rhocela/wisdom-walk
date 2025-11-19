@@ -65,7 +65,7 @@ This comprehensive study ensures complete biblical coverage while maintaining ch
 
 Every chapter of God's Word has been carefully placed to show the beautiful tapestry of His redemptive plan. From the first words of Genesis to the final "Amen" of Revelation, you'll see how all Scripture points to Jesus Christ and God's eternal purposes.
 
-[Start with Part 1: In the Beginning](part-01/)
+[Start with Part 1: In the Beginning](part-1/)
 
 ---
 
