@@ -23,7 +23,7 @@
 - `src/theme/MDXComponents.tsx` - Global MDX integration
 
 ### **Modified Files:**
-- `docs/part-1/day-1.md` - Updated to use new checkboxes
+<!-- - `docs/part-1/day-1.md` - Updated to use new checkboxes -->
 
 ## 🛠 **How It Works**
 

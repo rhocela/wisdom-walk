@@ -1,19 +1,19 @@
-.persistent-checkbox {
+.persistentCheckbox {
   display: flex;
   align-items: flex-start;
   gap: 12px;
-  margin: 8px 0;
+  margin: 0;
+  padding: 0;
   cursor: pointer;
-  padding: 8px;
   border-radius: 6px;
   transition: background-color 0.2s ease;
 }
 
-.persistent-checkbox:hover {
+.persistentCheckbox:hover {
   background-color: var(--ifm-color-emphasis-100);
 }
 
-.persistent-checkbox input[type="checkbox"] {
+.persistentCheckbox input[type="checkbox"] {
   margin: 0;
   margin-top: 2px;
   width: 18px;
@@ -22,41 +22,36 @@
   cursor: pointer;
 }
 
-.persistent-checkbox input[type="checkbox"]:disabled {
+.persistentCheckbox input[type="checkbox"]:disabled {
   opacity: 0.6;
   cursor: not-allowed;
 }
 
-.checkbox-content {
+.checkboxContent {
   flex: 1;
   line-height: 1.5;
 }
 
-.checkbox-content strong {
+.checkboxContent strong {
   color: var(--ifm-font-color-base);
 }
 
-.checkbox-loading {
+.checkboxLoading {
   font-size: 12px;
   opacity: 0.7;
   margin-left: 8px;
 }
 
 /* Dark mode adjustments */
-[data-theme='dark'] .persistent-checkbox:hover {
+[data-theme='dark'] .persistentCheckbox:hover {
   background-color: var(--ifm-color-emphasis-200);
 }
 
 /* Completed state styling */
-.persistent-checkbox:has(input:checked) {
+.persistentCheckbox:has(input:checked) {
   background-color: rgba(var(--ifm-color-primary-rgb), 0.1);
 }
 
-.persistent-checkbox:has(input:checked) .checkbox-content {
-  text-decoration: line-through;
-  opacity: 0.8;
-}
-
-[data-theme='dark'] .persistent-checkbox:has(input:checked) {
+[data-theme='dark'] .persistentCheckbox:has(input:checked) {
   background-color: rgba(var(--ifm-color-primary-rgb), 0.15);
 }
