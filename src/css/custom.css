@@ -393,6 +393,19 @@ blockquote {
   border: 1px solid rgba(0, 0, 0, 0.1) !important;
 }
 
+/* Override paragraph spacing around PersistentCheckbox components */
+.markdown p:has(.persistentCheckbox) {
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1 !important;
+}
+
+/* Remove margins from any wrapper around checkboxes */
+.persistentCheckbox {
+  margin: 0 !important;
+  padding: 2px 0 !important;
+}
+
 .navbar__search-input::placeholder {
   color: rgba(30, 30, 30, 0.6) !important;
 }

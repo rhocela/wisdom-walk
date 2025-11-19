@@ -12,11 +12,10 @@ We begin at the very beginning—before time, before space, before anything exis
 
 ## Today's Readings
 
- <PersistentCheckbox id="day1-genesis"> **[Genesis 1:1-2:3](https://www.bible.com/bible/59/GEN.1.1-2.3.ESV)** (Narrative) - The six days of creation and God's rest</PersistentCheckbox>  
-  <PersistentCheckbox id="day1-john"> **[John 1:1-5](https://www.bible.com/bible/59/JHN.1.1-5.ESV)** (Gospel) - Christ as the eternal Word through whom all things were made</PersistentCheckbox>  
- <PersistentCheckbox id="day1-colossians"> **[Colossians 1:15-17](https://www.bible.com/bible/59/COL.1.15-17.ESV)** (Epistle) - Christ as the image of God and Creator of all things</PersistentCheckbox>  
- <PersistentCheckbox id="day1-hebrews"> **[Hebrews 11:3](https://www.bible.com/bible/59/HEB.11.3.ESV)** (Epistle) - Faith's understanding of God's creative word</PersistentCheckbox>
-
+<PersistentCheckbox id="day1-genesis"> **[Genesis 1:1-2:3](https://www.bible.com/bible/59/GEN.1.1-2.3.ESV)** (Narrative) - The six days of creation and God's rest</PersistentCheckbox>
+<PersistentCheckbox id="day1-john"> **[John 1:1-5](https://www.bible.com/bible/59/JHN.1.1-5.ESV)** (Gospel) - Christ as the eternal Word through whom all things were made</PersistentCheckbox>
+<PersistentCheckbox id="day1-colossians"> **[Colossians 1:15-17](https://www.bible.com/bible/59/COL.1.15-17.ESV)** (Epistle) - Christ as the image of God and Creator of all things</PersistentCheckbox>
+<PersistentCheckbox id="day1-hebrews"> **[Hebrews 11:3](https://www.bible.com/bible/59/HEB.11.3.ESV)** (Epistle) - Faith's understanding of God's creative word</PersistentCheckbox>
 
 ## Historical Context
 
