@@ -65,10 +65,8 @@ This comprehensive study ensures complete biblical coverage while maintaining ch
 
 Every chapter of God's Word has been carefully placed to show the beautiful tapestry of His redemptive plan. From the first words of Genesis to the final "Amen" of Revelation, you'll see how all Scripture points to Jesus Christ and God's eternal purposes.
 
+[Start with Part 1: In the Beginning](part-1/)
 
-[Start with Part 1: In the Beginning](part-01/)
-
-
-
+---
 
 *"All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work." - 2 Timothy 3:16-17*
