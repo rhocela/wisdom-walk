@@ -14,6 +14,8 @@ description: "Chronological order of biblical books by historical events"
 
 ---
 
+# Biblical Chronology: Order of Events and Books
+
 ## Old Testament Chronological Order
 *Based on alignment of historical chronologies and biblical scholarship*
 
