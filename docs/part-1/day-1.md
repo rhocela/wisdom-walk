@@ -1,89 +1,61 @@
 ---
-sidebar_label: "Day 1: In the Beginning"
 sidebar_position: 1
-description: "Explore how Christ spoke the universe into existence"
+title: "Day 1: In the Beginning Was God"
 ---
 
-import { ProgressTracker } from '@site/src/components/progress/ProgressTracker';
+# Day 1: In the Beginning Was God
+⏱️ *Estimated reading time: 18-22 minutes*
 
-# In the Beginning: God Creates
+## Chronological Setting
 
-<ProgressTracker dayNumber={1} />
+We begin at the very beginning—before time, before space, before anything existed except God Himself. This opening passage of Scripture serves as the foundation for all human understanding of reality, establishing God as the eternal Creator who brought everything into existence by His word alone. These events precede all human history and set the stage for God's ongoing relationship with His creation.
 
-**Day:** 1
+## Today's Readings
 
-**Chronological Setting:** Before time began - the eternal Word creates
+ <PersistentCheckbox id="day1-genesis"> **[Genesis 1:1-2:3](https://www.bible.com/bible/59/GEN.1.1-2.3.ESV)** (Narrative) - The six days of creation and God's rest</PersistentCheckbox>  
+  <PersistentCheckbox id="day1-john"> **[John 1:1-5](https://www.bible.com/bible/59/JHN.1.1-5.ESV)** (Gospel) - Christ as the eternal Word through whom all things were made</PersistentCheckbox>  
+ <PersistentCheckbox id="day1-colossians"> **[Colossians 1:15-17](https://www.bible.com/bible/59/COL.1.15-17.ESV)** (Epistle) - Christ as the image of God and Creator of all things</PersistentCheckbox>  
+ <PersistentCheckbox id="day1-hebrews"> **[Hebrews 11:3](https://www.bible.com/bible/59/HEB.11.3.ESV)** (Epistle) - Faith's understanding of God's creative word</PersistentCheckbox>
 
-**Readings:**
- - [Genesis 1:1–2:3](https://www.bible.com/bible/59/GEN.1.1-2.3.ESV) (Narrative)
- - [Psalm 33:6-9](https://www.bible.com/bible/59/PSA.33.6-9.ESV) (Poetry)
- - [John 1:1-5](https://www.bible.com/bible/59/JHN.1.1-5.ESV) (Gospel)
- - [Colossians 1:15-17](https://www.bible.com/bible/59/COL.1.15-17.ESV) (Epistle)
- - [Hebrews 1:1-3](https://www.bible.com/bible/59/HEB.1.1-3.ESV) (Epistle)
 
-**Historical Context:** This theme establishes the foundation of all reality - God as Creator and sustainer of everything that exists. The creation account reveals God's power, order, and purpose in bringing forth the universe.
+## Historical Context
 
-**God's Bigger Plan:** Creation sets the stage for redemption by showing God's original design for perfect fellowship with humanity. The Word who creates is the same Word who becomes flesh to redeem.
+Genesis opens with a carefully structured account of creation that reveals both the **how** and **who** of our origins. Written through Moses but describing events that preceded human witnesses, this passage establishes fundamental truths about God's nature and humanity's place in creation. The Hebrew word "bara" (create) appears only with God as the subject, emphasizing that true creation—bringing something from nothing—is uniquely divine.
 
-**Connecting the Dots:** Genesis reveals the historical fact of creation by God's word. Psalm 33 celebrates the power of God's creative word. John identifies Jesus as the eternal Word through whom all things were made. Colossians shows Christ as the image of the invisible God and agent of creation. Hebrews describes the Son as the radiance of God's glory who sustains all things.
+## Redemptive Significance
 
-****Theological Threads:****
-- **Creation by Word:** God speaks reality into existence
-- **Divine Order:** Everything has its proper place and purpose  
-- **Christological Focus:** Christ as agent of creation
-- **Sovereign Power:** God's absolute authority over all existence
+From the very first words of Scripture, we see God's heart for **relationship** and **order**. The God who creates is the same God who redeems. The creation account reveals God's power, wisdom, and love—qualities that will be fully displayed in Christ's redemptive work. The "very good" creation that becomes marred by sin points forward to the "new creation" that God accomplishes through Jesus Christ (2 Corinthians 5:17).
 
-**Study Questions:**
+Notice how creation moves from chaos to order, darkness to light, emptiness to fullness—foreshadowing how God's salvation brings order to our chaos, light to our darkness, and purpose to our emptiness.
 
-1. **How does understanding Christ as Creator change your view of Him?**
+## Connecting the Dots
 
-    <details>
-    <summary>💭 Thoughts</summary>
+The New Testament reveals that **Jesus Christ** was the active agent of creation. When Genesis says "God said," John's Gospel tells us that this Word was Christ Himself (John 1:1-3). Colossians 1:16 declares that "by him all things were created... all things were created through him and for him." 
 
-    It's made me realize that Christ really is everything. He's not just God who came to earth—he *is* one with God from the beginning. And honestly, his existence is beyond human comprehension. The oneness with God the Father and God the Holy Spirit, yet their distinctness—it's something I can't fully grasp.
+This connection is crucial: the same **divine power** that spoke worlds into existence is the power that saves us. The same **divine word** that brought light from darkness brings spiritual light to our hearts. The God who created humanity in His image is the God who recreates us in Christ's image.
 
-    But what really strikes me is when Scripture says "all things were made through him and for him." He's at the center of it all. The beloved Son—the one God speaks of in Matthew 3:17: "This is my beloved Son, with whom I am well pleased." Creation itself exists for him.
+## Theological Threads
 
-    </details>
+- **God's Sovereignty**: Creation reveals God as the absolute sovereign who needs nothing, controls everything, and accomplishes His will by His word alone. No other gods compete; no materials limit Him; no opposition threatens His purposes.
 
-2. **What does creation reveal about God's character?**
+- **God's Intentionality**: Every aspect of creation shows purposeful design. God doesn't create randomly but with wisdom, beauty, and purpose. This intentionality extends to His plans for redemption and our individual lives.
 
-    <details>
-    <summary>💭 Thoughts</summary>
+- **Humanity's Dignity**: Humans alone are created "in God's image"—bearing His likeness in ways that distinguish us from all other creatures. This dignity forms the foundation for human worth, responsibility, and our capacity for relationship with God.
 
-    Creation gives us glimpses of God's glory and magnificence. They say artists are as good as their work, and God's creation is magnificent. 
+- **Rest and Worship**: God's "rest" on the seventh day establishes the pattern of worship and sabbath, showing that true fulfillment comes not from endless activity but from celebrating God's finished work.
 
-    The intricate design of the universe, the mystery of life, the splendor and grandeur of nature—they all point to a Creator who is powerful, wise, and purposeful. When I see a flower bloom, it's as if I'm seeing a form of life reflecting an aspect of God's beauty. Life itself praising its Maker. An ordinary flower by the roadside can't help but be beautiful, because it reflects the beauty of its Creator.
+## Study Questions
 
-    </details>
+1. **Creation's Voice**: What does the ordered, purposeful nature of creation tell us about God's character? How might recognizing God as Creator change how you view your daily circumstances?
 
-3. **How should knowing you're created by God affect your daily life?**
+2. **Divine Image**: What does it mean that humans are created "in God's image"? How should this truth affect how you see yourself and others, especially those who are difficult to love?
 
-    <details>
-    <summary>💭 Thoughts</summary>
+3. **Word and Power**: How does understanding Jesus as the creative Word of God deepen your appreciation for His role in salvation? What "chaos" in your life needs His ordering word?
 
-    If I'm created in the image of God, then I have the responsibility to bear his image—to reflect it to others. If an ordinary flower by the roadside can reflect the beauty of its Creator, I should reflect God's character in the best way I know how.
+4. **Rest and Reflection**: Why did God "rest" after creation? What does this teach us about the rhythm of work and worship that God intends for our lives?
 
-    Not only that, I should aspire to represent him better in my actions, words, and thoughts, and especially in the way I treat other people—both those who know him and those who don't.
+5. **New Creation**: How does creation's movement from darkness to light, emptiness to fullness, give you hope for God's ongoing work in your life and in the world?
 
-    </details>
-
-4. **What does it mean that God created "good" things?**
-
-**A Side Thought:**
-
-    <details>
-    <summary>On God, Gender, and Language</summary>
-
-    Something's been on my mind: Scripture says male AND female reflect God's image (Genesis 1:27). This means God has characteristics of both masculinity and femininity. We inherit our characteristics from Him—not the other way around.
-
-    Some people think God is only masculine or only feminine. Some assume the Bible refers to God as "he" just because of the patriarchal society during the time it was written. And yes, I believe that God transcends human gender categories. But here's what I wonder—could it be that when the Bible reveals him as "Father", we should honor that revelation rather than reshape it?
-
-    I've noticed some churches avoid calling God "He" or "Father" to not offend people. But could it be that this does more harm than good? Could it be that we're denying how God chose to reveal himself in Scripture? 
-
-    Maybe the real danger is shaping God in our image. We've had bad experiences with patriarchy—do we assume God's version of patriarchy must be bad too? But what if this keeps us preoccupied with ourselves instead of with God?
-
-    Just a thought: He is not made in our image. We are made in HIS.
-
-    </details> 
-
+:::tip Verse to Memorize
+*"In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. All things were made through him, and without him was not any thing made that was made."* ***John 1:1-3*** 💭 
+:::
