@@ -5,6 +5,8 @@ authors: rose
 tags: [physics, mystery, quantum, creation]
 ---
 
+<!-- truncate -->
+
 :::info Under Construction
 This section is currently being developed. Science & Scripture content will be added regularly as we explore the harmony between scientific discovery and biblical truth.
 :::

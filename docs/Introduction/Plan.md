@@ -66,7 +66,7 @@ docs/
 
 ### **Primary Goals:**
 - Start with the **100-day thematic structure** but prioritize complete biblical coverage BUT **IMPORTANT**: Extend beyond 100 days if necessary to achieve complete coverage - quality and completeness over arbitrary limit
-- Follow the **75-entry chronological framework** we established in  the [Biblical Chronology section](#biblical-chronology) 
+- Follow the **75-entry chronological framework** we established in the Biblical Chronology section below 
 - Design each study for **20 minutes of meaningful engagement**
 - Ensure **every verse** from Genesis to Revelation is covered exactly once
 - Create **deep theological connections** between Old and New Testament passages
