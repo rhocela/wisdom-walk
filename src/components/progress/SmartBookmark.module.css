@@ -1,0 +1,347 @@
+/* SmartBookmark.module.css */
+
+.smartBookmark {
+  position: relative;
+  float: right;
+  margin-left: 1rem;
+  margin-top: 0.25rem;
+  z-index: 100;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Static positioning near title */
+.smartBookmark:not(.sticky):not(.floating) {
+  position: relative;
+  float: right;
+  top: auto;
+  right: auto;
+}
+
+/* Sticky behavior when scrolled past title */
+.smartBookmark.sticky {
+  position: fixed !important;
+  top: 90px;
+  right: 2rem;
+  float: none;
+  transform: scale(0.9);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  background: var(--ifm-background-surface-color);
+  border-radius: 8px;
+  padding: 0.5rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+/* Floating behavior for deeper scroll */
+.smartBookmark.floating {
+  position: fixed !important;
+  top: 50%;
+  right: 1rem;
+  float: none;
+  transform: translateY(-50%) scale(0.85);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+  border-radius: 12px;
+  background: var(--ifm-background-surface-color);
+  padding: 0.75rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.bookmarkContainer {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.bookmarkButton {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.bookmarkButton:hover {
+  border-color: var(--ifm-color-primary);
+  background: rgba(var(--ifm-color-primary-rgb), 0.05);
+  transform: translateY(-1px);
+}
+
+.bookmarkButton:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.bookmarkButton.bookmarked {
+  background: rgba(var(--ifm-color-primary-rgb), 0.1);
+  border-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary-dark);
+}
+
+.bookmarkIcon {
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.bookmarkLabel {
+  font-size: 0.85rem;
+}
+
+.quickBookmark {
+  padding: 0.4rem 0.75rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 6px;
+  background: var(--ifm-color-emphasis-100);
+  color: var(--ifm-font-color-base);
+  font-size: 0.75rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  opacity: 0.8;
+}
+
+.quickBookmark:hover {
+  opacity: 1;
+  background: var(--ifm-color-emphasis-200);
+}
+
+/* Note form */
+.noteForm {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  margin-top: 0.5rem;
+  background: var(--ifm-background-surface-color);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 8px;
+  padding: 1rem;
+  min-width: 280px;
+  max-width: 320px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  animation: noteFormAppear 0.2s ease-out;
+}
+
+@keyframes noteFormAppear {
+  from {
+    opacity: 0;
+    transform: translateY(-8px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.noteTextarea {
+  width: 100%;
+  padding: 0.75rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 6px;
+  background: var(--ifm-background-color);
+  color: var(--ifm-font-color-base);
+  font-family: inherit;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  resize: vertical;
+  min-height: 80px;
+  margin-bottom: 0.75rem;
+}
+
+.noteTextarea:focus {
+  outline: none;
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 0 0 2px rgba(var(--ifm-color-primary-rgb), 0.2);
+}
+
+.noteTextarea::placeholder {
+  color: var(--ifm-color-emphasis-600);
+  opacity: 0.8;
+}
+
+.noteActions {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: flex-end;
+}
+
+.noteAction {
+  padding: 0.5rem 0.75rem;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.save {
+  background: var(--ifm-color-primary);
+  color: white;
+  border-color: var(--ifm-color-primary);
+}
+
+.save:hover:not(:disabled) {
+  background: var(--ifm-color-primary-dark);
+  transform: translateY(-1px);
+}
+
+.save:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.cancel {
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  border-color: var(--ifm-color-emphasis-300);
+}
+
+.cancel:hover {
+  background: var(--ifm-color-emphasis-100);
+}
+
+/* Saved note display */
+.savedNote {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  margin-top: 0.5rem;
+  background: rgba(var(--ifm-color-primary-rgb), 0.05);
+  border: 1px solid rgba(var(--ifm-color-primary-rgb), 0.2);
+  border-radius: 8px;
+  padding: 0.75rem;
+  min-width: 250px;
+  max-width: 300px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+.noteHeader {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--ifm-color-primary-dark);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.5rem;
+}
+
+.noteContent {
+  font-size: 0.85rem;
+  line-height: 1.4;
+  color: var(--ifm-font-color-base);
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+
+.noteTimestamp {
+  font-size: 0.7rem;
+  color: var(--ifm-color-emphasis-600);
+}
+
+/* Guest mode */
+.guestMode .guestPrompt {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 0.75rem;
+  background: var(--ifm-color-emphasis-100);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 6px;
+  color: var(--ifm-color-emphasis-700);
+  font-size: 0.8rem;
+  opacity: 0.8;
+}
+
+/* Mobile responsive */
+@media (max-width: 768px) {
+  .smartBookmark:not(.floating) {
+    position: relative;
+    top: auto;
+    right: auto;
+    margin: 1rem 0;
+  }
+  
+  .smartBookmark.sticky {
+    position: fixed;
+    top: auto;
+    bottom: 2rem;
+    right: 1rem;
+    transform: none;
+  }
+  
+  .smartBookmark.floating {
+    bottom: 1.5rem;
+    right: 1rem;
+    top: auto;
+    transform: none;
+  }
+
+  .noteForm {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    transform: translate(-50%, -50%);
+    margin-top: 0;
+    width: 90%;
+    max-width: 320px;
+  }
+
+  .savedNote {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    transform: translate(-50%, -50%);
+    margin-top: 0;
+    width: 85%;
+    max-width: 280px;
+  }
+
+  .bookmarkLabel {
+    display: none;
+  }
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] .smartBookmark.floating {
+  background: var(--ifm-background-surface-color);
+  border-color: var(--ifm-color-emphasis-300);
+}
+
+[data-theme='dark'] .noteForm {
+  background: var(--ifm-background-surface-color);
+  border-color: var(--ifm-color-emphasis-300);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+}
+
+[data-theme='dark'] .savedNote {
+  background: rgba(var(--ifm-color-primary-rgb), 0.1);
+  border-color: rgba(var(--ifm-color-primary-rgb), 0.3);
+}
+
+/* Animation for floating state */
+.smartBookmark {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.smartBookmark.floating {
+  animation: floatPulse 3s ease-in-out infinite;
+}
+
+@keyframes floatPulse {
+  0%, 100% {
+    transform: translateY(-50%) scale(0.85);
+  }
+  50% {
+    transform: translateY(-50%) scale(0.88);
+  }
+}
