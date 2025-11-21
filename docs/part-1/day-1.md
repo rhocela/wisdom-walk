@@ -4,7 +4,10 @@ title: "Day 1: In the Beginning Was God"
 ---
 
 # Day 1: In the Beginning Was God
+
 ⏱️ *Estimated reading time: 18-22 minutes*
+
+<ProgressTracker dayNumber={1} />
 
 ## Chronological Setting
 
