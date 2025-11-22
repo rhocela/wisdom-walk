@@ -12,11 +12,7 @@ export const ProgressTracker: React.FC<ProgressTrackerProps> = ({ dayNumber }) =
   const [bookmarkNote, setBookmarkNote] = useState('');
 
   if (!user || !userProgress) {
-    return (
-      <div className={styles.guestPrompt}>
-        <p>Sign in to track your progress and save bookmarks!</p>
-      </div>
-    );
+    return null;
   }
 
   const isCompleted = userProgress.completedDays.includes(dayNumber);
