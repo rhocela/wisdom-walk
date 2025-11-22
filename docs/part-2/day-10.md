@@ -13,6 +13,13 @@ title: "Day 10: Testing and Faithfulness"
 
 We continue in the patriarchal period (approximately 2000-1500 BC) as Abraham's faith journey unfolds. Shortly after receiving God's promises in Genesis 12:1-9, Abraham faces his first major test when famine strikes the promised land. These events occur within the first few years of Abraham's arrival in Canaan, demonstrating how quickly God's promises can seem threatened and how human weakness can complicate divine plans.
 
+## Today's Readings
+
+<PersistentCheckbox id="day10-genesis12b"> **[Genesis 12:10-20](https://www.bible.com/bible/59/GEN.12.10-20.ESV)** (Narrative) - Abraham's deception in Egypt and God's protection</PersistentCheckbox>
+<PersistentCheckbox id="day10-genesis13"> **[Genesis 13:1-18](https://www.bible.com/bible/59/GEN.13.1-18.ESV)** (Narrative) - Return from Egypt and separation from Lot</PersistentCheckbox>
+<PersistentCheckbox id="day10-romans4"> **[Romans 4:16-22](https://www.bible.com/bible/59/ROM.4.16-22.ESV)** (Epistle) - Abraham's faith despite circumstances</PersistentCheckbox>
+<PersistentCheckbox id="day10-hebrews11b"> **[Hebrews 11:13-16](https://www.bible.com/bible/59/HEB.11.13-16.ESV)** (Epistle) - The patriarchs as strangers seeking a heavenly country</PersistentCheckbox>
+
 ## Historical Context
 
 **Famine** was a recurring threat in the ancient Near East, often forcing populations to migrate toward more reliable water sources. **Egypt**, with its predictable Nile River flooding, served as a refuge during such crises. However, for Abraham, going to Egypt represented more than geographical movement—it meant leaving the land of promise and potentially abandoning trust in God's provision.
@@ -20,13 +27,6 @@ We continue in the patriarchal period (approximately 2000-1500 BC) as Abraham's 
 The **deception regarding Sarah** reveals the complex moral landscape of the ancient world, where survival sometimes seemed to require compromising truth. Abraham's fear reflects the real dangers faced by traveling families, as powerful rulers could indeed take attractive women for their harems and eliminate their husbands. Yet this human solution to a genuine problem demonstrates how fear can lead us to trust our own schemes rather than God's protection.
 
 The **wealth Abraham acquired** in Egypt (livestock, servants, gold, and silver) becomes significant for understanding God's blessing even through human failure. Divine grace works through imperfect circumstances to advance His purposes, though not without consequences that will affect future generations.
-
-## Today's Readings
-
-<PersistentCheckbox id="day10-genesis12b"> **[Genesis 12:10-20](https://www.bible.com/bible/59/GEN.12.10-20.ESV)** (Narrative) - Abraham's deception in Egypt and God's protection</PersistentCheckbox>
-<PersistentCheckbox id="day10-genesis13"> **[Genesis 13:1-18](https://www.bible.com/bible/59/GEN.13.1-18.ESV)** (Narrative) - Return from Egypt and separation from Lot</PersistentCheckbox>
-<PersistentCheckbox id="day10-romans4"> **[Romans 4:16-22](https://www.bible.com/bible/59/ROM.4.16-22.ESV)** (Epistle) - Abraham's faith despite circumstances</PersistentCheckbox>
-<PersistentCheckbox id="day10-hebrews11b"> **[Hebrews 11:13-16](https://www.bible.com/bible/59/HEB.11.13-16.ESV)** (Epistle) - The patriarchs as strangers seeking a heavenly country</PersistentCheckbox>
 
 ## Redemptive Significance
 

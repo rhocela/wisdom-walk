@@ -13,18 +13,18 @@ title: "Day 6: Grace in Judgment"
 
 We continue in the Early History period (before 1500 BC) as humanity reaches its moral nadir approximately 1,650 years after creation. Following the genealogies and corruption described in Genesis 5-6, we now witness God's response to universal wickedness through the great flood. This global judgment represents the first major divine intervention in human history, establishing patterns of divine justice and mercy that will echo throughout Scripture until the final judgment revealed in Revelation.
 
-## Historical Context
-
-The flood narrative stands as both **historical account** and **theological watershed** in human history. Archaeological evidence from various ancient Near Eastern cultures confirms widespread flood traditions, though the biblical account uniquely emphasizes God's moral judgment and covenant faithfulness. The Hebrew construction emphasizes the flood's totality—**"all the fountains of the great deep burst forth, and the windows of the heavens were opened"** (Genesis 7:11)—indicating both subterranean and atmospheric water sources.
-
-**Noah** emerges as the second great figure of faith after Abel, representing the **remnant principle** that will characterize God's dealing with humanity throughout history. His name means **"rest"** or **"comfort,"** prophetically pointing to the peace that comes after divine judgment. The ark becomes a symbol of salvation through God's provision—large enough to preserve life, but accessible only through the one door that God Himself closes.
-
 ## Today's Readings
 
 <PersistentCheckbox id="day6-genesis6"> **[Genesis 6:9-22](https://www.bible.com/bible/59/GEN.6.9-22.ESV)** (Narrative) - God's covenant with Noah and instructions for the ark</PersistentCheckbox>
 <PersistentCheckbox id="day6-genesis7"> **[Genesis 7:1-24](https://www.bible.com/bible/59/GEN.7.1-24.ESV)** (Narrative) - The flood comes and covers the earth</PersistentCheckbox>
 <PersistentCheckbox id="day6-hebrews11"> **[Hebrews 11:7](https://www.bible.com/bible/59/HEB.11.7.ESV)** (Epistle) - Noah's faith and righteousness</PersistentCheckbox>
 <PersistentCheckbox id="day6-2peter"> **[2 Peter 2:4-9](https://www.bible.com/bible/59/2PE.2.4-9.ESV)** (Epistle) - God's pattern of judgment and deliverance</PersistentCheckbox>
+
+## Historical Context
+
+The flood narrative stands as both **historical account** and **theological watershed** in human history. Archaeological evidence from various ancient Near Eastern cultures confirms widespread flood traditions, though the biblical account uniquely emphasizes God's moral judgment and covenant faithfulness. The Hebrew construction emphasizes the flood's totality—**"all the fountains of the great deep burst forth, and the windows of the heavens were opened"** (Genesis 7:11)—indicating both subterranean and atmospheric water sources.
+
+**Noah** emerges as the second great figure of faith after Abel, representing the **remnant principle** that will characterize God's dealing with humanity throughout history. His name means **"rest"** or **"comfort,"** prophetically pointing to the peace that comes after divine judgment. The ark becomes a symbol of salvation through God's provision—large enough to preserve life, but accessible only through the one door that God Himself closes.
 
 ## Redemptive Significance
 

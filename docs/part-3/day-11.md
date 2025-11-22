@@ -13,6 +13,13 @@ title: "Day 11: Warrior and Priest"
 
 We continue in the patriarchal period (approximately 2000-1500 BC) as Abraham faces a new kind of test—not famine or family conflict, but warfare and political alliance. These events occur several years after Abraham's separation from Lot, when the peaceful patriarch must become a warrior to rescue his nephew from powerful kings. This episode reveals new dimensions of Abraham's character and introduces one of Scripture's most mysterious figures: Melchizedek, king of Salem.
 
+## Today's Readings
+
+<PersistentCheckbox id="day11-genesis14"> **[Genesis 14:1-24](https://www.bible.com/bible/59/GEN.14.1-24.ESV)** (Narrative) - Abraham's military victory and meeting with Melchizedek</PersistentCheckbox>
+<PersistentCheckbox id="day11-psalm110"> **[Psalm 110:1-4](https://www.bible.com/bible/59/PSA.110.1-4.ESV)** (Poetry) - The Messiah as eternal priest in the order of Melchizedek</PersistentCheckbox>
+<PersistentCheckbox id="day11-hebrews7"> **[Hebrews 7:1-10](https://www.bible.com/bible/59/HEB.7.1-10.ESV)** (Epistle) - Melchizedek as type of Christ's eternal priesthood</PersistentCheckbox>
+<PersistentCheckbox id="day11-hebrews7b"> **[Hebrews 7:15-17](https://www.bible.com/bible/59/HEB.7.15-17.ESV)** (Epistle) - Christ as priest forever in Melchizedek's order</PersistentCheckbox>
+
 ## Historical Context
 
 The **"War of the Kings"** (Genesis 14:1-12) represents the first recorded military conflict in Scripture, involving a coalition of **four eastern kings** against **five kings of the Jordan valley**. Archaeological evidence suggests this reflects actual political tensions of the early second millennium BC, when powerful Mesopotamian rulers regularly conducted campaigns to collect tribute from vassal cities.
@@ -20,13 +27,6 @@ The **"War of the Kings"** (Genesis 14:1-12) represents the first recorded milit
 **Lot's capture** demonstrates the consequences of his choice to live near Sodom. What seemed like good grazing land (Genesis 13:10-11) becomes a place of danger when political alliances collapse. This illustrates how short-term material advantages can lead to long-term spiritual and physical peril.
 
 **Melchizedek, king of Salem** (likely early Jerusalem), appears without genealogy or background as both king and **"priest of God Most High."** His sudden appearance and Abraham's response—giving him a tenth of everything—suggests recognition of superior spiritual authority. This mysterious figure will become crucial for understanding Christ's eternal priesthood.
-
-## Today's Readings
-
-<PersistentCheckbox id="day11-genesis14"> **[Genesis 14:1-24](https://www.bible.com/bible/59/GEN.14.1-24.ESV)** (Narrative) - Abraham's military victory and meeting with Melchizedek</PersistentCheckbox>
-<PersistentCheckbox id="day11-psalm110"> **[Psalm 110:1-4](https://www.bible.com/bible/59/PSA.110.1-4.ESV)** (Poetry) - The Messiah as eternal priest in the order of Melchizedek</PersistentCheckbox>
-<PersistentCheckbox id="day11-hebrews7"> **[Hebrews 7:1-10](https://www.bible.com/bible/59/HEB.7.1-10.ESV)** (Epistle) - Melchizedek as type of Christ's eternal priesthood</PersistentCheckbox>
-<PersistentCheckbox id="day11-hebrews7b"> **[Hebrews 7:15-17](https://www.bible.com/bible/59/HEB.7.15-17.ESV)** (Epistle) - Christ as priest forever in Melchizedek's order</PersistentCheckbox>
 
 ## Redemptive Significance
 
