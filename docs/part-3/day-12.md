@@ -52,12 +52,6 @@ The **unchangeable nature** of God's covenant demonstrates the security of our s
 
 - **Progressive Revelation**: God reveals His redemptive plan gradually. The promise of global blessing through Abraham's seed points forward to Christ and the worldwide church, though Abraham couldn't fully understand this future reality.
 
-## Historical Context
-
-Abraham has just experienced a great military victory, but in the aftermath, questions arise. Though he has defeated powerful kings and been blessed by Melchizedek, the central promise of God—descendants as numerous as the stars—seems impossible given Sarah's barrenness and their advancing age. God responds to Abraham's concerns with both reassurance and a formal covenant ceremony.
-
-The **covenant-cutting ceremony** described in Genesis 15:9-17 follows ancient Near Eastern practices where contracting parties would walk between the pieces of sacrificed animals, effectively saying, "May what happened to these animals happen to me if I break this covenant." Remarkably, only God (represented by the smoking fire pot and flaming torch) passes between the pieces, making this a **unilateral covenant**—dependent solely on God's faithfulness, not Abraham's performance.
-
 ## Study Questions
 
 1. **Faith and Doubt**: Abraham believed God's promise despite seemingly impossible circumstances. What promises of God do you struggle to believe because of your current circumstances? How does Abraham's example encourage you?
