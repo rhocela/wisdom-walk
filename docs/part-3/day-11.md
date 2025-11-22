@@ -5,7 +5,7 @@ title: "Day 11: Warrior and Priest"
 
 # Day 11: Warrior and Priest
 
-⏱️ *Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 17-20 minutes*
 
 <ProgressTracker dayNumber={11} />
 

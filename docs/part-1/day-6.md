@@ -5,7 +5,7 @@ title: "Day 6: Grace in Judgment"
 
 # Day 6: Grace in Judgment
 
-⏱️ *Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 16-19 minutes*
 
 <ProgressTracker dayNumber={6} />
 

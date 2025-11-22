@@ -5,7 +5,7 @@ title: "Day 8: Scattered Nations, Sovereign Plan"
 
 # Day 8: Scattered Nations, Sovereign Plan
 
-⏱️ *Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 18-21 minutes*
 
 <ProgressTracker dayNumber={8} />
 

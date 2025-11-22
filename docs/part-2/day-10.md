@@ -5,7 +5,7 @@ title: "Day 10: Testing and Faithfulness"
 
 # Day 10: Testing and Faithfulness
 
-⏱️ *Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 16-19 minutes*
 
 <ProgressTracker dayNumber={10} />
 

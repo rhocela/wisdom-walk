@@ -5,7 +5,7 @@ title: "Day 18: Promise Fulfilled, Family Divided"
 
 # Day 18: Promise Fulfilled, Family Divided
 
-⏱️ *Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 17-20 minutes*
 
 <ProgressTracker dayNumber={18} />
 

@@ -5,7 +5,7 @@ title: "Day 24: The Stolen Blessing"
 
 # Day 24: The Stolen Blessing
 
-⏱️ *Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 19-22 minutes*
 
 <ProgressTracker dayNumber={24} />
 

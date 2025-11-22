@@ -5,7 +5,7 @@ title: "Day 7: New Covenant, New Creation"
 
 # Day 7: New Covenant, New Creation
 
-⏱️ *Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 17-20 minutes*
 
 <ProgressTracker dayNumber={7} />
 

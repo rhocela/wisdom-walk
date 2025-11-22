@@ -5,7 +5,7 @@ title: "Day 20: Death, Faith, and Future Hope"
 
 # Day 20: Death, Faith, and Future Hope
 
-⏱️ *Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 15-18 minutes*
 
 <ProgressTracker dayNumber={20} />
 

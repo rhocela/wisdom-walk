@@ -5,7 +5,7 @@ title: "Day 19: The Ultimate Test of Faith"
 
 # Day 19: The Ultimate Test of Faith
 
-⏱️ *Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 16-19 minutes*
 
 <ProgressTracker dayNumber={19} />
 
