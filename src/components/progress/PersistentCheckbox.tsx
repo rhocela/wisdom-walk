@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useAuth } from '../auth/AuthContext';
+import { LoginModal } from '../auth/LoginModal';
 import { doc, setDoc, getDoc } from 'firebase/firestore';
 import { db } from '../../lib/firebase';
 import styles from './PersistentCheckbox.module.css';
@@ -21,6 +22,7 @@ const PersistentCheckbox: React.FC<PersistentCheckboxProps> = ({
 }) => {
   const [checked, setChecked] = useState(false);
   const [loading, setLoading] = useState(false);
+  const [showLoginModal, setShowLoginModal] = useState(false);
   const { user } = useAuth();
 
   // Load checkbox state on mount
@@ -120,23 +122,37 @@ const PersistentCheckbox: React.FC<PersistentCheckboxProps> = ({
 
   const handleChange = async (e: React.ChangeEvent<HTMLInputElement>) => {
     const newChecked = e.target.checked;
+    
+    // If user is not signed in and trying to check a box, show modal
+    if (!user && newChecked) {
+      setShowLoginModal(true);
+      return;
+    }
+    
     setChecked(newChecked);
     await saveCheckboxState(newChecked);
   };
 
   return (
-    <label className={styles.persistentCheckbox}>
-      <input 
-        type="checkbox" 
-        checked={checked} 
-        onChange={handleChange}
-        disabled={loading}
+    <>
+      <label className={styles.persistentCheckbox}>
+        <input 
+          type="checkbox" 
+          checked={checked} 
+          onChange={handleChange}
+          disabled={loading}
+        />
+        <span className={styles.checkboxContent}>
+          {children}
+        </span>
+        {loading && <span className={styles.checkboxLoading}>💾</span>}
+      </label>
+      
+      <LoginModal 
+        isOpen={showLoginModal}
+        onClose={() => setShowLoginModal(false)}
       />
-      <span className={styles.checkboxContent}>
-        {children}
-      </span>
-      {loading && <span className={styles.checkboxLoading}>💾</span>}
-    </label>
+    </>
   );
 };
 
