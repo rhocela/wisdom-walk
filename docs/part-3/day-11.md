@@ -1,5 +1,5 @@
 ---
-sidebar_position: 11
+sidebar_position: 1
 title: "Day 11: Warrior and Priest"
 ---
 
