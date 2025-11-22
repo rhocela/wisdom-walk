@@ -5,7 +5,7 @@ title: "Day 7: New Covenant, New Creation"
 
 # Day 7: New Covenant, New Creation
 
-⏱️ *Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 17-20 minutes*
 
 <ProgressTracker dayNumber={7} />
 
@@ -13,18 +13,18 @@ title: "Day 7: New Covenant, New Creation"
 
 We conclude the flood narrative in the Early History period (before 1500 BC), approximately one year after the waters began to rise. Following God's judgment through the global deluge, we now witness His covenant faithfulness as He establishes a new beginning for humanity through Noah. This passage introduces the first formal covenant in Scripture and sets the stage for all subsequent divine covenants, ultimately pointing toward the new covenant in Christ's blood.
 
-## Historical Context
-
-The flood's recession takes nearly a year, demonstrating both the magnitude of God's judgment and His patient restoration. **Noah's first act** upon leaving the ark is worship—building an altar and offering sacrifices, showing that true salvation always results in grateful worship. God's **acceptance of the sacrifice** (Genesis 8:21) establishes the principle that approach to God requires substitutionary offering, anticipating Christ's ultimate sacrifice.
-
-The **Noahic Covenant** (Genesis 9:8-17) represents God's first explicit covenant with humanity, emphasizing divine grace rather than human merit. The **rainbow** serves as a perpetual reminder that God will never again destroy the earth by flood, demonstrating His commitment to preserve creation until His redemptive purposes are fulfilled. This covenant is **unconditional** and **universal**, applying to all humanity and even the animal kingdom.
-
 ## Today's Readings
 
 <PersistentCheckbox id="day7-genesis8"> **[Genesis 8:1-22](https://www.bible.com/bible/59/GEN.8.1-22.ESV)** (Narrative) - The flood recedes and Noah offers sacrifice</PersistentCheckbox>
 <PersistentCheckbox id="day7-genesis9"> **[Genesis 9:1-17](https://www.bible.com/bible/59/GEN.9.1-17.ESV)** (Narrative) - God's covenant with Noah and the rainbow sign</PersistentCheckbox>
 <PersistentCheckbox id="day7-romans1"> **[Romans 1:18-20](https://www.bible.com/bible/59/ROM.1.18-20.ESV)** (Epistle) - God's revelation through creation</PersistentCheckbox>
 <PersistentCheckbox id="day7-revelation21"> **[Revelation 21:1-5](https://www.bible.com/bible/59/REV.21.1-5.ESV)** (Apocalyptic) - The final new heaven and new earth</PersistentCheckbox>
+
+## Historical Context
+
+The flood's recession takes nearly a year, demonstrating both the magnitude of God's judgment and His patient restoration. **Noah's first act** upon leaving the ark is worship—building an altar and offering sacrifices, showing that true salvation always results in grateful worship. God's **acceptance of the sacrifice** (Genesis 8:21) establishes the principle that approach to God requires substitutionary offering, anticipating Christ's ultimate sacrifice.
+
+The **Noahic Covenant** (Genesis 9:8-17) represents God's first explicit covenant with humanity, emphasizing divine grace rather than human merit. The **rainbow** serves as a perpetual reminder that God will never again destroy the earth by flood, demonstrating His commitment to preserve creation until His redemptive purposes are fulfilled. This covenant is **unconditional** and **universal**, applying to all humanity and even the animal kingdom.
 
 ## Redemptive Significance
 

@@ -5,7 +5,7 @@ title: "Day 8: Scattered Nations, Sovereign Plan"
 
 # Day 8: Scattered Nations, Sovereign Plan
 
-⏱️ *Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 18-21 minutes*
 
 <ProgressTracker dayNumber={8} />
 
@@ -13,18 +13,18 @@ title: "Day 8: Scattered Nations, Sovereign Plan"
 
 We conclude the primeval history section of the Early History period (before 1500 BC), moving from Noah's immediate descendants to the scattering of nations across the earth. These events occur several generations after the flood, probably around 2200-2000 BC, and represent humanity's final rebellion before God calls Abraham to begin His redemptive covenant plan. The Tower of Babel marks the end of unified humanity and establishes the ethnic diversity that will characterize the rest of biblical history.
 
-## Historical Context
-
-Genesis 10 provides the **"Table of Nations"**—a comprehensive genealogy tracing how Noah's three sons (Shem, Ham, and Japheth) became the ancestors of all post-flood humanity. This chapter establishes the ethnic and geographic foundations for understanding the rest of Scripture, as these nations will interact with Israel throughout the Old Testament. Archaeological evidence confirms that ancient peoples understood their origins through such genealogical frameworks.
-
-The **Tower of Babel** incident (Genesis 11:1-9) reveals humanity's attempt to achieve security and significance apart from God. Built on the plains of **Shinar** (ancient Babylon), this tower represents human pride seeking to **"make a name for ourselves"** rather than honor God's name. The confusion of languages becomes God's merciful judgment, preventing unified rebellion while preserving His plan to bless all nations through Abraham's seed.
-
 ## Today's Readings
 
 <PersistentCheckbox id="day8-genesis10"> **[Genesis 10:1-32](https://www.bible.com/bible/59/GEN.10.1-32.ESV)** (Narrative) - The Table of Nations from Noah's sons</PersistentCheckbox>
 <PersistentCheckbox id="day8-genesis11"> **[Genesis 11:1-26](https://www.bible.com/bible/59/GEN.11.1-26.ESV)** (Narrative) - Tower of Babel and genealogy to Abraham</PersistentCheckbox>
 <PersistentCheckbox id="day8-acts17"> **[Acts 17:26-27](https://www.bible.com/bible/59/ACT.17.26-27.ESV)** (Narrative) - God's sovereignty over nations and their seeking Him</PersistentCheckbox>
 <PersistentCheckbox id="day8-revelation7"> **[Revelation 7:9-12](https://www.bible.com/bible/59/REV.7.9-12.ESV)** (Apocalyptic) - All nations worshiping before God's throne</PersistentCheckbox>
+
+## Historical Context
+
+Genesis 10 provides the **"Table of Nations"—a comprehensive genealogy tracing how Noah's three sons (Shem, Ham, and Japheth) became the ancestors of all post-flood humanity. This chapter establishes the ethnic and geographic foundations for understanding the rest of Scripture, as these nations will interact with Israel throughout the Old Testament. Archaeological evidence confirms that ancient peoples understood their origins through such genealogical frameworks.
+
+The **Tower of Babel** incident (Genesis 11:1-9) reveals humanity's attempt to achieve security and significance apart from God. Built on the plains of **Shinar** (ancient Babylon), this tower represents human pride seeking to **"make a name for ourselves"** rather than honor God's name. The confusion of languages becomes God's merciful judgment, preventing unified rebellion while preserving His plan to bless all nations through Abraham's seed.
 
 ## Redemptive Significance
 

@@ -5,7 +5,7 @@ title: "Day 5: Generations and Grieving"
 
 # Day 5: Generations and Grieving
 
-⏱️ *Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 15-18 minutes*
 
 <ProgressTracker dayNumber={5} />
 
@@ -13,18 +13,18 @@ title: "Day 5: Generations and Grieving"
 
 We continue through the Early History period (before 1500 BC) as recorded in Genesis. Following the account of Cain and Abel, we now encounter the genealogical record from Adam to Noah, spanning approximately 1,650 years according to the biblical chronology. This passage bridges the creation narrative with the flood account, showing both God's faithfulness in preserving the godly line and humanity's increasing rebellion that grieves the heart of God.
 
-## Historical Context
-
-Genesis 5 presents the **"book of the generations of Adam"**—the first formal genealogy in Scripture. Unlike the brief mention of Cain's descendants in Genesis 4, this genealogy traces the line through Seth, the son given to replace Abel. The repeated phrase **"and he died"** echoes like a funeral dirge, reminding us that death entered through sin. Yet one man—Enoch—breaks this pattern, pointing to God's power over death itself.
-
-Genesis 6 reveals the tragic condition that develops as humanity multiplies. The **"sons of God"** (likely the godly line of Seth) intermarry with the **"daughters of man"** (likely descendants of Cain), resulting in spiritual compromise and moral corruption. Violence and evil become so pervasive that God **"was sorry that he had made man"**—a profound statement about divine grief over human sin.
-
 ## Today's Readings
 
 <PersistentCheckbox id="day5-genesis5"> **[Genesis 5:1-32](https://www.bible.com/bible/59/GEN.5.1-32.ESV)** (Narrative) - The genealogy from Adam to Noah, including Enoch's translation</PersistentCheckbox>
 <PersistentCheckbox id="day5-genesis6"> **[Genesis 6:1-8](https://www.bible.com/bible/59/GEN.6.1-8.ESV)** (Narrative) - Human corruption and God's grief over creation</PersistentCheckbox>
 <PersistentCheckbox id="day5-hebrews"> **[Hebrews 11:5-6](https://www.bible.com/bible/59/HEB.11.5-6.ESV)** (Epistle) - Enoch's faith and translation to heaven</PersistentCheckbox>
 <PersistentCheckbox id="day5-jude"> **[Jude 1:14-15](https://www.bible.com/bible/59/JUD.1.14-15.ESV)** (Epistle) - Enoch's prophecy of divine judgment</PersistentCheckbox>
+
+## Historical Context
+
+Genesis 5 presents the **"book of the generations of Adam"**—the first formal genealogy in Scripture. Unlike the brief mention of Cain's descendants in Genesis 4, this genealogy traces the line through Seth, the son given to replace Abel. The repeated phrase **"and he died"** echoes like a funeral dirge, reminding us that death entered through sin. Yet one man—Enoch—breaks this pattern, pointing to God's power over death itself.
+
+Genesis 6 reveals the tragic condition that develops as humanity multiplies. The **"sons of God"** (likely the godly line of Seth) intermarry with the **"daughters of man"** (likely descendants of Cain), resulting in spiritual compromise and moral corruption. Violence and evil become so pervasive that God **"was sorry that he had made man"**—a profound statement about divine grief over human sin.
 
 ## Redemptive Significance
 

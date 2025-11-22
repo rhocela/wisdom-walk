@@ -5,7 +5,7 @@ title: "Day 9: The Call of Faith"
 
 # Day 9: The Call of Faith
 
-⏱️ *Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 14-17 minutes*
 
 <ProgressTracker dayNumber={9} />
 
@@ -13,18 +13,18 @@ title: "Day 9: The Call of Faith"
 
 We transition from the primeval history (Genesis 1-11) to the patriarchal period (approximately 2000-1500 BC) as God shifts from dealing with all humanity to calling one man through whom He will bless all nations. Abraham's call marks the beginning of salvation history—God's particular plan to redeem the world through a chosen family that will become the people of Israel. This pivotal moment around 2000 BC launches the covenant relationship that will culminate in Christ.
 
-## Historical Context
-
-**Abraham** (originally Abram) lived in **Ur of the Chaldeans**, a sophisticated city in ancient Mesopotamia (modern-day Iraq). Archaeological evidence reveals Ur as a major center of commerce, learning, and idol worship, particularly devoted to the moon god Nanna. God's call required Abraham to leave not just a geographic location, but an entire worldview and religious system.
-
-The **land of Canaan** that God promises was strategically located at the crossroads of three continents—Africa, Asia, and Europe. This positioning would allow Abraham's descendants to influence the entire ancient world. When Abraham arrived, Canaan was populated by various tribes (Canaanites, Hittites, Perizzites, etc.) who practiced fertility religions and child sacrifice, demonstrating the spiritual darkness God planned to dispel through His covenant people.
-
 ## Today's Readings
 
 <PersistentCheckbox id="day9-genesis12"> **[Genesis 12:1-9](https://www.bible.com/bible/59/GEN.12.1-9.ESV)** (Narrative) - God's call to Abraham and the covenant promise</PersistentCheckbox>
 <PersistentCheckbox id="day9-acts7"> **[Acts 7:2-8](https://www.bible.com/bible/59/ACT.7.2-8.ESV)** (Narrative) - Stephen's account of Abraham's call and God's covenant</PersistentCheckbox>
 <PersistentCheckbox id="day9-hebrews11"> **[Hebrews 11:8-12](https://www.bible.com/bible/59/HEB.11.8-12.ESV)** (Epistle) - Abraham's faith journey and inheritance</PersistentCheckbox>
 <PersistentCheckbox id="day9-galatians3"> **[Galatians 3:6-9](https://www.bible.com/bible/59/GAL.3.6-9.ESV)** (Epistle) - Abraham's faith credited as righteousness and blessing to all nations</PersistentCheckbox>
+
+## Historical Context
+
+**Abraham** (originally Abram) lived in **Ur of the Chaldeans**, a sophisticated city in ancient Mesopotamia (modern-day Iraq). Archaeological evidence reveals Ur as a major center of commerce, learning, and idol worship, particularly devoted to the moon god Nanna. God's call required Abraham to leave not just a geographic location, but an entire worldview and religious system.
+
+The **land of Canaan** that God promises was strategically located at the crossroads of three continents—Africa, Asia, and Europe. This positioning would allow Abraham's descendants to influence the entire ancient world. When Abraham arrived, Canaan was populated by various tribes (Canaanites, Hittites, Perizzites, etc.) who practiced fertility religions and child sacrifice, demonstrating the spiritual darkness God planned to dispel through His covenant people.
 
 ## Redemptive Significance
 
