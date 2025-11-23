@@ -100,10 +100,13 @@ docs/
 - Note any gaps in coverage or theological connections
 
 **STEP 2: Complete Coverage Planning**  
+- **CRITICAL**: Create chapter-by-chapter checklist for the entire book
 - Map ALL chapters of the book to appropriate studies
+- **VERIFICATION REQUIRED**: Cross-check every chapter number against study assignments
 - Ensure no verses are missed or duplicated
 - Plan thematic groupings that fit 20-minute reading sessions
 - Identify key theological themes for redemptive focus
+- **MANDATORY**: List uncovered chapters explicitly before proceeding
 
 **STEP 3: Cross-Reference Integration**
 - Connect Old Testament passages to New Testament fulfillments
@@ -129,10 +132,13 @@ docs/
 - Verify theological accuracy and cross-references
 
 ### **PHASE 4: QUALITY ASSURANCE**
+- **MANDATORY CHAPTER AUDIT**: Create complete list of missing chapters before continuing
 - Check that all 1,189 chapters are covered exactly once
+- **STOP IF GAPS FOUND**: No new studies until all gaps are addressed
 - Verify chronological sequence follows 75-entry framework
 - Confirm each study meets 20-minute target
 - Validate all cross-references and theological connections
+- **COVERAGE VERIFICATION**: List specific chapter ranges covered vs. total chapters in each book
 
 ---
 
