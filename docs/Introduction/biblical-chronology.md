@@ -26,7 +26,7 @@ description: "Chronological order of biblical books by historical events"
 
 ### 2. Israel from Egypt to Promised Land (1500-1400 BC)
 4. **Exodus** - Deliverance from Egypt
-5. **Leviticus** - Laws given at Mount Sinai
+5. **Leviticus** - Laws given at Mount Sinai (27 chapters: covering sacrificial system, priestly laws, holiness code, festivals, moral laws - MUST be covered completely)
 6. **Numbers** - Wilderness wandering
 7. **Deuteronomy** - Moses' final speeches
 8. **Joshua** - Conquest of Canaan
@@ -134,6 +134,7 @@ description: "Chronological order of biblical books by historical events"
 3. **Internal Biblical Evidence** - Cross-references and historical details within Scripture
 4. **Early Church Testimony** - What early church fathers said about authorship and dating
 5. **Textual Analysis** - Language, style, and theological development indicators
+6. **COMPLETE COVERAGE VERIFICATION** - Every chapter of every book must be explicitly mapped to specific study days before proceeding
 
 ## Scholarly Debates and Uncertainties We Acknowledge
 
