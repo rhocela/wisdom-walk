@@ -1,84 +1,78 @@
 ---
-sidebar_position: 76
-title: "Day 76: Balaam's Prophecy"
+sidebar_position: 75
+title: "Day 75: Water from the Rock"
 ---
 
-# Day 76: Balaam's Prophecy
+# Day 75: Water from the Rock
 
-⏱️ *Estimated reading time: 20-24 minutes*
+⏱️ *Estimated reading time: 18-22 minutes*
 
-<ProgressTracker dayNumber={76} />
+<ProgressTracker dayNumber={75} />
 
 ## Chronological Setting
 
-As Israel approaches the Promised Land from the east, they camp in the plains of Moab across the Jordan River from Jericho. Their presence terrifies the surrounding nations, who have heard of Israel's God-given victories over the Amorite kings. Balak, king of Moab, hires Balaam, a pagan prophet with an apparent reputation for effective curses and blessings, to curse Israel. What follows is one of Scripture's most unusual narratives—a donkey speaks, a pagan prophet delivers God's word, and attempts to curse God's people transform into powerful blessings and messianic prophecy.
+After decades of wilderness wandering, Israel returns to Kadesh in the final year before entering the Promised Land. Nearly 40 years have passed since God judged the generation that refused to trust Him and enter Canaan. Now their children stand poised to inherit the promise—but not before facing familiar trials that test whether this generation has learned from their parents' failures. The death of Miriam and the water crisis at Meribah bookend a transitional period, with Moses' own failure barring him from entering the land he's led Israel toward for four decades.
 
 ## Today's Readings
 
-<PersistentCheckbox id="day76-numbers22"> **[Numbers 22:1-35](https://www.bible.com/bible/59/NUM.22.1-35.ESV)** (Narrative) - Balak summons Balaam; the talking donkey</PersistentCheckbox>
-<PersistentCheckbox id="day76-numbers23"> **[Numbers 23:1-26](https://www.bible.com/bible/59/NUM.23.1-26.ESV)** (Narrative/Prophecy) - Balaam's first two oracles blessing Israel</PersistentCheckbox>
-<PersistentCheckbox id="day76-numbers24"> **[Numbers 24:1-19](https://www.bible.com/bible/59/NUM.24.1-19.ESV)** (Narrative/Prophecy) - Balaam's final oracles and messianic prophecy</PersistentCheckbox>
-<PersistentCheckbox id="day76-numbers25"> **[Numbers 25:1-18](https://www.bible.com/bible/59/NUM.25.1-18.ESV)** (Narrative) - Israel's sin with Baal of Peor and Phinehas' zeal</PersistentCheckbox>
-<PersistentCheckbox id="day76-numbers26"> **[Numbers 26:1-65](https://www.bible.com/bible/59/NUM.26.1-65.ESV)** (Narrative) - The second census before entering Canaan</PersistentCheckbox>
-<PersistentCheckbox id="day76-2peter2"> **[2 Peter 2:15-16](https://www.bible.com/bible/59/2PE.2.15-16.ESV)** (Epistle) - Warning about Balaam's way</PersistentCheckbox>
-<PersistentCheckbox id="day76-revelation2"> **[Revelation 2:14](https://www.bible.com/bible/59/REV.2.14.ESV)** (Apocalyptic) - The teaching of Balaam</PersistentCheckbox>
+<PersistentCheckbox id="day75-numbers20"> **[Numbers 20:1-13](https://www.bible.com/bible/59/NUM.20.1-13.ESV)** (Narrative) - Water from the rock and Moses' disobedience</PersistentCheckbox>
+<PersistentCheckbox id="day75-numbers20b"> **[Numbers 20:14-29](https://www.bible.com/bible/59/NUM.20.14-29.ESV)** (Narrative) - Edom refuses passage; Aaron dies</PersistentCheckbox>
+<PersistentCheckbox id="day75-numbers21"> **[Numbers 21:1-35](https://www.bible.com/bible/59/NUM.21.1-35.ESV)** (Narrative) - Bronze serpent and victories over Amorite kings</PersistentCheckbox>
+<PersistentCheckbox id="day75-1cor10b"> **[1 Corinthians 10:1-4](https://www.bible.com/bible/59/1CO.10.1-4.ESV)** (Epistle) - The rock was Christ</PersistentCheckbox>
+<PersistentCheckbox id="day75-john3"> **[John 3:14-15](https://www.bible.com/bible/59/JHN.3.14-15.ESV)** (Gospel) - Jesus lifted up like the serpent</PersistentCheckbox>
 
 ## Historical Context
 
-**Balaam** presents a puzzling figure. He clearly has some knowledge of Yahweh and claims to speak only what God tells him. Yet later biblical references condemn him for greed and for teaching Balak how to corrupt Israel through idolatry and sexual immorality (Numbers 31:16; Revelation 2:14). His story demonstrates that speaking God's truth doesn't necessarily indicate a transformed heart—even a pagan diviner can be used to proclaim God's word when God chooses.
+The crisis at **Meribah** ("quarreling") echoes the similar crisis at Massah and Meribah 40 years earlier (Exodus 17:1-7). Once again, the people complain about lack of water. But this time, God instructs Moses to speak to the rock rather than strike it. In anger and frustration, Moses strikes the rock twice instead, saying "Shall we bring water for you out of this rock?" His words suggest that he and Aaron, rather than God, are providing the water.
 
-The **talking donkey** episode reveals Balaam's spiritual blindness. The donkey sees the angel of the Lord blocking the path, but Balaam—the supposed seer—remains oblivious. God opens the donkey's mouth to rebuke Balaam, then opens Balaam's eyes to see what the donkey saw all along. The irony is unmistakable: the beast is more spiritually perceptive than the prophet.
+God graciously provides water despite Moses' disobedience, but declares that Moses and Aaron will not enter the Promised Land because they "did not believe in me, to uphold me as holy in the eyes of the people of Israel" (Numbers 20:12). The judgment seems severe, but it demonstrates that leaders bear greater responsibility for representing God accurately to His people.
 
-Balak's **repeated attempts** to make Balaam curse Israel—trying different locations, different sacrifices, different tactics—demonstrate the futility of opposing God's purposes. No amount of human manipulation can overturn God's blessing on His people.
+The **bronze serpent** incident reveals both God's judgment and His mercy. When the people complain again, God sends poisonous serpents among them. But He also provides a remedy: anyone bitten can look at a bronze serpent lifted up on a pole and be healed. This requires both acknowledgment of the problem (the snakebite) and faith in God's prescribed solution (looking at the bronze serpent).
 
 ## Redemptive Significance
 
-Balaam's oracles contain some of the Old Testament's most beautiful declarations about Israel and powerful messianic prophecies. Despite being hired to curse God's people, Balaam delivers four oracles that progressively reveal God's blessings on Israel, culminating in a prophecy about the coming **Star and Scepter** from Jacob—understood as messianic prophecy pointing to Christ.
+Paul's declaration that "the Rock was Christ" (1 Corinthians 10:4) transforms how we read the water-from-rock narratives. Christ is the **source of living water** that sustains God's people through their wilderness journey. The rock being struck once (Exodus 17) then spoken to the second time (Numbers 20) may picture Christ's once-for-all sacrifice—He was struck once and doesn't need to be sacrificed again.
 
-The narrative demonstrates God's **sovereign protection** of His people. When enemies plot against Israel, God transforms their schemes into blessings. No curse can succeed against those whom God has blessed, no opposition can thwart His purposes, no enemy can separate His people from His love.
+Jesus explicitly connects the **bronze serpent** to His own crucifixion: "And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life" (John 3:14-15). Just as dying Israelites had to look in faith to the lifted serpent for physical healing, dying sinners must look in faith to the lifted Christ for spiritual salvation.
 
 ## Connecting the Dots
 
-The Balaam narrative connects to broader biblical themes:
+These passages reveal profound Christological typology:
 
-- **God's Blessing Irrevocable**: No human can curse whom God has blessed (Numbers 23:20 → Romans 8:31-39; 11:29)
+- **The Rock**: Christ is the rock struck once to provide living water for God's people through their wilderness journey (Numbers 20:8-11 → 1 Corinthians 10:4; John 4:10-14; 7:37-39)
 
-- **Messianic Star**: Balaam's prophecy of the "star" and "scepter" from Jacob points to Christ as Israel's ultimate King (Numbers 24:17 → Matthew 2:2; Revelation 22:16)
+- **Speaking vs. Striking**: The shift from striking to speaking may picture how Christ's once-for-all sacrifice provides ongoing life—we don't repeatedly crucify Him but receive from His finished work (Numbers 20:8 → Hebrews 9:25-28; 10:10-14)
 
-- **Transformed Curses**: God turns intended curses into blessings, just as He transforms the curse of the cross into humanity's greatest blessing (Numbers 23:11-12 → Galatians 3:13-14)
+- **Looking to Live**: Just as Israelites looked to the bronze serpent for healing, we look to the crucified Christ for salvation—simple faith in God's provision, not works (Numbers 21:8-9 → John 3:14-15; Isaiah 45:22)
 
-- **Greed's Danger**: Later Scripture uses Balaam as a warning against greed and compromise—loving money more than righteousness (Numbers 22:7-21 → 2 Peter 2:15; Jude 11)
+- **Poison and Remedy**: The serpent that brings death becomes the symbol of healing when lifted up, just as Christ became sin for us to bring righteousness (Numbers 21:6-9 → 2 Corinthians 5:21)
 
-- **False Teaching**: Balaam's later counsel to corrupt Israel through idolatry and immorality represents the danger of false teachers who lead God's people into sin (Numbers 31:16 → Revelation 2:14; 2 Peter 2:1-3)
-
-- **Spiritual Blindness**: The donkey seeing what the prophet missed illustrates how pride and greed blind us to spiritual reality (Numbers 22:21-35 → Matthew 23:16-26; 2 Corinthians 4:4)
+- **Leadership Accountability**: Moses' greater consequence for misrepresenting God teaches that spiritual leaders face stricter judgment because they represent God to His people (Numbers 20:12 → James 3:1; 1 Timothy 3:1-7)
 
 ## Theological Threads
 
-- **Sovereign Election**: God chose and blessed Israel not because of their righteousness but according to His sovereign purpose. His blessings flow from His character and promises, not human merit.
+- **Christ Our Provision**: The repeated provision of water from rocks demonstrates God's supernatural sustaining of His people. Christ is the ultimate Rock who provides living water that satisfies our deepest thirst eternally.
 
-- **Immutable Blessing**: What God blesses cannot be cursed by any human power. His word of blessing stands regardless of opposition, curses, or enemy schemes.
+- **Obedience in Leadership**: Moses' punishment for striking instead of speaking teaches that how we represent God matters as much as achieving results. Leaders must follow God's instructions precisely, not substitute their own methods.
 
-- **Prophetic Compulsion**: Even a pagan prophet cannot speak against God's word when God constrains him. Truth proceeds from God's mouth even through unwilling or unlikely instruments.
+- **Simple Faith Saves**: The bronze serpent required only that dying people look to live. No complicated ritual, no elaborate works—just simple faith in God's prescribed remedy. This points to salvation's simplicity through faith in Christ.
 
-- **Protected Community**: God's people dwell secure under His blessing. External enemies may threaten, but they cannot ultimately harm those whom God has blessed and chosen.
+- **God's Patience Has Limits**: God graciously provided water despite Moses' disobedience, but still enforced consequences. Grace doesn't eliminate accountability, especially for leaders who represent God to others.
 
-- **Progressive Revelation**: Balaam's oracles become increasingly messianic, culminating in prophecy about the coming King. God progressively reveals His redemptive plan even through unlikely sources.
-
-- **Heart vs. Words**: Balaam speaks God's truth while harboring greed in his heart. Orthodoxy in speech doesn't guarantee transformation of character—hearts must align with words.
+- **Death Precedes Promise**: Miriam, Aaron, and Moses all die before Israel enters the Promised Land. Even great leaders don't receive all God's promises in this life—faith looks beyond present fulfillment to eternal inheritance.
 
 ## Study Questions
 
-1. **Irrevocable Blessing**: Balaam declares "I have received a command to bless; he has blessed, and I cannot revoke it" (23:20). How does understanding God's blessing as irrevocable affect your security in Christ? What threatens to make you doubt God's blessing on you?
+1. **Moses' Failure**: Moses served God faithfully for decades yet was barred from the Promised Land for one act of disobedience. Does this seem fair? What does this teach about leadership responsibility and representing God accurately?
 
-2. **Balaam's Blindness**: The donkey saw what the prophet couldn't see. What "donkeys" in your life—unexpected sources or circumstances—has God used to open your eyes to reality you were missing? How do pride and greed blind us spiritually?
+2. **The Rock**: Paul says "the Rock was Christ." How does recognizing Christ as your source of living water change how you handle spiritual "thirst" or dissatisfaction? Where do you look for satisfaction besides Christ?
 
-3. **Messianic Prophecy**: Balaam prophesied a "star" and "scepter" would come from Israel. How do you see this fulfilled in Christ? Why is it significant that this messianic prophecy came through a pagan prophet?
+3. **Bronze Serpent**: The remedy for snakebites required acknowledging the problem and looking in faith to God's provision. What parallels do you see between this and receiving salvation through Christ? Why is simple faith so difficult for many people?
 
-4. **Greed's Compromise**: Later passages condemn Balaam for greed and for teaching Balak how to corrupt Israel. How does the love of money lead to compromising truth and leading others into sin? Where do you face temptation to compromise for financial gain?
+4. **Complaining Pattern**: Even after 40 years, Israel falls into the same pattern of complaining when facing difficulty. What persistent patterns of faithlessness do you see in your own life? How can you break cycles of doubt and complaint?
 
-5. **God's Sovereignty**: God transformed Balak's schemes to curse Israel into powerful blessings. How does recognizing God's sovereignty over your enemies' plans bring comfort? Can you identify times when God turned opposition into blessing in your life?
+5. **Looking to Live**: Jesus said He would be "lifted up" like the bronze serpent. How does the image of looking to the crucified Christ for life help you understand the gospel? What does it mean to "look to Jesus" in practical daily terms?
 
 :::tip Verse to Memorize
-*"God is not man, that he should lie, or a son of man, that he should change his mind. Has he said, and will he not do it? Or has he spoken, and will he not fulfill it?"* ***Numbers 23:19*** 💭 
+*"And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, that whoever believes in him may have eternal life."* ***John 3:14-15*** 💭 
 :::
