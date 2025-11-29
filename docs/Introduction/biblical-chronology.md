@@ -1,6 +1,6 @@
 ---
 sidebar_label: "Biblical Chronology"
-sidebar_position: 1
+sidebar_position: 3
 description: "Chronological order of biblical books by historical events"
 ---
 

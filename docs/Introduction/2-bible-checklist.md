@@ -1,6 +1,6 @@
 ---
 sidebar_label: "2-Bible Coverage Checklist"
-sidebar_position: 4
+sidebar_position: 2
 description: "Master tracking document for complete Bible coverage across all studies"
 ---
 
@@ -148,12 +148,12 @@ Track which Bible books and chapters have been assigned to ensure:
 ## Numbers (36 chapters)
 - Numbers 1: Day 70 ✅
 - Numbers 2: Day 70 ✅
-- Numbers 3: Day 72 ✅
-- Numbers 4: Day 72 ✅
+- Numbers 3: Day 71 ✅
+- Numbers 4: Day 71 ✅
 - Numbers 5: Day 72 ✅
 - Numbers 6: Day 72 ✅
-- Numbers 7: Day 72 ✅
-- Numbers 8: Day 72 ✅
+- Numbers 7: Day 71 ✅
+- Numbers 8: Day 71 ✅
 - Numbers 9: Day 70 ✅
 - Numbers 10: Day 72 ✅
 - Numbers 11: Day 73 ✅
@@ -220,12 +220,12 @@ Track which Bible books and chapters have been assigned to ensure:
 - Deuteronomy 34: Day 79 ✅
 
 ## Joshua (24 chapters)
-- Joshua 1: Day 80 ✅
-- Joshua 2: Day 80 ✅
-- Joshua 3: Day 80 ✅
-- Joshua 4: Day 80 ✅
-- Joshua 5: ⏳
-- Joshua 6: ⏳
+- Joshua 1: Day 79 ✅
+- Joshua 2: Day 79 ✅
+- Joshua 3: Day 79 ✅
+- Joshua 4: Day 79 ✅
+- Joshua 5: Day 80 ✅
+- Joshua 6: Day 80 ✅
 - Joshua 7: ⏳
 - Joshua 8: ⏳
 - Joshua 9: ⏳
@@ -1290,7 +1290,7 @@ Track which Bible books and chapters have been assigned to ensure:
 
 ## James (5 chapters)
 - James 1: Day 21, Day 23 ✅
-- James 2: Day 19 ✅
+- James 2: Day 19, Day 80 ✅
 - James 3: ⏳
 - James 4: ⏳
 - James 5: Day 15, Day 45, Day 72 ✅
@@ -1352,12 +1352,12 @@ Track which Bible books and chapters have been assigned to ensure:
 # COVERAGE SUMMARY
 
 ## **Current Status**
-- **Old Testament**: 195 chapters assigned ✅ | 734 chapters pending ⏳
+- **Old Testament**: 197 chapters assigned ✅ | 732 chapters pending ⏳
 - **New Testament**: 118 chapters assigned ✅ | 142 chapters pending ⏳
-- **Total**: 313/1,189 chapters assigned (26.3% complete)
+- **Total**: 315/1,189 chapters assigned (26.5% complete)
 
 **Progress by Study Part:**
-- Part 10 (Days 71-80): 60 chapters ✅
+- Part 10 (Days 71-80): 56 chapters ✅
 - Part 9 (Days 61-67, 70): 55 chapters ✅  
 - Part 8 (Days 51-60, 60B): 46 chapters ✅
 - Part 7 (Days 45-50): 25 chapters ✅
