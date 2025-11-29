@@ -1,6 +1,6 @@
 ---
 sidebar_label: "1-AI Instructions"
-sidebar_position: 3
+sidebar_position: 1
 description: "Comprehensive instructions for AI to continue systematic Bible study creation"
 ---
 
@@ -31,11 +31,11 @@ Each study MUST include all six features in this exact order:
 6. **Theological Threads** - Key truths about God
 
 ### **3. Reading Time Calculation**
-- **Actually calculate reading times** based on verse count and content volume
-- **Formula**: ~1.5 verses per minute + 250-300 words/minute for study content
-- **Add 2-3 minutes** for reflection time
-- **Vary estimates realistically** (12-25 minutes range is normal)
-- **NO automatic "18-22 minutes"** - each day must be calculated
+- **Target ~20 minutes for Bible reading** - Calculate based on verse count in "Today's Readings"
+- **Formula for Bible verses**: ~1.5 verses per minute (e.g., 30 verses ≈ 20 minutes)
+- **Study content is additional** - The study material (context, connections, questions) is for reflection and can be read at the reader's own pace
+- **Vary estimates realistically** based on actual verse count (15-25 minutes range is normal)
+- **Calculate each day individually** - No automatic times; base it on actual passage length
 
 ### **4. File Structure Requirements**
 ```
