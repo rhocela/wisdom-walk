@@ -1,82 +1,84 @@
 ---
-sidebar_position: 74
-title: "Day 74: Authority and Atonement"
+sidebar_position: 75
+title: "Day 75: Water from the Rock"
 ---
 
-# Day 74: Authority and Atonement
+# Day 75: Water from the Rock
 
-⏱️ *Estimated reading time: 19-23 minutes*
+⏱️ *Estimated reading time: 20-24 minutes*
 
-<ProgressTracker dayNumber={74} />
+<ProgressTracker dayNumber={76} />
 
 ## Chronological Setting
 
-The wilderness period continues with Israel confronting fundamental questions about leadership and access to God. Korah's rebellion challenges Moses and Aaron's God-appointed authority, claiming that "all the congregation is holy" and questioning why the priestly family should have exclusive rights to certain ministry. God's dramatic judgment on the rebels, followed immediately by a plague that kills thousands, demonstrates both the seriousness of challenging divine authority and the life-saving power of priestly intercession.
+As Israel approaches the Promised Land from the east, they camp in the plains of Moab across the Jordan River from Jericho. Their presence terrifies the surrounding nations, who have heard of Israel's God-given victories over the Amorite kings. Balak, king of Moab, hires Balaam, a pagan prophet with an apparent reputation for effective curses and blessings, to curse Israel. What follows is one of Scripture's most unusual narratives—a donkey speaks, a pagan prophet delivers God's word, and attempts to curse God's people transform into powerful blessings and messianic prophecy.
 
 ## Today's Readings
 
-<PersistentCheckbox id="day74-numbers16"> **[Numbers 16:1-35](https://www.bible.com/bible/59/NUM.16.1-35.ESV)** (Narrative) - Korah's rebellion against Moses and Aaron</PersistentCheckbox>
-<PersistentCheckbox id="day74-numbers16b"> **[Numbers 16:41-50](https://www.bible.com/bible/59/NUM.16.41-50.ESV)** (Narrative) - Aaron's intercession stops the plague</PersistentCheckbox>
-<PersistentCheckbox id="day74-numbers17"> **[Numbers 17:1-11](https://www.bible.com/bible/59/NUM.17.1-11.ESV)** (Narrative) - Aaron's budded staff confirms his priesthood</PersistentCheckbox>
-<PersistentCheckbox id="day74-numbers18"> **[Numbers 18:1-32](https://www.bible.com/bible/59/NUM.18.1-32.ESV)** (Narrative) - Duties and portions for priests and Levites</PersistentCheckbox>
-<PersistentCheckbox id="day74-numbers19"> **[Numbers 19:1-22](https://www.bible.com/bible/59/NUM.19.1-22.ESV)** (Narrative) - The red heifer and purification from death</PersistentCheckbox>
-<PersistentCheckbox id="day74-jude"> **[Jude 1:8-13](https://www.bible.com/bible/59/JUD.1.8-13.ESV)** (Epistle) - Warning against following Korah's rebellion</PersistentCheckbox>
-<PersistentCheckbox id="day74-hebrews5"> **[Hebrews 5:1-10](https://www.bible.com/bible/59/HEB.5.1-10.ESV)** (Epistle) - The high priest appointed by God</PersistentCheckbox>
+<PersistentCheckbox id="day76-numbers22"> **[Numbers 22:1-35](https://www.bible.com/bible/59/NUM.22.1-35.ESV)** (Narrative) - Balak summons Balaam; the talking donkey</PersistentCheckbox>
+<PersistentCheckbox id="day76-numbers23"> **[Numbers 23:1-26](https://www.bible.com/bible/59/NUM.23.1-26.ESV)** (Narrative/Prophecy) - Balaam's first two oracles blessing Israel</PersistentCheckbox>
+<PersistentCheckbox id="day76-numbers24"> **[Numbers 24:1-19](https://www.bible.com/bible/59/NUM.24.1-19.ESV)** (Narrative/Prophecy) - Balaam's final oracles and messianic prophecy</PersistentCheckbox>
+<PersistentCheckbox id="day76-numbers25"> **[Numbers 25:1-18](https://www.bible.com/bible/59/NUM.25.1-18.ESV)** (Narrative) - Israel's sin with Baal of Peor and Phinehas' zeal</PersistentCheckbox>
+<PersistentCheckbox id="day76-numbers26"> **[Numbers 26:1-65](https://www.bible.com/bible/59/NUM.26.1-65.ESV)** (Narrative) - The second census before entering Canaan</PersistentCheckbox>
+<PersistentCheckbox id="day76-2peter2"> **[2 Peter 2:15-16](https://www.bible.com/bible/59/2PE.2.15-16.ESV)** (Epistle) - Warning about Balaam's way</PersistentCheckbox>
+<PersistentCheckbox id="day76-revelation2"> **[Revelation 2:14](https://www.bible.com/bible/59/REV.2.14.ESV)** (Apocalyptic) - The teaching of Balaam</PersistentCheckbox>
 
 ## Historical Context
 
-Korah's rebellion represents a **democratic challenge** to divinely appointed authority. His argument sounds reasonable: "All the congregation is holy, every one of them, and the Lord is among them. Why then do you exalt yourselves above the assembly of the Lord?" (Numbers 16:3). The claim contains truth—Israel is indeed God's holy people—but draws the wrong conclusion. God's presence among all His people doesn't eliminate the need for appointed mediators.
+**Balaam** presents a puzzling figure. He clearly has some knowledge of Yahweh and claims to speak only what God tells him. Yet later biblical references condemn him for greed and for teaching Balak how to corrupt Israel through idolatry and sexual immorality (Numbers 31:16; Revelation 2:14). His story demonstrates that speaking God's truth doesn't necessarily indicate a transformed heart—even a pagan diviner can be used to proclaim God's word when God chooses.
 
-The earth **swallowing the rebels** provides unmistakable proof that this isn't a power struggle between competing human leaders but a challenge to God's appointed order. Yet incredibly, the very next day the congregation accuses Moses and Aaron of killing "the people of the Lord" (16:41). This demonstrates the depth of human stubbornness—even dramatic divine judgment doesn't cure rebellious hearts.
+The **talking donkey** episode reveals Balaam's spiritual blindness. The donkey sees the angel of the Lord blocking the path, but Balaam—the supposed seer—remains oblivious. God opens the donkey's mouth to rebuke Balaam, then opens Balaam's eyes to see what the donkey saw all along. The irony is unmistakable: the beast is more spiritually perceptive than the prophet.
 
-**Aaron's intercession** reveals the priest's role as mediator between God's wrath and the people. Standing between the dead and the living with incense, Aaron literally stops the plague's advance. This powerful image depicts priestly ministry as creating a barrier that protects people from the consequences their sin deserves.
+Balak's **repeated attempts** to make Balaam curse Israel—trying different locations, different sacrifices, different tactics—demonstrate the futility of opposing God's purposes. No amount of human manipulation can overturn God's blessing on His people.
 
 ## Redemptive Significance
 
-Korah's rebellion reveals why **God establishes authority structures** rather than leaving people to govern themselves. The rebellion emerges from jealousy, ambition, and the democratic impulse that everyone should have equal access and authority. But God's kingdom operates on different principles—He appoints leaders, establishes orders of authority, and requires submission to His appointed servants.
+Balaam's oracles contain some of the Old Testament's most beautiful declarations about Israel and powerful messianic prophecies. Despite being hired to curse God's people, Balaam delivers four oracles that progressively reveal God's blessings on Israel, culminating in a prophecy about the coming **Star and Scepter** from Jacob—understood as messianic prophecy pointing to Christ.
 
-The **budding staff** miracle confirms Aaron's priesthood through a sign of resurrection life. A dead stick produces blossoms and almonds overnight, demonstrating that God validates His chosen servants through supernatural life and fruitfulness. This points forward to Christ, whose resurrection confirms His appointment as our eternal High Priest.
+The narrative demonstrates God's **sovereign protection** of His people. When enemies plot against Israel, God transforms their schemes into blessings. No curse can succeed against those whom God has blessed, no opposition can thwart His purposes, no enemy can separate His people from His love.
 
 ## Connecting the Dots
 
-These chapters connect to broader biblical themes:
+The Balaam narrative connects to broader biblical themes:
 
-- **Challenging Divine Authority**: Korah's rebellion against God's appointed leaders parallels all attempts to replace God's design with human wisdom (Numbers 16 → Romans 13:1-2; Hebrews 13:17)
+- **God's Blessing Irrevocable**: No human can curse whom God has blessed (Numbers 23:20 → Romans 8:31-39; 11:29)
 
-- **Democratic Fallacy**: The claim that "all are holy" therefore "none should lead" contradicts God's pattern of appointing specific people for specific roles (Numbers 16:3 → 1 Corinthians 12:14-31; Ephesians 4:11-13)
+- **Messianic Star**: Balaam's prophecy of the "star" and "scepter" from Jacob points to Christ as Israel's ultimate King (Numbers 24:17 → Matthew 2:2; Revelation 22:16)
 
-- **Priestly Intercession**: Aaron standing between the dead and living with incense foreshadows Christ standing between holy God and sinful humanity through His sacrifice (Numbers 16:47-48 → 1 Timothy 2:5; Hebrews 7:25)
+- **Transformed Curses**: God turns intended curses into blessings, just as He transforms the curse of the cross into humanity's greatest blessing (Numbers 23:11-12 → Galatians 3:13-14)
 
-- **Resurrection Confirmation**: Aaron's dead staff budding to life validates his priesthood just as Christ's resurrection validates His eternal priesthood (Numbers 17:8 → Romans 1:4; Hebrews 7:16)
+- **Greed's Danger**: Later Scripture uses Balaam as a warning against greed and compromise—loving money more than righteousness (Numbers 22:7-21 → 2 Peter 2:15; Jude 11)
 
-- **Warning from History**: Jude uses Korah's rebellion as a warning against false teachers who reject authority and promote themselves (Numbers 16 → Jude 11)
+- **False Teaching**: Balaam's later counsel to corrupt Israel through idolatry and immorality represents the danger of false teachers who lead God's people into sin (Numbers 31:16 → Revelation 2:14; 2 Peter 2:1-3)
 
-- **Appointed, Not Self-Made**: Hebrews emphasizes that no one takes priestly honor upon themselves—they must be called by God, just as Aaron was (Numbers 16-17 → Hebrews 5:4-5)
+- **Spiritual Blindness**: The donkey seeing what the prophet missed illustrates how pride and greed blind us to spiritual reality (Numbers 22:21-35 → Matthew 23:16-26; 2 Corinthians 4:4)
 
 ## Theological Threads
 
-- **Divine Appointment**: Leadership and ministry flow from God's calling and appointment, not from human ambition, democratic process, or personal preference. Those who serve God must be called by God.
+- **Sovereign Election**: God chose and blessed Israel not because of their righteousness but according to His sovereign purpose. His blessings flow from His character and promises, not human merit.
 
-- **Necessary Mediation**: While all believers have access to God through Christ, God still appoints specific people to specific leadership roles within the church. Equality in salvation doesn't eliminate diversity in function.
+- **Immutable Blessing**: What God blesses cannot be cursed by any human power. His word of blessing stands regardless of opposition, curses, or enemy schemes.
 
-- **Jealousy and Ambition**: Korah's rebellion stems from jealousy of Aaron's position. The desire for status and recognition within God's community remains a persistent temptation that destroys unity and challenges divine order.
+- **Prophetic Compulsion**: Even a pagan prophet cannot speak against God's word when God constrains him. Truth proceeds from God's mouth even through unwilling or unlikely instruments.
 
-- **Intercession Saves**: Aaron's standing between the dead and living demonstrates that priestly intercession literally saves people from death. This dramatic physical image represents the spiritual reality of Christ's ongoing intercession.
+- **Protected Community**: God's people dwell secure under His blessing. External enemies may threaten, but they cannot ultimately harm those whom God has blessed and chosen.
 
-- **Life from Death**: The budded staff shows that God confirms His servants through resurrection life and fruitfulness, not through human credentials or democratic approval. True spiritual authority bears supernatural fruit.
+- **Progressive Revelation**: Balaam's oracles become increasingly messianic, culminating in prophecy about the coming King. God progressively reveals His redemptive plan even through unlikely sources.
+
+- **Heart vs. Words**: Balaam speaks God's truth while harboring greed in his heart. Orthodoxy in speech doesn't guarantee transformation of character—hearts must align with words.
 
 ## Study Questions
 
-1. **Challenging Authority**: Korah's argument that "all are holy" sounds democratic and reasonable. Why was it actually rebellion against God? How do you discern between legitimate concerns about leadership and sinful challenge to God's appointed authority?
+1. **Irrevocable Blessing**: Balaam declares "I have received a command to bless; he has blessed, and I cannot revoke it" (23:20). How does understanding God's blessing as irrevocable affect your security in Christ? What threatens to make you doubt God's blessing on you?
 
-2. **Jealousy and Ministry**: Korah's rebellion emerged from jealousy of Aaron's position. How do you guard your heart against jealousy when others receive positions, recognition, or opportunities you desire? What helps you celebrate others' callings?
+2. **Balaam's Blindness**: The donkey saw what the prophet couldn't see. What "donkeys" in your life—unexpected sources or circumstances—has God used to open your eyes to reality you were missing? How do pride and greed blind us spiritually?
 
-3. **Aaron's Intercession**: Aaron literally stood between the dead and living to stop the plague. How does this dramatic image help you understand Christ's intercession for you? How might you practice intercession for others in your community?
+3. **Messianic Prophecy**: Balaam prophesied a "star" and "scepter" would come from Israel. How do you see this fulfilled in Christ? Why is it significant that this messianic prophecy came through a pagan prophet?
 
-4. **Resurrection Life**: God validated Aaron's priesthood through a dead stick budding to life. What "resurrection fruit"—supernatural life and fruitfulness—has God produced in your life as evidence of His calling and work?
+4. **Greed's Compromise**: Later passages condemn Balaam for greed and for teaching Balak how to corrupt Israel. How does the love of money lead to compromising truth and leading others into sin? Where do you face temptation to compromise for financial gain?
 
-5. **Submission to Leadership**: How do you balance healthy submission to spiritual authority with the responsibility to test everything and hold leaders accountable to Scripture? What does biblical submission look like practically?
+5. **God's Sovereignty**: God transformed Balak's schemes to curse Israel into powerful blessings. How does recognizing God's sovereignty over your enemies' plans bring comfort? Can you identify times when God turned opposition into blessing in your life?
 
 :::tip Verse to Memorize
-*"And Aaron took it as Moses said and ran into the midst of the assembly. And behold, the plague had already begun among the people. And he put on the incense and made atonement for the people. And he stood between the dead and the living, and the plague was stopped."* ***Numbers 16:47-48*** 💭 
+*"God is not man, that he should lie, or a son of man, that he should change his mind. Has he said, and will he not do it? Or has he spoken, and will he not fulfill it?"* ***Numbers 23:19*** 💭 
 :::
