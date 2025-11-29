@@ -5,7 +5,7 @@ title: "Day 16: Divine Justice and Mercy"
 
 # Day 16: Divine Justice and Mercy
 
-⏱️ *Estimated reading time: 18-21 minutes*
+⏱️ *Estimated reading time: 30-32 minutes*
 
 <ProgressTracker dayNumber={16} />
 

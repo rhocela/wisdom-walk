@@ -5,7 +5,7 @@ title: "Day 38: From Prison to Palace - God's Perfect Timing"
 
 # Day 38: From Prison to Palace - God's Perfect Timing
 
-⏱️ *Estimated reading time: 19-22 minutes*
+⏱️ *Estimated reading time: 33-35 minutes*
 
 <ProgressTracker dayNumber={38} />
 

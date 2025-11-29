@@ -5,7 +5,7 @@ title: "Day 9: The Call of Faith"
 
 # Day 9: The Call of Faith
 
-⏱️ *Estimated reading time: 14-17 minutes*
+⏱️ *Estimated reading time: 25-27 minutes*
 
 <ProgressTracker dayNumber={9} />
 

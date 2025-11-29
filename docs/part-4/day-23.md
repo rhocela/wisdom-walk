@@ -5,7 +5,7 @@ title: "Day 23: Like Father, Like Son"
 
 # Day 23: Like Father, Like Son
 
-⏱️ *Estimated reading time: 15-18 minutes*
+⏱️ *Estimated reading time: 29-31 minutes*
 
 <ProgressTracker dayNumber={23} />
 

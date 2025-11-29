@@ -5,7 +5,7 @@ title: "Day 42: The Great Revelation"
 
 # Day 42: The Great Revelation
 
-⏱️ *Estimated reading time: 20-24 minutes*
+⏱️ *Estimated reading time: 33-35 minutes*
 
 <ProgressTracker dayNumber={42} />
 

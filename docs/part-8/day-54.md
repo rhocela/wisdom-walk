@@ -5,7 +5,7 @@ title: "Day 54: Wisdom and Delegation"
 
 # Day 54: Wisdom and Delegation
 
-⏱️ *Estimated reading time: 20-24 minutes*
+⏱️ *Estimated reading time: 35 minutes* ⚠️ **CONTENT REDUCTION NEEDED** (66 verses = ~47 min actual)
 
 <ProgressTracker dayNumber={54} />
 

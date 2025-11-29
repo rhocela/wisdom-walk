@@ -5,7 +5,7 @@ title: "Day 30: Reconciliation and Restoration"
 
 # Day 30: Reconciliation and Restoration
 
-⏱️ *Estimated reading time: 16-19 minutes*
+⏱️ *Estimated reading time: 28-30 minutes*
 
 <ProgressTracker dayNumber={30} />
 

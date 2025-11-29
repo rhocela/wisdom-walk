@@ -5,7 +5,7 @@ title: "Day 27: The God Who Sees and Provides"
 
 # Day 27: The God Who Sees and Provides
 
-⏱️ *Estimated reading time: 17-20 minutes*
+⏱️ *Estimated reading time: 30-32 minutes*
 
 <ProgressTracker dayNumber={27} />
 

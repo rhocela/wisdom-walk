@@ -5,7 +5,7 @@ title: "Day 49: The God of Power and Judgment"
 
 # Day 49: The God of Power and Judgment
 
-⏱️ *Estimated reading time: 21-25 minutes*
+⏱️ *Estimated reading time: 35 minutes*
 
 <ProgressTracker dayNumber={49} />
 

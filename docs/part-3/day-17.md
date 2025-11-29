@@ -5,7 +5,7 @@ title: "Day 17: Repeated Failure, Renewed Grace"
 
 # Day 17: Repeated Failure, Renewed Grace
 
-⏱️ *Estimated reading time: 14-17 minutes*
+⏱️ *Estimated reading time: 27-29 minutes*
 
 <ProgressTracker dayNumber={17} />
 

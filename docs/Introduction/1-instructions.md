@@ -31,11 +31,12 @@ Each study MUST include all six features in this exact order:
 6. **Theological Threads** - Key truths about God
 
 ### **3. Reading Time Calculation**
-- **Target ~20 minutes for Bible reading** - Calculate based on verse count in "Today's Readings"
-- **Formula for Bible verses**: ~1.5 verses per minute (e.g., 30 verses ≈ 20 minutes)
-- **Study content is additional** - The study material (context, connections, questions) is for reflection and can be read at the reader's own pace
-- **Vary estimates realistically** based on actual verse count (15-25 minutes range is normal)
-- **Calculate each day individually** - No automatic times; base it on actual passage length
+- **Aim for 30 minutes, strictly not more than 35 minutes** - Includes Bible passages + all study content EXCEPT study questions
+- **What to include in time estimate**: Today's Readings (Bible passages) + Chronological Setting + Historical Context + Redemptive Significance + Connecting the Dots + Theological Threads
+- **What to exclude from time estimate**: Study Questions section (this is for reflection/discussion, not timed reading)
+- **Vary estimates realistically** based on actual content volume (25-35 minutes range is acceptable)
+- **Calculate each day individually** - No automatic times; base it on actual page content length
+- **HARD LIMIT**: If content exceeds 35 minutes, split into multiple days
 
 ### **4. File Structure Requirements**
 ```
@@ -257,7 +258,7 @@ title: "Day X: [Thematic Title]"
 
 ### **Individual Study Success:**
 - All 6 features present and substantial
-- Reading time accurately calculated (12-25 minute range)
+- Reading time accurately calculated (25-35 minute range)
 - Meaningful cross-testament connections
 - Christ-centered redemptive focus
 - Practical application questions

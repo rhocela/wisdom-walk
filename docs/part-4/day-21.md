@@ -5,7 +5,7 @@ title: "Day 21: Divine Guidance in Life's Decisions"
 
 # Day 21: Divine Guidance in Life's Decisions
 
-⏱️ *Estimated reading time: 22-25 minutes*
+⏱️ *Estimated reading time: 33-35 minutes*
 
 <ProgressTracker dayNumber={21} />
 

@@ -5,7 +5,7 @@ title: "Day 45: The Mystery of Suffering"
 
 # Day 45: The Mystery of Suffering
 
-⏱️ *Estimated reading time: 20-24 minutes*
+⏱️ *Estimated reading time: 32-34 minutes*
 
 <ProgressTracker dayNumber={45} />
 

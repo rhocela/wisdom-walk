@@ -5,7 +5,7 @@ title: "Day 31: When Violence Masquerades as Justice"
 
 # Day 31: When Violence Masquerades as Justice
 
-⏱️ *Estimated reading time: 18-21 minutes*
+⏱️ *Estimated reading time: 31-33 minutes*
 
 <ProgressTracker dayNumber={31} />
 

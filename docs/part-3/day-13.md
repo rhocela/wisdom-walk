@@ -5,7 +5,7 @@ title: "Day 13: When Faith Falters"
 
 # Day 13: When Faith Falters
 
-⏱️ *Estimated reading time: 15-18 minutes*
+⏱️ *Estimated reading time: 27-29 minutes*
 
 <ProgressTracker dayNumber={13} />
 

@@ -5,7 +5,7 @@ title: "Day 43: Journey to Promise"
 
 # Day 43: Journey to Promise
 
-⏱️ *Estimated reading time: 21-25 minutes*
+⏱️ *Estimated reading time: 35 minutes*
 
 <ProgressTracker dayNumber={43} />
 

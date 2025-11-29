@@ -5,7 +5,7 @@ title: "Day 25: The Ladder to Heaven"
 
 # Day 25: The Ladder to Heaven
 
-⏱️ *Estimated reading time: 14-17 minutes*
+⏱️ *Estimated reading time: 27-29 minutes*
 
 <ProgressTracker dayNumber={25} />
 

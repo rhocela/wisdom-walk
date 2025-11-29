@@ -5,7 +5,7 @@ title: "Day 40: The Cost of Reconciliation"
 
 # Day 40: The Cost of Reconciliation
 
-⏱️ *Estimated reading time: 18-21 minutes*
+⏱️ *Estimated reading time: 30-32 minutes*
 
 <ProgressTracker dayNumber={40} />
 

@@ -5,7 +5,7 @@ title: "Day 33: The Descendants of Esau - God's Sovereignty Over Nations"
 
 # Day 33: The Descendants of Esau - God's Sovereignty Over Nations
 
-⏱️ *Estimated reading time: 17-20 minutes*
+⏱️ *Estimated reading time: 30-32 minutes*
 
 <ProgressTracker dayNumber={33} />
 

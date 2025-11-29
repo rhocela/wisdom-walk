@@ -5,7 +5,7 @@ title: "Day 50: The Passover Lamb"
 
 # Day 50: The Passover Lamb
 
-⏱️ *Estimated reading time: 22-26 minutes*
+⏱️ *Estimated reading time: 35 minutes*
 
 <ProgressTracker dayNumber={50} />
 

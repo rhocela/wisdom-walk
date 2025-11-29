@@ -5,7 +5,7 @@ title: "Day 44: Faithful to the End"
 
 # Day 44: Faithful to the End
 
-⏱️ *Estimated reading time: 22-26 minutes*
+⏱️ *Estimated reading time: 35 minutes*
 
 <ProgressTracker dayNumber={44} />
 
