@@ -1,84 +1,80 @@
 ---
-sidebar_position: 76
-title: "Day 76: Balaam's Prophecy"
+sidebar_position: 77
+title: "Day 77: Covenant Renewal and Preparation"
 ---
 
-# Day 76: Balaam's Prophecy
+# Day 77: Covenant Renewal and Preparation
 
 ⏱️ *Estimated reading time: 20-24 minutes*
 
-<ProgressTracker dayNumber={76} />
+<ProgressTracker dayNumber={78} />
 
 ## Chronological Setting
 
-As Israel approaches the Promised Land from the east, they camp in the plains of Moab across the Jordan River from Jericho. Their presence terrifies the surrounding nations, who have heard of Israel's God-given victories over the Amorite kings. Balak, king of Moab, hires Balaam, a pagan prophet with an apparent reputation for effective curses and blessings, to curse Israel. What follows is one of Scripture's most unusual narratives—a donkey speaks, a pagan prophet delivers God's word, and attempts to curse God's people transform into powerful blessings and messianic prophecy.
+As Moses' farewell sermons continue, he presents Israel with a stark choice: blessing or curse, life or death, obedience or rebellion. These aren't abstract theological concepts but concrete consequences that will shape Israel's national destiny. Moses commands that when Israel enters the Promised Land, they are to perform a covenant renewal ceremony at Mount Ebal and Mount Gerizim, with half the tribes proclaiming blessings for obedience and half proclaiming curses for disobedience. This dramatic ceremony will make clear that following God brings life while rejecting Him leads to death.
 
 ## Today's Readings
 
-<PersistentCheckbox id="day76-numbers22"> **[Numbers 22:1-35](https://www.bible.com/bible/59/NUM.22.1-35.ESV)** (Narrative) - Balak summons Balaam; the talking donkey</PersistentCheckbox>
-<PersistentCheckbox id="day76-numbers23"> **[Numbers 23:1-26](https://www.bible.com/bible/59/NUM.23.1-26.ESV)** (Narrative/Prophecy) - Balaam's first two oracles blessing Israel</PersistentCheckbox>
-<PersistentCheckbox id="day76-numbers24"> **[Numbers 24:1-19](https://www.bible.com/bible/59/NUM.24.1-19.ESV)** (Narrative/Prophecy) - Balaam's final oracles and messianic prophecy</PersistentCheckbox>
-<PersistentCheckbox id="day76-numbers25"> **[Numbers 25:1-18](https://www.bible.com/bible/59/NUM.25.1-18.ESV)** (Narrative) - Israel's sin with Baal of Peor and Phinehas' zeal</PersistentCheckbox>
-<PersistentCheckbox id="day76-numbers26"> **[Numbers 26:1-65](https://www.bible.com/bible/59/NUM.26.1-65.ESV)** (Narrative) - The second census before entering Canaan</PersistentCheckbox>
-<PersistentCheckbox id="day76-2peter2"> **[2 Peter 2:15-16](https://www.bible.com/bible/59/2PE.2.15-16.ESV)** (Epistle) - Warning about Balaam's way</PersistentCheckbox>
-<PersistentCheckbox id="day76-revelation2"> **[Revelation 2:14](https://www.bible.com/bible/59/REV.2.14.ESV)** (Apocalyptic) - The teaching of Balaam</PersistentCheckbox>
+<PersistentCheckbox id="day78-deut11"> **[Deuteronomy 11:26-32](https://www.bible.com/bible/59/DEU.11.26-32.ESV)** (Narrative) - The choice between blessing and curse</PersistentCheckbox>
+<PersistentCheckbox id="day78-deut27"> **[Deuteronomy 27:1-26](https://www.bible.com/bible/59/DEU.27.1-26.ESV)** (Narrative) - Instructions for the covenant ceremony</PersistentCheckbox>
+<PersistentCheckbox id="day78-deut28"> **[Deuteronomy 28:1-19](https://www.bible.com/bible/59/DEU.28.1-19.ESV)** (Narrative) - Blessings for obedience and curses for disobedience</PersistentCheckbox>
+<PersistentCheckbox id="day78-galatians3"> **[Galatians 3:10-14](https://www.bible.com/bible/59/GAL.3.10-14.ESV)** (Epistle) - Christ redeemed us from the curse of the law</PersistentCheckbox>
+<PersistentCheckbox id="day78-romans8"> **[Romans 8:1-4](https://www.bible.com/bible/59/ROM.8.1-4.ESV)** (Epistle) - No condemnation for those in Christ Jesus</PersistentCheckbox>
 
 ## Historical Context
 
-**Balaam** presents a puzzling figure. He clearly has some knowledge of Yahweh and claims to speak only what God tells him. Yet later biblical references condemn him for greed and for teaching Balak how to corrupt Israel through idolatry and sexual immorality (Numbers 31:16; Revelation 2:14). His story demonstrates that speaking God's truth doesn't necessarily indicate a transformed heart—even a pagan diviner can be used to proclaim God's word when God chooses.
+The geography matters: Mount Gerizim and Mount Ebal form a natural amphitheater in the heart of the Promised Land, perfect for this covenant ceremony. Standing between these mountains, Israel will hear the blessings proclaimed from one peak and the curses from the other, making the choice audibly and visually clear. When Joshua later fulfills this command (Joshua 8:30-35), it marks Israel's commitment to the covenant in their new land.
 
-The **talking donkey** episode reveals Balaam's spiritual blindness. The donkey sees the angel of the Lord blocking the path, but Balaam—the supposed seer—remains oblivious. God opens the donkey's mouth to rebuke Balaam, then opens Balaam's eyes to see what the donkey saw all along. The irony is unmistakable: the beast is more spiritually perceptive than the prophet.
+The **blessings and curses** follow ancient Near Eastern treaty patterns. Suzerain (overlord) treaties typically concluded with blessings for loyalty and curses for rebellion. But there's a crucial difference: pagan treaties enforced political submission, while Israel's covenant calls for wholehearted love and devotion to Yahweh who delivered them from slavery.
 
-Balak's **repeated attempts** to make Balaam curse Israel—trying different locations, different sacrifices, different tactics—demonstrate the futility of opposing God's purposes. No amount of human manipulation can overturn God's blessing on His people.
+The curses in Deuteronomy 28 prove prophetic—they detail precisely what happens when Israel later breaks covenant: drought, famine, military defeat, exile, and dispersion among nations. These aren't arbitrary punishments but natural consequences of rejecting the God who blessed, protected, and provided for them.
 
 ## Redemptive Significance
 
-Balaam's oracles contain some of the Old Testament's most beautiful declarations about Israel and powerful messianic prophecies. Despite being hired to curse God's people, Balaam delivers four oracles that progressively reveal God's blessings on Israel, culminating in a prophecy about the coming **Star and Scepter** from Jacob—understood as messianic prophecy pointing to Christ.
+Deuteronomy's blessings and curses reveal a fundamental problem: while the **law is holy**, humans lack the power to obey it perfectly. Israel's subsequent history demonstrates repeated covenant failure, proving that external law cannot transform internal hearts. The law serves to expose sin's depth and humanity's need for divine intervention that goes beyond commandments—we need **new hearts**.
 
-The narrative demonstrates God's **sovereign protection** of His people. When enemies plot against Israel, God transforms their schemes into blessings. No curse can succeed against those whom God has blessed, no opposition can thwart His purposes, no enemy can separate His people from His love.
+Paul connects these curses to Christ's redemptive work. Quoting Deuteronomy 27:26 ("Cursed be everyone who does not abide by all things written in the Book of the Law"), Paul demonstrates that everyone stands under the curse because no one perfectly obeys the law. But Christ became a curse for us (Deuteronomy 21:23) to redeem us from the law's condemnation (Galatians 3:13).
 
 ## Connecting the Dots
 
-The Balaam narrative connects to broader biblical themes:
+These chapters connect powerfully to the gospel:
 
-- **God's Blessing Irrevocable**: No human can curse whom God has blessed (Numbers 23:20 → Romans 8:31-39; 11:29)
+- **Universal Curse**: The law's demand for perfect obedience means all fall under the curse, since "all have sinned" (Deuteronomy 27:26 → Romans 3:23; Galatians 3:10)
 
-- **Messianic Star**: Balaam's prophecy of the "star" and "scepter" from Jacob points to Christ as Israel's ultimate King (Numbers 24:17 → Matthew 2:2; Revelation 22:16)
+- **Christ Bore the Curse**: Jesus became cursed by hanging on a tree to redeem us from the law's curse (Deuteronomy 21:23; 27:26 → Galatians 3:13; 1 Peter 2:24)
 
-- **Transformed Curses**: God turns intended curses into blessings, just as He transforms the curse of the cross into humanity's greatest blessing (Numbers 23:11-12 → Galatians 3:13-14)
+- **Blessing Through Faith**: The blessing promised to Abraham comes to all nations through faith in Christ, not law-keeping (Deuteronomy 28:1-6 → Galatians 3:8-9, 14)
 
-- **Greed's Danger**: Later Scripture uses Balaam as a warning against greed and compromise—loving money more than righteousness (Numbers 22:7-21 → 2 Peter 2:15; Jude 11)
+- **No Condemnation**: Those in Christ are free from condemnation because Christ bore the curse they deserved (Deuteronomy 28:15-68 → Romans 8:1; Colossians 2:13-14)
 
-- **False Teaching**: Balaam's later counsel to corrupt Israel through idolatry and immorality represents the danger of false teachers who lead God's people into sin (Numbers 31:16 → Revelation 2:14; 2 Peter 2:1-3)
+- **New Covenant Hearts**: Deuteronomy's repeated failure to produce obedience points to the need for the new covenant's transformed hearts (Deuteronomy 28-30 → Jeremiah 31:31-34; Ezekiel 36:26-27)
 
-- **Spiritual Blindness**: The donkey seeing what the prophet missed illustrates how pride and greed blind us to spiritual reality (Numbers 22:21-35 → Matthew 23:16-26; 2 Corinthians 4:4)
+- **Choose Life**: Moses' call to "choose life" finds its ultimate answer in choosing Christ, who is the life (Deuteronomy 30:19-20 → John 14:6; 1 John 5:11-12)
 
 ## Theological Threads
 
-- **Sovereign Election**: God chose and blessed Israel not because of their righteousness but according to His sovereign purpose. His blessings flow from His character and promises, not human merit.
+- **Moral Universe**: God structures creation so that righteousness brings blessing and wickedness brings curse. This isn't arbitrary—it reflects the moral nature of reality under God's governance.
 
-- **Immutable Blessing**: What God blesses cannot be cursed by any human power. His word of blessing stands regardless of opposition, curses, or enemy schemes.
+- **Corporate Consequences**: While individuals bear responsibility for their choices, nations and communities also experience collective consequences for corporate obedience or rebellion.
 
-- **Prophetic Compulsion**: Even a pagan prophet cannot speak against God's word when God constrains him. Truth proceeds from God's mouth even through unwilling or unlikely instruments.
+- **Law's Purpose**: The law reveals sin's seriousness, demonstrates God's holiness, and exposes humanity's inability to achieve righteousness through obedience. It drives us to Christ.
 
-- **Protected Community**: God's people dwell secure under His blessing. External enemies may threaten, but they cannot ultimately harm those whom God has blessed and chosen.
+- **Grace Beyond Law**: Deuteronomy itself anticipates Israel's failure and God's eventual restoration through heart circumcision (Deuteronomy 30:1-10), pointing beyond law to grace.
 
-- **Progressive Revelation**: Balaam's oracles become increasingly messianic, culminating in prophecy about the coming King. God progressively reveals His redemptive plan even through unlikely sources.
-
-- **Heart vs. Words**: Balaam speaks God's truth while harboring greed in his heart. Orthodoxy in speech doesn't guarantee transformation of character—hearts must align with words.
+- **Free Choice, Real Consequences**: God sets before people genuine choices with real consequences. Love cannot be coerced—it must be freely chosen, but choices shape destinies.
 
 ## Study Questions
 
-1. **Irrevocable Blessing**: Balaam declares "I have received a command to bless; he has blessed, and I cannot revoke it" (23:20). How does understanding God's blessing as irrevocable affect your security in Christ? What threatens to make you doubt God's blessing on you?
+1. **The Choice**: Moses presents Israel with the choice between blessing and curse, life and death. What helps you consistently choose to follow God rather than drift into disobedience? How do you make this choice daily?
 
-2. **Balaam's Blindness**: The donkey saw what the prophet couldn't see. What "donkeys" in your life—unexpected sources or circumstances—has God used to open your eyes to reality you were missing? How do pride and greed blind us spiritually?
+2. **The Curse**: Paul says "all who rely on works of the law are under a curse" because no one perfectly obeys (Galatians 3:10). How does recognizing your inability to earn righteousness through obedience drive you to depend on Christ's righteousness?
 
-3. **Messianic Prophecy**: Balaam prophesied a "star" and "scepter" would come from Israel. How do you see this fulfilled in Christ? Why is it significant that this messianic prophecy came through a pagan prophet?
+3. **Christ Bore the Curse**: How does understanding that Christ became cursed for you affect your gratitude, worship, and confidence before God? What would change if you truly grasped that you deserve the curse but receive blessing through Christ?
 
-4. **Greed's Compromise**: Later passages condemn Balaam for greed and for teaching Balak how to corrupt Israel. How does the love of money lead to compromising truth and leading others into sin? Where do you face temptation to compromise for financial gain?
+4. **Community Consequences**: Deuteronomy emphasizes that national obedience or rebellion affects everyone, not just individuals. How does this shape your prayers for your nation, church, and community? What responsibility do you bear for corporate faithfulness?
 
-5. **God's Sovereignty**: God transformed Balak's schemes to curse Israel into powerful blessings. How does recognizing God's sovereignty over your enemies' plans bring comfort? Can you identify times when God turned opposition into blessing in your life?
+5. **Law's Limit**: The law reveals what God requires but cannot empower obedience. Where are you depending on willpower or religious effort rather than the Spirit's transforming power? How can you shift from law-based striving to grace-enabled obedience?
 
 :::tip Verse to Memorize
-*"God is not man, that he should lie, or a son of man, that he should change his mind. Has he said, and will he not do it? Or has he spoken, and will he not fulfill it?"* ***Numbers 23:19*** 💭 
+*"Christ redeemed us from the curse of the law by becoming a curse for us—for it is written, 'Cursed is everyone who is hanged on a tree'—so that in Christ Jesus the blessing of Abraham might come to the Gentiles, so that we might receive the promised Spirit through faith."* ***Galatians 3:13-14*** 💭 
 :::
