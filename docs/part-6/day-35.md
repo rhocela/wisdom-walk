@@ -5,7 +5,7 @@ title: "Day 35: Judah and Tamar - God's Grace in Human Failure"
 
 # Day 35: Judah and Tamar - God's Grace in Human Failure
 
-⏱️ *Estimated reading time: 19-22 minutes*
+⏱️ *Estimated reading time: 30-32 minutes*
 
 <ProgressTracker dayNumber={35} />
 

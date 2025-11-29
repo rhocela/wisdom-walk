@@ -5,7 +5,7 @@ title: "Day 47: The God Who Calls"
 
 # Day 47: The God Who Calls
 
-⏱️ *Estimated reading time: 20-24 minutes*
+⏱️ *Estimated reading time: 30-32 minutes*
 
 <ProgressTracker dayNumber={47} />
 

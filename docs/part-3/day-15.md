@@ -5,7 +5,7 @@ title: "Day 15: Divine Hospitality and Promise"
 
 # Day 15: Divine Hospitality and Promise
 
-⏱️ *Estimated reading time: 17-20 minutes*
+⏱️ *Estimated reading time: 30-32 minutes*
 
 <ProgressTracker dayNumber={15} />
 

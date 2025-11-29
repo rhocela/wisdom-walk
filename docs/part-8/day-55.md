@@ -5,7 +5,7 @@ title: "Day 55: The Mountain of God"
 
 # Day 55: The Mountain of God
 
-⏱️ *Estimated reading time: 19-23 minutes*
+⏱️ *Estimated reading time: 35 minutes* ⚠️ **CONTENT REDUCTION NEEDED** (73 verses = ~52 min actual)
 
 <ProgressTracker dayNumber={55} />
 

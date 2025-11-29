@@ -5,7 +5,7 @@ title: "Day 36: Joseph's Integrity - Faithfulness in Adversity"
 
 # Day 36: Joseph's Integrity - Faithfulness in Adversity
 
-⏱️ *Estimated reading time: 17-20 minutes*
+⏱️ *Estimated reading time: 28-30 minutes*
 
 <ProgressTracker dayNumber={36} />
 

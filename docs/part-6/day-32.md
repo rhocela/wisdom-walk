@@ -5,7 +5,7 @@ title: "Day 32: Return to Bethel - Spiritual Renewal"
 
 # Day 32: Return to Bethel - Spiritual Renewal
 
-⏱️ *Estimated reading time: 16-19 minutes*
+⏱️ *Estimated reading time: 28-30 minutes*
 
 <ProgressTracker dayNumber={32} />
 

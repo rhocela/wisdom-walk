@@ -5,7 +5,7 @@ title: "Day 39: Testing and Forgiveness"
 
 # Day 39: Testing and Forgiveness
 
-⏱️ *Estimated reading time: 19-22 minutes*
+⏱️ *Estimated reading time: 31-33 minutes*
 
 <ProgressTracker dayNumber={39} />
 

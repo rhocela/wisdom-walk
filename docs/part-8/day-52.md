@@ -5,7 +5,7 @@ title: "Day 52: Provision in the Wilderness"
 
 # Day 52: Provision in the Wilderness
 
-⏱️ *Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 35 minutes* ⚠️ **CONTENT REDUCTION NEEDED** (57 verses = ~41 min actual)
 
 <ProgressTracker dayNumber={52} />
 

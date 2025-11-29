@@ -5,7 +5,7 @@ title: "Day 14: The Sign of the Covenant"
 
 # Day 14: The Sign of the Covenant
 
-⏱️ *Estimated reading time: 16-19 minutes*
+⏱️ *Estimated reading time: 28-30 minutes*
 
 <ProgressTracker dayNumber={14} />
 

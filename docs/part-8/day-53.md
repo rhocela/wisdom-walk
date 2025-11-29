@@ -5,7 +5,7 @@ title: "Day 53: Testing and Victory"
 
 # Day 53: Testing and Victory
 
-⏱️ *Estimated reading time: 19-23 minutes*
+⏱️ *Estimated reading time: 31-33 minutes*
 
 <ProgressTracker dayNumber={53} />
 

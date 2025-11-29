@@ -5,7 +5,7 @@ title: "Day 41: The Final Test"
 
 # Day 41: The Final Test
 
-⏱️ *Estimated reading time: 19-23 minutes*
+⏱️ *Estimated reading time: 32-34 minutes*
 
 <ProgressTracker dayNumber={41} />
 

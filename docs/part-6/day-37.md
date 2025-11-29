@@ -5,7 +5,7 @@ title: "Day 37: Dreams in Prison - God's Gifts Serving Others"
 
 # Day 37: Dreams in Prison - God's Gifts Serving Others
 
-⏱️ *Estimated reading time: 18-21 minutes*
+⏱️ *Estimated reading time: 28-30 minutes*
 
 <ProgressTracker dayNumber={37} />
 

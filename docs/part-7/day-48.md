@@ -5,7 +5,7 @@ title: "Day 48: The God Who Remembers"
 
 # Day 48: The God Who Remembers
 
-⏱️ *Estimated reading time: 18-22 minutes*
+⏱️ *Estimated reading time: 30-32 minutes*
 
 <ProgressTracker dayNumber={48} />
 

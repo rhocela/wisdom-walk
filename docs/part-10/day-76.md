@@ -5,7 +5,7 @@ title: "Day 76: Balaam's Prophecy"
 
 # Day 76: Balaam's Prophecy
 
-⏱️ *Estimated reading time: 19-23 minutes*
+⏱️ *Estimated reading time: 4+ hours* ⚠️ **NEEDS SPLITTING - 376 verses is WAY too many**
 
 <ProgressTracker dayNumber={77} />
 

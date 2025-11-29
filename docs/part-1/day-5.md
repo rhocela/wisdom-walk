@@ -5,7 +5,7 @@ title: "Day 5: Generations and Grieving"
 
 # Day 5: Generations and Grieving
 
-⏱️ *Estimated reading time: 15-18 minutes*
+⏱️ *Estimated reading time: 32-35 minutes*
 
 <ProgressTracker dayNumber={5} />
 

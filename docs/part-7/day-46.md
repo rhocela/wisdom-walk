@@ -5,7 +5,7 @@ title: "Day 46: The God Who Hears"
 
 # Day 46: The God Who Hears
 
-⏱️ *Estimated reading time: 19-23 minutes*
+⏱️ *Estimated reading time: 31-33 minutes*
 
 <ProgressTracker dayNumber={46} />
 

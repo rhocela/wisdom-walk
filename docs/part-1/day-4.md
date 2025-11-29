@@ -5,7 +5,7 @@ title: "Day 4: Brothers and Blood"
 
 # Day 4: Brothers and Blood
 
-⏱️ *Estimated reading time: 19-23 minutes*
+⏱️ *Estimated reading time: 27-30 minutes*
 
 <ProgressTracker dayNumber={4} />
 

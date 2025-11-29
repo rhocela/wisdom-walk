@@ -5,7 +5,7 @@ title: "Day 26: Love, Labor, and Divine Providence"
 
 # Day 26: Love, Labor, and Divine Providence
 
-⏱️ *Estimated reading time: 16-19 minutes*
+⏱️ *Estimated reading time: 29-31 minutes*
 
 <ProgressTracker dayNumber={26} />
 

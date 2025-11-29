@@ -5,7 +5,7 @@ title: "Day 28: The Call to Return Home"
 
 # Day 28: The Call to Return Home
 
-⏱️ *Estimated reading time: 18-21 minutes*
+⏱️ *Estimated reading time: 32-34 minutes*
 
 <ProgressTracker dayNumber={28} />
 

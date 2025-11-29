@@ -5,7 +5,7 @@ title: "Day 2: The Image Bearer"
 
 # Day 2: The Image Bearer
 
-⏱️ *Estimated reading time: 19-23 minutes*
+⏱️ *Estimated reading time: 28-30 minutes*
 
 <ProgressTracker dayNumber={2} />
 

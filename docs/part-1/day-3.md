@@ -5,7 +5,7 @@ title: "Day 3: The Fall"
 
 # Day 3: The Fall
 
-⏱️ *Estimated reading time: 20-24 minutes*
+⏱️ *Estimated reading time: 33-35 minutes*
 
 <ProgressTracker dayNumber={3} />
 

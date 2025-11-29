@@ -5,7 +5,7 @@ title: "Day 22: Endings and Beginnings"
 
 # Day 22: Endings and Beginnings
 
-⏱️ *Estimated reading time: 17-20 minutes*
+⏱️ *Estimated reading time: 31-33 minutes*
 
 <ProgressTracker dayNumber={22} />
 

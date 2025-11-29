@@ -5,7 +5,7 @@ title: "Day 12: The Covenant Promise"
 
 # Day 12: The Covenant Promise
 
-⏱️ *Estimated reading time: 15-18 minutes*
+⏱️ *Estimated reading time: 29-31 minutes*
 
 <ProgressTracker dayNumber={12} />
 

@@ -5,7 +5,7 @@ title: "Day 51: Journey of Liberation"
 
 # Day 51: Journey of Liberation
 
-⏱️ *Estimated reading time: 19-23 minutes*
+⏱️ *Estimated reading time: 35 minutes* ⚠️ **CONTENT REDUCTION NEEDED** (85 verses = ~60 min actual)
 
 <ProgressTracker dayNumber={51} />
 

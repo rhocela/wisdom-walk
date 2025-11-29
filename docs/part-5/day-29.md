@@ -5,7 +5,7 @@ title: "Day 29: Wrestling with God"
 
 # Day 29: Wrestling with God
 
-⏱️ *Estimated reading time: 19-22 minutes*
+⏱️ *Estimated reading time: 31-33 minutes*
 
 <ProgressTracker dayNumber={29} />
 
