@@ -5,7 +5,7 @@ title: "Day 54: Wisdom and Delegation"
 
 # Day 54: Wisdom and Delegation
 
-⏱️ *Estimated reading time: 35 minutes* ⚠️ **CONTENT REDUCTION NEEDED** (66 verses = ~47 min actual)
+⏱️ *Estimated reading time: 32-34 minutes*
 
 <ProgressTracker dayNumber={54} />
 
@@ -18,7 +18,6 @@ As the Israelites approach Mount Sinai, Moses receives a crucial visit from his 
 <PersistentCheckbox id="day54-exodus18"> **[Exodus 18:1-27](https://www.bible.com/bible/59/EXO.18.1-27.ESV)** (Narrative) - Jethro visits Moses and advises delegation of leadership</PersistentCheckbox>
 <PersistentCheckbox id="day54-deuteronomy1"> **[Deuteronomy 1:9-18](https://www.bible.com/bible/59/DEU.1.9-18.ESV)** (Narrative) - Moses recalls the appointment of judges</PersistentCheckbox>
 <PersistentCheckbox id="day54-acts6"> **[Acts 6:1-7](https://www.bible.com/bible/59/ACT.6.1-7.ESV)** (Narrative) - The apostles delegate responsibility to deacons</PersistentCheckbox>
-<PersistentCheckbox id="day54-1corinthians12"> **[1 Corinthians 12:12-27](https://www.bible.com/bible/59/1CO.12.12-27.ESV)** (Epistle) - The body of Christ and diverse gifts</PersistentCheckbox>
 <PersistentCheckbox id="day54-ephesians4"> **[Ephesians 4:11-16](https://www.bible.com/bible/59/EPH.4.11-16.ESV)** (Epistle) - God's gifts for building up the body</PersistentCheckbox>
 
 ## Historical Context
@@ -39,7 +38,7 @@ The **criteria for judges**—fear God, be trustworthy, hate bribes—establish 
 
 The **delegation model** established here directly parallels the New Testament pattern where the apostles recognize they cannot effectively handle both Word ministry and practical administration. Acts 6 shows the same wisdom: appointing qualified people to handle specific responsibilities so that primary leaders can focus on their core calling.
 
-Paul's teaching about the **body of Christ** in 1 Corinthians 12 and Ephesians 4 reflects the same principle—God distributes gifts throughout the church so that every member contributes to the whole. No single person is meant to carry the entire load; rather, **Christ builds His church through many members** working together in their respective roles.
+Paul's teaching about the **body of Christ** in Ephesians 4 reflects the same principle—God distributes gifts throughout the church so that every member contributes to the whole. Christ gives apostles, prophets, evangelists, shepherds, and teachers "to equip the saints for the work of ministry, for building up the body of Christ." No single person is meant to carry the entire load; rather, **Christ builds His church through many members** working together in their respective roles.
 
 **Jethro's status as a Gentile** who fears God and offers wise counsel prefigures the inclusion of Gentiles in God's redemptive plan. His recognition of Yahweh's greatness ("Now I know that the LORD is greater than all gods") demonstrates God's heart for all nations to know and worship Him.
 
