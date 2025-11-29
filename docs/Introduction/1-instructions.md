@@ -31,7 +31,7 @@ Each study MUST include all six features in this exact order:
 6. **Theological Threads** - Key truths about God
 
 ### **3. Reading Time Calculation**
-- **Aim for 30 minutes, strictly not more than 35 minutes** - Includes Bible passages + all study content EXCEPT study questions
+- **Aim for 30 minutes, strictly not more than 35 minutes and not less than 25 minutes** - Includes Bible passages + all study content EXCEPT study questions
 - **What to include in time estimate**: Today's Readings (Bible passages) + Chronological Setting + Historical Context + Redemptive Significance + Connecting the Dots + Theological Threads
 - **What to exclude from time estimate**: Study Questions section (this is for reflection/discussion, not timed reading)
 - **Vary estimates realistically** based on actual content volume (25-35 minutes range is acceptable)
@@ -67,25 +67,28 @@ docs/
 **STEP 3: Content Development (6-Feature Template)**
 - **Chronological Setting**: Reference the 75-entry framework, explain historical period
 - **Historical Context**: Provide background for ancient audience and circumstances
-- **Today's Readings**: Include 3-5 passages with proper literary genre labels
+- **Today's Readings**: **CRITICAL - ALWAYS include 3-5 passages with cross-references.** NEVER create a day with only one Bible passage. Each day MUST have the main chronological OT passage PLUS 2-4 NT cross-references that meaningfully connect to the themes. Include proper literary genre labels for all passages.
 - **Redemptive Significance**: Connect to Christ and God's salvation plan (formerly "Redemptive Focus")
 - **Connecting the Dots**: Show meaningful Old Testament/New Testament connections
 - **Theological Threads**: Highlight key truths about God's character
 
 **STEP 4: Required Components Integration**
 - Include ProgressTracker component with correct day number
-- Add PersistentCheckbox readings with Bible.com ESV links
+- Add PersistentCheckbox readings with Bible.com ESV links (MINIMUM 3 passages, MAXIMUM 5 passages)
+- **MANDATORY: Every day must have multiple cross-referenced passages** - one OT chronological passage + 2-4 NT connections
 - Ensure proper literary genre labels for every passage
-- Create meaningful Old/New Testament connections
+- Create meaningful Old/New Testament connections (not superficial - show how themes relate)
 - Write 3-5 study questions for reflection
 - Calculate actual reading time based on verse count (target realistic time, not auto-20 minutes)
 
 **STEP 5: Bible Coverage Tracking (CRITICAL)**
-- **Update _bible-checklist.md IMMEDIATELY** after creating each study
+- **Update 2-bible-checklist.md IMMEDIATELY** after creating each study
+- **VERIFY NO DUPLICATE VERSES** - Before assigning any passage, check the Bible checklist to ensure that chapter has NOT already been assigned to another day
 - Change status from ⏳ to ✅ for all chapters covered in the new study
 - Include the Day number assignment for each chapter
 - Update the Coverage Summary totals at the bottom
 - Verify no gaps or duplications in chronological coverage
+- **If a chapter is already marked ✅ with a day number, DO NOT use it again** - find a different cross-reference passage
 
 **STEP 6: Quality Verification**
 - Verify all Bible.com ESV links work properly
@@ -194,14 +197,14 @@ title: "Day X: [Thematic Title]"
 - [ ] Referenced Day 1 template for exact structure and style formatting
 - [ ] Calculated actual reading time based on content volume
 - [ ] Identified 3-5 complementary Bible passages
-- [ ] Planned meaningful Old Testament/New Testament connections
-
 ### **After Creating Each Study (CRITICAL WORKFLOW):**
 - [ ] All 6 required features present and complete (Chronological Setting → Theological Threads)
 - [ ] ProgressTracker component included with correct day number
 - [ ] PersistentCheckbox readings with Bible.com ESV links functional
-- [ ] **UPDATE _bible-checklist.md IMMEDIATELY** - mark chapters as ✅ with day assignment
-- [ ] **UPDATE Coverage Summary totals** in _bible-checklist.md 
+- [ ] **CHECKED 2-bible-checklist.md BEFORE selecting passages** to avoid duplicates
+- [ ] **UPDATE 2-bible-checklist.md IMMEDIATELY** - mark chapters as ✅ with day assignment
+- [ ] **VERIFIED no duplicate verse assignments** - each chapter assigned to only ONE day
+- [ ] **UPDATE Coverage Summary totals** in 2-bible-checklist.md 
 - [ ] Reading time realistically calculated and varied (not auto-20 minutes)
 - [ ] All literary genres correctly identified for every passage
 - [ ] Cross-testament connections meaningful and accurate
@@ -209,12 +212,16 @@ title: "Day X: [Thematic Title]"
 - [ ] Theological threads highlight God's character accurately
 - [ ] Memory verse included when appropriate
 - [ ] **Verify no chronological gaps or duplications** in bible-checklist.md
-
+- [ ] Memory verse included when appropriate
 ### **Coverage Tracking (Critical):**
-- [ ] **_bible-checklist.md updated immediately** after each study creation
+- [ ] **2-bible-checklist.md CHECKED BEFORE creating study** to avoid duplicate assignments
+- [ ] **2-bible-checklist.md updated immediately** after each study creation
+- [ ] **NO duplicate verse assignments** - each chapter assigned to exactly ONE day
 - [ ] No biblical chapters skipped in chronological sequence
 - [ ] No chapters duplicated across multiple studies  
 - [ ] Coverage Summary totals updated to reflect progress
+- [ ] Systematic progression through 75-entry framework maintained
+- [ ] Every verse from Genesis 1:1 to Revelation 22:21 accounted for
 - [ ] Systematic progression through 75-entry framework maintained
 - [ ] Every verse from Genesis 1:1 to Revelation 22:21 accounted for
 
@@ -235,21 +242,23 @@ title: "Day X: [Thematic Title]"
 - Recognize progressive revelation
 - Christ as the fulfillment of Old Testament
 - Application flows from proper interpretation
-
----
-
-## **COMMON MISTAKES TO AVOID**
-
 1. **❌ Auto-copying reading times** - Calculate each day individually
 2. **❌ Skipping chronological verification** - Always check biblical-chronology.md
 3. **❌ Missing literary genre labels** - Required for every passage
-4. **❌ Weak cross-testament connections** - Create meaningful Old/New Testament connections, not superficial links
-5. **❌ Incomplete coverage** - Every chapter must be assigned to a study following 75-entry chronology
-6. **❌ Missing required components** - Must include ProgressTracker, PersistentCheckbox readings, proper genre labels
-7. **❌ Ignoring Day 1 template** - Follow Day 1 as exact reference for structure and formatting style
-8. **❌ Not updating _bible-checklist.md** - MUST update coverage tracking after every single study
-9. **❌ Theological inaccuracy** - Stay within orthodox Christian interpretation
-10. **❌ Missing study questions** - Always include 3-5 thoughtful reflection questions
+4. **❌ ONLY ONE PASSAGE PER DAY** - **CRITICAL ERROR: Every day MUST have 3-5 cross-referenced passages** (1 OT chronological + 2-4 NT connections). NEVER create a day with only one Bible passage.
+5. **❌ Weak cross-testament connections** - Create meaningful Old/New Testament connections, not superficial links
+6. **❌ Incomplete coverage** - Every chapter must be assigned to a study following 75-entry chronology
+7. **❌ NOT CHECKING FOR DUPLICATES** - **CRITICAL ERROR: ALWAYS check 2-bible-checklist.md BEFORE selecting passages to ensure no chapter is assigned twice**
+8. **❌ NOT UPDATING BIBLE CHECKLIST** - **CRITICAL ERROR: MUST update 2-bible-checklist.md immediately after creating each study**
+9. **❌ Missing required components** - Must include ProgressTracker, PersistentCheckbox readings, proper genre labels
+10. **❌ Ignoring Day 1 template** - Follow Day 1 as exact reference for structure and formatting style
+11. **❌ Theological inaccuracy** - Stay within orthodox Christian interpretation
+12. **❌ Missing study questions** - Always include 3-5 thoughtful reflection questions
+13. **❌ Poor file organization** - Follow part structure, create _category_.json for new partsg style
+9. **❌ Not updating _bible-checklist.md** - MUST update coverage tracking after every single study
+10. **❌ Theological inaccuracy** - Stay within orthodox Christian interpretation
+11. **❌ Missing study questions** - Always include 3-5 thoughtful reflection questions
+12. **❌ Poor file organization** - Follow part structure, create _category_.json for new parts
 11. **❌ Poor file organization** - Follow part structure, create _category_.json for new parts
 
 ---

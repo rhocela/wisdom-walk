@@ -5,7 +5,7 @@ title: "Day 55: The Mountain of God"
 
 # Day 55: The Mountain of God
 
-⏱️ *Estimated reading time: 35 minutes* ⚠️ **CONTENT REDUCTION NEEDED** (73 verses = ~52 min actual)
+⏱️ *Estimated reading time: 33-35 minutes*
 
 <ProgressTracker dayNumber={55} />
 
@@ -18,7 +18,6 @@ Three months after leaving Egypt, the Israelites arrive at Mount Sinai (also cal
 <PersistentCheckbox id="day55-exodus19"> **[Exodus 19:1-25](https://www.bible.com/bible/59/EXO.19.1-25.ESV)** (Narrative) - Arrival at Sinai and preparation for God's covenant</PersistentCheckbox>
 <PersistentCheckbox id="day55-exodus20"> **[Exodus 20:1-21](https://www.bible.com/bible/59/EXO.20.1-21.ESV)** (Narrative) - The Ten Commandments given from the mountain</PersistentCheckbox>
 <PersistentCheckbox id="day55-hebrews12"> **[Hebrews 12:18-29](https://www.bible.com/bible/59/HEB.12.18-29.ESV)** (Epistle) - Mount Sinai contrasted with Mount Zion</PersistentCheckbox>
-<PersistentCheckbox id="day55-galatians4"> **[Galatians 4:21-31](https://www.bible.com/bible/59/GAL.4.21-31.ESV)** (Epistle) - The two covenants and spiritual freedom</PersistentCheckbox>
 <PersistentCheckbox id="day55-matthew5"> **[Matthew 5:17-20](https://www.bible.com/bible/59/MAT.5.17-20.ESV)** (Gospel) - Jesus fulfills the Law</PersistentCheckbox>
 
 ## Historical Context
@@ -43,7 +42,7 @@ Hebrews 12 explicitly contrasts **Mount Sinai** (representing the old covenant o
 
 **Jesus' statement** about fulfilling the Law (Matthew 5:17) reveals that He doesn't abolish Sinai's moral demands but accomplishes what the Law intended—perfect righteousness that enables fellowship with God. Christ succeeds where Israel failed, keeping every commandment perfectly and bearing the penalty for our violations.
 
-**Paul's allegory** of two covenants (Galatians 4) shows that Mount Sinai represents bondage while the heavenly Jerusalem represents freedom. Yet both are part of God's single redemptive plan: the Law serves as our **schoolmaster** to bring us to Christ, revealing our need for the Savior who sets us free.
+The **Law serves as a guide** to bring us to Christ, revealing both God's perfect standard and our inability to meet it on our own. What began at Sinai with thunder and fear finds its fulfillment in Christ, who enables us to approach God not as terrified subjects but as beloved children.
 
 ## Theological Threads
 
