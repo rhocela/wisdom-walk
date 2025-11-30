@@ -8,7 +8,12 @@ description: "Comprehensive instructions for AI to continue systematic Bible stu
 
 ## **CRITICAL MISSION STATEMENT**
 
-Create a **systematic, chronological Bible study series** that covers all 1,189 chapters from Genesis 1:1 to Revelation 22:21 exactly once, following the 75-entry biblical chronology framework. **Complete coverage is more important than staying within 100 days** - extend as needed to ensure every verse is included.
+Create a **systematic, chronological Bible study series** that covers all 1,189 chapters from Genesis 1:1 to Revelation 22:21 exactly once, following the 75-entry biblical chronology framework. 
+
+**TOP PRIORITIES (in order):**
+1. **STRICT 25-35 MINUTE READING TIME** - This is a hard limit. Never exceed 35 minutes, never go below 25 minutes.
+2. **THEMATICALLY COHERENT PARTS** - Create meaningful thematic groupings with appropriate Part divisions that align with biblical narrative flow and theological themes.
+3. **COMPLETE BIBLE COVERAGE** - Every chapter must be covered exactly once. Number of days is flexible - use however many days needed to maintain time limits and thematic coherence.
 
 ---
 
@@ -30,13 +35,57 @@ Each study MUST include all six features in this exact order:
 5. **Connecting the Dots** - How passages work together
 6. **Theological Threads** - Key truths about God
 
-### **3. Reading Time Calculation**
-- **Aim for 30 minutes, strictly not more than 35 minutes and not less than 25 minutes** - Includes Bible passages + all study content EXCEPT study questions
+### **3. Reading Time Calculation (HIGHEST PRIORITY)**
+- **STRICT 25-35 MINUTE RANGE** - This is a HARD requirement, not a suggestion
+  - **MINIMUM**: 25 minutes (never go below this)
+  - **MAXIMUM**: 35 minutes (never exceed this)
+  - **TARGET**: 30 minutes average
 - **What to include in time estimate**: Today's Readings (Bible passages) + Chronological Setting + Historical Context + Redemptive Significance + Connecting the Dots + Theological Threads
 - **What to exclude from time estimate**: Study Questions section (this is for reflection/discussion, not timed reading)
-- **Vary estimates realistically** based on actual content volume (25-35 minutes range is acceptable)
-- **Calculate each day individually** - No automatic times; base it on actual page content length
-- **HARD LIMIT**: If content exceeds 35 minutes, split into multiple days
+
+#### **MANDATORY CALCULATION WORKFLOW (Follow Every Time):**
+
+**STEP 1: Count Verses Manually**
+- List each passage selected for the day
+- Count exact verses for each passage (use Bible reference tools if needed)
+- Example:
+  ```
+  Joshua 13:1-33 = 33 verses
+  Joshua 14:1-15 = 15 verses
+  Ephesians 1:11-14 = 4 verses
+  Colossians 1:12-14 = 3 verses
+  TOTAL: 55 verses
+  ```
+
+**STEP 2: Calculate Bible Reading Time**
+- Formula: **Total verses ÷ 1.5 = Bible reading minutes**
+- Example: 55 verses ÷ 1.5 = 36.7 minutes of Bible reading alone
+
+**STEP 3: Add Study Content Time**
+- Estimate study content at ~250 words/minute
+- Typical study content adds 4-6 minutes
+- Example: 36.7 + 5 = ~42 minutes total
+
+**STEP 4: Verify Against 25-35 Minute Range**
+- **IF > 35 minutes**: Reduce verses OR split into 2 days
+- **IF < 25 minutes**: Add verses OR expand study content
+- **IF 25-35 minutes**: Proceed with creation
+
+**STEP 5: State Final Time Estimate**
+- Write the calculated range (not a generic "30-32 minutes")
+- Examples:
+  - 55 verses → "28-30 minutes"
+  - 48 verses → "25-27 minutes"  
+  - 86 verses → "32-35 minutes"
+- **NEVER use the same time estimate for multiple consecutive days**
+- **ALWAYS base on actual verse count, not assumption**
+
+**MANDATORY ACTIONS:**
+- **SHOW YOUR WORK** - Before creating each study, explicitly list passages + verse counts + calculation
+- **NEVER copy-paste times** - Calculate fresh for each day
+- **VERIFY accuracy** - Double-check verse counts against actual Bible passages
+- If calculated time exceeds 35 minutes → reduce verse selection OR split into 2+ days
+- If calculated time below 25 minutes → add more verses OR expand study content
 
 ### **4. File Structure Requirements**
 ```
@@ -55,7 +104,12 @@ docs/
 
 **STEP 1: Pre-Creation Setup**
 - Use the 75-entry biblical chronology for proper sequencing
-- Check if this day starts a new Part number - if so, create new folder AND _category_.json file
+- **EXAMINE CURRENT PART FOLDER** - Before creating a new study, check if you need to create a new part folder:
+  - Count existing days in current part folder (target 8-12 studies per part)
+  - Evaluate thematic alignment - does this study fit the current part's theme or does it begin a new biblical era/theme?
+  - Check the current part's `_category_.json` description to see if the new content aligns
+  - **If current part has 10+ studies OR theme shifts significantly** (e.g., from Exodus/Law to Tabernacle completion, from Wilderness to Conquest, etc.), create new part folder
+- If creating new part folder, create both the folder AND `_category_.json` file with appropriate thematic title
 - Follow day-1.md as the exact template/format reference for structure and style
 - Determine appropriate thematic grouping for realistic reading time
 
@@ -79,7 +133,41 @@ docs/
 - Ensure proper literary genre labels for every passage
 - Create meaningful Old/New Testament connections (not superficial - show how themes relate)
 - Write 3-5 study questions for reflection
-- Calculate actual reading time based on verse count (target realistic time, not auto-20 minutes)
+- **CALCULATE READING TIME FIRST** using mandatory 5-step calculation workflow (see section 3 above)
+
+**STEP 4A: MANDATORY Pre-Creation Time Calculation**
+Before writing any study content, complete this calculation:
+
+1. **List passages with verse counts:**
+   ```
+   [Book Chapter:Verses] = X verses
+   [Book Chapter:Verses] = Y verses
+   [Book Chapter:Verses] = Z verses
+   TOTAL: [sum] verses
+   ```
+
+2. **Calculate Bible reading time:**
+   ```
+   [Total verses] ÷ 1.5 = [X] minutes
+   ```
+
+3. **Add study content estimate:**
+   ```
+   [X minutes] + 5 minutes = [Y] total minutes
+   ```
+
+4. **Verify range:**
+   ```
+   Is [Y] between 25-35 minutes? 
+   YES → Proceed | NO → Adjust passages
+   ```
+
+5. **State final time:**
+   ```
+   Estimated reading time: [Z-W minutes]
+   ```
+
+**This calculation MUST be completed and verified BEFORE creating the study file.**
 
 **STEP 5: Bible Coverage Tracking (CRITICAL)**
 - **Update 2-bible-checklist.md IMMEDIATELY** after creating each study
@@ -115,15 +203,35 @@ docs/
 
 ---
 
-## **PART STRUCTURE GUIDELINES**
+## **PART STRUCTURE GUIDELINES (CRITICAL FOR THEMATIC COHERENCE)**
 
-### **Folder Creation Rules**
-- **New Part Detection**: Check if this day starts a new Part number (typically every 8-12 studies)
-- **Automatic Folder Creation**: Create new part folders as needed (part-4/, part-5/, etc.)
-- **Required _category_.json**: Each part MUST have `_category_.json` with proper position number
-- **Day 1 Template Reference**: Follow Day 1 as the exact template/format reference for structure and style
-- Theme each part appropriately based on chronological content
-- Target 8-12 studies per part for manageable organization
+### **Thematic Part Creation (High Priority)**
+- **Purpose**: Parts organize studies into meaningful thematic units that align with biblical narrative flow
+- **Thematic Triggers**: Create new Part when you encounter major narrative/theological shifts:
+  - **Covenant transitions** (Abrahamic → Mosaic → Davidic)
+  - **Geographical moves** (Egypt → Wilderness → Canaan → Exile → Return)
+  - **Leadership changes** (Patriarchs → Moses → Joshua → Judges → Kings)
+  - **Literary genre shifts** (Narrative → Law → Poetry → Prophecy → Gospel → Epistles)
+  - **Redemptive history phases** (Creation/Fall → Patriarchs → Exodus → Kingdom → Exile → Return → Christ → Church)
+- **Part Size Guidelines**: 
+  - **Minimum**: 8 days per part (for substantive thematic development)
+  - **Maximum**: 15 days per part (avoid overly broad themes)
+  - **Sweet spot**: 10-12 days per part
+- **When to Create New Part**:
+  - Current part has 10+ studies AND theme is shifting
+  - Major biblical book transition with different genre/focus
+  - New redemptive-historical phase beginning
+  - Different theological emphasis emerging
+
+### **Part Naming Conventions**
+- Use clear, descriptive thematic titles that capture the biblical content
+- Examples from existing parts:
+  - "Beginnings and Foundations" (Creation, Fall, Flood)
+  - "Patriarchs and Promises" (Abraham, Isaac, Jacob, Joseph)
+  - "Deliverance and Covenant" (Exodus, Red Sea, Sinai)
+  - "Tabernacle and Worship" (Construction, Dedication, Sacrifices)
+  - "Wilderness Journey" (Testing, Rebellion, Transition)
+- Avoid generic titles - be specific to biblical content
 
 ### **Category File Template**
 ```json
@@ -193,7 +301,8 @@ title: "Day X: [Thematic Title]"
 
 ### **Before Creating Each Study:**
 - [ ] Verified chronological sequence from biblical-chronology.md (75-entry framework)
-- [ ] Determined if new Part folder needed and created _category_.json if required
+- [ ] **EXAMINED current part folder** - checked day count (8-12 target) and thematic alignment
+- [ ] **DETERMINED if new part folder needed** - created folder and `_category_.json` if theme shifts or part exceeds 10+ studies
 - [ ] Referenced Day 1 template for exact structure and style formatting
 - [ ] Calculated actual reading time based on content volume
 - [ ] Identified 3-5 complementary Bible passages

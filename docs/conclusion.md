@@ -1,6 +1,6 @@
 ---
 sidebar_label: "Congratulations!"
-sidebar_position: 11
+sidebar_position: 111
 description: "Celebrating the comprehensive coverage of God's Word - all 66 books from Genesis to Revelation"
 ---
 

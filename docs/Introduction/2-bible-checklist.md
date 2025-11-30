@@ -226,22 +226,22 @@ Track which Bible books and chapters have been assigned to ensure:
 - Joshua 4: Day 82 ✅
 - Joshua 5: Day 83 ✅
 - Joshua 6: Day 83 ✅
-- Joshua 7: ⏳
-- Joshua 8: ⏳
-- Joshua 9: ⏳
-- Joshua 10: ⏳
-- Joshua 11: ⏳
-- Joshua 12: ⏳
-- Joshua 13: ⏳
-- Joshua 14: ⏳
-- Joshua 15: ⏳
+- Joshua 7: Day 84 ✅
+- Joshua 8: Day 85 ✅
+- Joshua 9: Day 86 ✅
+- Joshua 10: Day 86, Day 87 ✅
+- Joshua 11: Day 87 ✅
+- Joshua 12: Day 87 ✅
+- Joshua 13: Day 88 ✅
+- Joshua 14: Day 88 ✅
+- Joshua 15: Day 89 ✅
 - Joshua 16: ⏳
 - Joshua 17: ⏳
-- Joshua 18: ⏳
-- Joshua 19: ⏳
-- Joshua 20: ⏳
-- Joshua 21: ⏳
-- Joshua 22: ⏳
+- Joshua 18: Day 89 ✅
+- Joshua 19: Day 90 ✅
+- Joshua 20: Day 90 ✅
+- Joshua 21: Day 90 ✅
+- Joshua 22: Day 90 ✅
 - Joshua 23: ⏳
 - Joshua 24: ⏳
 
