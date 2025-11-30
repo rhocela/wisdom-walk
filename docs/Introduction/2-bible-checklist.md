@@ -242,8 +242,8 @@ Track which Bible books and chapters have been assigned to ensure:
 - Joshua 20: Day 90 ✅
 - Joshua 21: Day 90 ✅
 - Joshua 22: Day 90 ✅
-- Joshua 23: ⏳
-- Joshua 24: ⏳
+- Joshua 23: Day 91 ✅
+- Joshua 24: Day 91 ✅
 
 ## Judges (21 chapters)
 - Judges 1: ⏳
