@@ -15,7 +15,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/bible.svg').default,
     description: (
       <>
-        Experience the Bible like never before with <a href="/docs/intro">The Bible Bridge</a>—a reading plan 
+        Experience the Bible like never before with <a href="/bible-bridge">The Bible Bridge</a>—a reading plan 
         that reveals the intricate connections between passages, themes, and God's 
         redemptive story from Genesis to Revelation.
       </>

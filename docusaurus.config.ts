@@ -40,6 +40,8 @@ const config: Config = {
       'classic',
       {
         docs: {
+          path: 'docs',
+          routeBasePath: 'docs',
           sidebarPath: './sidebars.ts',
           editUrl: 'https://github.com/rhocela/wisdom-walk/tree/main/',
         },
@@ -64,8 +66,17 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
   plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'bible-bridge',
+        path: 'bible-bridge',
+        routeBasePath: 'bible-bridge',
+        sidebarPath: './sidebars-bible-bridge.ts',
+        editUrl: 'https://github.com/rhocela/wisdom-walk/tree/main/',
+      },
+    ],
     [
       '@docusaurus/plugin-content-docs',
       {
@@ -121,7 +132,6 @@ const config: Config = {
       },
     ],
   ],
-
   themes: [
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
@@ -131,18 +141,14 @@ const config: Config = {
         indexDocs: true,
         indexBlog: true,
         indexPages: true,
-        docsRouteBasePath: ['/docs', '/gods-heart', '/prophecy-fulfilled'],
+        docsRouteBasePath: ['/bible-bridge', '/docs', '/gods-heart', '/prophecy-fulfilled'],
         blogRouteBasePath: ['/blog', '/science-scripture', '/divine-comedy'],
       },
     ],
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
-    colorMode: {
-      respectPrefersColorScheme: true,
-    },
     navbar: {
       title: 'Wisdom Walk',
       logo: {
@@ -151,10 +157,16 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          to: '/bible-bridge',
+          label: 'Bible Bridge (365-Day)',
           position: 'left',
-          label: 'The Bible Bridge',
+          activeBaseRegex: `/bible-bridge/`,
+        },
+        {
+          to: '/docs',
+          label: 'The Bible Bridge (Old)',
+          position: 'left',
+          activeBaseRegex: `/docs/`,
         },
         {to: '/blog', label: 'Parallels', position: 'left'},
         {
