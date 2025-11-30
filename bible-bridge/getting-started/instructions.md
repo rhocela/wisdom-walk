@@ -27,9 +27,15 @@ title: "Bible Bridge: 365-Day Plan - Instructions"
 
 **Time Estimate Display:**
 ```markdown
-⏱️ *Estimated Scripture reading time: 28-31 minutes*
-📖 *Additional study content: +10-15 minutes (optional)*
+⏱️ *Estimated reading time: 32-35 minutes*
 ```
+**CRITICAL**: 
+- Display ONLY the estimated reading time in italics under the title
+- Calculate based on verse count from "Today's Readings" section ONLY
+- Formula: Total verses ÷ 1.5 = minutes
+- Round to realistic ranges (e.g., 28-31, 32-35, 25-28)
+- Do NOT include additional text like "Scripture reading" or "Additional study content"
+- Keep it simple and clean
 
 ### 2. **MANDATORY PRE-CREATION CALCULATION WORKFLOW**
 
@@ -92,44 +98,78 @@ title: "Day [NUMBER]: [Compelling Title]"
 
 # Day [NUMBER]: [Compelling Title]
 
-⏱️ *Estimated Scripture reading time: [XX-YY] minutes*
-📖 *Additional study content: +10-15 minutes (optional)*
+⏱️ *Estimated reading time: [XX-YY] minutes*
 
-<ProgressTracker dayNumber={[NUMBER]} />
+## 📖 Today's Readings
 
-## Chronological Setting
-[When/where in biblical timeline - 2-3 paragraphs]
+<PersistentCheckbox id="day[N]-[passage1]"> **[Book Chapter:Verses](https://www.bible.com/bible/59/BOOK.CHAPTER.VERSES.ESV)** (Genre) - Brief description</PersistentCheckbox>
 
-## Today's Readings
+<PersistentCheckbox id="day[N]-[passage2]"> **[Book Chapter:Verses](https://www.bible.com/bible/59/BOOK.CHAPTER.VERSES.ESV)** (Genre) - Brief description</PersistentCheckbox>
 
-<PersistentCheckbox id="day[N]-[book1]"> **[Book Chapter:Verses](link)** (Genre) - Brief description</PersistentCheckbox>
-<PersistentCheckbox id="day[N]-[book2]"> **[Book Chapter:Verses](link)** (Genre) - Brief description</PersistentCheckbox>
-[Continue for all passages...]
+<PersistentCheckbox id="day[N]-[passage3]"> **[Book Chapter:Verses](https://www.bible.com/bible/59/BOOK.CHAPTER.VERSES.ESV)** (Genre) - Brief description</PersistentCheckbox>
 
-## Historical Context
-[Background, setting, cultural details - 3-4 paragraphs]
-[This section is OPTIONAL reading for users - not counted in time estimate]
+<PersistentCheckbox id="day[N]-[passage4]"> **[Book Chapter:Verses](https://www.bible.com/bible/59/BOOK.CHAPTER.VERSES.ESV)** (Genre) - Brief description</PersistentCheckbox>
 
-## Redemptive Significance
-[How this passage points to Christ and redemption - 3-4 paragraphs]
-[This section is OPTIONAL reading for users - not counted in time estimate]
+**Total: [X] verses** (X OT + X NT)
 
-## Connecting the Dots
-[Links to other Scripture, biblical themes, progressive revelation - 2-3 paragraphs]
-[This section is OPTIONAL reading for users - not counted in time estimate]
+## 🔑 Key Themes
+- Theme 1
+- Theme 2
+- Theme 3
 
-## Theological Threads
-[2-5 key theological themes with headers and explanations]
-[This section is OPTIONAL reading for users - not counted in time estimate]
+## 📝 Reading Notes
 
-## Study Questions
-[5-6 thought-provoking application questions]
-[This section is OPTIONAL reading for users - not counted in time estimate]
+**From [OT Book]:**
+- Observation 1
+- Observation 2
+- Observation 3
 
-:::tip Verse to Memorize
-*"[Key verse text]"* ***[Reference]*** 💭
-:::
+**From the NT Cross-References:**
+- Connection 1
+- Connection 2
+- Connection 3
+
+---
+
+*The sections below are optional enrichment (+10-15 minutes)*
+
+## 🌍 Historical Context
+[Background, setting, cultural details - 2-3 paragraphs]
+
+## ✝️ Gospel Connection
+[How this passage points to Christ - 1-2 paragraphs]
+
+## 💭 Reflect
+1. Question 1
+2. Question 2
 ```
+
+**CRITICAL STRUCTURE RULES:**
+
+1. **Today's Readings Section:**
+   - MUST use `<PersistentCheckbox>` component (not plain HTML checkboxes)
+   - Each checkbox needs unique ID: `day[N]-[shortname]`
+   - Include Bible.com ESV link for every passage
+   - Show literary genre in parentheses: (Narrative), (Gospel), (Epistle), (Apocalyptic), (Poetry), (Prophecy), (Wisdom)
+   - Brief description after each passage
+   - ALWAYS include OT chronological passage + 3-5 NT cross-references
+   - Display total verse count at bottom: **Total: X verses** (X OT + X NT)
+
+2. **Estimated Reading Time:**
+   - Place immediately under the title (before Today's Readings)
+   - Format: `⏱️ *Estimated reading time: XX-YY minutes*`
+   - Calculate ONLY from verses in "Today's Readings" section
+   - Formula: Total verses ÷ 1.5 = minutes
+   - Round to realistic 3-4 minute ranges
+
+3. **Reading Notes:**
+   - Separate OT observations from NT cross-reference connections
+   - Show how NT passages illuminate the OT reading
+
+4. **Optional Sections:**
+   - Mark clearly with horizontal rule and italicized note
+   - Keep concise (Historical Context, Gospel Connection, Reflect)
+   - These are NOT counted in reading time estimate
 
 ### **Bible Link Format:**
 ```

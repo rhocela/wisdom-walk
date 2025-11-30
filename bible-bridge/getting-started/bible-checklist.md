@@ -27,8 +27,8 @@ Track which Bible books and chapters have been assigned to ensure:
 # OLD TESTAMENT COVERAGE (929 chapters)
 
 ## Genesis (50 chapters)
-- Genesis 1: ⏳
-- Genesis 2: ⏳
+- Genesis 1: Day 1 ✅
+- Genesis 2: Day 1 ✅ (verses 1-3 only)
 - Genesis 3: ⏳
 - Genesis 4: ⏳
 - Genesis 5: ⏳
