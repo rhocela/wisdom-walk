@@ -12,9 +12,6 @@ title: "Day 94: Deborah's Victory and Song"
 ## Chronological Setting
 We remain in the early Judges period (c. 1200-1150 BC), approximately 20-30 years after Joshua's death. The second cycle of apostasy has led to Canaanite oppression under Jabin and his military commander Sisera. God raises up Deborah, both a prophetess and judge, to lead Israel to victory. This account represents both the highest point of female leadership in the Old Testament and one of the most complete deliverance stories in Judges, including both narrative and poetry celebrating God's intervention.
 
-## Historical Context
-The Canaanites had regrouped after Joshua's initial conquests, with King Jabin of Hazor rebuilding his power base. His general Sisera commanded 900 iron chariots—representing cutting-edge military technology that gave the Canaanites overwhelming battlefield superiority. The Israelites had been oppressed for twenty years, unable to match this technological advantage. Deborah's unique position as both prophetess (receiving direct revelation from God) and judge (exercising judicial and military authority) was unprecedented in Israel's history, demonstrating God's willingness to work through anyone who would faithfully serve Him.
-
 ## Today's Readings
 <PersistentCheckbox id="day94-judges4"> **[Judges 4:1-24](https://www.bible.com/bible/59/JDG.4.1-24.ESV)** (Narrative) - The account of Deborah, Barak, and Jael's victory over Sisera</PersistentCheckbox>
 
@@ -23,6 +20,9 @@ The Canaanites had regrouped after Joshua's initial conquests, with King Jabin o
 <PersistentCheckbox id="day94-1timothy"> **[1 Timothy 2:8-15](https://www.bible.com/bible/59/1TI.2.8-15.ESV)** (Epistle) - Paul's teaching on women in worship and ministry</PersistentCheckbox>
 
 <PersistentCheckbox id="day94-hebrews11"> **[Hebrews 11:32-34](https://www.bible.com/bible/59/HEB.11.32-34.ESV)** (Epistle) - Faith's heroes, including Barak among those who conquered through faith</PersistentCheckbox>
+
+## Historical Context
+The Canaanites had regrouped after Joshua's initial conquests, with King Jabin of Hazor rebuilding his power base. His general Sisera commanded 900 iron chariots—representing cutting-edge military technology that gave the Canaanites overwhelming battlefield superiority. The Israelites had been oppressed for twenty years, unable to match this technological advantage. Deborah's unique position as both prophetess (receiving direct revelation from God) and judge (exercising judicial and military authority) was unprecedented in Israel's history, demonstrating God's willingness to work through anyone who would faithfully serve Him.
 
 ## Redemptive Significance
 Deborah's story reveals God's redemptive pattern of raising up unlikely deliverers to accomplish His purposes. Her victory over superior military forces through divine strategy rather than human strength foreshadows the greater victory Christ would win over sin and death—not through overwhelming force, but through sacrificial love. The collaboration between Deborah (prophetess), Barak (military leader), and Jael (foreign woman) demonstrates how God's salvation plan includes people from every background working together for His glory. Deborah's song of victory anticipates the songs of triumph that will be sung around God's throne when Christ's final victory is complete.
