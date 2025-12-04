@@ -12,9 +12,6 @@ title: "Day 96: Gideon's Legacy and Abimelech's Ambition"
 ## Chronological Setting
 We continue in the Judges period (c. 1100-1070 BC), moving from Gideon's victorious end to the tragic beginning of Israel's first attempt at monarchy. After forty years of peace under Gideon's leadership, his death creates a power vacuum that his illegitimate son Abimelech exploits through violence and manipulation. This account demonstrates how quickly godly leadership can give way to corruption when human ambition replaces divine calling, and how the pursuit of power often destroys the very thing it seeks to control.
 
-## Historical Context
-Gideon's refusal to become king established an important precedent that God alone should rule Israel through His chosen judges. However, his acceptance of tribute and his many wives (especially his Shechemite concubine) planted seeds for future problems. Shechem was a significant Canaanite city with a mixed population of Israelites and Canaanites, making it a natural power base for someone with mixed heritage like Abimelech. The city's strategic location and commercial importance made controlling it attractive for anyone with royal ambitions. Jotham's parable of the trees reflects ancient Near Eastern wisdom literature, using nature imagery to expose the folly of rejecting worthy leadership for ambitious pretenders.
-
 ## Today's Readings
 <PersistentCheckbox id="day96-judges8"> **[Judges 8:22-35](https://www.bible.com/bible/59/JDG.8.22-35.ESV)** (Narrative) - Gideon's final years, his many wives, and Israel's immediate apostasy after his death</PersistentCheckbox>
 
@@ -25,6 +22,9 @@ Gideon's refusal to become king established an important precedent that God alon
 <PersistentCheckbox id="day96-james"> **[James 4:1-3](https://www.bible.com/bible/59/JAS.4.1-3.ESV)** (Epistle) - The source of conflicts and wars from selfish desires</PersistentCheckbox>
 
 <PersistentCheckbox id="day96-1peter"> **[1 Peter 5:5-6](https://www.bible.com/bible/59/1PE.5.5-6.ESV)** (Epistle) - God's opposition to pride and exaltation of the humble</PersistentCheckbox>
+
+## Historical Context
+Gideon's refusal to become king established an important precedent that God alone should rule Israel through His chosen judges. However, his acceptance of tribute and his many wives (especially his Shechemite concubine) planted seeds for future problems. Shechem was a significant Canaanite city with a mixed population of Israelites and Canaanites, making it a natural power base for someone with mixed heritage like Abimelech. The city's strategic location and commercial importance made controlling it attractive for anyone with royal ambitions. Jotham's parable of the trees reflects ancient Near Eastern wisdom literature, using nature imagery to expose the folly of rejecting worthy leadership for ambitious pretenders.
 
 ## Redemptive Significance
 This tragic sequence reveals the destructive power of unchecked ambition and the importance of godly succession in leadership. Gideon's compromise in his later years—accepting tribute, taking many wives, and creating an ephod that became an idol—demonstrates how even faithful servants can leave problematic legacies when they drift from their original calling. Abimelech's violent pursuit of power stands in stark contrast to Christ's pattern of leadership through humble service and sacrificial love. Where Abimelech destroys his own family to gain temporary authority, Christ gives His life to create an eternal family of believers who will reign with Him forever.
