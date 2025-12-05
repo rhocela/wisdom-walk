@@ -1,13 +1,13 @@
 ---
-sidebar_position: 93
-title: "Day 93: The Cycle Begins"
+sidebar_position: 99
+title: "Day 99: Deborah and Barak"
 ---
 
-# Day 93: The Cycle Begins
+# Day 99: Deborah and Barak
 
-⏱️ *Estimated reading time: 28-31 minutes*
+⏱️ *Estimated reading time: 30-32 minutes*
 
-<ProgressTracker dayNumber={93} />
+<ProgressTracker dayNumber={99} />
 
 ## Chronological Setting
 

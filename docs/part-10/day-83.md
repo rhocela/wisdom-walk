@@ -1,13 +1,13 @@
 ---
-slug: day-83
+sidebar_position: 83
 title: "Day 83: Transfer of Leadership"
-authors: rwilford
-tags: [deuteronomy, moses, joshua, leadership transition, mount nebo]
 ---
 
 # Day 83: Transfer of Leadership
 
-*"Be strong and courageous. Do not fear or be in dread of them, for it is the LORD your God who goes with you. He will not leave you or forsake you."* **Deuteronomy 31:6**
+⏱️ *Estimated reading time: 26-28 minutes*
+
+<ProgressTracker dayNumber={83} />
 
 ## Chronological Setting
 

@@ -1,78 +1,59 @@
 ---
-sidebar_position: 81
-title: "Day 81: Choose Life"
+sidebar_position: 87
+title: "Day 87: Crossing Jordan - Faith in God's Promises"
 ---
 
-# Day 81: Choose Life
+# Day 87: Crossing Jordan - Faith in God's Promises
 
-⏱️ *Estimated reading time: 32-34 minutes*
-
-<ProgressTracker dayNumber={81} />
-
-## Chronological Setting
-
-We stand with Israel on the plains of Moab, just before they cross the Jordan River into the Promised Land. Moses, now 120 years old and knowing he will not enter Canaan himself, delivers his final exhortations to the new generation. These are not mere historical reminiscences but urgent covenant renewals—laying before the people the stark choice between blessing and curse, life and death, obedience and rebellion. The old generation that left Egypt has died in the wilderness; these are their children, poised to inherit what their parents forfeited through unbelief.
+⏱️ *Estimated reading time: 30-32 minutes*
 
 ## Today's Readings
 
-<PersistentCheckbox id="day81-deut11"> **[Deuteronomy 11:1-12, 26-32](https://www.bible.com/bible/59/DEU.11.1-12,26-32.ESV)** (Law) - Love God and choose the blessing</PersistentCheckbox>
-<PersistentCheckbox id="day81-deut27"> **[Deuteronomy 27:1-10](https://www.bible.com/bible/59/DEU.27.1-10.ESV)** (Law) - Covenant ceremony instructions for Mount Ebal</PersistentCheckbox>
-<PersistentCheckbox id="day81-deut28"> **[Deuteronomy 28:1-14, 15-24, 58-68](https://www.bible.com/bible/59/DEU.28.1-14,15-24,58-68.ESV)** (Law) - Blessings for obedience, curses for disobedience</PersistentCheckbox>
-<PersistentCheckbox id="day81-romans8"> **[Romans 8:1-4, 12-17](https://www.bible.com/bible/59/ROM.8.1-4,12-17.ESV)** (Epistle) - No condemnation in Christ; led by the Spirit</PersistentCheckbox>
-<PersistentCheckbox id="day81-galatians3"> **[Galatians 3:10-14](https://www.bible.com/bible/59/GAL.3.10-14.ESV)** (Epistle) - Christ redeemed us from the curse of the law</PersistentCheckbox>
+<PersistentCheckbox id="day87-joshua2"> **[Joshua 2:1-24](https://www.bible.com/bible/59/JOS.2.1-24.ESV)** (Narrative) - Spies sent to Jericho, Rahab's faith</PersistentCheckbox>
+<PersistentCheckbox id="day87-joshua3"> **[Joshua 3:7-17](https://www.bible.com/bible/59/JOS.3.7-17.ESV)** (Narrative) - Crossing the Jordan on dry ground</PersistentCheckbox>
+<PersistentCheckbox id="day87-joshua4"> **[Joshua 4:1-9, 19-24](https://www.bible.com/bible/59/JOS.4.1-9,19-24.ESV)** (Narrative) - Twelve stones memorial at Gilgal</PersistentCheckbox>
+<PersistentCheckbox id="day87-hebrews11"> **[Hebrews 11:29-31](https://www.bible.com/bible/59/HEB.11.29-31.ESV)** (Epistle) - Faith's crossing and Rahab's salvation</PersistentCheckbox>
+
+## Chronological Setting
+
+Israel stands on the eastern bank of the Jordan River, forty years after leaving Egypt and just days after Moses' death. Under Joshua's leadership, they prepare to enter the Promised Land. Before crossing, Joshua sends two spies to scout Jericho, the first major obstacle in their conquest of Canaan. These spies encounter Rahab, a prostitute who demonstrates remarkable faith by hiding them and confessing her belief in Israel's God. When Israel crosses the Jordan at flood stage—in a miracle echoing the Red Sea crossing—God establishes Joshua's authority before all Israel and sets up a permanent memorial to remind future generations of His faithfulness.
 
 ## Historical Context
 
-Deuteronomy is Moses' farewell sermon to Israel—a passionate, personal address delivered in three major speeches. The name "Deuteronomy" means "second law," not because it's a different law but because Moses **restates and reapplies** the covenant to the new generation about to enter Canaan. These chapters (11, 27-28) focus on the **choice** God sets before His people: wholehearted devotion leads to blessing, while rebellion brings devastating curses.
+**The Spies and Rahab (Joshua 2)**: Joshua secretly sends two men to spy out Jericho and the surrounding area. They lodge in the house of Rahab, who has clearly heard reports of Israel's victories and God's mighty works. When the king of Jericho searches for the spies, Rahab hides them on her roof under stalks of flax and misdirects the search party. Her confession to the spies is remarkable: "I know that the LORD has given you the land... the LORD your God, he is God in the heavens above and on the earth beneath" (Joshua 2:9, 11). She asks for mercy for her family when Israel conquers the city, and the spies promise to spare everyone in her house if she hangs a scarlet cord from her window as a sign.
 
-Chapter 11 calls Israel to love God with their whole being, remember His mighty acts, and recognize that Canaan is not like Egypt—it requires dependence on God for rain and provision. Chapters 27-28 outline the covenant renewal ceremony to be conducted at Mount Ebal and Mount Gerizim, where the blessings and curses will be publicly proclaimed. The lengthy catalog of curses (68 verses) far exceeds the blessings (14 verses), underscoring the seriousness of covenant unfaithfulness—and tragically prophesying Israel's future exile.
-
-## Redemptive Significance
-
-These chapters reveal both the **impossibility of human righteousness** and the **necessity of divine grace**. The standard God sets is perfection: "If you faithfully obey... all these blessings... But if you will not obey... all these curses." Israel's subsequent history proved they could not keep the covenant—they would experience the curses, including exile to the very nations from which God had delivered them.
-
-Yet embedded in the curses is **hope**: God's judgment is redemptive, designed to bring His people back to Himself. The New Testament shows that **Christ bore the curse** for us (Galatians 3:13), fulfilling the law's demands perfectly and suffering its penalties completely. He became cursed—hanging on a tree—so that blessing could flow to all nations through faith.
-
-What the law could not do because of human weakness, **Christ accomplished**. Romans 8:3-4 declares that God sent His Son "in the likeness of sinful flesh and for sin, he condemned sin in the flesh, in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit."
+**Crossing the Jordan (Joshua 3-4)**: In a dramatic demonstration of God's power and Joshua's authority, the Jordan River parts when the priests carrying the ark of the covenant step into the water. The timing is significant—this happens during harvest season when the Jordan is at flood stage, making the miracle even more impressive. The entire nation crosses on dry ground while the priests stand in the middle of the riverbed. Joshua commands twelve men to take stones from where the priests stood and set them up as a memorial at Gilgal, so future generations will ask about their meaning and be told of God's mighty deliverance.
 
 ## Connecting the Dots
 
-The contrast between Deuteronomy's covenant and the new covenant in Christ is stark yet beautifully complementary:
+**Faith Precedes Sight**: The Jordan parted only when the priests' feet touched the water, not before. God often calls us to step forward in obedience before we see how He will provide. Faith is not waiting for certainty; it's obeying God's command and trusting His promise even when the path seems blocked.
 
-**Deuteronomy's Choice**: Love God... obey His commandments... choose blessing or curse based on your performance. The standard is clear but humanly unattainable.
+**Unlikely Faith**: Rahab, a Canaanite prostitute, demonstrates faith that puts Israel to shame. She recognizes God's authority and acts on that belief, while many Israelites struggled with doubt despite seeing His miracles firsthand. God's grace extends beyond ethnic and moral boundaries to all who believe.
 
-**Christ's Accomplishment**: Jesus loved God perfectly, obeyed completely, and absorbed the curse that our disobedience deserved. He didn't lower the standard—He **met it** on our behalf.
-
-**Our Response**: "There is therefore now **no condemnation** for those who are in Christ Jesus" (Romans 8:1). We who deserved the curse receive blessing. We who failed to keep the law have its righteous requirements fulfilled in us through the Spirit. We who were children of wrath become children of God, crying "Abba! Father!" (Romans 8:15).
-
-Moses set before Israel two paths: "See, I am setting before you today a blessing and a curse" (Deuteronomy 11:26). Christ has **become both for us**—cursed on the cross, raised as blessing. Now we live not under law's condemnation but under grace's power, enabled by the Spirit to walk in the obedience the law demanded but could not produce.
+**Memorial Stones**: The twelve stones at Gilgal serve as a tangible reminder of God's faithfulness. Physical memorials help us remember spiritual truths during times of doubt or difficulty. What "memorial stones" help you remember God's faithfulness in your life?
 
 ## Theological Threads
 
-- **Covenant Faithfulness**: God's covenant demands wholehearted love and obedience, revealing His holy character and His right to total allegiance. The blessings and curses underscore that relationship with God brings ultimate consequences—life or death, prosperity or ruin, blessing or curse.
+- **The True Joshua**: Jesus Christ is the ultimate fulfillment of Joshua's role. Joshua led Israel across the Jordan into the Promised Land; Jesus leads believers through death into eternal life with God. The name "Joshua" means "Yahweh saves"—the Hebrew equivalent of "Jesus."
 
-- **Human Inability**: The impossibly high standard of Deuteronomy 28—perfect obedience resulting in blessing, any disobedience bringing curse—exposes our desperate need for a Savior. Israel's history proves that knowing God's law doesn't guarantee keeping it. The heart needs transformation, not just instruction.
+- **Justified by Faith and Works**: James 2:25 cites Rahab as an example of faith demonstrated by works: "Was not also Rahab the harlot justified by works when she received the messengers and sent them out another way?" Her faith wasn't just intellectual assent but active trust that led to decisive action.
 
-- **Christ Our Curse-Bearer**: Galatians 3:13 declares Christ "redeemed us from the curse of the law by becoming a curse for us—for it is written, 'Cursed is everyone who is hanged on a tree.'" Jesus didn't merely sympathize with our plight; He **absorbed the full weight** of covenant curses, experiencing God-forsakenness, so we might receive covenant blessings.
-
-- **Spirit-Empowered Obedience**: Romans 8 reveals that what the law could not do—produce genuine righteousness—the Spirit accomplishes in those united to Christ. We're not left to our own willpower but empowered by God's own presence to "put to death the deeds of the body" (Romans 8:13) and walk in life.
-
-- **Adoption into God's Family**: The ultimate blessing isn't merely physical prosperity but spiritual adoption. "For all who are led by the Spirit of God are sons of God" (Romans 8:14). We receive "the Spirit of adoption as sons, by whom we cry, 'Abba! Father!'" (Romans 8:15). The curse separated us from God; Christ's work brings us into God's family forever.
+- **Crossing Over**: The Jordan crossing prefigures baptism—dying to the old life and entering the new. Paul writes, "Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death? We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life" (Romans 6:3-4).
 
 ## Study Questions
 
-1. **Love and Obedience**: Deuteronomy 11 calls Israel to "love the LORD your God" (v. 1) and keep His commandments. How does love relate to obedience in your relationship with God? Is your obedience motivated by fear of curse or love for God?
+1. **Faith in Action**: Rahab risked her life to hide the spies based on her belief in Israel's God. When has your faith required you to take significant risks? What helped you overcome fear and act on your convictions?
 
-2. **The Weight of the Curse**: Why does Deuteronomy 28 list far more curses (54 verses) than blessings (14 verses)? What does this proportion teach us about the seriousness of sin and covenant unfaithfulness?
+2. **Stepping into the Water**: The priests had to step into the flooding Jordan before it parted. What "Jordan crossings" is God calling you to make where you must step forward in faith before seeing how He will provide? What's holding you back?
 
-3. **Christ Became a Curse**: How does understanding that Christ bore the covenant curses for you (Galatians 3:13) change your perspective on His suffering and death? How should this truth affect your daily response to sin and temptation?
+3. **Memorial Stones**: The Israelites set up stones to help their children remember God's faithfulness. What practices or reminders help you recall God's work in your life? How do you help your family or others remember His faithfulness?
 
-4. **No Condemnation**: Romans 8:1 declares "no condemnation for those in Christ Jesus." Do you live in the freedom of this truth, or do you still function under fear of divine rejection? What would change if you truly believed you are forever free from condemnation?
+4. **Unlikely Heroes**: Rahab, a foreign prostitute, is listed among the heroes of faith in Hebrews 11. How does her inclusion encourage you about God's grace? Who in your life might seem an unlikely candidate for faith but shows genuine hunger for God?
 
-5. **The Spirit's Leadership**: Romans 8:12-14 speaks of being "led by the Spirit." How do you discern the Spirit's leading in your daily life? What "deeds of the body" is the Spirit calling you to put to death? What fruit is He producing in you that you could never manufacture on your own?
+5. **The Scarlet Cord**: Rahab's scarlet cord saved her family from destruction. How does this symbol point to salvation through Christ's blood? What does it mean that you are "marked" for salvation?
 
-6. **Choosing Life Today**: Moses said, "I have set before you life and death, blessing and curse. Therefore choose life" (Deuteronomy 30:19). In Christ, you have been given life. How does this reality shape the choices you make today—in relationships, work, use of time, and pursuit of holiness?
+6. **Joshua's Authority**: God established Joshua's leadership through the Jordan crossing miracle. How does God establish spiritual authority in the church today? What qualities should you look for in spiritual leaders?
 
 :::tip Verse to Memorize
-*"There is therefore now no condemnation for those who are in Christ Jesus. For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death."* ***Romans 8:1-2*** 💭 
+*"By faith the walls of Jericho fell down after they had been encircled for seven days. By faith Rahab the prostitute did not perish with those who were disobedient, because she had given a friendly welcome to the spies."* ***Hebrews 11:30-31*** 💭 
 :::

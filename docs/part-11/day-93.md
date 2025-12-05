@@ -1,13 +1,13 @@
 ---
-sidebar_position: 87
-title: "Day 87: Complete Conquest of the Land"
+sidebar_position: 93
+title: "Day 93: The Cycle Begins"
 ---
 
-# Day 87: Complete Conquest of the Land
+# Day 93: The Cycle Begins
 
-⏱️ *Estimated reading time: 32-35 minutes*
+⏱️ *Estimated reading time: 30-32 minutes*
 
-<ProgressTracker dayNumber={87} />
+<ProgressTracker dayNumber={93} />
 
 ## Chronological Setting
 

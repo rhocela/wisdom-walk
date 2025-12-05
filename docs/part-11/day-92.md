@@ -1,13 +1,13 @@
 ---
-sidebar_position: 86
-title: "Day 86: Deceived But Covenant-Bound"
+sidebar_position: 92
+title: "Day 92: Inheritance Secured"
 ---
 
-# Day 86: Deceived But Covenant-Bound
+# Day 92: Inheritance Secured
 
-⏱️ *Estimated reading time: 27-29 minutes*
+⏱️ *Estimated reading time: 32-35 minutes*
 
-<ProgressTracker dayNumber={86} />
+<ProgressTracker dayNumber={92} />
 
 ## Chronological Setting
 

@@ -1,13 +1,13 @@
 ---
-slug: day-82
+sidebar_position: 82
 title: "Day 82: Victory East of Jordan"
-authors: rwilford
-tags: [deuteronomy, moses, conquest, sihon, og, eastern tribes]
 ---
 
 # Day 82: Victory East of Jordan
 
-*"So we took his land and gave it for an inheritance to the Reubenites, the Gadites, and the half-tribe of the Manassites."* **Deuteronomy 3:13**
+⏱️ *Estimated reading time: 30-32 minutes*
+
+<ProgressTracker dayNumber={82} />
 
 ## Chronological Setting
 

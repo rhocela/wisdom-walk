@@ -1,13 +1,13 @@
 ---
-sidebar_position: 92
-title: "Day 92: Inheritance Secured"
+sidebar_position: 98
+title: "Day 98: Incomplete Conquest"
 ---
 
-# Day 92: Inheritance Secured
+# Day 98: Incomplete Conquest
 
 ⏱️ *Estimated reading time: 32-35 minutes*
 
-<ProgressTracker dayNumber={92} />
+<ProgressTracker dayNumber={98} />
 
 ## Chronological Setting
 

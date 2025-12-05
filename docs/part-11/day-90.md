@@ -1,13 +1,13 @@
 ---
-sidebar_position: 84
-title: "Day 84: When Sin Enters the Camp"
+sidebar_position: 90
+title: "Day 90: Cities of Refuge and Faithful Promises"
 ---
 
-# Day 84: When Sin Enters the Camp
+# Day 90: Cities of Refuge and Faithful Promises
 
 ⏱️ *Estimated reading time: 25-27 minutes*
 
-<ProgressTracker dayNumber={84} />
+<ProgressTracker dayNumber={90} />
 
 ## Chronological Setting
 

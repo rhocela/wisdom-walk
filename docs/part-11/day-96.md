@@ -1,13 +1,13 @@
 ---
-sidebar_position: 90
-title: "Day 90: Cities of Refuge and Faithful Promises"
+sidebar_position: 96
+title: "Day 96: Land Division Complete"
 ---
 
-# Day 90: Cities of Refuge and Faithful Promises
+# Day 96: Land Division Complete
 
-⏱️ *Estimated reading time: 25-28 minutes*
+⏱️ *Estimated reading time: 27-30 minutes*
 
-<ProgressTracker dayNumber={90} />
+<ProgressTracker dayNumber={96} />
 
 ## Chronological Setting
 

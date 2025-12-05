@@ -1,13 +1,13 @@
 ---
-sidebar_position: 85
-title: "Day 85: Victory After Obedience"
+sidebar_position: 91
+title: "Day 91: Choose This Day Whom You Will Serve"
 ---
 
-# Day 85: Victory After Obedience
+# Day 91: Choose This Day Whom You Will Serve
 
-⏱️ *Estimated reading time: 28-30 minutes*
+⏱️ *Estimated reading time: 30-32 minutes*
 
-<ProgressTracker dayNumber={85} />
+<ProgressTracker dayNumber={91} />
 
 ## Chronological Setting
 

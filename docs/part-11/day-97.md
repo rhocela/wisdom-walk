@@ -1,13 +1,13 @@
 ---
-sidebar_position: 91
-title: "Day 91: Choose This Day Whom You Will Serve"
+sidebar_position: 97
+title: "Day 97: Joshua's Final Challenge"
 ---
 
-# Day 91: Choose This Day Whom You Will Serve
+# Day 97: Joshua's Final Challenge
 
-⏱️ *Estimated reading time: 28-31 minutes*
+⏱️ *Estimated reading time: 30-32 minutes*
 
-<ProgressTracker dayNumber={91} />
+<ProgressTracker dayNumber={97} />
 
 ## Chronological Setting
 

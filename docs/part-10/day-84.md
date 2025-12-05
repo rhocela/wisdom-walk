@@ -1,13 +1,13 @@
 ---
-slug: day-84
+sidebar_position: 84
 title: "Day 84: Songs of Warning and Blessing"
-authors: rwilford
-tags: [deuteronomy, moses, song, blessing, prophecy, tribes]
 ---
 
 # Day 84: Songs of Warning and Blessing
 
-*"The Rock, his work is perfect, for all his ways are justice. A God of faithfulness and without iniquity, just and upright is he."* **Deuteronomy 32:4**
+⏱️ *Estimated reading time: 32-34 minutes*
+
+<ProgressTracker dayNumber={84} />
 
 ## Chronological Setting
 

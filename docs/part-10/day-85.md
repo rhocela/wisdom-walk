@@ -1,13 +1,13 @@
 ---
-slug: day-85
+sidebar_position: 85
 title: "Day 85: The View from Nebo"
-authors: rwilford
-tags: [deuteronomy, moses, mount nebo, promised land, death, burial]
 ---
 
 # Day 85: The View from Nebo
 
-*"So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD, and he buried him in the valley in the land of Moab opposite Beth-peor; but no one knows the place of his burial to this day."* **Deuteronomy 34:5-6**
+⏱️ *Estimated reading time: 24-26 minutes*
+
+<ProgressTracker dayNumber={85} />
 
 ## Chronological Setting
 

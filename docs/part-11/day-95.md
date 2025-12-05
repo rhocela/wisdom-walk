@@ -1,13 +1,13 @@
 ---
-sidebar_position: 89
-title: "Day 89: Dividing the Promise"
+sidebar_position: 95
+title: "Day 95: Dividing the Promise"
 ---
 
-# Day 89: Dividing the Promise
+# Day 95: Dividing the Promise
 
-⏱️ *Estimated reading time: 27-30 minutes*
+⏱️ *Estimated reading time: 28-30 minutes*
 
-<ProgressTracker dayNumber={89} />
+<ProgressTracker dayNumber={95} />
 
 ## Chronological Setting
 

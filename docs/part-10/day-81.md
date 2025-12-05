@@ -1,13 +1,13 @@
 ---
-slug: day-81
+sidebar_position: 81
 title: "Day 81: Historical Review and Commission"
-authors: rwilford
-tags: [deuteronomy, moses, historical review, joshua commissioning]
 ---
 
 # Day 81: Historical Review and Commission
 
-*"The LORD your God who goes before you will himself fight for you, just as he did for you in Egypt before your eyes."* **Deuteronomy 1:30**
+⏱️ *Estimated reading time: 28-30 minutes*
+
+<ProgressTracker dayNumber={81} />
 
 ## Chronological Setting
 

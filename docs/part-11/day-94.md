@@ -1,13 +1,13 @@
 ---
-sidebar_position: 88
-title: "Day 88: The Inheritance Begins"
+sidebar_position: 94
+title: "Day 94: The Inheritance Begins"
 ---
 
-# Day 88: The Inheritance Begins
+# Day 94: The Inheritance Begins
 
 ⏱️ *Estimated reading time: 28-30 minutes*
 
-<ProgressTracker dayNumber={88} />
+<ProgressTracker dayNumber={94} />
 
 ## Chronological Setting
 
