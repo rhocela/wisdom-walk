@@ -17,6 +17,22 @@ Create a **systematic, chronological Bible study series** that covers all 1,189 
 
 ---
 
+## **TOP 2 CRITICAL NON-NEGOTIABLES**
+
+### **1. NO MISSING CHAPTERS OR VERSES**
+- **EVERY SINGLE CHAPTER** from Genesis 1 to Revelation 22 must be covered exactly once
+- **NO GAPS ALLOWED** - If a chapter is marked ⏳ in the Bible checklist, it MUST be assigned
+- **NO DUPLICATIONS** - Each chapter can only appear in ONE study day
+- **SYSTEMATIC VERIFICATION** - Update Bible checklist after every study creation
+
+### **2. MAINTAIN CHRONOLOGICAL ORDER**
+- **FOLLOW BIBLICAL TIMELINE** - Events must progress in historical order
+- **RESPECT THE 75-ENTRY FRAMEWORK** - Do not skip or rearrange chronological entries
+- **NO CHRONOLOGICAL VIOLATIONS** - Cannot jump ahead or backward in biblical history
+- **LOGICAL PROGRESSION** - Each day must follow naturally from previous day's content
+
+---
+
 ## **CORE REQUIREMENTS (NON-NEGOTIABLE)**
 
 ### **1. Coverage Standards**

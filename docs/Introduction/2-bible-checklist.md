@@ -200,7 +200,7 @@ Track which Bible books and chapters have been assigned to ensure:
 - Deuteronomy 14: ⏳
 - Deuteronomy 15: ⏳
 - Deuteronomy 16: ⏳
-- Deuteronomy 17: ⏳
+- Deuteronomy 17: Day 107, Day 109 ✅
 - Deuteronomy 18: ⏳
 - Deuteronomy 19: ⏳
 - Deuteronomy 20: ⏳
@@ -262,22 +262,22 @@ Track which Bible books and chapters have been assigned to ensure:
 - Judges 14: Day 99 ✅
 - Judges 15: Day 99 ✅
 - Judges 16: Day 100 ✅
-- Judges 17: ⏳
-- Judges 18: ⏳
-- Judges 19: ⏳
-- Judges 20: ⏳
-- Judges 21: ⏳
+- Judges 17: Day 101 ✅
+- Judges 18: Day 101 ✅
+- Judges 19: Day 102 ✅
+- Judges 20: Day 103 ✅
+- Judges 21: Day 103 ✅
 
 ## Ruth (4 chapters)
-- Ruth 1: Day 101 ✅
-- Ruth 2: Day 102 ✅
-- Ruth 3: Day 103 ✅
-- Ruth 4: Day 104 ✅
+- Ruth 1: Day 104 ✅
+- Ruth 2: Day 105 ✅
+- Ruth 3: Day 106 ✅
+- Ruth 4: Day 107 ✅
 
 ## 1 Samuel (31 chapters)
-- 1 Samuel 1: ⏳
+- 1 Samuel 1: Day 108 ✅
 - 1 Samuel 2: Day 27 ✅
-- 1 Samuel 3: ⏳
+- 1 Samuel 3: Day 109 ✅
 - 1 Samuel 4: ⏳
 - 1 Samuel 5: ⏳
 - 1 Samuel 6: ⏳
@@ -422,7 +422,7 @@ Track which Bible books and chapters have been assigned to ensure:
 - 2 Chronicles 4: ⏳
 - 2 Chronicles 5: ⏳
 - 2 Chronicles 6: ⏳
-- 2 Chronicles 7: ⏳
+- 2 Chronicles 7: Day 109 ✅
 - 2 Chronicles 8: ⏳
 - 2 Chronicles 9: ⏳
 - 2 Chronicles 10: ⏳
@@ -702,9 +702,9 @@ Track which Bible books and chapters have been assigned to ensure:
 - Proverbs 11: ⏳
 - Proverbs 12: ⏳
 - Proverbs 13: ⏳
-- Proverbs 14: ⏳
+- Proverbs 14: Day 107 ✅
 - Proverbs 15: ⏳
-- Proverbs 16: Day 31 ✅
+- Proverbs 16: Day 31, Day 109 ✅
 - Proverbs 17: ⏳
 - Proverbs 18: ⏳
 - Proverbs 19: ⏳
@@ -751,7 +751,7 @@ Track which Bible books and chapters have been assigned to ensure:
 - Isaiah 3: ⏳
 - Isaiah 4: ⏳
 - Isaiah 5: ⏳
-- Isaiah 6: Day 47 ✅
+- Isaiah 6: Day 47, Day 106 ✅
 - Isaiah 7: ⏳
 - Isaiah 8: ⏳
 - Isaiah 9: ⏳
@@ -814,7 +814,7 @@ Track which Bible books and chapters have been assigned to ensure:
 - Isaiah 66: ⏳
 
 ## Jeremiah (52 chapters)
-- Jeremiah 1: ⏳
+- Jeremiah 1: Day 106 ✅
 - Jeremiah 2: ⏳
 - Jeremiah 3: ⏳
 - Jeremiah 4: ⏳
@@ -1082,7 +1082,7 @@ Track which Bible books and chapters have been assigned to ensure:
 - Mark 16: ⏳
 
 ## Luke (24 chapters)
-- Luke 1: Day 98 ✅
+- Luke 1: Day 98, Day 105 ✅
 - Luke 2: ⏳
 - Luke 3: ⏳
 - Luke 4: Day 66 ✅
@@ -1117,7 +1117,7 @@ Track which Bible books and chapters have been assigned to ensure:
 - John 7: ⏳
 - John 8: ⏳
 - John 9: ⏳
-- John 10: ⏳
+- John 10: Day 106 ✅
 - John 11: ⏳
 - John 12: ⏳
 - John 13: ⏳
@@ -1166,7 +1166,7 @@ Track which Bible books and chapters have been assigned to ensure:
 - Romans 3: Day 35, Day 64 ✅
 - Romans 4: Day 10, Day 12, Day 14, Day 15 ✅
 - Romans 5: Day 3, Day 17, Day 40, Day 41 ✅
-- Romans 6: ⏳
+- Romans 6: Day 109 ✅
 - Romans 7: ⏳
 - Romans 8: Day 19, Day 21, Day 26, Day 34, Day 39, Day 48, Day 81, Day 92, Day 101 ✅
 - Romans 9: Day 13, Day 18, Day 22, Day 24 ✅
@@ -1217,21 +1217,21 @@ Track which Bible books and chapters have been assigned to ensure:
 - Galatians 3: Day 9, Day 12, Day 81 ✅
 - Galatians 4: Day 13, Day 18, Day 27, Day 104 ✅
 - Galatians 5: ⏳
-- Galatians 6: Day 100 ✅
+- Galatians 6: Day 100, Day 107, Day 108 ✅
 
 ## Ephesians (6 chapters)
 - Ephesians 1: Day 92 ✅
 - Ephesians 2: Day 101 ✅
 - Ephesians 3: ⏳
 - Ephesians 4: Day 2, Day 39, Day 54, Day 70 ✅
-- Ephesians 5: Day 26, Day 103 ✅
+- Ephesians 5: Day 26, Day 103, Day 108 ✅
 - Ephesians 6: Day 29 ✅
 
 ## Philippians (4 chapters)
 - Philippians 1: ⏳
 - Philippians 2: ⏳
 - Philippians 3: Day 14 ✅
-- Philippians 4: Day 52 ✅
+- Philippians 4: Day 52, Day 105 ✅
 
 ## Colossians (4 chapters)
 - Colossians 1: Day 1 ✅
@@ -1255,9 +1255,9 @@ Track which Bible books and chapters have been assigned to ensure:
 - 1 Timothy 1: Day 35 ✅
 - 1 Timothy 2: Day 94 ✅
 - 1 Timothy 3: ⏳
-- 1 Timothy 4: ⏳
+- 1 Timothy 4: Day 106 ✅
 - 1 Timothy 5: Day 102 ✅
-- 1 Timothy 6: ⏳
+- 1 Timothy 6: Day 107 ✅
 
 ## 2 Timothy (4 chapters)
 - 2 Timothy 1: ⏳
@@ -1292,15 +1292,15 @@ Track which Bible books and chapters have been assigned to ensure:
 - James 1: Day 21, Day 23, Day 99, Day 102 ✅
 - James 2: Day 19, Day 83 ✅
 - James 3: ⏳
-- James 4: Day 96 ✅
+- James 4: Day 96, Day 105 ✅
 - James 5: Day 15, Day 45, Day 75 ✅
 
 ## 1 Peter (5 chapters)
 - 1 Peter 1: Day 45, Day 59, Day 69, Day 101, Day 104 ✅
 - 1 Peter 2: Day 34, Day 46, Day 67, Day 74 ✅
 - 1 Peter 3: Day 26 ✅
-- 1 Peter 4: Day 37 ✅
-- 1 Peter 5: Day 96 ✅
+- 1 Peter 4: Day 37, Day 109 ✅
+- 1 Peter 5: Day 96, Day 105 ✅
 
 ## 2 Peter (3 chapters)
 - 2 Peter 1: ⏳
