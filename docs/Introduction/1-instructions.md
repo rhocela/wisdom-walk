@@ -1,4 +1,5 @@
 ---
+slug: /instructions
 sidebar_label: "1-AI Instructions"
 sidebar_position: 1
 description: "Comprehensive instructions for AI to continue systematic Bible study creation"
