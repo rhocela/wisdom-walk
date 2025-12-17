@@ -14,6 +14,8 @@ Track which Bible books and chapters have been assigned to ensure:
 
 **Status Indicators:**
 - ✅ = Completed and assigned to a day
+- ⏳ = Pending assignment  
+- 🔗 = Cross-reference integration (theological/legal content distributed across multiple studies)
 - ⏳ = Pending assignment
 - ❌ = Missing/needs attention
 
